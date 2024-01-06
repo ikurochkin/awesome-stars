@@ -676,6 +676,7 @@
 
 ## Others 
 
+- [ikurochkin/awesome-stars](https://github.com/ikurochkin/awesome-stars) - My Awesome List
 - [Nutlope/devwriting](https://github.com/Nutlope/devwriting) - All resources & exercises from the Miami Dev Writer's Retreat
 - [operate-first/sre](https://github.com/operate-first/sre) - SRE content
 - [jedi4ever/patrickdebois-research](https://github.com/jedi4ever/patrickdebois-research) - 
@@ -1020,6 +1021,7 @@
 
 ## Python 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [archie83/osm-strava](https://github.com/archie83/osm-strava) - Detection of missing ways in OpenStreetMap based on Strava heatmaps
 - [Doubling-Open-Source/git_calculator](https://github.com/Doubling-Open-Source/git_calculator) - Calculate dora metrics and related from a git repository on the local file system. Does not require integration with GitHub or any other git service provider.
 - [vas3k/vas3k.blog](https://github.com/vas3k/vas3k.blog) - My blog codebase
