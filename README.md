@@ -6,8 +6,6 @@
 ## Contents
 
 - [actions](#actions)
-- [agent](#agent)
-- [agile](#agile)
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
@@ -21,9 +19,7 @@
 - [apex](#apex)
 - [api](#api)
 - [api-gateway](#api-gateway)
-- [api-testing](#api-testing)
 - [apk](#apk)
-- [apm](#apm)
 - [app](#app)
 - [apple](#apple)
 - [architecture](#architecture)
@@ -34,7 +30,6 @@
 - [aspnet](#aspnet)
 - [aspnetcore](#aspnetcore)
 - [atom](#atom)
-- [autocomplete](#autocomplete)
 - [automation](#automation)
 - [autonomous-vehicles](#autonomous-vehicles)
 - [awesome](#awesome)
@@ -46,7 +41,6 @@
 - [backend](#backend)
 - [backup](#backup)
 - [bash](#bash)
-- [benchmark](#benchmark)
 - [best-practices](#best-practices)
 - [bi](#bi)
 - [big-data](#big-data)
@@ -61,38 +55,26 @@
 - [bots](#bots)
 - [browser](#browser)
 - [bug-bounty](#bug-bounty)
-- [build-tool](#build-tool)
-- [burpsuite](#burpsuite)
 - [business-intelligence](#business-intelligence)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [c-sharp](#c-sharp)
-- [calendar](#calendar)
-- [chaos-engineering](#chaos-engineering)
-- [chart](#chart)
-- [charts](#charts)
 - [chat](#chat)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
-- [cheat](#cheat)
 - [cheatsheet](#cheatsheet)
 - [cheatsheets](#cheatsheets)
 - [chrome-extension](#chrome-extension)
 - [ci](#ci)
-- [ci-cd](#ci-cd)
-- [cicd](#cicd)
 - [clean-architecture](#clean-architecture)
 - [cli](#cli)
-- [cli-app](#cli-app)
 - [clojure](#clojure)
 - [cloud](#cloud)
 - [cloud-computing](#cloud-computing)
 - [cloud-native](#cloud-native)
-- [cmake](#cmake)
 - [cms](#cms)
 - [cncf](#cncf)
-- [code-generation](#code-generation)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
@@ -103,18 +85,13 @@
 - [communication](#communication)
 - [community](#community)
 - [compiler](#compiler)
-- [component-library](#component-library)
 - [components](#components)
 - [computational-biology](#computational-biology)
-- [computational-physics](#computational-physics)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [configuration-management](#configuration-management)
 - [containers](#containers)
-- [continuous-delivery](#continuous-delivery)
 - [continuous-integration](#continuous-integration)
-- [cookiecutter](#cookiecutter)
-- [courses](#courses)
 - [cplusplus](#cplusplus)
 - [cpp](#cpp)
 - [crawler](#crawler)
@@ -123,27 +100,21 @@
 - [csharp](#csharp)
 - [css](#css)
 - [css-framework](#css-framework)
-- [curated-list](#curated-list)
 - [curriculum](#curriculum)
 - [cve](#cve)
 - [cybersecurity](#cybersecurity)
-- [d3](#d3)
-- [dark-theme](#dark-theme)
 - [dashboard](#dashboard)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-engineering](#data-engineering)
-- [data-pipeline](#data-pipeline)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [databases](#databases)
-- [dataviz](#dataviz)
 - [ddd](#ddd)
 - [ddd-architecture](#ddd-architecture)
 - [debian](#debian)
-- [debugging](#debugging)
 - [decentralized](#decentralized)
 - [deep-learning](#deep-learning)
 - [deep-neural-networks](#deep-neural-networks)
@@ -154,36 +125,28 @@
 - [design-patterns](#design-patterns)
 - [design-system](#design-system)
 - [design-systems](#design-systems)
-- [developer-roadmap](#developer-roadmap)
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [devops-tools](#devops-tools)
 - [devsecops](#devsecops)
 - [devtools](#devtools)
-- [diagram](#diagram)
-- [diagrams](#diagrams)
 - [discord](#discord)
 - [distributed](#distributed)
 - [distributed-database](#distributed-database)
 - [distributed-systems](#distributed-systems)
-- [distributed-tracing](#distributed-tracing)
-- [diy](#diy)
 - [django](#django)
 - [django-rest-framework](#django-rest-framework)
 - [dns](#dns)
-- [dns-server](#dns-server)
 - [docker](#docker)
 - [docker-compose](#docker-compose)
 - [docker-image](#docker-image)
-- [dockerfile](#dockerfile)
 - [docs](#docs)
 - [documentation](#documentation)
 - [documentation-tool](#documentation-tool)
 - [domain-driven-design](#domain-driven-design)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
-- [drones](#drones)
 - [ebpf](#ebpf)
 - [editor](#editor)
 - [elasticsearch](#elasticsearch)
@@ -195,11 +158,9 @@
 - [engineering](#engineering)
 - [english](#english)
 - [environment](#environment)
-- [epub](#epub)
 - [es6](#es6)
 - [etl](#etl)
 - [excel](#excel)
-- [fedora](#fedora)
 - [file-sharing](#file-sharing)
 - [firebase](#firebase)
 - [firefox-addon](#firefox-addon)
@@ -222,7 +183,6 @@
 - [generative-ai](#generative-ai)
 - [generator](#generator)
 - [git](#git)
-- [gitbook](#gitbook)
 - [github](#github)
 - [github-actions](#github-actions)
 - [github-api](#github-api)
@@ -255,7 +215,6 @@
 - [hacktoberfest2023](#hacktoberfest2023)
 - [hadoop](#hadoop)
 - [hardware](#hardware)
-- [hashicorp](#hashicorp)
 - [haskell](#haskell)
 - [headless](#headless)
 - [health](#health)
@@ -263,10 +222,7 @@
 - [help-wanted](#help-wanted)
 - [heroku](#heroku)
 - [history](#history)
-- [hls](#hls)
 - [home-automation](#home-automation)
-- [honeypot](#honeypot)
-- [hosting](#hosting)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -275,7 +231,6 @@
 - [ide](#ide)
 - [image](#image)
 - [image-generation](#image-generation)
-- [image-manipulation](#image-manipulation)
 - [image-processing](#image-processing)
 - [incident-response](#incident-response)
 - [information-retrieval](#information-retrieval)
@@ -285,31 +240,23 @@
 - [interpreter](#interpreter)
 - [interview](#interview)
 - [interview-practice](#interview-practice)
-- [interview-prep](#interview-prep)
 - [interview-preparation](#interview-preparation)
 - [interview-questions](#interview-questions)
-- [intrusion-detection](#intrusion-detection)
 - [ios](#ios)
 - [iot](#iot)
-- [iphone](#iphone)
-- [istio](#istio)
 - [it](#it)
 - [java](#java)
 - [javascript](#javascript)
-- [javascript-interview-questions](#javascript-interview-questions)
 - [jenkins](#jenkins)
 - [jobs](#jobs)
 - [jquery](#jquery)
 - [json](#json)
-- [jvm](#jvm)
 - [k8s](#k8s)
 - [kafka](#kafka)
-- [kanban](#kanban)
 - [knowledge](#knowledge)
 - [knowledge-graph](#knowledge-graph)
 - [knowledge-management](#knowledge-management)
 - [kotlin](#kotlin)
-- [kubectl-plugins](#kubectl-plugins)
 - [kubernetes](#kubernetes)
 - [langchain](#langchain)
 - [language](#language)
@@ -325,9 +272,7 @@
 - [linux-kernel](#linux-kernel)
 - [list](#list)
 - [lists](#lists)
-- [llama](#llama)
 - [llm](#llm)
-- [load-testing](#load-testing)
 - [logging](#logging)
 - [low-code](#low-code)
 - [lua](#lua)
@@ -339,8 +284,6 @@
 - [markdown](#markdown)
 - [marketing](#marketing)
 - [media](#media)
-- [media-server](#media-server)
-- [metadata](#metadata)
 - [metrics](#metrics)
 - [microservice](#microservice)
 - [microservices](#microservices)
@@ -353,27 +296,22 @@
 - [modeling](#modeling)
 - [money](#money)
 - [mongodb](#mongodb)
-- [monitor](#monitor)
 - [monitoring](#monitoring)
 - [monorepo](#monorepo)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neo4j](#neo4j)
 - [network](#network)
-- [network-monitoring](#network-monitoring)
 - [networking](#networking)
-- [news](#news)
 - [nextjs](#nextjs)
 - [nginx](#nginx)
 - [nix](#nix)
 - [nlp](#nlp)
-- [nmap](#nmap)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [note-taking](#note-taking)
 - [notes](#notes)
-- [notifications](#notifications)
 - [npm](#npm)
 - [objective-c](#objective-c)
 - [observability](#observability)
@@ -381,40 +319,28 @@
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [obsidian-theme](#obsidian-theme)
-- [oh-my-zsh](#oh-my-zsh)
-- [oop](#oop)
 - [open-source](#open-source)
 - [openai](#openai)
 - [openai-api](#openai-api)
 - [openapi](#openapi)
 - [opencv](#opencv)
-- [openshift](#openshift)
 - [opensource](#opensource)
-- [opentelemetry](#opentelemetry)
-- [openvpn](#openvpn)
 - [oracle](#oracle)
 - [org-mode](#org-mode)
 - [others](#others)
-- [owasp](#owasp)
 - [p2p](#p2p)
 - [paas](#paas)
 - [package-manager](#package-manager)
-- [paper](#paper)
 - [parser](#parser)
 - [parsing](#parsing)
-- [payments](#payments)
 - [pdf](#pdf)
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [pentesting-windows](#pentesting-windows)
 - [performance](#performance)
-- [personal-assistant](#personal-assistant)
 - [php](#php)
 - [pipeline](#pipeline)
-- [pkm](#pkm)
-- [player](#player)
 - [plugin](#plugin)
-- [plugins](#plugins)
 - [postgres](#postgres)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -426,35 +352,23 @@
 - [project](#project)
 - [project-management](#project-management)
 - [prometheus](#prometheus)
-- [prometheus-exporter](#prometheus-exporter)
-- [prompt](#prompt)
 - [prompt-engineering](#prompt-engineering)
 - [proxy](#proxy)
 - [pwa](#pwa)
 - [python](#python)
-- [python-interview-questions](#python-interview-questions)
 - [python3](#python3)
 - [qa](#qa)
-- [quantified-self](#quantified-self)
 - [quantum-computing](#quantum-computing)
-- [question-answering](#question-answering)
-- [quic](#quic)
-- [rabbitmq](#rabbitmq)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-components](#react-components)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
-- [reading](#reading)
-- [readme](#readme)
-- [reasonml](#reasonml)
 - [redis](#redis)
 - [redteam](#redteam)
 - [redux](#redux)
-- [regex](#regex)
 - [reinforcement-learning](#reinforcement-learning)
-- [relation-extraction](#relation-extraction)
 - [research](#research)
 - [resources](#resources)
 - [rest](#rest)
@@ -464,11 +378,8 @@
 - [roadmap](#roadmap)
 - [robotics](#robotics)
 - [rpc](#rpc)
-- [rtl-sdr](#rtl-sdr)
 - [ruby](#ruby)
-- [ruby-on-rails](#ruby-on-rails)
 - [rust](#rust)
-- [rust-lang](#rust-lang)
 - [saas](#saas)
 - [sass](#sass)
 - [scala](#scala)
@@ -479,31 +390,21 @@
 - [security](#security)
 - [security-audit](#security-audit)
 - [security-automation](#security-automation)
-- [security-hardening](#security-hardening)
 - [security-scanner](#security-scanner)
 - [security-tools](#security-tools)
 - [self-driving-car](#self-driving-car)
 - [self-hosted](#self-hosted)
 - [selfhosted](#selfhosted)
-- [semantic-search](#semantic-search)
 - [server](#server)
 - [serverless](#serverless)
-- [serverless-framework](#serverless-framework)
-- [service-discovery](#service-discovery)
 - [service-mesh](#service-mesh)
 - [shell](#shell)
-- [shell-script](#shell-script)
 - [signal-processing](#signal-processing)
-- [simulator](#simulator)
-- [site-reliability-engineering](#site-reliability-engineering)
-- [slack](#slack)
 - [smarthome](#smarthome)
 - [social](#social)
 - [social-network](#social-network)
 - [software](#software)
-- [software-development](#software-development)
 - [software-engineering](#software-engineering)
-- [software-testing](#software-testing)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
@@ -517,41 +418,29 @@
 - [stm32](#stm32)
 - [study](#study)
 - [study-plan](#study-plan)
-- [style-guide](#style-guide)
 - [styleguide](#styleguide)
 - [sublime-text](#sublime-text)
 - [svg](#svg)
-- [swagger](#swagger)
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [symfony](#symfony)
-- [syntax-highlighting](#syntax-highlighting)
-- [sysadmin](#sysadmin)
 - [system](#system)
 - [system-design](#system-design)
 - [tailwindcss](#tailwindcss)
-- [tech](#tech)
-- [technical-writing](#technical-writing)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
 - [template](#template)
-- [templates](#templates)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [test](#test)
 - [test-automation](#test-automation)
 - [testing](#testing)
-- [testing-tools](#testing-tools)
 - [tex](#tex)
 - [theme](#theme)
-- [themes](#themes)
 - [threat-intelligence](#threat-intelligence)
 - [time-series](#time-series)
 - [tool](#tool)
 - [tools](#tools)
-- [tracking](#tracking)
-- [training](#training)
-- [transformers](#transformers)
 - [tui](#tui)
 - [tunnel](#tunnel)
 - [tutorial](#tutorial)
@@ -559,23 +448,16 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
-- [unit-testing](#unit-testing)
 - [unix](#unix)
 - [unreal-engine](#unreal-engine)
-- [utilities](#utilities)
-- [utility](#utility)
 - [vagrant](#vagrant)
 - [vector-database](#vector-database)
 - [video](#video)
-- [video-player](#video-player)
 - [video-streaming](#video-streaming)
 - [vim](#vim)
-- [virtualbox](#virtualbox)
 - [virtualization](#virtualization)
 - [visualization](#visualization)
-- [vmware](#vmware)
 - [vpn](#vpn)
-- [vps](#vps)
 - [vscode](#vscode)
 - [vscode-extension](#vscode-extension)
 - [vue](#vue)
@@ -583,20 +465,16 @@
 - [vuejs](#vuejs)
 - [vulnerabilities](#vulnerabilities)
 - [vulnerability](#vulnerability)
-- [vulnerability-detection](#vulnerability-detection)
 - [vulnerability-scanner](#vulnerability-scanner)
 - [vulnerability-scanners](#vulnerability-scanners)
 - [wasm](#wasm)
 - [web](#web)
-- [web-app](#web-app)
 - [web-application](#web-application)
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [webgl](#webgl)
 - [website](#website)
 - [websocket](#websocket)
-- [whisper](#whisper)
-- [whiteboard](#whiteboard)
 - [wiki](#wiki)
 - [windows](#windows)
 - [workflow](#workflow)
@@ -613,22 +491,6 @@
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
-
-## agent 
-
-- [jitlogic/zorka](https://github.com/jitlogic/zorka) - Sophisticated monitoring agent for Java
-- [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
-
-## agile 
-
-- [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
-- [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
-- [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
-- [teterkin/Agile-manifesto-in-ArchiMate](https://github.com/teterkin/Agile-manifesto-in-ArchiMate) - Agile Manifesto in ArchiMate
-- [joelparkerhenderson/maturity-models](https://github.com/joelparkerhenderson/maturity-models) - Maturity models for IT, Agile, DevOps, TOGAF, Six Sigma, P3M3, etc.
-- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - Igor Kurochkin public speaking slides, videos and supporting files
-- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-- [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 
 ## ai 
 
@@ -741,20 +603,9 @@
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 
-## api-testing 
-
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
-
 ## apk 
 
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
-
-## apm 
-
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performan
-- [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 
 ## app 
 
@@ -817,12 +668,6 @@
 ## atom 
 
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-
-## autocomplete 
-
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
-- [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 
 ## automation 
 
@@ -1033,10 +878,6 @@
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 
-## benchmark 
-
-- [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
-
 ## best-practices 
 
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -1110,15 +951,6 @@
 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
-## build-tool 
-
-- [mbtproject/mbt](https://github.com/mbtproject/mbt) - The most flexible build tool for monorepo
-- [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
-
-## burpsuite 
-
-- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
-
 ## business-intelligence 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -1140,41 +972,6 @@
 ## c-sharp 
 
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
-
-## calendar 
-
-- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
-- [linkedin/oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
-- [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
-
-## chaos-engineering 
-
-- [dastergon/wheel-of-misfortune](https://github.com/dastergon/wheel-of-misfortune) - A role-playing game for incident management training
-- [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Toolkit & Orchestration for Developers
-- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
-- [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [dastergon/common-disaster-recovery-scenarios](https://github.com/dastergon/common-disaster-recovery-scenarios) - A list of common Disaster Recovery (DR) scenarios for software companies
-- [dastergon/CardsAgainstReliability](https://github.com/dastergon/CardsAgainstReliability) - A party card game for engineers caring about reliability. Based on Cards Against Humanity.
-- [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
-- [chaostoolkit-incubator/chaostoolkit-prometheus](https://github.com/chaostoolkit-incubator/chaostoolkit-prometheus) - Prometheus Extension for the Chaos Toolkit
-- [chaostoolkit/chaostoolkit-kubernetes](https://github.com/chaostoolkit/chaostoolkit-kubernetes) - Kubernetes driver extension of the Chaos Toolkit probes and actions API
-- [chaostoolkit/chaostoolkit-samples](https://github.com/chaostoolkit/chaostoolkit-samples) - Samples that show how to construct Chaos Experiments to learn about and overcome system weaknesses
-- [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
-- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
-
-## chart 
-
-- [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
-
-## charts 
-
-- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
-- [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
 ## chat 
 
@@ -1213,10 +1010,6 @@
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 
-## cheat 
-
-- [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
-
 ## cheatsheet 
 
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
@@ -1248,26 +1041,6 @@
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [m-reda/pipeline](https://github.com/m-reda/pipeline) - Node-based automation server
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
-
-## ci-cd 
-
-- [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
-- [skyzyx/engineering-for-site-reliability](https://github.com/skyzyx/engineering-for-site-reliability) - Overall map of topics to cover for my “Engineering for Site Reliability” blog series.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
-- [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
-
-## cicd 
-
-- [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
-- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
-- [Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition](https://github.com/Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition) - The Way of CI/CD is a project from which you can assemble your custom pipeline by using different pieces of code or by including entire stages. This project serves as a builder for creating pipelines 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
-- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
-- [skyzyx/engineering-for-site-reliability](https://github.com/skyzyx/engineering-for-site-reliability) - Overall map of topics to cover for my “Engineering for Site Reliability” blog series.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 
 ## clean-architecture 
 
@@ -1309,10 +1082,6 @@
 - [lebinh/ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [crowbar/crowbar](https://github.com/crowbar/crowbar) - Cloud Operations Platform
-
-## cli-app 
-
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## clojure 
 
@@ -1364,10 +1133,6 @@
 - [chaostoolkit/chaostoolkit-kubernetes](https://github.com/chaostoolkit/chaostoolkit-kubernetes) - Kubernetes driver extension of the Chaos Toolkit probes and actions API
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 
-## cmake 
-
-- [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
-
 ## cms 
 
 - [unaio/una](https://github.com/unaio/una) - UNA | Community Management System
@@ -1395,10 +1160,6 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
-
-## code-generation 
-
-- [goadesign/goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 
 ## code-quality 
 
@@ -1477,20 +1238,11 @@
 - [Fault-lang/Fault](https://github.com/Fault-lang/Fault) - a language for building system dynamic models
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 
-## component-library 
-
-- [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
-- [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
-
 ## components 
 
 - [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
 
 ## computational-biology 
-
-- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-
-## computational-physics 
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
@@ -1536,26 +1288,6 @@
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
-## continuous-delivery 
-
-- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
-- [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [cburgmer/buildviz](https://github.com/cburgmer/buildviz) - Transparency for your build pipeline's results and runtime
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
-- [cdfoundation/toc](https://github.com/cdfoundation/toc) - CDF Technical Oversight Committee (TOC) facilitates communication and collaboration among the Technical Projects
-- [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
-- [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
-- [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [Aptomi/k8s-app-engine](https://github.com/Aptomi/k8s-app-engine) - Application delivery engine for k8s
-- [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
-- [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
-- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
-- [zendesk/samson](https://github.com/zendesk/samson) - Web interface for deployments, with plugin architecture and kubernetes support
-
 ## continuous-integration 
 
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
@@ -1571,16 +1303,6 @@
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
-
-## cookiecutter 
-
-- [lean-delivery/ansible-development-kit](https://github.com/lean-delivery/ansible-development-kit) - Ansible Development Kit (roles development)
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-
-## courses 
-
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
 ## cplusplus 
 
@@ -1620,10 +1342,6 @@
 
 - [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
 
-## curated-list 
-
-- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-
 ## curriculum 
 
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -1638,15 +1356,6 @@
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-
-## d3 
-
-- [plouc/mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
-
-## dark-theme 
-
-- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 
 ## dashboard 
 
@@ -1691,10 +1400,6 @@
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 
-## data-pipeline 
-
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
-
 ## data-science 
 
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
@@ -1733,11 +1438,6 @@
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
-## dataviz 
-
-- [dutchcoders/marija](https://github.com/dutchcoders/marija) - Data exploration and visualisation for Elasticsearch and Splunk.
-- [plouc/mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
-
 ## ddd 
 
 - [stringconcat/ddd_practice](https://github.com/stringconcat/ddd_practice) - 
@@ -1752,12 +1452,6 @@
 
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
-
-## debugging 
-
-- [danluu/debugging-stories](https://github.com/danluu/debugging-stories) - A collection of debugging stories. PRs welcome (sorry for the backlog) :-)
-- [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
-- [mhausenblas/cinf](https://github.com/mhausenblas/cinf) - Command line tool to view namespaces and cgroups, useful for low-level container prodding
 
 ## decentralized 
 
@@ -1816,10 +1510,6 @@
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
-
-## developer-roadmap 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## developer-tools 
 
@@ -1966,17 +1656,6 @@
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [refl3ction/tfgen](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY
 
-## diagram 
-
-- [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
-- [28mm/blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-
-## diagrams 
-
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-
 ## discord 
 
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
@@ -2001,18 +1680,6 @@
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 
-## distributed-tracing 
-
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performan
-- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-- [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
-- [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
-
-## diy 
-
-- [sergejey/majordomo](https://github.com/sergejey/majordomo) - Home automation platform
-
 ## django 
 
 - [vas3k/vas3k.blog](https://github.com/vas3k/vas3k.blog) - My blog codebase
@@ -2033,10 +1700,6 @@
 
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [vagrant-landrush/landrush](https://github.com/vagrant-landrush/landrush) - A Vagrant plugin that provides a simple DNS server for Vagrant guests
-
-## dns-server 
-
-- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 
 ## docker 
 
@@ -2099,12 +1762,6 @@
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
-## dockerfile 
-
-- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
-- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-
 ## docs 
 
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
@@ -2157,10 +1814,6 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [bronumski/HealthNet](https://github.com/bronumski/HealthNet) - .Net health check endpoint
-
-## drones 
-
-- [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 
 ## ebpf 
 
@@ -2216,10 +1869,6 @@
 - [express42/ansible-repertory](https://github.com/express42/ansible-repertory) - 
 - [express42/testo](https://github.com/express42/testo) - Example project with chef, berkshelf, vagrant and packer.
 
-## epub 
-
-- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
-
 ## es6 
 
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -2233,10 +1882,6 @@
 ## excel 
 
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
-
-## fedora 
-
-- [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 
 ## file-sharing 
 
@@ -2366,10 +2011,6 @@
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [benhoskings/babushka](https://github.com/benhoskings/babushka) - Test-driven sysadmin.
-
-## gitbook 
-
-- [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 
 ## github 
 
@@ -2546,7 +2187,6 @@
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
-- [sous-chefs/golang](https://github.com/sous-chefs/golang) - Development repository for the golang cookbook
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
@@ -2730,7 +2370,6 @@
 - [chef-boneyard/audit](https://github.com/chef-boneyard/audit) - Audit Cookbook for Chef Compliance
 - [Hexlet/ru-test-assignments](https://github.com/Hexlet/ru-test-assignments) - Тестовые задания для самостоятельного выполнения от разных it компаний
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
-- [sous-chefs/jenkins](https://github.com/sous-chefs/jenkins) - Development repository for the jenkins cookbook
 - [chef/cookstyle](https://github.com/chef/cookstyle) - A linting tool that helps you to write better Chef Infra cookbooks and InSpec profiles by detecting and automatically correcting style, syntax, and logic mistakes in your code.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken) - Test Kitchen driver/provisioner for lightning faster Chef Infra cookbook testing with Docker
@@ -2739,15 +2378,11 @@
 - [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined comprehensive set of checks for your entire Puppet code and data
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
-- [sous-chefs/foreman](https://github.com/sous-chefs/foreman) - Development repository for the foreman cookbook
 - [chef-cookbooks/chef-ingredient](https://github.com/chef-cookbooks/chef-ingredient) - Primitives for managing Chef products and packages
 - [chef/supermarket](https://github.com/chef/supermarket) - Chef's community platform
-- [sous-chefs/sc-mongodb](https://github.com/sous-chefs/sc-mongodb) - Development repository for the sc-mongodb cookbook
-- [sous-chefs/golang](https://github.com/sous-chefs/golang) - Development repository for the golang cookbook
 - [go-graphite/go-carbon](https://github.com/go-graphite/go-carbon) - Golang implementation of Graphite/Carbon server with classic architecture: Agent -&gt; Cache -&gt; Persister
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [voxpupuli/puppet-zabbix](https://github.com/voxpupuli/puppet-zabbix) - Puppet module for creating and maintaining zabbix components with puppet.
-- [sous-chefs/dpkg_autostart](https://github.com/sous-chefs/dpkg_autostart) - Development repository for the dpkg_autostart cookbook
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB
 - [voxpupuli/puppet-r10k](https://github.com/voxpupuli/puppet-r10k) - Setup and configure r10k for use with git based environments in puppet
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness
@@ -2756,10 +2391,8 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [test-kitchen/kitchen-digitalocean](https://github.com/test-kitchen/kitchen-digitalocean) - A Test Kitchen driver for DigitalOcean
-- [sous-chefs/ntp](https://github.com/sous-chefs/ntp) - Development repository for the ntp cookbook
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant) - A Test Kitchen Driver for Vagrant
-- [sous-chefs/aptly](https://github.com/sous-chefs/aptly) - Development repository for the aptly cookbook
 - [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [apache/trafficserver](https://github.com/apache/trafficserver) - Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -2771,7 +2404,6 @@
 - [forkcms/forkcms](https://github.com/forkcms/forkcms) - Fork is an easy to use open source CMS using Symfony Components.
 - [TalksLab/metro-bootstrap](https://github.com/TalksLab/metro-bootstrap) - Twitter Bootstrap with Metro style
 - [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen) - Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms
-- [sous-chefs/nginx](https://github.com/sous-chefs/nginx) - Development repository for the nginx cookbook
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
@@ -2808,11 +2440,6 @@
 
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
-
-## hashicorp 
-
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager
-- [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 
 ## haskell 
 
@@ -2854,24 +2481,9 @@
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 
-## hls 
-
-- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
-
 ## home-automation 
 
 - [sergejey/majordomo](https://github.com/sergejey/majordomo) - Home automation platform
-
-## honeypot 
-
-- [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
-
-## hosting 
-
-- [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [moarpepes/awesome-mesh](https://github.com/moarpepes/awesome-mesh) - This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes c
-- [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## html 
 
@@ -2904,17 +2516,12 @@
 ## ide 
 
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [sous-chefs/sublimechef](https://github.com/sous-chefs/sublimechef) - A Sublime Text 2 Package for authoring Chef related files
 
 ## image 
 
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 
 ## image-generation 
-
-- [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
-
-## image-manipulation 
 
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
 
@@ -3000,10 +2607,6 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 
-## interview-prep 
-
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
 ## interview-preparation 
 
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
@@ -3021,10 +2624,6 @@
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 
-## intrusion-detection 
-
-- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-
 ## ios 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -3037,14 +2636,6 @@
 
 - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
-
-## iphone 
-
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-## istio 
-
-- [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 
 ## it 
 
@@ -3085,17 +2676,12 @@
 - [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
 - [sergejey/majordomo](https://github.com/sergejey/majordomo) - Home automation platform
 
-## javascript-interview-questions 
-
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
-
 ## jenkins 
 
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [cburgmer/buildviz](https://github.com/cburgmer/buildviz) - Transparency for your build pipeline's results and runtime
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [Nike-Inc/bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
-- [sous-chefs/jenkins](https://github.com/sous-chefs/jenkins) - Development repository for the jenkins cookbook
 - [TYPO3-infrastructure/jenkins-pipeline-global-library-chefci](https://github.com/TYPO3-infrastructure/jenkins-pipeline-global-library-chefci) - Jenkins Pipeline's "Workflow Global Libs" for Chef CI
 
 ## jobs 
@@ -3110,10 +2696,6 @@
 
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
-
-## jvm 
-
-- [LegacyCodeHQ/eureka](https://github.com/LegacyCodeHQ/eureka) - Breakthrough tooling to work with Kotlin and Java codebases 🚀
 
 ## k8s 
 
@@ -3131,10 +2713,6 @@
 - [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kaf
 - [pinterest/DoctorK](https://github.com/pinterest/DoctorK) - DoctorK is a service for Kafka cluster auto healing and workload balancing
 - [yahoo/CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
-
-## kanban 
-
-- [roovo/obsidian-card-board](https://github.com/roovo/obsidian-card-board) - An Obsidian plugin to make working with tasks a pleasure (hopefully anyway).
 
 ## knowledge 
 
@@ -3159,10 +2737,6 @@
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [LegacyCodeHQ/eureka](https://github.com/LegacyCodeHQ/eureka) - Breakthrough tooling to work with Kotlin and Java codebases 🚀
-
-## kubectl-plugins 
-
-- [dodopizza/kubectl-shovel](https://github.com/dodopizza/kubectl-shovel) - kubectl plugin for gathering diagnostics from running in k8s dotnet applications
 
 ## kubernetes 
 
@@ -3345,10 +2919,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 
-## llama 
-
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
-
 ## llm 
 
 - [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.
@@ -3356,12 +2926,6 @@
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
-
-## load-testing 
-
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-- [yandex/yandex-tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool
 
 ## logging 
 
@@ -3440,14 +3004,6 @@
 ## media 
 
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
-
-## media-server 
-
-- [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
-
-## metadata 
-
-- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 
 ## metrics 
 
@@ -3549,10 +3105,6 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 
-## monitor 
-
-- [linkedin/kafka-monitor](https://github.com/linkedin/kafka-monitor) - Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availab
-
 ## monitoring 
 
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
@@ -3638,20 +3190,11 @@
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 
-## network-monitoring 
-
-- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
-- [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
-
 ## networking 
 
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
-
-## news 
-
-- [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 
 ## nextjs 
 
@@ -3670,7 +3213,6 @@
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [evilmartians/chef-nginx](https://github.com/evilmartians/chef-nginx) - Chef Nginx recipes
 - [lebinh/ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
-- [sous-chefs/nginx](https://github.com/sous-chefs/nginx) - Development repository for the nginx cookbook
 
 ## nix 
 
@@ -3679,10 +3221,6 @@
 ## nlp 
 
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
-
-## nmap 
-
-- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 
 ## node 
 
@@ -3711,12 +3249,6 @@
 
 - [anitsh/til](https://github.com/anitsh/til) - Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.
 - [mgp/book-notes](https://github.com/mgp/book-notes) - Notes from books and other interesting things that I've read. Table of contents at the end 👇
-
-## notifications 
-
-- [ableev/Zabbix-in-Telegram](https://github.com/ableev/Zabbix-in-Telegram) - Zabbix Notifications with graphs in Telegram
-- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
-- [AcalephStorage/consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
 
 ## npm 
 
@@ -3792,14 +3324,6 @@
 
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 
-## oh-my-zsh 
-
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-
-## oop 
-
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
-
 ## open-source 
 
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
@@ -3845,10 +3369,6 @@
 
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 
-## openshift 
-
-- [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
-
 ## opensource 
 
 - [SAP/project-portal-for-innersource](https://github.com/SAP/project-portal-for-innersource) - Lists all InnerSource projects of a company in an interactive and easy to use way. Can be used as a template for implementing the "InnerSource portal" pattern by the InnerSource Commons community.
@@ -3858,19 +3378,6 @@
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - Automate Your Application Security Orchestration And Correlation (ASOC) Using ArcherySec.
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.
-
-## opentelemetry 
-
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performan
-- [mhausenblas/otel-adoption-survey-2022](https://github.com/mhausenblas/otel-adoption-survey-2022) - OpenTelemetry Adoption Survey 2022
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-
-## openvpn 
-
-- [express42/knife-openvpn](https://github.com/express42/knife-openvpn) - A knife plugin for Express 42 openvpn cookbook
-- [express42/openvpn](https://github.com/express42/openvpn) - Express 42 openvpn cookbook
 
 ## oracle 
 
@@ -3901,6 +3408,7 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Hardcore Engineering SaaS Platform
 - [jakubnabrdalik/architecture-guild](https://github.com/jakubnabrdalik/architecture-guild) - An example of an Architecture Guild repository
 - [NTCoding/modernization-strategy-selector](https://github.com/NTCoding/modernization-strategy-selector) - A model for choosing the optimal modernization strategy for each subsystem. Taken from my book Architecture Modernization (Manning)
+- [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
 - [Tinkoff/dm-knowledgebase](https://github.com/Tinkoff/dm-knowledgebase) - База знаний профессии Деливери менеджер https://tinkoff.github.io/dm-knowledgebase/
 - [radius-project/radius](https://github.com/radius-project/radius) - Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
 - [kspitfire/weinberg-ru](https://github.com/kspitfire/weinberg-ru) - Русский перевод книги Джеральда Вайнберга "The psychology of computer programming"
@@ -3915,6 +3423,7 @@
 - [yegor256/sqm](https://github.com/yegor256/sqm) - Lecture Notes for "Software Quality Metrics" course in HSE University, 2023-2024
 - [inclusivenaming/org](https://github.com/inclusivenaming/org) - Pre-release organization info, meeting notes, collaboration, etc.
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) - 
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor
 - [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) - 
 - [jetporch/jetporch](https://github.com/jetporch/jetporch) - Read-only mirror: see https://www.jetporch.com/community/sourcehut
@@ -3944,6 +3453,7 @@
 - [bmurashin/ansible-agent](https://github.com/bmurashin/ansible-agent) - 
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer's Handbook
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
+- [danluu/debugging-stories](https://github.com/danluu/debugging-stories) - A collection of debugging stories. PRs welcome (sorry for the backlog) :-)
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [dxtips/community-tools](https://github.com/dxtips/community-tools) - list of tools for community
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
@@ -4000,6 +3510,7 @@
 - [swardley/MAP-REPOSITORY](https://github.com/swardley/MAP-REPOSITORY) - Maps from the 2022 AND BEYOND research projects
 - [brennhill/Principles](https://github.com/brennhill/Principles) - My software and leadership principles
 - [matthewskelton/slowflow](https://github.com/matthewskelton/slowflow) - Contexts where fast flow might not be suitable. #fastflow
+- [mhausenblas/otel-adoption-survey-2022](https://github.com/mhausenblas/otel-adoption-survey-2022) - OpenTelemetry Adoption Survey 2022
 - [jerrywcy/obsidian-path-finder](https://github.com/jerrywcy/obsidian-path-finder) - A plugin that can find the paths between two notes. Not sure who will want to use it...
 - [TeamTopologies/Team-Dependencies-Tracking](https://github.com/TeamTopologies/Team-Dependencies-Tracking) - Suggested tools and approaches to track team dependencies in an organization
 - [finopsfoundation/framework](https://github.com/finopsfoundation/framework) - A FinOps community-driven framework for building best practices, sharing stories, and strengthening the discipline.
@@ -4024,6 +3535,7 @@
 - [dckms/system-architecture](https://github.com/dckms/system-architecture) - Distributed Collaborative Knowledge Management System for System Architecture
 - [emacsway/dckms-template](https://github.com/emacsway/dckms-template) - Distributed Collaborative Knowledge Management System. A bare instance.
 - [carrot2/carrot2](https://github.com/carrot2/carrot2) - Carrot2: Text Clustering Algorithms and Applications
+- [linkedin/oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
 - [agilemanifesto/agilemanifesto.github.io](https://github.com/agilemanifesto/agilemanifesto.github.io) - Agile Manifesto
 - [EqualExperts/slack-guide](https://github.com/EqualExperts/slack-guide) - The best damn guide to slack ever. An open source github pages site.
 - [FocusedObjective/FocusedObjective.Resources](https://github.com/FocusedObjective/FocusedObjective.Resources) - Various
@@ -4049,6 +3561,7 @@
 - [adobe/tf-manage](https://github.com/adobe/tf-manage) - 
 - [cdfoundation/sig-events](https://github.com/cdfoundation/sig-events) - CDF Events Special Interest Group
 - [cdfoundation/cdf-landscape](https://github.com/cdfoundation/cdf-landscape) - 🌄  CDF Landscape: a living document that developers, investors, vendors, researchers and others can use as a resource on the landscape of continuous delivery
+- [cdfoundation/toc](https://github.com/cdfoundation/toc) - CDF Technical Oversight Committee (TOC) facilitates communication and collaboration among the Technical Projects
 - [sociotechnical-architecture/sts-adr](https://github.com/sociotechnical-architecture/sts-adr) - SocioTechnical Systems - Architecture Decision Records
 - [grafana/dashboard-linter](https://github.com/grafana/dashboard-linter) - A tool to lint Grafana dashboards
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -4221,6 +3734,7 @@
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme) - :love_letter: Things I've learned about writing good READMEs.
 - [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
+- [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [postgrespro/mamonsu](https://github.com/postgrespro/mamonsu) - 
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
@@ -4337,6 +3851,7 @@
 - [nightw/mikoomi-zabbix-mongodb-monitoring](https://github.com/nightw/mikoomi-zabbix-mongodb-monitoring) - Forked from the mikoomi-templates project from here: https://code.google.com/p/mikoomi but only containing the MongoDB Zabbix Plugin
 - [garo/zabbix_mongodb_stats](https://github.com/garo/zabbix_mongodb_stats) - Zabbix MongoDB statistics sender
 - [Sous-Chefs-Boneyard/swap](https://github.com/Sous-Chefs-Boneyard/swap) - Development repository for the swap cookbook
+- [AcalephStorage/consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
 - [zrrrzzt/osanywhereweather](https://github.com/zrrrzzt/osanywhereweather) - Node module for getting your weatherdata from osanywhereweather
 - [edelight/chef-mongodb](https://github.com/edelight/chef-mongodb) - MongoDB Chef cookbook
 - [obazoud/awesome-dashboard](https://github.com/obazoud/awesome-dashboard) - A curated list of amazingly awesome dashboards/visualization resources.
@@ -4417,6 +3932,7 @@
 - [express42/helpers_express42](https://github.com/express42/helpers_express42) - Express 42 helpers
 - [devopsbookmarks/devopsbookmarks.com](https://github.com/devopsbookmarks/devopsbookmarks.com) - Website of devopsbookmarks.com
 - [express42/ruby_lwrp](https://github.com/express42/ruby_lwrp) - Express 42 ruby installer cookbook
+- [express42/openvpn](https://github.com/express42/openvpn) - Express 42 openvpn cookbook
 - [realityforge/knife-cookbook-doc](https://github.com/realityforge/knife-cookbook-doc) - 
 - [chef-boneyard/chef-provisioning](https://github.com/chef-boneyard/chef-provisioning) - A library for creating machines and infrastructures idempotently in Chef.
 - [kodai/jqzabbix](https://github.com/kodai/jqzabbix) - jQuery plugin for Zabbix API
@@ -4488,6 +4004,7 @@
 - [jonlives/ipecache](https://github.com/jonlives/ipecache) - Ipecache is an extensible tool for purging URLs from Caches and CDNs.
 - [airbnb/optica](https://github.com/airbnb/optica) - A tool for keeping track of nodes in your infrastructure
 - [xively/xively-rb](https://github.com/xively/xively-rb) - 
+- [kevinmehall/rtlsdr-433m-sensor](https://github.com/kevinmehall/rtlsdr-433m-sensor) - Decoder for Oregon Scientific v1 protocol wireless temperature sensors with RTL-SDR and GNU Radio.
 - [zynga/zperfmon](https://github.com/zynga/zperfmon) - [DEPRECATED] zPerfmon
 - [mlapshin/foodtaster](https://github.com/mlapshin/foodtaster) - RSpec for Chef cookbooks run on Vagrant.
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
@@ -4602,12 +4119,6 @@
 - [chef-boneyard/cookbooks](https://github.com/chef-boneyard/cookbooks) - DEPRECATED: This repository has been split up into separate repositories by cookbook under the "opscode-cookbooks" organization.
 - [chef-boneyard/chef-repo](https://github.com/chef-boneyard/chef-repo) - DEPRECATED: Use of this repository is deprecated. We recommend using the chef generate repo command that comes with ChefDK.
 
-## owasp 
-
-- [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
-- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - ASPM, DevSecOps, Vulnerability Management. All on one platform.
-
 ## p2p 
 
 - [moarpepes/awesome-mesh](https://github.com/moarpepes/awesome-mesh) - This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes c
@@ -4625,10 +4136,6 @@
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 
-## paper 
-
-- [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
-
 ## parser 
 
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -4636,10 +4143,6 @@
 ## parsing 
 
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
-
-## payments 
-
-- [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
 
 ## pdf 
 
@@ -4672,10 +4175,6 @@
 - [yandex/yandex-tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool
 - [le0pard/postgresql_book](https://github.com/le0pard/postgresql_book) - Book about PostgreSQL (russian)
 
-## personal-assistant 
-
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
-
 ## php 
 
 - [unaio/una](https://github.com/unaio/una) - UNA | Community Management System
@@ -4692,14 +4191,6 @@
 - [cburgmer/buildviz](https://github.com/cburgmer/buildviz) - Transparency for your build pipeline's results and runtime
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 
-## pkm 
-
-- [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
-
-## player 
-
-- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
-
 ## plugin 
 
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
@@ -4709,10 +4200,6 @@
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [vagrant-landrush/landrush](https://github.com/vagrant-landrush/landrush) - A Vagrant plugin that provides a simple DNS server for Vagrant guests
 - [Parallels/vagrant-parallels](https://github.com/Parallels/vagrant-parallels) - Vagrant Parallels Provider
-
-## plugins 
-
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## postgres 
 
@@ -4824,15 +4311,6 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
-## prometheus-exporter 
-
-- [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-
-## prompt 
-
-- [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
-- [c-bata/kube-prompt](https://github.com/c-bata/kube-prompt) - An interactive kubernetes client featuring auto-complete.
-
 ## prompt-engineering 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -4900,10 +4378,6 @@
 - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 
-## python-interview-questions 
-
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
-
 ## python3 
 
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
@@ -4913,28 +4387,9 @@
 - [docops-hq/conf](https://github.com/docops-hq/conf) - Конспекты докладов IT-конференций
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 
-## quantified-self 
-
-- [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
-- [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
-
 ## quantum-computing 
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-
-## question-answering 
-
-- [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
-
-## quic 
-
-- [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
-- [apache/trafficserver](https://github.com/apache/trafficserver) - Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.
-
-## rabbitmq 
-
-- [rabbitmq/internals](https://github.com/rabbitmq/internals) - High level architecture overview
-- [jasonmcintosh/rabbitmq-zabbix](https://github.com/jasonmcintosh/rabbitmq-zabbix) - Zabbix RabbitMQ Configuration
 
 ## rails 
 
@@ -4977,20 +4432,6 @@
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 
-## reading 
-
-- [mgp/book-notes](https://github.com/mgp/book-notes) - Notes from books and other interesting things that I've read. Table of contents at the end 👇
-
-## readme 
-
-- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
-- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
-- [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - Open Source guidance from Zalando, Europe's largest online fashion platform
-
-## reasonml 
-
-- [phillipj/gitlab-search](https://github.com/phillipj/gitlab-search) - Command line tool to search for contents in GitLab repositories
-
 ## redis 
 
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
@@ -5007,17 +4448,9 @@
 
 - [ks888/LambStatus](https://github.com/ks888/LambStatus) - [Maintenance mode] Serverless Status Page System
 
-## regex 
-
-- [cloudposse-archives/tfmask](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
-
 ## reinforcement-learning 
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-
-## relation-extraction 
-
-- [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
 
 ## research 
 
@@ -5072,11 +4505,6 @@
 
 - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 
-## rtl-sdr 
-
-- [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
-- [kevinmehall/rtlsdr-433m-sensor](https://github.com/kevinmehall/rtlsdr-433m-sensor) - Decoder for Oregon Scientific v1 protocol wireless temperature sensors with RTL-SDR and GNU Radio.
-
 ## ruby 
 
 - [yegor256/cobench](https://github.com/yegor256/cobench) - Coders Benchmarking Script: automatically collects productivity metrics from a team of GitHub contributors
@@ -5120,10 +4548,6 @@
 - [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 - [benhoskings/babushka](https://github.com/benhoskings/babushka) - Test-driven sysadmin.
 
-## ruby-on-rails 
-
-- [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
-
 ## rust 
 
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -5132,10 +4556,6 @@
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [LTD-Beget/syncookied](https://github.com/LTD-Beget/syncookied) - syn flood protection
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
-
-## rust-lang 
-
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 
 ## saas 
 
@@ -5224,10 +4644,6 @@
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 
-## security-hardening 
-
-- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-
 ## security-scanner 
 
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -5260,10 +4676,6 @@
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
-## semantic-search 
-
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
-
 ## server 
 
 - [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
@@ -5286,17 +4698,6 @@
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 
-## serverless-framework 
-
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-
-## service-discovery 
-
-- [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [gliderlabs/registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
-- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-- [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-
 ## service-mesh 
 
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
@@ -5317,39 +4718,9 @@
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
-## shell-script 
-
-- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-
 ## signal-processing 
 
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
-
-## simulator 
-
-- [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
-
-## site-reliability-engineering 
-
-- [dastergon/wheel-of-misfortune](https://github.com/dastergon/wheel-of-misfortune) - A role-playing game for incident management training
-- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
-- [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [dastergon/common-disaster-recovery-scenarios](https://github.com/dastergon/common-disaster-recovery-scenarios) - A list of common Disaster Recovery (DR) scenarios for software companies
-- [dastergon/CardsAgainstReliability](https://github.com/dastergon/CardsAgainstReliability) - A party card game for engineers caring about reliability. Based on Cards Against Humanity.
-- [dastergon/postmortem-templates](https://github.com/dastergon/postmortem-templates) - A collection of postmortem templates
-- [skyzyx/engineering-for-site-reliability](https://github.com/skyzyx/engineering-for-site-reliability) - Overall map of topics to cover for my “Engineering for Site Reliability” blog series.
-- [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
-- [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
-
-## slack 
-
-- [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
-- [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
-- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
-- [operable/cog](https://github.com/operable/cog) - Bringing the power of the command line to chat
-- [StackStorm/showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
-- [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 
 ## smarthome 
 
@@ -5369,11 +4740,6 @@
 - [tekiegirl/Archangels](https://github.com/tekiegirl/Archangels) - Entry to the O'Reilly Autumn 2021 Architectural Kata
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 
-## software-development 
-
-- [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization
-- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-
 ## software-engineering 
 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -5382,10 +4748,6 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
-## software-testing 
-
-- [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 
 ## spring-boot 
 
@@ -5479,12 +4841,6 @@
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
-## style-guide 
-
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [arbox/rails-style-guide](https://github.com/arbox/rails-style-guide) - :green_book:  Russian Version: A community-driven Rails 3 & 4 & 5 style guide.
-- [rubocop/ruby-style-guide](https://github.com/rubocop/ruby-style-guide) - A community-driven Ruby coding style guide
-
 ## styleguide 
 
 - [best-doctor/guides](https://github.com/best-doctor/guides) - Набор гайдов, которые использует команда разработки BestDoctor
@@ -5493,20 +4849,12 @@
 
 ## sublime-text 
 
-- [sous-chefs/sublimechef](https://github.com/sous-chefs/sublimechef) - A Sublime Text 2 Package for authoring Chef related files
 - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 
 ## svg 
 
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
-
-## swagger 
-
-- [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
-- [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
-- [openflagr/flagr](https://github.com/openflagr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice
-- [goadesign/goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go
 
 ## swift 
 
@@ -5520,18 +4868,6 @@
 ## symfony 
 
 - [forkcms/forkcms](https://github.com/forkcms/forkcms) - Fork is an easy to use open source CMS using Symfony Components.
-
-## syntax-highlighting 
-
-- [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
-
-## sysadmin 
-
-- [joelparkerhenderson/maturity-models](https://github.com/joelparkerhenderson/maturity-models) - Maturity models for IT, Agile, DevOps, TOGAF, Six Sigma, P3M3, etc.
-- [kolide/launcher](https://github.com/kolide/launcher) - Osquery launcher, autoupdater, and packager
-- [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 
 ## system 
 
@@ -5552,16 +4888,6 @@
 
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 
-## tech 
-
-- [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
-- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-
-## technical-writing 
-
-- [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
-
 ## telegram 
 
 - [Asgoret/devops_chats](https://github.com/Asgoret/devops_chats) - Repository of DevOps (RUS) chats in Telegram
@@ -5577,12 +4903,6 @@
 ## template 
 
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
-
-## templates 
-
-- [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
-- [devopshq/dohq-doc-templates](https://github.com/devopshq/dohq-doc-templates) - Шаблоны инженерной документации для упрощения и сопровождения регламентных работ
-- [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 
 ## terminal 
 
@@ -5680,17 +5000,6 @@
 - [chefspec/chefspec](https://github.com/chefspec/chefspec) - Write RSpec examples and generate coverage reports for Chef recipes!
 - [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen) - Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms
 
-## testing-tools 
-
-- [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
-- [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
-- [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - “Библия QA” - это обновляемая база знаний объемом 560+ страниц
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
-- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-
 ## tex 
 
 - [le0pard/postgresql_book](https://github.com/le0pard/postgresql_book) - Book about PostgreSQL (russian)
@@ -5698,10 +5007,6 @@
 ## theme 
 
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-
-## themes 
-
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## threat-intelligence 
@@ -5726,19 +5031,6 @@
 - [PopulateTools/ansible-doc-generator](https://github.com/PopulateTools/ansible-doc-generator) - CLI for documenting Ansible roles into Markdown files.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-
-## tracking 
-
-- [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
-
-## training 
-
-- [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
-- [gruntwork-io/infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training) - Materials for learning how to use infrastructure-as-code
-
-## transformers 
-
-- [ai-forever/ru-gpts](https://github.com/ai-forever/ru-gpts) - Russian GPT3 models.
 
 ## tui 
 
@@ -5785,10 +5077,6 @@
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 
-## unit-testing 
-
-- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined comprehensive set of checks for your entire Puppet code and data
-
 ## unix 
 
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -5799,17 +5087,6 @@
 ## unreal-engine 
 
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
-
-## utilities 
-
-- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-- [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
-
-## utility 
-
-- [dodopizza/kubectl-shovel](https://github.com/dodopizza/kubectl-shovel) - kubectl plugin for gathering diagnostics from running in k8s dotnet applications
-- [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
-- [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 
 ## vagrant 
 
@@ -5832,11 +5109,6 @@
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 
-## video-player 
-
-- [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
-- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
-
 ## video-streaming 
 
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
@@ -5844,10 +5116,6 @@
 ## vim 
 
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
-
-## virtualbox 
-
-- [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 
 ## virtualization 
 
@@ -5872,17 +5140,9 @@
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
-## vmware 
-
-- [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
-
 ## vpn 
 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-
-## vps 
-
-- [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone 
 
 ## vscode 
 
@@ -5919,10 +5179,6 @@
 
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 
-## vulnerability-detection 
-
-- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-
 ## vulnerability-scanner 
 
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -5944,10 +5200,6 @@
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
-
-## web-app 
-
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 
 ## web-application 
 
@@ -5975,14 +5227,6 @@
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-
-## whisper 
-
-- [go-graphite/go-carbon](https://github.com/go-graphite/go-carbon) - Golang implementation of Graphite/Carbon server with classic architecture: Agent -&gt; Cache -&gt; Persister
-
-## whiteboard 
-
-- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 
 ## wiki 
 
