@@ -944,6 +944,7 @@
 - [language-model](#language-model)
 - [laravel](#laravel)
 - [latency](#latency)
+- [launchdarkly](#launchdarkly)
 - [lbs](#lbs)
 - [leader](#leader)
 - [leadership](#leadership)
@@ -7394,6 +7395,10 @@
 - [linkedin/kafka-monitor](https://github.com/linkedin/kafka-monitor) - Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availab
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 
+## launchdarkly 
+
+- [launchdarkly/featureflags](https://github.com/launchdarkly/featureflags) - The guide to decoupling feature rollout from code deployment for feature flag-driven development.  Feature flags give a software organization the power to reduce risk, iterate quicker, and get more co
+
 ## lbs 
 
 - [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
@@ -8739,6 +8744,7 @@
 
 ## others 
 
+- [sobolevn/ship-it-boardgame](https://github.com/sobolevn/ship-it-boardgame) - 
 - [papers-we-love/organizers](https://github.com/papers-we-love/organizers) - Materials for starting a local Papers We Love chapter
 - [sharovatov/sharovatov.github.io](https://github.com/sharovatov/sharovatov.github.io) - sharovatov.github.io content
 - [Nutlope/devwriting](https://github.com/Nutlope/devwriting) - All resources & exercises from the Miami Dev Writer's Retreat
@@ -8792,7 +8798,7 @@
 - [onlineconf/onlineconf](https://github.com/onlineconf/onlineconf) - Application level configuration system
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [bmurashin/ansible-agent](https://github.com/bmurashin/ansible-agent) - 
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer's Handbook
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load In Software Development
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [dxtips/community-tools](https://github.com/dxtips/community-tools) - list of tools for community
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
