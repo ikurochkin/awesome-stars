@@ -62,6 +62,7 @@
 - [appimage](#appimage)
 - [apple](#apple)
 - [apple-tv](#apple-tv)
+- [apple-vision-pro](#apple-vision-pro)
 - [apple-watch](#apple-watch)
 - [apple2](#apple2)
 - [application-monitoring](#application-monitoring)
@@ -1472,6 +1473,7 @@
 - [search-engines](#search-engines)
 - [secdevops](#secdevops)
 - [secret](#secret)
+- [secret-management](#secret-management)
 - [secrets](#secrets)
 - [security](#security)
 - [security-audit](#security-audit)
@@ -2177,6 +2179,10 @@
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
 ## apple-tv 
+
+- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+## apple-vision-pro 
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
@@ -5888,6 +5894,7 @@
 
 ## go 
 
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds
@@ -8768,6 +8775,16 @@
 
 ## others 
 
+- [deployordie/card-game](https://github.com/deployordie/card-game) - Deploy or Die is a card game about deploying
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council
+- [docsastests/docsastests.github.io](https://github.com/docsastests/docsastests.github.io) - 
+- [devopsenterprise/2022-virtual-europe](https://github.com/devopsenterprise/2022-virtual-europe) - DevOps Enterprise Summit Virtual - US 2021
+- [devopsenterprise/2022-las-vegas](https://github.com/devopsenterprise/2022-las-vegas) - DevOps Enterprise Summit Las Vegas 2022 Slides
+- [devopsenterprise/2022-virtual-us](https://github.com/devopsenterprise/2022-virtual-us) - DevOps Enterprise Summit Virtual - US 2022 Slides
+- [devopsenterprise/2023-amsterdam](https://github.com/devopsenterprise/2023-amsterdam) - DevOps Enterprise Summit Amsterdam 2023 Slides
+- [devopsenterprise/2023-genecon](https://github.com/devopsenterprise/2023-genecon) - GeneCon 2023 (December 4-5) Slides
+- [r9y-dev/site](https://github.com/r9y-dev/site) - 
+- [r9y-dev/r9y-map](https://github.com/r9y-dev/r9y-map) - 
 - [benwilcock/backstage-plugin-backchat](https://github.com/benwilcock/backstage-plugin-backchat) - A quick and dirty frontend plugin that integrates a GenAI feature into Backstage
 - [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 - [plesk/engineering-efficiency-assets](https://github.com/plesk/engineering-efficiency-assets) - The set of the assets to build Grafana dashboards with the metrics to analyse the effectiveness of your engineering practices
@@ -10922,12 +10939,17 @@
 
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3
 
+## secret-management 
+
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+
 ## secrets 
 
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 
 ## security 
 
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
