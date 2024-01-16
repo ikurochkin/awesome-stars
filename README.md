@@ -1128,6 +1128,7 @@
 - [networking](#networking)
 - [news](#news)
 - [newsletter](#newsletter)
+- [next-auth](#next-auth)
 - [nextjs](#nextjs)
 - [nfc](#nfc)
 - [nginx](#nginx)
@@ -1282,6 +1283,7 @@
 - [preparation](#preparation)
 - [presentations](#presentations)
 - [principles](#principles)
+- [prisma](#prisma)
 - [privacy](#privacy)
 - [probot](#probot)
 - [processes](#processes)
@@ -1634,6 +1636,7 @@
 - [system-dynamics](#system-dynamics)
 - [system-monitoring](#system-monitoring)
 - [systems](#systems)
+- [t3-stack](#t3-stack)
 - [tag](#tag)
 - [tailwindcss](#tailwindcss)
 - [tanzu](#tanzu)
@@ -1733,6 +1736,7 @@
 - [travis-ci](#travis-ci)
 - [tree-sitter](#tree-sitter)
 - [troubleshooting](#troubleshooting)
+- [trpc](#trpc)
 - [tsdb](#tsdb)
 - [tty](#tty)
 - [tui](#tui)
@@ -1856,6 +1860,7 @@
 - [zabbix-server](#zabbix-server)
 - [zabbix-templates](#zabbix-templates)
 - [zipkin](#zipkin)
+- [zod](#zod)
 - [zookeeper](#zookeeper)
 - [zsh](#zsh)
 - [zsh-configuration](#zsh-configuration)
@@ -8382,8 +8387,13 @@
 
 - [oskardudycz/ArchitectureWeekly](https://github.com/oskardudycz/ArchitectureWeekly) - Architecture Weekly - links and resources to boost your knowledge and developer skills
 
+## next-auth 
+
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+
 ## nextjs 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 
@@ -8619,6 +8629,7 @@
 
 ## open-source 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
 - [SAP/project-portal-for-innersource](https://github.com/SAP/project-portal-for-innersource) - Lists all InnerSource projects of a company in an interactive and easy to use way. Can be used as a template for implementing the "InnerSource portal" pattern by the InnerSource Commons community.
@@ -9837,6 +9848,7 @@
 
 ## postgresql 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -9908,6 +9920,10 @@
 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+
+## prisma 
+
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
 ## privacy 
 
@@ -11812,6 +11828,10 @@
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
+## t3-stack 
+
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+
 ## tag 
 
 - [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) - CNCF TAG App Delivery 🚚📦
@@ -11820,6 +11840,7 @@
 
 ## tailwindcss 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 
 ## tanzu 
@@ -12334,6 +12355,10 @@
 
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 
+## trpc 
+
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+
 ## tsdb 
 
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -12358,6 +12383,7 @@
 
 ## turborepo 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 
 ## tutorial 
@@ -12379,6 +12405,7 @@
 
 ## typescript 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -12937,6 +12964,10 @@
 ## zipkin 
 
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
+
+## zod 
+
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
 ## zookeeper 
 
