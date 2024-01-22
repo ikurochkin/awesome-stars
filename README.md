@@ -1001,7 +1001,6 @@
 - [lookup-table](#lookup-table)
 - [low-code](#low-code)
 - [low-level](#low-level)
-- [lsif-enabled](#lsif-enabled)
 - [lua](#lua)
 - [luajit](#luajit)
 - [lvs](#lvs)
@@ -3512,12 +3511,12 @@
 
 ## cms 
 
-- [unacms/una](https://github.com/unacms/una) - UNA | Community Management System
+- [unacms/una](https://github.com/unacms/una) - UNA Community Management System
 - [forkcms/forkcms](https://github.com/forkcms/forkcms) - Fork is an easy to use open source CMS using Symfony Components.
 
 ## cms-framework 
 
-- [unacms/una](https://github.com/unacms/una) - UNA | Community Management System
+- [unacms/una](https://github.com/unacms/una) - UNA Community Management System
 
 ## cncf 
 
@@ -3710,7 +3709,7 @@
 ## community-management 
 
 - [buildwithusers/awesome-devrel-library](https://github.com/buildwithusers/awesome-devrel-library) - Curated list of inspiring learnings (articles, videos, podcast episodes) around DevRel 🥑
-- [unacms/una](https://github.com/unacms/una) - UNA | Community Management System
+- [unacms/una](https://github.com/unacms/una) - UNA Community Management System
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
 
@@ -7721,10 +7720,6 @@
 
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
 
-## lsif-enabled 
-
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-
 ## lua 
 
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
@@ -9716,7 +9711,7 @@
 
 ## php 
 
-- [unacms/una](https://github.com/unacms/una) - UNA | Community Management System
+- [unacms/una](https://github.com/unacms/una) - UNA Community Management System
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [forkcms/forkcms](https://github.com/forkcms/forkcms) - Fork is an easy to use open source CMS using Symfony Components.
@@ -11317,11 +11312,12 @@
 
 ## social 
 
+- [unacms/una](https://github.com/unacms/una) - UNA Community Management System
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
 ## social-network 
 
-- [unacms/una](https://github.com/unacms/una) - UNA | Community Management System
+- [unacms/una](https://github.com/unacms/una) - UNA Community Management System
 
 ## soft-skills 
 
