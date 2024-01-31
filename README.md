@@ -65,6 +65,7 @@
 - [apple-vision-pro](#apple-vision-pro)
 - [apple-watch](#apple-watch)
 - [apple2](#apple2)
+- [applicant-tracking-system](#applicant-tracking-system)
 - [application-monitoring](#application-monitoring)
 - [application-security](#application-security)
 - [appsec](#appsec)
@@ -225,6 +226,7 @@
 - [chart](#chart)
 - [charts](#charts)
 - [chat](#chat)
+- [chat-application](#chat-application)
 - [chat-bot](#chat-bot)
 - [chatbot](#chatbot)
 - [chatbot-framework](#chatbot-framework)
@@ -382,6 +384,7 @@
 - [crawler](#crawler)
 - [credentials](#credentials)
 - [crm](#crm)
+- [crm-platform](#crm-platform)
 - [cron](#cron)
 - [cron-jobs](#cron-jobs)
 - [cross-modal](#cross-modal)
@@ -817,6 +820,7 @@
 - [hubot](#hubot)
 - [huggingface](#huggingface)
 - [hugo](#hugo)
+- [human-resources](#human-resources)
 - [hybrid-cloud](#hybrid-cloud)
 - [iac](#iac)
 - [iam](#iam)
@@ -895,6 +899,7 @@
 - [jenkins-shared-library](#jenkins-shared-library)
 - [jetbrains](#jetbrains)
 - [jira](#jira)
+- [jira-alternative](#jira-alternative)
 - [jobs](#jobs)
 - [jobs-search](#jobs-search)
 - [jobsearch](#jobsearch)
@@ -1532,6 +1537,8 @@
 - [slack-bot](#slack-bot)
 - [slides](#slides)
 - [slo](#slo)
+- [sloc](#sloc)
+- [sloccount](#sloccount)
 - [smarthome](#smarthome)
 - [smm](#smm)
 - [snmp](#snmp)
@@ -2038,6 +2045,7 @@
 
 ## analytics 
 
+- [oss-compass/compass-web](https://github.com/oss-compass/compass-web) - Frontend project for the OSS Compass
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
@@ -2209,6 +2217,10 @@
 ## apple2 
 
 - [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a freely-available Open Source AFP fileserver. A UNIX, Linux or BSD system running Netatalk is capable of serving many Macintosh clients simultaneously as an AppleShare file server (AFP)
+
+## applicant-tracking-system 
+
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
 
 ## application-monitoring 
 
@@ -3150,6 +3162,10 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 
+## chat-application 
+
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+
 ## chat-bot 
 
 - [operable/cog](https://github.com/operable/cog) - Bringing the power of the command line to chat
@@ -3320,6 +3336,7 @@
 
 ## cli 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -3562,6 +3579,7 @@
 
 ## code 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 
 ## code-analysis 
@@ -3740,6 +3758,7 @@
 
 ## complexity 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [AJamesPhillips/DataCurator](https://github.com/AJamesPhillips/DataCurator) - DataCurator enables you to map and understand complex systems before helping you plan, communicate and navigate successful interventions in them.
 
 ## compliance 
@@ -4132,7 +4151,12 @@
 
 ## crm 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+
+## crm-platform 
+
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
 
 ## cron 
 
@@ -4288,6 +4312,7 @@
 
 ## dashboard 
 
+- [oss-compass/compass-web](https://github.com/oss-compass/compass-web) - Frontend project for the OSS Compass
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [mntnr/dashboard](https://github.com/mntnr/dashboard) - A status board for repositories within a GitHub organization.
 - [neo4j-labs/neodash](https://github.com/neo4j-labs/neodash) - NeoDash - a Dashboard Builder for Neo4j
@@ -5088,6 +5113,7 @@
 
 ## docs 
 
+- [oss-compass/community](https://github.com/oss-compass/community) - 
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -6006,6 +6032,7 @@
 
 ## golang 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds
@@ -6668,6 +6695,10 @@
 - [GSA/cto-website](https://github.com/GSA/cto-website) - Tech at GSA website
 - [paul-hammant/tbd](https://github.com/paul-hammant/tbd) - Source for TrunkBasedDevelopment.com
 
+## human-resources 
+
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+
 ## hybrid-cloud 
 
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
@@ -6995,6 +7026,7 @@
 
 ## issue-management 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 
 ## issue-template 
@@ -7007,6 +7039,7 @@
 
 ## issue-tracker 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 
 ## issues 
@@ -7112,6 +7145,10 @@
 
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
+
+## jira-alternative 
+
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
 
 ## jobs 
 
@@ -7567,6 +7604,7 @@
 
 ## linux 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of YouTube channels about IT that I watch
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -7784,6 +7822,7 @@
 
 ## macos 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -8853,7 +8892,6 @@
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [telegram-ru/devops_chats](https://github.com/telegram-ru/devops_chats) - Repository of DevOps (RUS) chats in Telegram
 - [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Hardcore Engineering SaaS Platform
 - [jakubnabrdalik/architecture-guild](https://github.com/jakubnabrdalik/architecture-guild) - An example of an Architecture Guild repository
 - [NTCoding/modernization-strategy-selector](https://github.com/NTCoding/modernization-strategy-selector) - A model for choosing the optimal modernization strategy for each subsystem. Taken from my book Architecture Modernization (Manning)
 - [Tinkoff/dm-knowledgebase](https://github.com/Tinkoff/dm-knowledgebase) - База знаний профессии Деливери менеджер https://tinkoff.github.io/dm-knowledgebase/
@@ -10027,6 +10065,7 @@
 
 ## programming-language 
 
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 
 ## programming-languages 
@@ -10044,6 +10083,7 @@
 
 ## project-management 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -11334,6 +11374,14 @@
 - [roshan8/slo-tracker](https://github.com/roshan8/slo-tracker) - A tool to track SLA, SLO and Error budgets
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 
+## sloc 
+
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+
+## sloccount 
+
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+
 ## smarthome 
 
 - [sergejey/majordomo](https://github.com/sergejey/majordomo) - Home automation platform
@@ -11630,6 +11678,7 @@
 
 ## statistics 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
@@ -12909,10 +12958,12 @@
 
 ## wiki 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
 - [devops-ru/awesome-devops_ru](https://github.com/devops-ru/awesome-devops_ru) - Roadmap по материалам о DevOps, помогающим его понять, осмыслить и принять
 
 ## windows 
 
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
