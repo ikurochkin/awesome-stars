@@ -641,6 +641,7 @@
 - [fitness](#fitness)
 - [fixtures](#fixtures)
 - [flipper](#flipper)
+- [flipper-zero](#flipper-zero)
 - [flipperzero](#flipperzero)
 - [floss](#floss)
 - [flowchart](#flowchart)
@@ -1436,6 +1437,7 @@
 - [risk-management](#risk-management)
 - [roadmap](#roadmap)
 - [robotics](#robotics)
+- [roguemaster](#roguemaster)
 - [role](#role)
 - [route53](#route53)
 - [rpc](#rpc)
@@ -3108,7 +3110,6 @@
 
 - [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
-- [chaostoolkit/chaostoolkit-samples](https://github.com/chaostoolkit/chaostoolkit-samples) - Samples that show how to construct Chaos Experiments to learn about and overcome system weaknesses
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
@@ -3125,7 +3126,6 @@
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
 - [chaostoolkit-incubator/chaostoolkit-prometheus](https://github.com/chaostoolkit-incubator/chaostoolkit-prometheus) - Prometheus Extension for the Chaos Toolkit
 - [chaostoolkit/chaostoolkit-kubernetes](https://github.com/chaostoolkit/chaostoolkit-kubernetes) - Kubernetes driver extension of the Chaos Toolkit probes and actions API
-- [chaostoolkit/chaostoolkit-samples](https://github.com/chaostoolkit/chaostoolkit-samples) - Samples that show how to construct Chaos Experiments to learn about and overcome system weaknesses
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 
@@ -5579,12 +5579,18 @@
 
 ## flipper 
 
+- [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.
 - [Moroliner/Flipper-zero-Files](https://github.com/Moroliner/Flipper-zero-Files) - This is a collection of Flipper files i found online or created myself :)
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
 
+## flipper-zero 
+
+- [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.
+
 ## flipperzero 
 
+- [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.
 - [Moroliner/Flipper-zero-Files](https://github.com/Moroliner/Flipper-zero-Files) - This is a collection of Flipper files i found online or created myself :)
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 
@@ -8105,7 +8111,6 @@
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [Aptomi/k8s-app-engine](https://github.com/Aptomi/k8s-app-engine) - Application delivery engine for k8s
-- [chaostoolkit/chaostoolkit-samples](https://github.com/chaostoolkit/chaostoolkit-samples) - Samples that show how to construct Chaos Experiments to learn about and overcome system weaknesses
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [goadesign/goa](https://github.com/goadesign/goa) - 🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨
 
@@ -9718,6 +9723,7 @@
 
 ## pentesting 
 
+- [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - Automate Your Application Security Orchestration And Correlation (ASOC) Using ArcherySec.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -10770,6 +10776,10 @@
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
+## roguemaster 
+
+- [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.
+
 ## role 
 
 - [Nklya/ansible-role-gotty](https://github.com/Nklya/ansible-role-gotty) - Ansible role for Gotty (Terminal as a web application)
@@ -11126,6 +11136,7 @@
 
 ## security-tools 
 
+- [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
