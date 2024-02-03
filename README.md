@@ -15,6 +15,7 @@
 - [action](#action)
 - [actions](#actions)
 - [activity](#activity)
+- [adblock](#adblock)
 - [adc](#adc)
 - [administrator](#administrator)
 - [agent](#agent)
@@ -196,6 +197,7 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [c-sharp](#c-sharp)
+- [c4model](#c4model)
 - [cache](#cache)
 - [cachet](#cachet)
 - [calendar](#calendar)
@@ -558,6 +560,7 @@
 - [documentation-tool](#documentation-tool)
 - [docute](#docute)
 - [domain-driven-design](#domain-driven-design)
+- [domain-specific-language](#domain-specific-language)
 - [dora-metrics](#dora-metrics)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
@@ -565,15 +568,18 @@
 - [drift-detection](#drift-detection)
 - [driver](#driver)
 - [drones](#drones)
+- [dsl](#dsl)
 - [dx](#dx)
 - [dynamodb](#dynamodb)
 - [e2e-testing](#e2e-testing)
+- [easy-deploy](#easy-deploy)
 - [ebpf](#ebpf)
 - [ec2](#ec2)
 - [ecosystem](#ecosystem)
 - [ecr](#ecr)
 - [ecs](#ecs)
 - [editor](#editor)
+- [edn](#edn)
 - [educational](#educational)
 - [eks](#eks)
 - [elasticsearch](#elasticsearch)
@@ -647,6 +653,7 @@
 - [fish](#fish)
 - [fitness](#fitness)
 - [fixtures](#fixtures)
+- [flask](#flask)
 - [flipper](#flipper)
 - [flipper-zero](#flipper-zero)
 - [flipperzero](#flipperzero)
@@ -689,6 +696,7 @@
 - [gcp-security](#gcp-security)
 - [gem](#gem)
 - [genai](#genai)
+- [generation](#generation)
 - [generative-ai](#generative-ai)
 - [generator](#generator)
 - [getting-started](#getting-started)
@@ -897,6 +905,7 @@
 - [it](#it)
 - [itam](#itam)
 - [iterm2](#iterm2)
+- [itunes](#itunes)
 - [jaeger](#jaeger)
 - [java](#java)
 - [java-roadmap](#java-roadmap)
@@ -1069,6 +1078,7 @@
 - [meta-relational-learning](#meta-relational-learning)
 - [metabase](#metabase)
 - [metadata](#metadata)
+- [metasearch](#metasearch)
 - [metasearch-engine](#metasearch-engine)
 - [methodology](#methodology)
 - [metrics](#metrics)
@@ -1104,6 +1114,7 @@
 - [modelica-library](#modelica-library)
 - [modeling](#modeling)
 - [modeling-dynamic-systems](#modeling-dynamic-systems)
+- [modelling](#modelling)
 - [module](#module)
 - [molecule](#molecule)
 - [moleculer](#moleculer)
@@ -1454,6 +1465,7 @@
 - [rpc](#rpc)
 - [rpm](#rpm)
 - [rspec](#rspec)
+- [rss](#rss)
 - [rtl-sdr](#rtl-sdr)
 - [rubocop](#rubocop)
 - [ruby](#ruby)
@@ -1463,6 +1475,7 @@
 - [rubygems](#rubygems)
 - [runbook](#runbook)
 - [rundeck](#rundeck)
+- [russia](#russia)
 - [russian](#russian)
 - [russian-language](#russian-language)
 - [rust](#rust)
@@ -1495,6 +1508,7 @@
 - [sdk](#sdk)
 - [sdr](#sdr)
 - [search](#search)
+- [search-engine](#search-engine)
 - [search-engines](#search-engines)
 - [secdevops](#secdevops)
 - [secret](#secret)
@@ -1573,6 +1587,7 @@
 - [software-testing](#software-testing)
 - [softwareengineering](#softwareengineering)
 - [solution-architecture](#solution-architecture)
+- [soundcloud](#soundcloud)
 - [spa](#spa)
 - [spanner](#spanner)
 - [spdx](#spdx)
@@ -1621,6 +1636,7 @@
 - [strategy-development](#strategy-development)
 - [streamer](#streamer)
 - [streamer-tool](#streamer-tool)
+- [structurizr](#structurizr)
 - [study](#study)
 - [study-plan](#study-plan)
 - [style-checker](#style-checker)
@@ -1774,6 +1790,7 @@
 - [tutorial](#tutorial)
 - [tutorials](#tutorials)
 - [tvos](#tvos)
+- [twitter](#twitter)
 - [typeform](#typeform)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -1940,6 +1957,10 @@
 ## activity 
 
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
+
+## adblock 
+
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 
 ## adc 
 
@@ -2240,7 +2261,7 @@
 
 ## applicant-tracking-system 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 
 ## application-monitoring 
 
@@ -2287,6 +2308,7 @@
 
 ## architecture 
 
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -2453,6 +2475,8 @@
 
 ## awesome 
 
+- [stevexuereb/awesome-slo](https://github.com/stevexuereb/awesome-slo) - Curated list of resources on SLOs
+- [feststelltaste/awesome-software-analytics](https://github.com/feststelltaste/awesome-software-analytics) - Curated list of awesome resources and links about Software Analytics
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [ikurochkin/awesome-stars](https://github.com/ikurochkin/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -2497,6 +2521,8 @@
 
 ## awesome-list 
 
+- [stevexuereb/awesome-slo](https://github.com/stevexuereb/awesome-slo) - Curated list of resources on SLOs
+- [feststelltaste/awesome-software-analytics](https://github.com/feststelltaste/awesome-software-analytics) - Curated list of awesome resources and links about Software Analytics
 - [ikurochkin/awesome-stars](https://github.com/ikurochkin/awesome-stars) - My Awesome List
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
@@ -3005,6 +3031,10 @@
 
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 
+## c4model 
+
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
+
 ## cache 
 
 - [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
@@ -3192,7 +3222,7 @@
 
 ## chat-application 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 
 ## chat-bot 
 
@@ -3430,6 +3460,7 @@
 
 ## clojure 
 
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 
@@ -4189,12 +4220,12 @@
 
 ## crm 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
 ## crm-platform 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 
 ## cron 
 
@@ -4540,6 +4571,8 @@
 
 ## ddd 
 
+- [ContextMapper/context-mapper-dsl](https://github.com/ContextMapper/context-mapper-dsl) - ContextMapper DSL: A Domain-specific Language for Context Mapping & Service Decomposition
+- [trustbit/Contexture](https://github.com/trustbit/Contexture) - Wizard for the Bounded-Context-Canvas
 - [stringconcat/ddd_practice](https://github.com/stringconcat/ddd_practice) - 
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [humank/ddd-practitioners-ref](https://github.com/humank/ddd-practitioners-ref) - EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.
@@ -4769,6 +4802,7 @@
 
 ## devops 
 
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [operate-first/sre](https://github.com/operate-first/sre) - SRE content
 - [Asgoret/devops_chats](https://github.com/Asgoret/devops_chats) - Repository of DevOps (RUS) chats in Telegram
@@ -4932,6 +4966,7 @@
 
 ## diagrams 
 
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
@@ -5050,6 +5085,7 @@
 
 ## docker 
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
@@ -5211,11 +5247,17 @@
 
 ## domain-driven-design 
 
+- [ContextMapper/context-mapper-dsl](https://github.com/ContextMapper/context-mapper-dsl) - ContextMapper DSL: A Domain-specific Language for Context Mapping & Service Decomposition
+- [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts
 - [stringconcat/ddd_practice](https://github.com/stringconcat/ddd_practice) - 
 - [ddd-crew/welcome-to-ddd](https://github.com/ddd-crew/welcome-to-ddd) - Definitions of DDD and fundamental concepts to reduce the learning curve and confusion
 - [ddd-crew/eventstorming-glossary-cheat-sheet](https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet) - 
 - [ddd-crew/core-domain-charts](https://github.com/ddd-crew/core-domain-charts) - A tool for collaboratively finding your core domains - strategic business differentiators
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
+
+## domain-specific-language 
+
+- [ContextMapper/context-mapper-dsl](https://github.com/ContextMapper/context-mapper-dsl) - ContextMapper DSL: A Domain-specific Language for Context Mapping & Service Decomposition
 
 ## dora-metrics 
 
@@ -5247,6 +5289,10 @@
 
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 
+## dsl 
+
+- [ContextMapper/context-mapper-dsl](https://github.com/ContextMapper/context-mapper-dsl) - ContextMapper DSL: A Domain-specific Language for Context Mapping & Service Decomposition
+
 ## dx 
 
 - [mikaelvesavuori/codemetrix](https://github.com/mikaelvesavuori/codemetrix) - Understand the level of coupling and changeability of your code in a second. 🪄
@@ -5260,6 +5306,10 @@
 ## e2e-testing 
 
 - [microsoft/HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
+
+## easy-deploy 
+
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 
 ## ebpf 
 
@@ -5291,6 +5341,10 @@
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+
+## edn 
+
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 
 ## educational 
 
@@ -5626,6 +5680,10 @@
 
 - [lamoda/gonkey](https://github.com/lamoda/gonkey) - Gonkey - a testing automation tool
 
+## flask 
+
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+
 ## flipper 
 
 - [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.
@@ -5815,6 +5873,10 @@
 ## genai 
 
 - [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.
+
+## generation 
+
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 
 ## generative-ai 
 
@@ -6312,6 +6374,7 @@
 
 ## graphviz 
 
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [28mm/blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
@@ -6622,6 +6685,7 @@
 
 ## heroku 
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [heroku/heroku-pg-extras](https://github.com/heroku/heroku-pg-extras) - A heroku plugin for awesome pg:* commands that are also great and fun and super.
 
 ## heroku-cli-plugin 
@@ -6765,7 +6829,7 @@
 
 ## human-resources 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 
 ## hybrid-cloud 
 
@@ -7098,7 +7162,7 @@
 
 ## issue-management 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 
 ## issue-template 
@@ -7111,7 +7175,7 @@
 
 ## issue-tracker 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 
 ## issues 
@@ -7134,6 +7198,10 @@
 ## iterm2 
 
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+
+## itunes 
+
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 
 ## jaeger 
 
@@ -7220,7 +7288,7 @@
 
 ## jira-alternative 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 
 ## jobs 
 
@@ -7244,6 +7312,7 @@
 
 ## json 
 
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
 
@@ -7994,6 +8063,7 @@
 
 ## markdown 
 
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
@@ -8100,8 +8170,13 @@
 
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 
+## metasearch 
+
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+
 ## metasearch-engine 
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [hverlin/Quest](https://github.com/hverlin/Quest) - Quest is a Unified Engine for Searching Things (JIRA, Confluence, Google Drive, Dropbox paper, Slack...)
 
 ## methodology 
@@ -8289,6 +8364,10 @@
 ## modeling-dynamic-systems 
 
 - [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - Business Simulation Library (BSL) - A library for modeling & simulation of dynamical systems in the social sciences, e.g., business, economics, and ecology using the System Dynamics metaphor.
+
+## modelling 
+
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 
 ## module 
 
@@ -8946,6 +9025,10 @@
 
 ## others 
 
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+- [SkeltonThatcher/devopstopologies](https://github.com/SkeltonThatcher/devopstopologies) - Website for the DevOps Team Topologies at devopstopologies.com
+- [magnit-tech/magnit-online](https://github.com/magnit-tech/magnit-online) - Департамент онлайн сервисов Магнит
+- [dev-human/dev-human](https://github.com/dev-human/dev-human) - dev-human main repo
 - [Delivery-Manager/knowledgebase](https://github.com/Delivery-Manager/knowledgebase) - База знаний профессии Деливери менеджер
 - [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)
 - [deployordie/card-game](https://github.com/deployordie/card-game) - Deploy or Die is a card game about deploying
@@ -9032,7 +9115,7 @@
 - [dora-team/dora.dev](https://github.com/dora-team/dora.dev) - Public-facing knowledge site: https://dora.dev
 - [metatech-university/TopLevel-Experts](https://github.com/metatech-university/TopLevel-Experts) - CTO, Architect, Principal — Training programs
 - [self-actuated/actions-usage](https://github.com/self-actuated/actions-usage) - Find your total usage on GitHub Actions
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [isaqb-org/glossary](https://github.com/isaqb-org/glossary) - An extensive glossary of software architecture (and development) terminology.  Explains the terms used and referenced in the iSAQB foundation and advanced level curricula.
 - [darkbenladan/maturity_matrix](https://github.com/darkbenladan/maturity_matrix) - maturity_matrix
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
@@ -9892,6 +9975,7 @@
 
 ## plantuml 
 
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 
 ## platform 
@@ -9948,6 +10032,7 @@
 
 ## podcast 
 
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 - [jtprogru/voiceops](https://github.com/jtprogru/voiceops) - Различные темы, которые мы так или иначе обсуждаем в нашем скромном кругу
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 
@@ -10089,6 +10174,7 @@
 
 ## privacy 
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [moarpepes/awesome-mesh](https://github.com/moarpepes/awesome-mesh) - This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes c
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -10167,7 +10253,7 @@
 
 ## project-management 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -10335,6 +10421,7 @@
 
 ## python 
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [vas3k/vas3k.blog](https://github.com/vas3k/vas3k.blog) - My blog codebase
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
@@ -10885,6 +10972,10 @@
 - [ryotarai/infrataster](https://github.com/ryotarai/infrataster) - Infrastructure Behavior Testing Framework
 - [chefspec/chefspec](https://github.com/chefspec/chefspec) - Write RSpec examples and generate coverage reports for Chef recipes!
 
+## rss 
+
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
+
 ## rtl-sdr 
 
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
@@ -10967,6 +11058,10 @@
 ## rundeck 
 
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+
+## russia 
+
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 
 ## russian 
 
@@ -11113,8 +11208,13 @@
 
 ## search 
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [hverlin/Quest](https://github.com/hverlin/Quest) - Quest is a Unified Engine for Searching Things (JIRA, Confluence, Google Drive, Dropbox paper, Slack...)
+
+## search-engine 
+
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 
 ## search-engines 
 
@@ -11456,6 +11556,7 @@
 
 ## slo 
 
+- [stevexuereb/awesome-slo](https://github.com/stevexuereb/awesome-slo) - Curated list of resources on SLOs
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [last9/slo-computer](https://github.com/last9/slo-computer) - SLOs, Error windows and alerts are complicated. Here an attempt to make it easy
 - [OpenSLO/slogen](https://github.com/OpenSLO/slogen) - tool to create and manage content for reliability tracking from logs/event data.
@@ -11576,6 +11677,10 @@
 
 - [unlight/solution-architecture](https://github.com/unlight/solution-architecture) - Solution Architecture links, articles, books, video lessons, etc.
 
+## soundcloud 
+
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
+
 ## spa 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -11661,6 +11766,7 @@
 
 ## sre 
 
+- [stevexuereb/awesome-slo](https://github.com/stevexuereb/awesome-slo) - Curated list of resources on SLOs
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [last9/slo-computer](https://github.com/last9/slo-computer) - SLOs, Error windows and alerts are complicated. Here an attempt to make it easy
 - [teivah/sre-roadmap](https://github.com/teivah/sre-roadmap) - An Opinionated Roadmap to Become an SRE (Concepts &gt; Tools)
@@ -11825,6 +11931,10 @@
 ## streamer-tool 
 
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
+
+## structurizr 
+
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 
 ## study 
 
@@ -12094,7 +12204,7 @@
 
 ## team-management 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 
 ## teamcity 
 
@@ -12605,6 +12715,10 @@
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
+## twitter 
+
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
+
 ## typeform 
 
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
@@ -13057,7 +13171,7 @@
 
 ## wiki 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform -- One Platform replacing Linear, Slack, Motion, Notion and many more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 - [devops-ru/awesome-devops_ru](https://github.com/devops-ru/awesome-devops_ru) - Roadmap по материалам о DevOps, помогающим его понять, осмыслить и принять
 
 ## windows 
@@ -13147,6 +13261,7 @@
 
 ## youtube 
 
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 - [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of YouTube channels about IT that I watch
 
 ## zabbix 
