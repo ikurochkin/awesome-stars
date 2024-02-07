@@ -36,6 +36,7 @@
 - [allure](#allure)
 - [alternatives](#alternatives)
 - [amazon](#amazon)
+- [amazon-bedrock](#amazon-bedrock)
 - [analysis](#analysis)
 - [analytics](#analytics)
 - [analytics-dashboard](#analytics-dashboard)
@@ -661,6 +662,7 @@
 - [flowchart](#flowchart)
 - [fluentd](#fluentd)
 - [flutter](#flutter)
+- [flux](#flux)
 - [flyway](#flyway)
 - [foreman](#foreman)
 - [fork](#fork)
@@ -845,6 +847,7 @@
 - [ice](#ice)
 - [ide](#ide)
 - [idioms](#idioms)
+- [idp](#idp)
 - [ietf](#ietf)
 - [ietf-rfcs](#ietf-rfcs)
 - [ifttt](#ifttt)
@@ -1199,6 +1202,7 @@
 - [oh-my-zsh-theme](#oh-my-zsh-theme)
 - [ohmyzsh](#ohmyzsh)
 - [olap](#olap)
+- [ollama](#ollama)
 - [on-call](#on-call)
 - [oncall](#oncall)
 - [one-liners](#one-liners)
@@ -2079,6 +2083,10 @@
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
+
+## amazon-bedrock 
+
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 
 ## analysis 
 
@@ -4808,6 +4816,7 @@
 
 ## devops 
 
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
 - [operate-first/sre](https://github.com/operate-first/sre) - SRE content
@@ -5724,6 +5733,10 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
+## flux 
+
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
+
 ## flyway 
 
 - [petr-korobeinikov/flyway-example](https://github.com/petr-korobeinikov/flyway-example) - Flyway (https://flywaydb.org) usage example.
@@ -6065,6 +6078,7 @@
 
 ## gitops 
 
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -6879,6 +6893,10 @@
 
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 
+## idp 
+
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
+
 ## ietf 
 
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
@@ -7337,6 +7355,7 @@
 
 ## k8s 
 
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -7461,6 +7480,7 @@
 
 ## kubernetes 
 
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
 - [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
@@ -7853,6 +7873,7 @@
 ## llms 
 
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 
 ## load-balancer 
 
@@ -8854,6 +8875,10 @@
 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 
+## ollama 
+
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
+
 ## on-call 
 
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
@@ -9037,6 +9062,8 @@
 
 ## others 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+- [Byndyusoft/hypothesismapping](https://github.com/Byndyusoft/hypothesismapping) - База знаний о методе "Карта гипотез"
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI.
 - [flussonic/marktome](https://github.com/flussonic/marktome) - Markdown to json and back with prerprocessors
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
