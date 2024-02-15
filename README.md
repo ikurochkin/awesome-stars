@@ -457,6 +457,7 @@
 - [databases](#databases)
 - [datadog](#datadog)
 - [dataengineering](#dataengineering)
+- [datasets](#datasets)
 - [dataviz](#dataviz)
 - [dba-roadmap](#dba-roadmap)
 - [dbeaver](#dbeaver)
@@ -1501,6 +1502,7 @@
 - [scala](#scala)
 - [scalability](#scalability)
 - [scalable](#scalable)
+- [scaling](#scaling)
 - [scanning](#scanning)
 - [scans](#scans)
 - [scheduled-jobs](#scheduled-jobs)
@@ -2743,6 +2745,7 @@
 
 ## backstage 
 
+- [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
 - [AxisCommunications/backstage-plugins](https://github.com/AxisCommunications/backstage-plugins) - Backstage Plugins Created by Axis Communications
 - [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - Enterprise-ready Backstage distribution
 - [einride/backstage-go](https://github.com/einride/backstage-go) - Backstage SDK for Go
@@ -4572,6 +4575,10 @@
 
 - [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 
+## datasets 
+
+- [PAIR-code/datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook) - The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation.
+
 ## dataviz 
 
 - [dutchcoders/marija](https://github.com/dutchcoders/marija) - Data exploration and visualisation for Elasticsearch and Splunk.
@@ -5243,6 +5250,7 @@
 
 ## documentation 
 
+- [PAIR-code/datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook) - The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation.
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -5994,6 +6002,7 @@
 
 ## github-action 
 
+- [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 
@@ -6042,6 +6051,7 @@
 
 ## github-issues 
 
+- [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 
 ## github-metrics 
@@ -9094,6 +9104,12 @@
 
 ## others 
 
+- [gchq/BoilingFrogs](https://github.com/gchq/BoilingFrogs) - GCHQ's internal Boiling Frogs research paper on software development and organisational change in the face of disruption #boilingfrogs
+- [telus/reliability-model](https://github.com/telus/reliability-model) - 
+- [ConfluxHQ/clueful-index](https://github.com/ConfluxHQ/clueful-index) - Many organizations have limited awareness about modern software and technology, even though software is essential for them. Use the Clueful Index to separate the clueless organizations from the cluefu
+- [sassoftware/fine-flow-tool-kit](https://github.com/sassoftware/fine-flow-tool-kit) - The FINE Flow Tool Kit provides a set of Python utilities that demonstrates an implementation of the FINE team classification process, and the associated FINE flow equations.
+- [SkeltonThatcher/bizmetrics-book](https://github.com/SkeltonThatcher/bizmetrics-book) - Public resources for the book "Team Guide to Metrics for Business Decisions"
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [startupguide/awesome-oss-investors](https://github.com/startupguide/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [DevOpsKitchenTalks/podcast-materials](https://github.com/DevOpsKitchenTalks/podcast-materials) - 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
@@ -11219,6 +11235,10 @@
 
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 
+## scaling 
+
+- [le0pard/postgresql_book](https://github.com/le0pard/postgresql_book) - Book about PostgreSQL (russian)
+
 ## scanning 
 
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - Automate Your Application Security Orchestration And Correlation (ASOC) Using ArcherySec.
@@ -12715,6 +12735,7 @@
 
 ## transparency 
 
+- [PAIR-code/datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook) - The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation.
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone 
 
 ## travis 
