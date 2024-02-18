@@ -526,6 +526,7 @@
 - [digitalocean](#digitalocean)
 - [disaster-recovery](#disaster-recovery)
 - [discord](#discord)
+- [discourse](#discourse)
 - [discovery](#discovery)
 - [discovery-service](#discovery-service)
 - [discussion](#discussion)
@@ -595,6 +596,7 @@
 - [emacs](#emacs)
 - [embedded-systems](#embedded-systems)
 - [embeddings](#embeddings)
+- [ember](#ember)
 - [emberjs](#emberjs)
 - [emulators](#emulators)
 - [encoder](#encoder)
@@ -677,6 +679,7 @@
 - [formatters](#formatters)
 - [forms](#forms)
 - [forms-builder](#forms-builder)
+- [forum](#forum)
 - [foss](#foss)
 - [four-keys](#four-keys)
 - [framework](#framework)
@@ -5031,6 +5034,10 @@
 
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 
+## discourse 
+
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
 ## discovery 
 
 - [mikaelvesavuori/catalogist](https://github.com/mikaelvesavuori/catalogist) - Catalogist is the easy way to catalog and make your software and (micro)services visible to your organization in a lightweight and developer-friendly way.
@@ -5435,6 +5442,10 @@
 
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 
+## ember 
+
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
 ## emberjs 
 
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
@@ -5808,6 +5819,10 @@
 ## forms-builder 
 
 - [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that allows easy drag-and-drop form creation. Evaluate its capabilities for free.
+
+## forum 
+
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
 ## foss 
 
@@ -7285,6 +7300,7 @@
 
 ## javascript 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
@@ -9103,6 +9119,7 @@
 
 ## others 
 
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [gchq/BoilingFrogs](https://github.com/gchq/BoilingFrogs) - GCHQ's internal Boiling Frogs research paper on software development and organisational change in the face of disruption #boilingfrogs
 - [telus/reliability-model](https://github.com/telus/reliability-model) - 
 - [ConfluxHQ/clueful-index](https://github.com/ConfluxHQ/clueful-index) - Many organizations have limited awareness about modern software and technology, even though software is essential for them. Use the Clueful Index to separate the clueless organizations from the cluefu
@@ -10183,6 +10200,7 @@
 
 ## postgresql 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
@@ -10653,6 +10671,7 @@
 
 ## rails 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites
@@ -11078,6 +11097,7 @@
 
 ## ruby 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [yegor256/cobench](https://github.com/yegor256/cobench) - Coders Benchmarking Script: automatically collects productivity metrics from a team of GitHub contributors
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
