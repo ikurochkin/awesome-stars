@@ -86,6 +86,7 @@
 - [argo-cd](#argo-cd)
 - [argocd](#argocd)
 - [art](#art)
+- [article](#article)
 - [articles](#articles)
 - [artificial-intelligence](#artificial-intelligence)
 - [asciicast](#asciicast)
@@ -158,6 +159,7 @@
 - [benchmarking](#benchmarking)
 - [best-practices](#best-practices)
 - [bi](#bi)
+- [bias](#bias)
 - [big-data](#big-data)
 - [bigdata](#bigdata)
 - [bigquery](#bigquery)
@@ -193,6 +195,7 @@
 - [builder](#builder)
 - [bullet-journal](#bullet-journal)
 - [burpsuite](#burpsuite)
+- [business](#business)
 - [business-intelligence](#business-intelligence)
 - [businessintelligence](#businessintelligence)
 - [c](#c)
@@ -599,6 +602,7 @@
 - [embeddings](#embeddings)
 - [ember](#ember)
 - [emberjs](#emberjs)
+- [employee-handbook](#employee-handbook)
 - [emulators](#emulators)
 - [encoder](#encoder)
 - [encryption](#encryption)
@@ -610,7 +614,9 @@
 - [english](#english)
 - [enterprise](#enterprise)
 - [enterprise-search](#enterprise-search)
+- [entrepreneur](#entrepreneur)
 - [entrepreneurs](#entrepreneurs)
+- [entrepreneurship](#entrepreneurship)
 - [env](#env)
 - [environment](#environment)
 - [environment-variables](#environment-variables)
@@ -822,6 +828,7 @@
 - [highload](#highload)
 - [hiring](#hiring)
 - [hiring-without-whiteboards](#hiring-without-whiteboards)
+- [histogram](#histogram)
 - [history](#history)
 - [hls](#hls)
 - [home-automation](#home-automation)
@@ -1296,6 +1303,7 @@
 - [performance-tuning](#performance-tuning)
 - [php](#php)
 - [pipeline](#pipeline)
+- [pitch](#pitch)
 - [pixhawk](#pixhawk)
 - [pkgbuild](#pkgbuild)
 - [pkm](#pkm)
@@ -1468,6 +1476,7 @@
 - [rfid](#rfid)
 - [rhel](#rhel)
 - [rich](#rich)
+- [riemann](#riemann)
 - [ripgrep](#ripgrep)
 - [risk-analysis](#risk-analysis)
 - [risk-management](#risk-management)
@@ -1498,6 +1507,7 @@
 - [s3-bucket](#s3-bucket)
 - [saas](#saas)
 - [safety](#safety)
+- [sales](#sales)
 - [saltstack](#saltstack)
 - [sampler](#sampler)
 - [sarif-report](#sarif-report)
@@ -1662,6 +1672,7 @@
 - [sumologic](#sumologic)
 - [supermarket](#supermarket)
 - [supply-chain](#supply-chain)
+- [support](#support)
 - [supports-dot-config](#supports-dot-config)
 - [survey](#survey)
 - [survey-analysis](#survey-analysis)
@@ -2378,6 +2389,10 @@
 
 - [artsy/README](https://github.com/artsy/README) - :wave: - The documentation for being an Artsy Engineer
 
+## article 
+
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
+
 ## articles 
 
 - [mariuszgil/awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming) - Awesome EventStorming
@@ -2873,6 +2888,10 @@
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
+## bias 
+
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
+
 ## big-data 
 
 - [apache/kibble](https://github.com/apache/kibble) - Apache Kibble - a tool to collect, aggregate and visualize data about any software project
@@ -3032,6 +3051,10 @@
 ## burpsuite 
 
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+
+## business 
+
+- [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
 
 ## business-intelligence 
 
@@ -4344,6 +4367,7 @@
 
 ## culture 
 
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [artsy/README](https://github.com/artsy/README) - :wave: - The documentation for being an Artsy Engineer
@@ -5458,6 +5482,10 @@
 
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 
+## employee-handbook 
+
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
+
 ## emulators 
 
 - [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
@@ -5486,6 +5514,7 @@
 
 ## engineering-management 
 
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [trustmaster/embook](https://github.com/trustmaster/embook) - Management patterns and situational techniques for Engineering Managers
 - [kaushikb9/em-interviews](https://github.com/kaushikb9/em-interviews) - Repository of interview questions for Engineering Leadership roles - Engineering Manager, Director of Engineering, VP Engineering and also senior IC roles
@@ -5508,9 +5537,17 @@
 
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 
+## entrepreneur 
+
+- [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
+
 ## entrepreneurs 
 
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
+
+## entrepreneurship 
+
+- [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
 
 ## env 
 
@@ -6781,6 +6818,10 @@
 
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 
+## histogram 
+
+- [zserge/metric](https://github.com/zserge/metric) - Minimal metrics for Go (counter/gauge/histogram). No dependencies. Compatible with expvar. Web UI included.
+
 ## history 
 
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
@@ -7729,6 +7770,7 @@
 
 ## leader 
 
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [linkedin/kafka-monitor](https://github.com/linkedin/kafka-monitor) - Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availab
 
 ## leadership 
@@ -8107,6 +8149,7 @@
 
 ## management 
 
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -10082,6 +10125,10 @@
 - [cburgmer/buildviz](https://github.com/cburgmer/buildviz) - Transparency for your build pipeline's results and runtime
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 
+## pitch 
+
+- [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
+
 ## pixhawk 
 
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
@@ -11039,6 +11086,10 @@
 
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 
+## riemann 
+
+- [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
+
 ## ripgrep 
 
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
@@ -11227,6 +11278,10 @@
 ## safety 
 
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
+
+## sales 
+
+- [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
 
 ## saltstack 
 
@@ -11959,6 +12014,7 @@
 
 ## startup 
 
+- [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
 - [docops-hq/conf](https://github.com/docops-hq/conf) - Конспекты докладов IT-конференций
 
 ## startup-resources 
@@ -12108,6 +12164,10 @@
 ## supply-chain 
 
 - [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)
+
+## support 
+
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
 
 ## supports-dot-config 
 
