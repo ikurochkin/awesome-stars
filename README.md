@@ -9174,6 +9174,7 @@
 
 ## others 
 
+- [tduniec/backstage-timesaver-plugin](https://github.com/tduniec/backstage-timesaver-plugin) - This plugin provides an implementation of charts and statistics related to your time savings that are coming from usage of your templates. Plugins is built from frontend and backend part. This part of
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects
 - [cncf/devstats](https://github.com/cncf/devstats) - 📈CNCF-created tool for analyzing and graphing developer contributions
