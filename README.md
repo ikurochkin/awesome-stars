@@ -2289,7 +2289,7 @@
 
 ## applicant-tracking-system 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
 ## application-monitoring 
 
@@ -3273,7 +3273,7 @@
 
 ## chat-application 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
 ## chat-bot 
 
@@ -4282,12 +4282,12 @@
 
 ## crm 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
 ## crm-platform 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
 ## cron 
 
@@ -6938,7 +6938,7 @@
 
 ## human-resources 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
 ## hybrid-cloud 
 
@@ -7279,7 +7279,7 @@
 
 ## issue-management 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 
 ## issue-template 
@@ -7292,7 +7292,7 @@
 
 ## issue-tracker 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 
 ## issues 
@@ -7408,7 +7408,7 @@
 
 ## jira-alternative 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
 ## jobs 
 
@@ -10427,7 +10427,7 @@
 
 ## project-management 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -12169,7 +12169,7 @@
 
 ## support 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
 ## supports-dot-config 
 
@@ -12383,7 +12383,7 @@
 
 ## team-management 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
 ## teamcity 
 
@@ -13364,7 +13364,7 @@
 
 ## wiki 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [devops-ru/awesome-devops_ru](https://github.com/devops-ru/awesome-devops_ru) - Roadmap по материалам о DevOps, помогающим его понять, осмыслить и принять
 
 ## windows 
