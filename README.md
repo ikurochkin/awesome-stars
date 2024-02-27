@@ -339,6 +339,7 @@
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [conan](#conan)
+- [concepts](#concepts)
 - [concourse](#concourse)
 - [conemu](#conemu)
 - [conference](#conference)
@@ -490,6 +491,7 @@
 - [deployer](#deployer)
 - [deployment](#deployment)
 - [deployment-pipeline](#deployment-pipeline)
+- [deployment-strategy](#deployment-strategy)
 - [deployments](#deployments)
 - [deprecated](#deprecated)
 - [design](#design)
@@ -607,6 +609,7 @@
 - [encoder](#encoder)
 - [encryption](#encryption)
 - [enforce-policies](#enforce-policies)
+- [engineer](#engineer)
 - [engineering](#engineering)
 - [engineering-blogs](#engineering-blogs)
 - [engineering-management](#engineering-management)
@@ -1006,6 +1009,7 @@
 - [lecture-notes](#lecture-notes)
 - [lectures](#lectures)
 - [less](#less)
+- [lessons-learned](#lessons-learned)
 - [letsencrypt](#letsencrypt)
 - [lib](#lib)
 - [library](#library)
@@ -1347,8 +1351,10 @@
 - [production](#production)
 - [productivity](#productivity)
 - [productivity-tools](#productivity-tools)
+- [professional](#professional)
 - [profile](#profile)
 - [profiling](#profiling)
+- [programmer](#programmer)
 - [programming](#programming)
 - [programming-blogs](#programming-blogs)
 - [programming-interviews](#programming-interviews)
@@ -1419,6 +1425,7 @@
 - [react-native](#react-native)
 - [react-roadmap](#react-roadmap)
 - [reactjs](#reactjs)
+- [read-articles](#read-articles)
 - [read-papers](#read-papers)
 - [reading](#reading)
 - [reading-notes](#reading-notes)
@@ -2336,6 +2343,7 @@
 
 ## architecture 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
@@ -3926,6 +3934,7 @@
 
 ## computer-science 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -3944,6 +3953,10 @@
 ## conan 
 
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
+
+## concepts 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
 ## concourse 
 
@@ -4752,6 +4765,10 @@
 
 - [kelseyhightower/pipeline](https://github.com/kelseyhightower/pipeline) - A step by step guide on creating build and deployment pipelines for Kubernetes.
 
+## deployment-strategy 
+
+- [ansistrano/deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
+
 ## deployments 
 
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
@@ -5288,6 +5305,7 @@
 
 ## documentation 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [PAIR-code/datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook) - The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation.
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
@@ -5501,6 +5519,10 @@
 ## enforce-policies 
 
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+
+## engineer 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
 ## engineering 
 
@@ -7790,6 +7812,7 @@
 
 ## learning 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [anitsh/til](https://github.com/anitsh/til) - Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.
 
 ## learning-by-doing 
@@ -7812,6 +7835,10 @@
 ## less 
 
 - [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
+
+## lessons-learned 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
 ## letsencrypt 
 
@@ -10381,6 +10408,10 @@
 
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 
+## professional 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+
 ## profile 
 
 - [Nike-Inc/bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
@@ -10389,6 +10420,10 @@
 ## profiling 
 
 - [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+
+## programmer 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
 ## programming 
 
@@ -10409,6 +10444,7 @@
 
 ## programming-language 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 
@@ -10804,6 +10840,10 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+
+## read-articles 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 
 ## read-papers 
 
@@ -11317,6 +11357,7 @@
 
 ## scalability 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
@@ -11823,6 +11864,7 @@
 
 ## software-engineering 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [ligurio/swebok-2004-in-russian](https://github.com/ligurio/swebok-2004-in-russian) - Основы программной инженерии (SWEBOK 2004 на русском) в EPUB и HTML
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
