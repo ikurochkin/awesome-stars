@@ -2115,7 +2115,7 @@
 
 ## analysis 
 
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 - [soutaro/querly](https://github.com/soutaro/querly) - Query Method Calls from Ruby Programs
 
 ## analytics 
@@ -3792,7 +3792,7 @@
 
 ## collection 
 
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 - [shubheksha/kubernetes-internals](https://github.com/shubheksha/kubernetes-internals) - This is a collection of resources that shed light on the inner workings of Kubernetes
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
@@ -5635,7 +5635,7 @@
 
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [Semigradsky/events](https://github.com/Semigradsky/events) - [RU] Frontend events, talks, meetups
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 
 ## exam 
@@ -8079,7 +8079,7 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 - [flant/loghouse](https://github.com/flant/loghouse) - Ready to use log management solution for Kubernetes storing data in ClickHouse and providing web UI.
 
 ## loki 
@@ -8369,7 +8369,7 @@
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [roshan8/slo-tracker](https://github.com/roshan8/slo-tracker) - A tool to track SLA, SLO and Error budgets
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 - [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
 - [zserge/metric](https://github.com/zserge/metric) - Minimal metrics for Go (counter/gauge/histogram). No dependencies. Compatible with expvar. Web UI included.
 - [yabeda-rb/yabeda](https://github.com/yabeda-rb/yabeda) - Extendable framework for collecting and exporting metrics from your Ruby application
@@ -8600,7 +8600,7 @@
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
 - [yabeda-rb/yabeda](https://github.com/yabeda-rb/yabeda) - Extendable framework for collecting and exporting metrics from your Ruby application
@@ -8935,7 +8935,7 @@
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
 - [roshan8/slo-tracker](https://github.com/roshan8/slo-tracker) - A tool to track SLA, SLO and Error budgets
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
@@ -10103,7 +10103,7 @@
 ## performance 
 
 - [yegor256/cobench](https://github.com/yegor256/cobench) - Coders Benchmarking Script: automatically collects productivity metrics from a team of GitHub contributors
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
@@ -10420,7 +10420,7 @@
 
 ## profiling 
 
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 
 ## programmer 
 
@@ -12473,7 +12473,7 @@
 
 ## telemetry 
 
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 
 ## temperature-sensor 
 
@@ -12824,7 +12824,7 @@
 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 
 ## tracing 
 
@@ -13167,7 +13167,7 @@
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
-- [cncf/tag-observability](https://github.com/cncf/tag-observability) - CNCF Observability Technical Advisory Group (TAG) 🔭⚙️
+- [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
