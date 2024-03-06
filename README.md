@@ -8521,11 +8521,11 @@
 
 ## modelica 
 
-- [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - The Business Simulation Library (BSL) supports modeling and simulation of dynamical systems in the social sciences, such as business, economics, and ecology, using the system dynamics approach
+- [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - Dynamic modeling for business, economics, and ecology using the system dynamics approach
 
 ## modelica-library 
 
-- [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - The Business Simulation Library (BSL) supports modeling and simulation of dynamical systems in the social sciences, such as business, economics, and ecology, using the system dynamics approach
+- [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - Dynamic modeling for business, economics, and ecology using the system dynamics approach
 
 ## modeling 
 
@@ -8533,7 +8533,7 @@
 
 ## modeling-dynamic-systems 
 
-- [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - The Business Simulation Library (BSL) supports modeling and simulation of dynamical systems in the social sciences, such as business, economics, and ecology, using the system dynamics approach
+- [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - Dynamic modeling for business, economics, and ecology using the system dynamics approach
 
 ## modelling 
 
@@ -12349,7 +12349,7 @@
 
 ## system-dynamics 
 
-- [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - The Business Simulation Library (BSL) supports modeling and simulation of dynamical systems in the social sciences, such as business, economics, and ecology, using the system dynamics approach
+- [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - Dynamic modeling for business, economics, and ecology using the system dynamics approach
 - [Fault-lang/Fault](https://github.com/Fault-lang/Fault) - a language for building system dynamic models
 
 ## system-monitoring 
