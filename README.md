@@ -357,6 +357,7 @@
 - [container](#container)
 - [container-builder](#container-builder)
 - [container-management](#container-management)
+- [container-orchestration](#container-orchestration)
 - [container-registry](#container-registry)
 - [container-security](#container-security)
 - [containerd](#containerd)
@@ -1889,6 +1890,7 @@
 - [vulnerability-scanners](#vulnerability-scanners)
 - [vuls](#vuls)
 - [waf](#waf)
+- [wardley-maps](#wardley-maps)
 - [wasm](#wasm)
 - [watchos](#watchos)
 - [wearables](#wearables)
@@ -4047,6 +4049,11 @@
 ## container-management 
 
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+
+## container-orchestration 
+
+- [shubheksha/kubernetes-internals](https://github.com/shubheksha/kubernetes-internals) - This is a collection of resources that shed light on the inner workings of Kubernetes
+- [Aptomi/k8s-app-engine](https://github.com/Aptomi/k8s-app-engine) - Application delivery engine for k8s
 
 ## container-registry 
 
@@ -9203,6 +9210,7 @@
 
 ## others 
 
+- [magna-z/distributed-observability](https://github.com/magna-z/distributed-observability) - Distributed Observability on "Vector &gt; ClickHouse &lt; Grafana"
 - [tduniec/backstage-timesaver-plugin](https://github.com/tduniec/backstage-timesaver-plugin) - This plugin provides an implementation of charts and statistics related to your time savings that are coming from usage of your templates. Plugins is built from frontend and backend part. This part of
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects
@@ -13292,6 +13300,10 @@
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
 - [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
+
+## wardley-maps 
+
+- [wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) - Wardley maps community hub. Useful Wardley mapping resources
 
 ## wasm 
 
