@@ -66,7 +66,6 @@
 - [apple-tv](#apple-tv)
 - [apple-vision-pro](#apple-vision-pro)
 - [apple-watch](#apple-watch)
-- [apple2](#apple2)
 - [applicant-tracking-system](#applicant-tracking-system)
 - [application-monitoring](#application-monitoring)
 - [application-security](#application-security)
@@ -303,6 +302,7 @@
 - [code-quality-analyzer](#code-quality-analyzer)
 - [code-review](#code-review)
 - [code-search](#code-search)
+- [code-search-engine](#code-search-engine)
 - [codereview](#codereview)
 - [coding](#coding)
 - [coding-assistant](#coding-assistant)
@@ -660,6 +660,7 @@
 - [fig](#fig)
 - [file-explorer](#file-explorer)
 - [file-sharing](#file-sharing)
+- [fileserver](#fileserver)
 - [finops](#finops)
 - [firebase](#firebase)
 - [firefox-addon](#firefox-addon)
@@ -2292,10 +2293,6 @@
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
-## apple2 
-
-- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a freely-available Open Source AFP fileserver. A UNIX, Linux or BSD system running Netatalk is capable of serving many Macintosh clients simultaneously as an AppleShare file server (AFP)
-
 ## applicant-tracking-system 
 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
@@ -3759,6 +3756,10 @@
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 
 ## code-search 
+
+- [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
+
+## code-search-engine 
 
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 
@@ -5766,7 +5767,11 @@
 
 ## file-sharing 
 
-- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a freely-available Open Source AFP fileserver. A UNIX, Linux or BSD system running Netatalk is capable of serving many Macintosh clients simultaneously as an AppleShare file server (AFP)
+- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver. A *NIX or BSD system running Netatalk is capable of serving many Macintosh clients simultaneously as an AppleShare file server.
+
+## fileserver 
+
+- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver. A *NIX or BSD system running Netatalk is capable of serving many Macintosh clients simultaneously as an AppleShare file server.
 
 ## finops 
 
@@ -8156,7 +8161,7 @@
 
 ## macintosh 
 
-- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a freely-available Open Source AFP fileserver. A UNIX, Linux or BSD system running Netatalk is capable of serving many Macintosh clients simultaneously as an AppleShare file server (AFP)
+- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver. A *NIX or BSD system running Netatalk is capable of serving many Macintosh clients simultaneously as an AppleShare file server.
 
 ## macos 
 
@@ -9223,6 +9228,8 @@
 
 ## others 
 
+- [learnk8s/free-kubernetes](https://github.com/learnk8s/free-kubernetes) - List of Free Trials of Managed Kubernetes Services
+- [controlplaneio/simulator](https://github.com/controlplaneio/simulator) - Kubernetes Security Training Platform - focusing on security mitigation
 - [magna-z/distributed-observability](https://github.com/magna-z/distributed-observability) - Distributed Observability on "Vector &gt; ClickHouse &lt; Grafana"
 - [tduniec/backstage-timesaver-plugin](https://github.com/tduniec/backstage-timesaver-plugin) - This plugin provides an implementation of charts and statistics related to your time savings that are coming from usage of your templates. Plugins is built from frontend and backend part. This part of
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
