@@ -9170,6 +9170,7 @@
 ## opentofu 
 
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager
+- [AzBuilder/terrakube](https://github.com/AzBuilder/terrakube) - Open source IaC Automation and Collaboration Software.
 
 ## openvpn 
 
@@ -9240,6 +9241,7 @@
 
 ## others 
 
+- [semanticart/cognitive-breakpoints](https://github.com/semanticart/cognitive-breakpoints) - A dynamic approach to writing and reading documentation
 - [open-organization/open-org-definition](https://github.com/open-organization/open-org-definition) - Working definition of open organizations
 - [open-organization/open-org-maturity-model](https://github.com/open-organization/open-org-maturity-model) - A maturity model for organizations seeking to become more open
 - [learnk8s/free-kubernetes](https://github.com/learnk8s/free-kubernetes) - List of Free Trials of Managed Kubernetes Services
