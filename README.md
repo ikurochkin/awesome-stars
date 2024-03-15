@@ -531,6 +531,7 @@
 - [dialogue-systems](#dialogue-systems)
 - [diff](#diff)
 - [digitalocean](#digitalocean)
+- [disaster-management](#disaster-management)
 - [disaster-recovery](#disaster-recovery)
 - [discord](#discord)
 - [discourse](#discourse)
@@ -1086,6 +1087,7 @@
 - [markdown](#markdown)
 - [marketing](#marketing)
 - [marketing-web-ops](#marketing-web-ops)
+- [mask](#mask)
 - [masking](#masking)
 - [mdx](#mdx)
 - [media](#media)
@@ -5091,6 +5093,10 @@
 
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 
+## disaster-management 
+
+- [dastergon/common-disaster-recovery-scenarios](https://github.com/dastergon/common-disaster-recovery-scenarios) - A list of common Disaster Recovery (DR) scenarios for software companies
+
 ## disaster-recovery 
 
 - [dastergon/common-disaster-recovery-scenarios](https://github.com/dastergon/common-disaster-recovery-scenarios) - A list of common Disaster Recovery (DR) scenarios for software companies
@@ -8288,6 +8294,10 @@
 ## marketing-web-ops 
 
 - [heroku/12factor](https://github.com/heroku/12factor) - 
+
+## mask 
+
+- [cloudposse-archives/tfmask](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
 
 ## masking 
 
