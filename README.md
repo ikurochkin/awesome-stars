@@ -2020,7 +2020,7 @@
 - [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
 - [teterkin/Agile-manifesto-in-ArchiMate](https://github.com/teterkin/Agile-manifesto-in-ArchiMate) - Agile Manifesto in ArchiMate
 - [joelparkerhenderson/maturity-models](https://github.com/joelparkerhenderson/maturity-models) - Maturity models for IT, Agile, DevOps, TOGAF, Six Sigma, P3M3, etc.
-- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - Igor Kurochkin public speaking slides, videos and supporting files
+- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My public speaking slides, videos and supporting files
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 
@@ -4854,7 +4854,7 @@
 - [ikurochkin/ikurochkin](https://github.com/ikurochkin/ikurochkin) - Igor Kurochkin Profile
 - [buildwithusers/awesome-devrel-library](https://github.com/buildwithusers/awesome-devrel-library) - Curated list of inspiring learnings (articles, videos, podcast episodes) around DevRel 🥑
 - [einride/backstage-go](https://github.com/einride/backstage-go) - Backstage SDK for Go
-- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - Igor Kurochkin public speaking slides, videos and supporting files
+- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My public speaking slides, videos and supporting files
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
@@ -4936,7 +4936,7 @@
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - Igor Kurochkin public speaking slides, videos and supporting files
+- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My public speaking slides, videos and supporting files
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [ultral/awesome-iac-testing](https://github.com/ultral/awesome-iac-testing) - A list of awesome IaC testing articles, speeches & links. Especially about Ansible.
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
@@ -7162,7 +7162,7 @@
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [volvo-cars/lingon](https://github.com/volvo-cars/lingon) - Lingon is a collection of libraries and tools for building platforms using Go.
-- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - Igor Kurochkin public speaking slides, videos and supporting files
+- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My public speaking slides, videos and supporting files
 - [ultral/awesome-iac-testing](https://github.com/ultral/awesome-iac-testing) - A list of awesome IaC testing articles, speeches & links. Especially about Ansible.
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
@@ -10233,7 +10233,7 @@
 ## platform 
 
 - [volvo-cars/lingon](https://github.com/volvo-cars/lingon) - Lingon is a collection of libraries and tools for building platforms using Go.
-- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - Igor Kurochkin public speaking slides, videos and supporting files
+- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My public speaking slides, videos and supporting files
 
 ## platform-engineering 
 
@@ -10241,7 +10241,7 @@
 - [InternalDeveloperPlatform/Platform-Engineering-Community](https://github.com/InternalDeveloperPlatform/Platform-Engineering-Community) - A place for the Platform Engineering Community Guidelines and Code of Conduct.
 - [microsoft/HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering
-- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - Igor Kurochkin public speaking slides, videos and supporting files
+- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My public speaking slides, videos and supporting files
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 
 ## platform-independent 
@@ -12046,7 +12046,7 @@
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Toolkit & Orchestration for Developers
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
-- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - Igor Kurochkin public speaking slides, videos and supporting files
+- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My public speaking slides, videos and supporting files
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
@@ -13510,7 +13510,7 @@
 
 ## workshops 
 
-- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - Igor Kurochkin public speaking slides, videos and supporting files
+- [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My public speaking slides, videos and supporting files
 
 ## writing 
 
