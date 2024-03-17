@@ -10647,7 +10647,7 @@
 ## puppet 
 
 - [jay7x/puppetbolt-control_repo](https://github.com/jay7x/puppetbolt-control_repo) - PDK-managed Puppet-Bolt-driven masterless Puppet control repo skeleton with unit and acceptance tests
-- [dylanratcliffe/onceover](https://github.com/dylanratcliffe/onceover) - Your gateway drug to automated infrastructure testing with Puppet
+- [voxpupuli/onceover](https://github.com/voxpupuli/onceover) - Your gateway drug to automated infrastructure testing with Puppet
 - [mattiasgeniar/puppet-pre-commit-hook](https://github.com/mattiasgeniar/puppet-pre-commit-hook) - A Puppet pre-commit hook to validate syntax
 - [voxpupuli/puppet-prometheus_reporter](https://github.com/voxpupuli/puppet-prometheus_reporter) - A prometheus Puppet reports exporter for Puppet
 - [github/octocatalog-diff](https://github.com/github/octocatalog-diff) - Compile Puppet catalogs from 2 branches, versions, etc., and compare them
