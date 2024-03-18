@@ -1378,6 +1378,7 @@
 - [prompt-tuning](#prompt-tuning)
 - [prompting](#prompting)
 - [prompts](#prompts)
+- [prompts-template](#prompts-template)
 - [promql](#promql)
 - [proofreading](#proofreading)
 - [protocol](#protocol)
@@ -10581,6 +10582,10 @@
 
 - [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the y
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
+
+## prompts-template 
+
+- [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the y
 
 ## promql 
 
