@@ -1719,6 +1719,7 @@
 - [t3-stack](#t3-stack)
 - [tag](#tag)
 - [tailwindcss](#tailwindcss)
+- [talos](#talos)
 - [tanzu](#tanzu)
 - [tap](#tap)
 - [tarantool](#tarantool)
@@ -12435,6 +12436,10 @@
 
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+
+## talos 
+
+- [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 
 ## tanzu 
 
