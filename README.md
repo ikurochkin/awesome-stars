@@ -1013,6 +1013,7 @@
 - [learning-resources](#learning-resources)
 - [lecture-notes](#lecture-notes)
 - [lectures](#lectures)
+- [legacy-code](#legacy-code)
 - [less](#less)
 - [lessons-learned](#lessons-learned)
 - [letsencrypt](#letsencrypt)
@@ -7883,6 +7884,10 @@
 ## lectures 
 
 - [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
+
+## legacy-code 
+
+- [LegacyCodeHQ/eureka](https://github.com/LegacyCodeHQ/eureka) - Breakthrough tooling to work with Kotlin and Java codebases 🚀
 
 ## less 
 
