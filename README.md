@@ -9270,6 +9270,7 @@
 
 ## others 
 
+- [paulsbruce/CultureIn1min](https://github.com/paulsbruce/CultureIn1min) - An organizational culture assessment tool based on research by Westrum, Forsgren, and others.
 - [vseinstrumentiru/devopsconf2024](https://github.com/vseinstrumentiru/devopsconf2024) - Материалы к нашим докладам представленным на DevOpsConf 2024 Москва
 - [semanticart/cognitive-breakpoints](https://github.com/semanticart/cognitive-breakpoints) - A dynamic approach to writing and reading documentation
 - [open-organization/open-org-definition](https://github.com/open-organization/open-org-definition) - Working definition of open organizations
