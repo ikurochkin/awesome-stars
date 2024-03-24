@@ -39,6 +39,7 @@
 - [analysis](#analysis)
 - [analytics](#analytics)
 - [analytics-dashboard](#analytics-dashboard)
+- [analyzer](#analyzer)
 - [android](#android)
 - [android-emulator](#android-emulator)
 - [android-interview-questions](#android-interview-questions)
@@ -94,8 +95,10 @@
 - [aspnet](#aspnet)
 - [aspnetcore](#aspnetcore)
 - [assessment](#assessment)
+- [assessments](#assessments)
 - [asset-management](#asset-management)
 - [assets-management](#assets-management)
+- [async](#async)
 - [atom](#atom)
 - [audit](#audit)
 - [augmentation](#augmentation)
@@ -172,6 +175,7 @@
 - [boardgame](#boardgame)
 - [book](#book)
 - [book-notes](#book-notes)
+- [bookmarks](#bookmarks)
 - [books](#books)
 - [bootstrap](#bootstrap)
 - [bootstrap-theme](#bootstrap-theme)
@@ -422,6 +426,7 @@
 - [curl](#curl)
 - [curriculum](#curriculum)
 - [customer-data-platform](#customer-data-platform)
+- [cv](#cv)
 - [cve](#cve)
 - [cybersecurity](#cybersecurity)
 - [cyclonedx](#cyclonedx)
@@ -705,6 +710,7 @@
 - [frontend](#frontend)
 - [frontend-roadmap](#frontend-roadmap)
 - [fsharp](#fsharp)
+- [fullstack](#fullstack)
 - [funding](#funding)
 - [fuzzing](#fuzzing)
 - [game](#game)
@@ -844,6 +850,7 @@
 - [hosting](#hosting)
 - [howto](#howto)
 - [howtos](#howtos)
+- [hr](#hr)
 - [hrms](#hrms)
 - [html](#html)
 - [html5](#html5)
@@ -939,6 +946,7 @@
 - [javascript](#javascript)
 - [javascript-interview-questions](#javascript-interview-questions)
 - [javascript-roadmap](#javascript-roadmap)
+- [javasript](#javasript)
 - [jenkins](#jenkins)
 - [jenkins-pipeline](#jenkins-pipeline)
 - [jenkins-shared-library](#jenkins-shared-library)
@@ -970,6 +978,7 @@
 - [kinesis](#kinesis)
 - [kitchen](#kitchen)
 - [knowledge](#knowledge)
+- [knowledge-base](#knowledge-base)
 - [knowledge-graph](#knowledge-graph)
 - [knowledge-graph-completion](#knowledge-graph-completion)
 - [knowledge-management](#knowledge-management)
@@ -1336,6 +1345,7 @@
 - [policy-as-code](#policy-as-code)
 - [polyglot-microservices](#polyglot-microservices)
 - [portable](#portable)
+- [portfolio](#portfolio)
 - [posix](#posix)
 - [post-mortem](#post-mortem)
 - [postgres](#postgres)
@@ -1484,6 +1494,7 @@
 - [rest-api](#rest-api)
 - [restore](#restore)
 - [restructuredtext](#restructuredtext)
+- [resume](#resume)
 - [retrieval-augmented-generation](#retrieval-augmented-generation)
 - [reverse-engineering](#reverse-engineering)
 - [reverse-etl](#reverse-etl)
@@ -1596,6 +1607,7 @@
 - [site-reliability-engineer](#site-reliability-engineer)
 - [site-reliability-engineering](#site-reliability-engineering)
 - [six-sigma](#six-sigma)
+- [skill](#skill)
 - [skills](#skills)
 - [sla](#sla)
 - [slack](#slack)
@@ -1953,6 +1965,7 @@
 - [zipkin](#zipkin)
 - [zod](#zod)
 - [zookeeper](#zookeeper)
+- [zotero](#zotero)
 - [zsh](#zsh)
 - [zsh-configuration](#zsh-configuration)
 
@@ -2034,6 +2047,7 @@
 
 ## ai 
 
+- [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -2145,6 +2159,10 @@
 ## analytics-dashboard 
 
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
+
+## analyzer 
+
+- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 500+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 
 ## android 
 
@@ -2350,6 +2368,7 @@
 
 ## architecture 
 
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
@@ -2442,7 +2461,12 @@
 
 ## assessment 
 
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
+
+## assessments 
+
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 
 ## asset-management 
 
@@ -2451,6 +2475,10 @@
 ## assets-management 
 
 - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone.
+
+## async 
+
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 
 ## atom 
 
@@ -2765,6 +2793,7 @@
 
 ## backend 
 
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [docops-hq/conf](https://github.com/docops-hq/conf) - Конспекты докладов IT-конференций
@@ -2971,6 +3000,10 @@
 
 - [mgp/book-notes](https://github.com/mgp/book-notes) - Notes from books and other interesting things that I've read. Table of contents at the end 👇
 - [keyvanakbary/learning-notes](https://github.com/keyvanakbary/learning-notes) - Notes on books I read, talks I watch, articles I study, and papers I love
+
+## bookmarks 
+
+- [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 
 ## books 
 
@@ -4427,6 +4460,10 @@
 
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
 
+## cv 
+
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
+
 ## cve 
 
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -4751,6 +4788,8 @@
 
 ## dependencies 
 
+- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 500+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
+- [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 
 ## dependency-checker 
@@ -4900,6 +4939,7 @@
 
 ## development 
 
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
@@ -5064,6 +5104,7 @@
 
 ## diagram 
 
+- [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [28mm/blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -5556,6 +5597,7 @@
 
 ## engineering 
 
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [devopshq/dohq-doc-templates](https://github.com/devopshq/dohq-doc-templates) - Шаблоны инженерной документации для упрощения и сопровождения регламентных работ
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
@@ -5969,6 +6011,7 @@
 
 ## frontend 
 
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [docops-hq/conf](https://github.com/docops-hq/conf) - Конспекты докладов IT-конференций
 
@@ -5979,6 +6022,10 @@
 ## fsharp 
 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+
+## fullstack 
+
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 
 ## funding 
 
@@ -6098,6 +6145,7 @@
 
 ## github 
 
+- [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [github/innovationgraph](https://github.com/github/innovationgraph) - GitHub Innovation Graph
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -6597,6 +6645,7 @@
 
 ## hacker-news 
 
+- [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 
 ## hacking 
@@ -6926,6 +6975,10 @@
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
+## hr 
+
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
+
 ## hrms 
 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
@@ -7152,6 +7205,8 @@
 
 ## infrastructure 
 
+- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 500+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
+- [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
@@ -7452,6 +7507,10 @@
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
+## javasript 
+
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
+
 ## jenkins 
 
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -7596,6 +7655,10 @@
 - [mariuszgil/awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming) - Awesome EventStorming
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [NickVolynkin/ritfest18-knowledge-management](https://github.com/NickVolynkin/ritfest18-knowledge-management) - Польза от управления знаниями в компании
+
+## knowledge-base 
+
+- [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 
 ## knowledge-graph 
 
@@ -7942,6 +8005,7 @@
 
 ## lint 
 
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
@@ -7949,6 +8013,7 @@
 
 ## linter 
 
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -8397,6 +8462,7 @@
 
 ## metadata 
 
+- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 500+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 
 ## metasearch 
@@ -8912,6 +8978,7 @@
 
 ## nodejs 
 
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
@@ -10337,6 +10404,10 @@
 
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
+## portfolio 
+
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
+
 ## posix 
 
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -10504,6 +10575,7 @@
 
 ## programming 
 
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
@@ -11175,6 +11247,10 @@
 
 - [opsschool/curriculum](https://github.com/opsschool/curriculum) - Ops School Curriculum
 
+## resume 
+
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
+
 ## retrieval-augmented-generation 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
@@ -11516,6 +11592,7 @@
 
 ## search-engine 
 
+- [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 
 ## search-engines 
@@ -11820,8 +11897,13 @@
 
 - [joelparkerhenderson/maturity-models](https://github.com/joelparkerhenderson/maturity-models) - Maturity models for IT, Agile, DevOps, TOGAF, Six Sigma, P3M3, etc.
 
+## skill 
+
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
+
 ## skills 
 
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 
 ## sla 
@@ -11904,6 +11986,7 @@
 
 ## software 
 
+- [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [ligurio/swebok-2004-in-russian](https://github.com/ligurio/swebok-2004-in-russian) - Основы программной инженерии (SWEBOK 2004 на русском) в EPUB и HTML
 - [sdg-1/consulting-handbook](https://github.com/sdg-1/consulting-handbook) - A guide for technical professionals looking to start consulting
 - [tekiegirl/Archangels](https://github.com/tekiegirl/Archangels) - Entry to the O'Reilly Autumn 2021 Architectural Kata
@@ -12103,6 +12186,7 @@
 
 ## stack 
 
+- [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [Nike-Inc/bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
 
 ## stackdriver 
@@ -13026,6 +13110,7 @@
 
 ## twitter 
 
+- [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 
 ## typeform 
@@ -13572,6 +13657,7 @@
 
 ## yaml 
 
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [volvo-cars/lingon](https://github.com/volvo-cars/lingon) - Lingon is a collection of libraries and tools for building platforms using Go.
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
@@ -13632,6 +13718,10 @@
 ## zookeeper 
 
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+
+## zotero 
+
+- [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 
 ## zsh 
 
