@@ -351,6 +351,7 @@
 - [conference-paper](#conference-paper)
 - [conference-talk](#conference-talk)
 - [conferences](#conferences)
+- [config](#config)
 - [config-management](#config-management)
 - [configuration](#configuration)
 - [configuration-as-code](#configuration-as-code)
@@ -712,6 +713,7 @@
 - [frontend-roadmap](#frontend-roadmap)
 - [fsharp](#fsharp)
 - [fullstack](#fullstack)
+- [functional](#functional)
 - [funding](#funding)
 - [fuzzing](#fuzzing)
 - [game](#game)
@@ -1227,6 +1229,7 @@
 - [novice](#novice)
 - [npm](#npm)
 - [nsm](#nsm)
+- [object-oriented](#object-oriented)
 - [objective-c](#objective-c)
 - [obs](#obs)
 - [observability](#observability)
@@ -1394,6 +1397,7 @@
 - [prompts-template](#prompts-template)
 - [promql](#promql)
 - [proofreading](#proofreading)
+- [properties](#properties)
 - [protocol](#protocol)
 - [provider](#provider)
 - [provisioning](#provisioning)
@@ -1955,6 +1959,7 @@
 - [wtfutil](#wtfutil)
 - [xcode](#xcode)
 - [xctest](#xctest)
+- [xml](#xml)
 - [y-combinator](#y-combinator)
 - [yaml](#yaml)
 - [yandex](#yandex)
@@ -2189,7 +2194,7 @@
 
 ## ansible 
 
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [PopulateTools/ansible-doc-generator](https://github.com/PopulateTools/ansible-doc-generator) - CLI for documenting Ansible roles into Markdown files.
 - [walmartlabs/concord](https://github.com/walmartlabs/concord) - Concord - workflow orchestration and continuous deployment management
 - [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
@@ -2832,7 +2837,7 @@
 
 ## backup 
 
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [m110/grafcli](https://github.com/m110/grafcli) - Grafana CLI for quick and easy dashboards management.
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [Aiven-Open/pghoard](https://github.com/Aiven-Open/pghoard) - PostgreSQL® backup and restore service
@@ -4045,6 +4050,10 @@
 - [docops-hq/conf](https://github.com/docops-hq/conf) - Конспекты докладов IT-конференций
 - [karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers) - Awesome speakers in the programming and design communities
 
+## config 
+
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+
 ## config-management 
 
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
@@ -4052,6 +4061,7 @@
 
 ## configuration 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 
@@ -4125,7 +4135,7 @@
 ## containers 
 
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
@@ -4554,6 +4564,7 @@
 ## data 
 
 - [github/innovationgraph](https://github.com/github/innovationgraph) - GitHub Innovation Graph
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [sdg-1/consulting-handbook](https://github.com/sdg-1/consulting-handbook) - A guide for technical professionals looking to start consulting
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
@@ -4962,7 +4973,7 @@
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [operate-first/sre](https://github.com/operate-first/sre) - SRE content
 - [Asgoret/devops_chats](https://github.com/Asgoret/devops_chats) - Repository of DevOps (RUS) chats in Telegram
 - [ikurochkin/ikurochkin](https://github.com/ikurochkin/ikurochkin) - Igor Kurochkin Profile
@@ -6036,6 +6047,10 @@
 
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 
+## functional 
+
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+
 ## funding 
 
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
@@ -7080,7 +7095,7 @@
 
 ## iac 
 
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -7574,6 +7589,7 @@
 
 ## json 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
@@ -7726,7 +7742,7 @@
 - [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
@@ -7892,6 +7908,7 @@
 
 ## language 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 
@@ -8917,7 +8934,7 @@
 ## networking 
 
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 
@@ -9052,6 +9069,10 @@
 ## nsm 
 
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
+
+## object-oriented 
+
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 
 ## objective-c 
 
@@ -9351,7 +9372,7 @@
 ## others 
 
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Convert Compute And Books Into Instruct-Tuning Datasets
-- [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with both Apple AirTag and Samsung SmartTag. It uses the BLE beacon to broadcast, allowing users to cl
+- [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowi
 - [paulsbruce/CultureIn1min](https://github.com/paulsbruce/CultureIn1min) - An organizational culture assessment tool based on research by Westrum, Forsgren, and others.
 - [vseinstrumentiru/devopsconf2024](https://github.com/vseinstrumentiru/devopsconf2024) - Материалы к нашим докладам представленным на DevOpsConf 2024 Москва
 - [semanticart/cognitive-breakpoints](https://github.com/semanticart/cognitive-breakpoints) - A dynamic approach to writing and reading documentation
@@ -10608,6 +10629,7 @@
 ## programming-language 
 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 
@@ -10700,6 +10722,10 @@
 ## proofreading 
 
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
+
+## properties 
+
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 
 ## protocol 
 
@@ -12714,7 +12740,7 @@
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [opstower-ai/devops-ai-open-leaderboard](https://github.com/opstower-ai/devops-ai-open-leaderboard) - DevOps AI Assistant benchmarks for AWS, Kubernetes, and more
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
@@ -13244,6 +13270,7 @@
 
 ## validation 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 
 ## validator 
@@ -13670,6 +13697,10 @@
 
 - [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
 
+## xml 
+
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+
 ## y-combinator 
 
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
@@ -13677,6 +13708,7 @@
 ## yaml 
 
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [volvo-cars/lingon](https://github.com/volvo-cars/lingon) - Lingon is a collection of libraries and tools for building platforms using Go.
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
