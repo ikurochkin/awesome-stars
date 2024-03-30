@@ -68,6 +68,7 @@
 - [apple-tv](#apple-tv)
 - [apple-vision-pro](#apple-vision-pro)
 - [apple-watch](#apple-watch)
+- [apple2](#apple2)
 - [applicant-tracking-system](#applicant-tracking-system)
 - [application-monitoring](#application-monitoring)
 - [application-security](#application-security)
@@ -2330,6 +2331,10 @@
 ## apple-watch 
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+## apple2 
+
+- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver. A *NIX or BSD system running Netatalk is capable of serving many Macintosh clients simultaneously as an AppleShare file server.
 
 ## applicant-tracking-system 
 
