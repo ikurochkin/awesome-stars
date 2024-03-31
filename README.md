@@ -663,6 +663,7 @@
 - [feature-flags](#feature-flags)
 - [feature-toggle](#feature-toggle)
 - [feature-toggles](#feature-toggles)
+- [feature-toggling](#feature-toggling)
 - [features](#features)
 - [fedora](#fedora)
 - [feedback](#feedback)
@@ -5826,6 +5827,10 @@
 - [launchdarkly/featureflags](https://github.com/launchdarkly/featureflags) - The guide to decoupling feature rollout from code deployment for feature flag-driven development.  Feature flags give a software organization the power to reduce risk, iterate quicker, and get more co
 - [togglz/togglz](https://github.com/togglz/togglz) - Feature Flags for the Java platform
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
+
+## feature-toggling 
+
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 
 ## features 
 
