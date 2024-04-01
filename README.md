@@ -210,6 +210,7 @@
 - [cache](#cache)
 - [cachet](#cachet)
 - [calendar](#calendar)
+- [call-for-papers](#call-for-papers)
 - [canary](#canary)
 - [capacity-planning](#capacity-planning)
 - [capistrano](#capistrano)
@@ -391,6 +392,7 @@
 - [cookbook](#cookbook)
 - [cookbooks](#cookbooks)
 - [cookiecutter](#cookiecutter)
+- [copy-paste](#copy-paste)
 - [coredns](#coredns)
 - [correct](#correct)
 - [cost](#cost)
@@ -510,10 +512,13 @@
 - [design-patterns-for-humans](#design-patterns-for-humans)
 - [design-system](#design-system)
 - [design-systems](#design-systems)
+- [detect-duplications](#detect-duplications)
+- [detector](#detector)
 - [dev](#dev)
 - [dev-environment](#dev-environment)
 - [dev-ops](#dev-ops)
 - [developer-documentation](#developer-documentation)
+- [developer-environment](#developer-environment)
 - [developer-experience](#developer-experience)
 - [developer-portal](#developer-portal)
 - [developer-relations](#developer-relations)
@@ -589,6 +594,8 @@
 - [driver](#driver)
 - [drones](#drones)
 - [dsl](#dsl)
+- [duplicates](#duplicates)
+- [duplications](#duplications)
 - [dx](#dx)
 - [dynamodb](#dynamodb)
 - [e2e-testing](#e2e-testing)
@@ -1560,6 +1567,7 @@
 - [schema-changes](#schema-changes)
 - [schema-migrations](#schema-migrations)
 - [schemas](#schemas)
+- [science](#science)
 - [scm](#scm)
 - [scorecard](#scorecard)
 - [script](#script)
@@ -3170,6 +3178,10 @@
 - [linkedin/oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 
+## call-for-papers 
+
+- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences
+
 ## canary 
 
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -3797,6 +3809,7 @@
 
 ## code-quality 
 
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [mikaelvesavuori/codemetrix](https://github.com/mikaelvesavuori/codemetrix) - Understand the level of coupling and changeability of your code in a second. 🪄
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -4002,6 +4015,7 @@
 
 ## computer-science 
 
+- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -4036,6 +4050,7 @@
 
 ## conference 
 
+- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
 - [finspin/gotodevops.org](https://github.com/finspin/gotodevops.org) - Source code for gotodevops.org.
 
@@ -4049,6 +4064,7 @@
 
 ## conferences 
 
+- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
 - [finspin/gotodevops.org](https://github.com/finspin/gotodevops.org) - Source code for gotodevops.org.
@@ -4306,6 +4322,10 @@
 
 - [lean-delivery/ansible-development-kit](https://github.com/lean-delivery/ansible-development-kit) - Ansible Development Kit (roles development)
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+
+## copy-paste 
+
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 
 ## coredns 
 
@@ -4902,6 +4922,14 @@
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 
+## detect-duplications 
+
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+
+## detector 
+
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+
 ## dev 
 
 - [Aptomi/k8s-app-engine](https://github.com/Aptomi/k8s-app-engine) - Application delivery engine for k8s
@@ -4917,6 +4945,10 @@
 ## developer-documentation 
 
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
+
+## developer-environment 
+
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 
 ## developer-experience 
 
@@ -5481,6 +5513,14 @@
 ## dsl 
 
 - [ContextMapper/context-mapper-dsl](https://github.com/ContextMapper/context-mapper-dsl) - ContextMapper DSL: A Domain-specific Language for Context Mapping & Service Decomposition
+
+## duplicates 
+
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+
+## duplications 
+
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 
 ## dx 
 
@@ -9381,6 +9421,7 @@
 
 ## others 
 
+- [ongardie/diskbenchmark](https://github.com/ongardie/diskbenchmark) - Benchmarking utilities for measuring the latencies of disks (mostly interesting for SSDs).
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Convert Compute And Books Into Instruct-Tuning Datasets
 - [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowi
 - [paulsbruce/CultureIn1min](https://github.com/paulsbruce/CultureIn1min) - An organizational culture assessment tool based on research by Westrum, Forsgren, and others.
@@ -10906,6 +10947,7 @@
 
 ## quality 
 
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [yegor256/sqm](https://github.com/yegor256/sqm) - Lecture Notes for "Software Quality Metrics" course in HSE University, 2023-2024
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 
@@ -11611,6 +11653,10 @@
 ## schemas 
 
 - [omniti-labs/pg_extractor](https://github.com/omniti-labs/pg_extractor) - PG Extractor - Advanced PostgreSQL Dump Filter
+
+## science 
+
+- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences
 
 ## scm 
 
