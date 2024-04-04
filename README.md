@@ -978,6 +978,7 @@
 - [k8s-sig-cluster-lifecycle](#k8s-sig-cluster-lifecycle)
 - [k8s-sig-release](#k8s-sig-release)
 - [k8s-sig-scheduling](#k8s-sig-scheduling)
+- [k8s-sig-storage](#k8s-sig-storage)
 - [kafka](#kafka)
 - [kafka-cluster](#kafka-cluster)
 - [kanban](#kanban)
@@ -1079,6 +1080,7 @@
 - [logo](#logo)
 - [logs](#logs)
 - [loki](#loki)
+- [longhorn](#longhorn)
 - [lookup-table](#lookup-table)
 - [low-code](#low-code)
 - [low-level](#low-level)
@@ -1697,6 +1699,7 @@
 - [status-page](#status-page)
 - [statuspage](#statuspage)
 - [stm32](#stm32)
+- [storage](#storage)
 - [stored-procedures](#stored-procedures)
 - [strategy](#strategy)
 - [strategy-development](#strategy-development)
@@ -3181,7 +3184,7 @@
 
 ## call-for-papers 
 
-- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences
+- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences: we keep an eye on all of them!
 
 ## canary 
 
@@ -3751,6 +3754,7 @@
 
 ## cncf 
 
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
@@ -4016,7 +4020,7 @@
 
 ## computer-science 
 
-- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences
+- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences: we keep an eye on all of them!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -4051,7 +4055,7 @@
 
 ## conference 
 
-- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences
+- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences: we keep an eye on all of them!
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
 - [finspin/gotodevops.org](https://github.com/finspin/gotodevops.org) - Source code for gotodevops.org.
 
@@ -4065,7 +4069,7 @@
 
 ## conferences 
 
-- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences
+- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences: we keep an eye on all of them!
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
 - [finspin/gotodevops.org](https://github.com/finspin/gotodevops.org) - Source code for gotodevops.org.
@@ -5252,6 +5256,7 @@
 
 ## distributed-systems 
 
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
@@ -6991,6 +6996,7 @@
 
 ## high-availability 
 
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
@@ -7682,6 +7688,10 @@
 
 - [kubernetes-sigs/cluster-capacity](https://github.com/kubernetes-sigs/cluster-capacity) - Cluster capacity analysis
 
+## k8s-sig-storage 
+
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
+
 ## kafka 
 
 - [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kaf
@@ -7790,6 +7800,7 @@
 
 ## kubernetes 
 
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [opstower-ai/devops-ai-open-leaderboard](https://github.com/opstower-ai/devops-ai-open-leaderboard) - DevOps AI Assistant benchmarks for AWS, Kubernetes, and more
@@ -8289,6 +8300,10 @@
 ## loki 
 
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+
+## longhorn 
+
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 
 ## lookup-table 
 
@@ -11663,7 +11678,7 @@
 
 ## science 
 
-- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences
+- [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences: we keep an eye on all of them!
 
 ## scm 
 
@@ -12395,6 +12410,10 @@
 ## stm32 
 
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
+
+## storage 
+
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 
 ## stored-procedures 
 
