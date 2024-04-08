@@ -1495,6 +1495,7 @@
 - [reliability-engineering](#reliability-engineering)
 - [remote](#remote)
 - [remote-companies](#remote-companies)
+- [remote-config](#remote-config)
 - [remote-development](#remote-development)
 - [remote-job](#remote-job)
 - [remote-work](#remote-work)
@@ -9462,6 +9463,8 @@
 
 ## others 
 
+- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [nixys/nxs-universal-chart](https://github.com/nixys/nxs-universal-chart) - The Helm chart you can use to install any of your applications into Kubernetes/OpenShift
 - [OkayHQ/backstage-plugin](https://github.com/OkayHQ/backstage-plugin) - Backstage plugin for DORA metrics by Okay -- flexible analytics and reporting for engineering teams
 - [DevoteamNL/opendora](https://github.com/DevoteamNL/opendora) - Team performance observability for your organization.
 - [ongardie/diskbenchmark](https://github.com/ongardie/diskbenchmark) - Benchmarking utilities for measuring the latencies of disks (mostly interesting for SSDs).
@@ -11290,6 +11293,10 @@
 ## remote-companies 
 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+
+## remote-config 
+
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 
 ## remote-development 
 
