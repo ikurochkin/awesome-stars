@@ -297,6 +297,7 @@
 - [cms](#cms)
 - [cms-framework](#cms-framework)
 - [cncf](#cncf)
+- [cncf-project](#cncf-project)
 - [cobbler](#cobbler)
 - [cocoapods](#cocoapods)
 - [code](#code)
@@ -3784,6 +3785,10 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+
+## cncf-project 
+
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 
 ## cobbler 
 
@@ -9809,7 +9814,7 @@
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
 - [packpack/packpack](https://github.com/packpack/packpack) - Simple building of RPMs & Debian packages from git repos
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [grosser/stub_server](https://github.com/grosser/stub_server) - Boot up a real server to serve testing replies
 - [bkc1/terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
 - [DataDog/kvexpress](https://github.com/DataDog/kvexpress) - Go program to move data in and out of Consul's KV store.
