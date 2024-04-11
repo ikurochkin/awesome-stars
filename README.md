@@ -136,7 +136,6 @@
 - [azure-functions](#azure-functions)
 - [azure-pipelines](#azure-pipelines)
 - [azure-security](#azure-security)
-- [baas](#baas)
 - [backend](#backend)
 - [backend-as-a-service](#backend-as-a-service)
 - [backend-roadmap](#backend-roadmap)
@@ -549,6 +548,7 @@
 - [disaster-recovery](#disaster-recovery)
 - [discord](#discord)
 - [discourse](#discourse)
+- [discoverability](#discoverability)
 - [discovery](#discovery)
 - [discovery-service](#discovery-service)
 - [discussion](#discussion)
@@ -1465,6 +1465,7 @@
 - [react-native](#react-native)
 - [react-roadmap](#react-roadmap)
 - [reactjs](#reactjs)
+- [reactnative](#reactnative)
 - [read-articles](#read-articles)
 - [read-papers](#read-papers)
 - [reading](#reading)
@@ -2337,7 +2338,6 @@
 
 ## apple 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
 ## apple-tv 
@@ -2823,10 +2823,6 @@
 ## azure-security 
 
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-
-## baas 
-
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## backend 
 
@@ -5232,6 +5228,10 @@
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
+## discoverability 
+
+- [mikaelvesavuori/catalogist](https://github.com/mikaelvesavuori/catalogist) - Catalogist is the easy way to catalog and make your software and (micro)services visible to your organization in a lightweight and developer-friendly way.
+
 ## discovery 
 
 - [mikaelvesavuori/catalogist](https://github.com/mikaelvesavuori/catalogist) - Catalogist is the easy way to catalog and make your software and (micro)services visible to your organization in a lightweight and developer-friendly way.
@@ -6034,11 +6034,11 @@
 
 ## form-builder 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that allows easy drag-and-drop form creation. Evaluate its capabilities for free.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
 
 ## form-generator 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that allows easy drag-and-drop form creation. Evaluate its capabilities for free.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
 
 ## formal-specification 
 
@@ -6060,7 +6060,7 @@
 
 ## forms-builder 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that allows easy drag-and-drop form creation. Evaluate its capabilities for free.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
 
 ## forum 
 
@@ -9048,6 +9048,7 @@
 
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -11117,6 +11118,7 @@
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
@@ -11143,6 +11145,10 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+
+## reactnative 
+
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## read-articles 
 
@@ -12555,7 +12561,7 @@
 ## survey 
 
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that allows easy drag-and-drop form creation. Evaluate its capabilities for free.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
@@ -12567,7 +12573,7 @@
 
 ## survey-app 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that allows easy drag-and-drop form creation. Evaluate its capabilities for free.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 
 ## survey-data 
@@ -12580,7 +12586,7 @@
 
 ## surveyjs 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that allows easy drag-and-drop form creation. Evaluate its capabilities for free.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
 
 ## surveys 
 
@@ -13146,7 +13152,6 @@
 
 ## tools 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [PopulateTools/ansible-doc-generator](https://github.com/PopulateTools/ansible-doc-generator) - CLI for documenting Ansible roles into Markdown files.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
