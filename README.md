@@ -1851,6 +1851,7 @@
 - [traffic](#traffic)
 - [training](#training)
 - [transactions](#transactions)
+- [transformation](#transformation)
 - [transformers](#transformers)
 - [translations](#translations)
 - [transmission](#transmission)
@@ -3225,6 +3226,7 @@
 
 ## cd 
 
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [cburgmer/buildviz](https://github.com/cburgmer/buildviz) - Transparency for your build pipeline's results and runtime
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
@@ -3341,6 +3343,7 @@
 
 ## chart 
 
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -3480,6 +3483,7 @@
 
 ## ci 
 
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
@@ -3512,6 +3516,7 @@
 
 ## cicd 
 
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition](https://github.com/Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition) - The Way of CI/CD is a project from which you can assemble your custom pipeline by using different pieces of code or by including entire stages. This project serves as a builder for creating pipelines 
@@ -4874,6 +4879,7 @@
 
 ## deployment 
 
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [mbtproject/mbt](https://github.com/mbtproject/mbt) - The most flexible build tool for monorepo
 - [ansistrano/deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
@@ -5023,6 +5029,7 @@
 
 ## devops 
 
+- [dora-metrics/pelorus](https://github.com/dora-metrics/pelorus) - Automate the measurement of organizational behavior
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
@@ -5502,6 +5509,7 @@
 
 ## dora-metrics 
 
+- [dora-metrics/pelorus](https://github.com/dora-metrics/pelorus) - Automate the measurement of organizational behavior
 - [mikaelvesavuori/github-dora-metrics](https://github.com/mikaelvesavuori/github-dora-metrics) - Instant, badge-ready DORA metrics for your GitHub repository.
 
 ## dotfiles 
@@ -6979,6 +6987,7 @@
 
 ## helm 
 
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
@@ -7685,6 +7694,7 @@
 
 ## k8s 
 
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
 - [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds
@@ -7820,6 +7830,7 @@
 
 ## kubernetes 
 
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
@@ -8604,6 +8615,7 @@
 
 ## metrics 
 
+- [dora-metrics/pelorus](https://github.com/dora-metrics/pelorus) - Automate the measurement of organizational behavior
 - [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab) - GrimoireLab: platform for software development analytics and insights
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [last9/slo-computer](https://github.com/last9/slo-computer) - SLOs, Error windows and alerts are complicated. Here an attempt to make it easy
@@ -8654,6 +8666,7 @@
 
 ## microservice 
 
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
@@ -9469,6 +9482,7 @@
 
 ## others 
 
+- [emergingtechs/devopsdays](https://github.com/emergingtechs/devopsdays) - DevOpsDays India -
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [nixys/nxs-universal-chart](https://github.com/nixys/nxs-universal-chart) - The Helm chart you can use to install any of your applications into Kubernetes/OpenShift
 - [OkayHQ/backstage-plugin](https://github.com/OkayHQ/backstage-plugin) - Backstage plugin for DORA metrics by Okay -- flexible analytics and reporting for engineering teams
@@ -13204,6 +13218,10 @@
 ## transactions 
 
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
+
+## transformation 
+
+- [dora-metrics/pelorus](https://github.com/dora-metrics/pelorus) - Automate the measurement of organizational behavior
 
 ## transformers 
 
