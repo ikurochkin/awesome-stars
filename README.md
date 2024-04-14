@@ -1518,7 +1518,6 @@
 - [restore](#restore)
 - [restructuredtext](#restructuredtext)
 - [resume](#resume)
-- [retrieval-augmented-generation](#retrieval-augmented-generation)
 - [reverse-engineering](#reverse-engineering)
 - [reverse-etl](#reverse-etl)
 - [reverse-proxy](#reverse-proxy)
@@ -9215,6 +9214,7 @@
 ## obsidian 
 
 - [sytone/obsidian-queryallthethings](https://github.com/sytone/obsidian-queryallthethings) - Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
 - [IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint) - Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!
@@ -11423,10 +11423,6 @@
 ## resume 
 
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
-
-## retrieval-augmented-generation 
-
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
 
 ## reverse-engineering 
 
