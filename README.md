@@ -3691,6 +3691,7 @@
 
 ## cloud-native 
 
+- [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
 - [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
@@ -3787,6 +3788,7 @@
 
 ## cncf 
 
+- [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
 - [open-telemetry/community](https://github.com/open-telemetry/community) - OpenTelemetry community content
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.
@@ -9569,6 +9571,9 @@
 
 ## others 
 
+- [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
+- [hangops/code-of-conduct](https://github.com/hangops/code-of-conduct) - 
+- [diggerhq/tacoscalculator](https://github.com/diggerhq/tacoscalculator) - Terraform Automation and Collaboration tools (TACOS) pricing calculator
 - [systeminit/assessment-ie3](https://github.com/systeminit/assessment-ie3) - Our Infra Engineer 3 assessment
 - [winglang/examples](https://github.com/winglang/examples) - Winglang examples
 - [winglang/research](https://github.com/winglang/research) - Language research sketchbook
@@ -9652,7 +9657,7 @@
 - [inclusivenaming/org](https://github.com/inclusivenaming/org) - Pre-release organization info, meeting notes, collaboration, etc.
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) - 
 - [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor
-- [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) - 
+- [caniszczyk/rugpulls.dev](https://github.com/caniszczyk/rugpulls.dev) - 
 - [jetporch/jetporch](https://github.com/jetporch/jetporch) - Read-only mirror: see https://www.jetporch.com/community/sourcehut
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [vendorsec/mvsp](https://github.com/vendorsec/mvsp) - Minimum Viable Secure Product mvsp.dev
