@@ -611,6 +611,7 @@
 - [editor](#editor)
 - [edn](#edn)
 - [educational](#educational)
+- [effect-system](#effect-system)
 - [eks](#eks)
 - [elasticsearch](#elasticsearch)
 - [electrical-engineering](#electrical-engineering)
@@ -716,6 +717,7 @@
 - [forum](#forum)
 - [foss](#foss)
 - [four-keys](#four-keys)
+- [fp](#fp)
 - [framework](#framework)
 - [frameworks](#frameworks)
 - [free](#free)
@@ -938,6 +940,7 @@
 - [interview-preparation](#interview-preparation)
 - [interview-questions](#interview-questions)
 - [interviewing](#interviewing)
+- [interviews](#interviews)
 - [intrusion-detection](#intrusion-detection)
 - [investment](#investment)
 - [ios](#ios)
@@ -2004,6 +2007,7 @@
 - [zabbix-api](#zabbix-api)
 - [zabbix-server](#zabbix-server)
 - [zabbix-templates](#zabbix-templates)
+- [zio](#zio)
 - [zipkin](#zipkin)
 - [zod](#zod)
 - [zookeeper](#zookeeper)
@@ -2068,7 +2072,7 @@
 
 ## agent 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [jitlogic/zorka](https://github.com/jitlogic/zorka) - Sophisticated monitoring agent for Java
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 
@@ -2098,7 +2102,7 @@
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
@@ -2953,6 +2957,7 @@
 
 ## behavioral-interviews 
 
+- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - This repository contains tips and resources to prepare for behavioral interviews.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 ## behaviour 
@@ -3379,7 +3384,7 @@
 ## chat 
 
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 
 ## chat-application 
@@ -3417,7 +3422,7 @@
 - [decentralizedlabs/pr-codex](https://github.com/decentralizedlabs/pr-codex) - A ChatGPT-powered bot to summarize PR code diffs
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 
@@ -5646,6 +5651,10 @@
 
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 
+## effect-system 
+
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
+
 ## eks 
 
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
@@ -5685,7 +5694,7 @@
 
 ## emacs 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 
 ## embedded-systems 
 
@@ -6120,8 +6129,13 @@
 
 - [thoughtworks/metrik](https://github.com/thoughtworks/metrik) - An easy-to-use, cross-platform measurement tool that pulls data out of CD pipelines and analysis the four key metrics for you.
 
+## fp 
+
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
+
 ## framework 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [yandex/yandex-tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool
@@ -7514,6 +7528,7 @@
 
 ## interview-preparation 
 
+- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - This repository contains tips and resources to prepare for behavioral interviews.
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
@@ -7534,6 +7549,10 @@
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
+
+## interviews 
+
+- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - This repository contains tips and resources to prepare for behavioral interviews.
 
 ## intrusion-detection 
 
@@ -8325,14 +8344,14 @@
 
 ## llamacpp 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 
 ## llm 
 
 - [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 
 ## llmops 
@@ -8580,7 +8599,7 @@
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization
 - [artsy/README](https://github.com/artsy/README) - :wave: - The documentation for being an Artsy Engineer
@@ -8830,7 +8849,7 @@
 
 ## mistral 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 
 ## mit-license 
 
@@ -9302,7 +9321,7 @@
 ## obsidian 
 
 - [sytone/obsidian-queryallthethings](https://github.com/sytone/obsidian-queryallthethings) - Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
 - [IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint) - Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!
@@ -9315,7 +9334,7 @@
 ## obsidian-md 
 
 - [sytone/obsidian-queryallthethings](https://github.com/sytone/obsidian-queryallthethings) - Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [platers/obsidian-linter](https://github.com/platers/obsidian-linter) - An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.
 - [jensmtg/influx](https://github.com/jensmtg/influx) - An alternative backlinks plugin, which displays relevant and formatted excerpts from notes with linked mentions, based on the position of mentions in the notes' hierarchical structure (bullet level in
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
@@ -9549,7 +9568,7 @@
 
 ## org-mode 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 
 ## organization 
 
@@ -10799,7 +10818,7 @@
 
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
@@ -11032,7 +11051,7 @@
 
 ## pwa 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
@@ -11186,7 +11205,7 @@
 ## rag 
 
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 
 ## rails 
 
@@ -12015,7 +12034,7 @@
 - [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -12038,7 +12057,7 @@
 
 ## semantic-search 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 
 ## semantic-versioning 
 
@@ -12320,6 +12339,7 @@
 
 ## software-engineering 
 
+- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - This repository contains tips and resources to prepare for behavioral interviews.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [ligurio/swebok-2004-in-russian](https://github.com/ligurio/swebok-2004-in-russian) - Основы программной инженерии (SWEBOK 2004 на русском) в EPUB и HTML
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -13446,6 +13466,7 @@
 
 ## typescript 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
@@ -14043,6 +14064,10 @@
 
 - [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 - [monitoringartist/zabbix-community-repos](https://github.com/monitoringartist/zabbix-community-repos) - :memo: 850+ Zabbix community project links: SW/HW/DB templates, scripts, CLIs, integrations, API libraries, modules, configurations, ...
+
+## zio 
+
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 
 ## zipkin 
 
