@@ -11751,6 +11751,7 @@
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [LTD-Beget/syncookied](https://github.com/LTD-Beget/syncookied) - syn flood protection
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 
 ## rust-lang 
 
