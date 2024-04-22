@@ -92,6 +92,7 @@
 - [articles](#articles)
 - [artificial-intelligence](#artificial-intelligence)
 - [asciicast](#asciicast)
+- [asciinema](#asciinema)
 - [asp-net](#asp-net)
 - [asp-net-core](#asp-net-core)
 - [aspnet](#aspnet)
@@ -1805,7 +1806,6 @@
 - [temporal-knowledge-graph](#temporal-knowledge-graph)
 - [temporal-networks](#temporal-networks)
 - [terminal](#terminal)
-- [terminal-recording](#terminal-recording)
 - [terraform](#terraform)
 - [terraform-aws](#terraform-aws)
 - [terraform-cloud](#terraform-cloud)
@@ -2494,6 +2494,10 @@
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## asciicast 
+
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+
+## asciinema 
 
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 
@@ -9594,6 +9598,7 @@
 
 ## others 
 
+- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [hangops/code-of-conduct](https://github.com/hangops/code-of-conduct) - 
 - [diggerhq/tacoscalculator](https://github.com/diggerhq/tacoscalculator) - Terraform Automation and Collaboration tools (TACOS) pricing calculator
@@ -13028,10 +13033,6 @@
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-
-## terminal-recording 
-
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 
 ## terraform 
 
