@@ -3334,7 +3334,7 @@
 
 ## channels 
 
-- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of YouTube channels about IT that I watch
+- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
 
 ## chaos 
 
@@ -3999,7 +3999,7 @@
 - [orbit-love/devrel-kpis](https://github.com/orbit-love/devrel-kpis) - A community-sourced resource of metrics and methods for proving ROI through data + story. Advice from around the DevRel and Community world.
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
-- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of YouTube channels about IT that I watch
+- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
 - [InternalDeveloperPlatform/Platform-Engineering-Community](https://github.com/InternalDeveloperPlatform/Platform-Engineering-Community) - A place for the Platform Engineering Community Guidelines and Code of Conduct.
 - [mntnr/awesome-contributing](https://github.com/mntnr/awesome-contributing) - Awesome contributing guides for open source development.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -5083,7 +5083,7 @@
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [evgeniy-kharchenko/DevOps-Origins](https://github.com/evgeniy-kharchenko/DevOps-Origins) - Проект посвящённый описанию отраслевой DevOps модели
-- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of YouTube channels about IT that I watch
+- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
 - [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.
 - [Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition](https://github.com/Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition) - The Way of CI/CD is a project from which you can assemble your custom pipeline by using different pieces of code or by including entire stages. This project serves as a builder for creating pipelines 
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -7116,7 +7116,7 @@
 
 ## highload 
 
-- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of YouTube channels about IT that I watch
+- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
 - [docops-hq/conf](https://github.com/docops-hq/conf) - Конспекты докладов IT-конференций
 
 ## hiring 
@@ -8279,7 +8279,7 @@
 
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of YouTube channels about IT that I watch
+- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
@@ -9609,7 +9609,7 @@
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [nixys/nxs-universal-chart](https://github.com/nixys/nxs-universal-chart) - The Helm chart you can use to install any of your applications into Kubernetes/OpenShift
 - [OkayHQ/backstage-plugin](https://github.com/OkayHQ/backstage-plugin) - Backstage plugin for DORA metrics by Okay -- flexible analytics and reporting for engineering teams
-- [DevoteamNL/opendora](https://github.com/DevoteamNL/opendora) - Team performance observability for your organization.
+- [DevoteamNL/opendora](https://github.com/DevoteamNL/opendora) - Team performance insights for your organization.
 - [ongardie/diskbenchmark](https://github.com/ongardie/diskbenchmark) - Benchmarking utilities for measuring the latencies of disks (mostly interesting for SSDs).
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Convert Compute And Books Into Instruct-Tuning Datasets
 - [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowi
@@ -11082,7 +11082,7 @@
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
-- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of YouTube channels about IT that I watch
+- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [apache/kibble](https://github.com/apache/kibble) - Apache Kibble - a tool to collect, aggregate and visualize data about any software project
@@ -13642,7 +13642,7 @@
 
 ## video 
 
-- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of YouTube channels about IT that I watch
+- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 
@@ -14043,11 +14043,11 @@
 ## youtube 
 
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
-- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of YouTube channels about IT that I watch
+- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
 
 ## zabbix 
 
-- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of YouTube channels about IT that I watch
+- [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
 - [ableev/Zabbix-in-Telegram](https://github.com/ableev/Zabbix-in-Telegram) - Zabbix Notifications with graphs in Telegram
 - [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 - [zabbix-tools/libzbxpgsql](https://github.com/zabbix-tools/libzbxpgsql) - Monitor PostgreSQL with Zabbix
