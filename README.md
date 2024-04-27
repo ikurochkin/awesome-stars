@@ -8,6 +8,7 @@
 - [ab-testing](#ab-testing)
 - [abtest](#abtest)
 - [academic](#academic)
+- [accelerate](#accelerate)
 - [acceptance-testing](#acceptance-testing)
 - [access-control](#access-control)
 - [acme](#acme)
@@ -2056,6 +2057,10 @@
 ## academic 
 
 - [h1alexbel/awesome-social-program-analysis](https://github.com/h1alexbel/awesome-social-program-analysis) - Curated list of academic papers on Social Program Analysis
+
+## accelerate 
+
+- [Trendyol/four-key](https://github.com/Trendyol/four-key) - four-key is a measurement tool written with golang for your repositories. This project inspired from Accelerate book.
 
 ## acceptance-testing 
 
@@ -9980,7 +9985,6 @@
 - [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) - A template for defining a Team API - as explained in the Team Topologies book
 - [devopsenterprise/2020-London-Virtual](https://github.com/devopsenterprise/2020-London-Virtual) - 
 - [devopsenterprise/2020-Las-Vegas-Virtual](https://github.com/devopsenterprise/2020-Las-Vegas-Virtual) - 
-- [Trendyol/four-key](https://github.com/Trendyol/four-key) - four-key is a measurement tool written with golang for your repositories. This project inspired from Accelerate book.
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [avito-tech/puppet-controlrepo-template](https://github.com/avito-tech/puppet-controlrepo-template) - Шаблон control repo для Puppet к статье «Инфраструктура как код в Авито: уроки которые мы извлекли»
 - [avito-tech/puppet-module-template](https://github.com/avito-tech/puppet-module-template) - Шаблон Puppet модуля к статье «Инфраструктура как код в Авито: уроки которые мы извлекли»
