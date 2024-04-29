@@ -145,6 +145,7 @@
 - [background-worker](#background-worker)
 - [backlinks](#backlinks)
 - [backstage](#backstage)
+- [backstage-plugin](#backstage-plugin)
 - [backup](#backup)
 - [backups](#backups)
 - [badge](#badge)
@@ -539,6 +540,7 @@
 - [developer-environment](#developer-environment)
 - [developer-experience](#developer-experience)
 - [developer-portal](#developer-portal)
+- [developer-productivity](#developer-productivity)
 - [developer-relations](#developer-relations)
 - [developer-roadmap](#developer-roadmap)
 - [developer-tools](#developer-tools)
@@ -1283,6 +1285,7 @@
 - [novice](#novice)
 - [npm](#npm)
 - [nsm](#nsm)
+- [nuxt](#nuxt)
 - [object-oriented](#object-oriented)
 - [objective-c](#objective-c)
 - [obs](#obs)
@@ -2228,6 +2231,7 @@
 
 ## analytics 
 
+- [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 - [oss-compass/compass-web](https://github.com/oss-compass/compass-web) - Frontend project for the OSS Compass
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
@@ -2911,11 +2915,16 @@
 
 ## backstage 
 
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
 - [AxisCommunications/backstage-plugins](https://github.com/AxisCommunications/backstage-plugins) - Backstage Plugins Created by Axis Communications
 - [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - Enterprise-ready Backstage distribution
 - [einride/backstage-go](https://github.com/einride/backstage-go) - Backstage SDK for Go
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+
+## backstage-plugin 
+
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 
 ## backup 
 
@@ -5110,6 +5119,7 @@
 
 ## developer-experience 
 
+- [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 - [ikurochkin/ikurochkin](https://github.com/ikurochkin/ikurochkin) - Igor Kurochkin Profile
 - [buildwithusers/awesome-devrel-library](https://github.com/buildwithusers/awesome-devrel-library) - Curated list of inspiring learnings (articles, videos, podcast episodes) around DevRel 🥑
 - [einride/backstage-go](https://github.com/einride/backstage-go) - Backstage SDK for Go
@@ -5123,6 +5133,10 @@
 
 - [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+
+## developer-productivity 
+
+- [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 
 ## developer-relations 
 
@@ -5656,6 +5670,7 @@
 
 ## dora-metrics 
 
+- [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 - [dora-metrics/pelorus](https://github.com/dora-metrics/pelorus) - Automate the measurement of organizational behavior
 - [mikaelvesavuori/github-dora-metrics](https://github.com/mikaelvesavuori/github-dora-metrics) - Instant, badge-ready DORA metrics for your GitHub repository.
 
@@ -6974,6 +6989,7 @@
 
 ## hacktoberfest 
 
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) - Github Action implementation of SLSA Provenance Generation
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [philips-labs/tabia](https://github.com/philips-labs/tabia) - Repository characteristics
@@ -8672,6 +8688,7 @@
 
 ## management 
 
+- [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [roxy-wi/roxy-wi](https://github.com/roxy-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
@@ -9437,6 +9454,10 @@
 
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 
+## nuxt 
+
+- [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
+
 ## object-oriented 
 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
@@ -9741,6 +9762,7 @@
 
 ## others 
 
+- [fast-flow/meetup](https://github.com/fast-flow/meetup) - Meetup ideas and resources
 - [UoYCS-plasma/GP2](https://github.com/UoYCS-plasma/GP2) - The rule-based graph programming language GP 2
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
 - [ythirion/tech-radar-hugo](https://github.com/ythirion/tech-radar-hugo) - A tech radar implementation website based on hugo.
@@ -10973,6 +10995,7 @@
 
 ## productivity 
 
+- [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
