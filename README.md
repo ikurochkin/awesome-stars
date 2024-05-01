@@ -9775,6 +9775,8 @@
 
 ## others 
 
+- [niallrmurphy/twinslo](https://github.com/niallrmurphy/twinslo) - Repository for illustrating the twinslo approach to monitoring SLOs
+- [tomekl007/manning_software_mistakes_and_tradeoffs](https://github.com/tomekl007/manning_software_mistakes_and_tradeoffs) - The code for my book: https://www.manning.com/books/software-mistakes-and-tradeoffs published for Manning.
 - [red-hat-people-team/open-decision-framework](https://github.com/red-hat-people-team/open-decision-framework) - A community version of the Open Decision Framework
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [fast-flow/meetup](https://github.com/fast-flow/meetup) - Meetup ideas and resources
