@@ -9775,6 +9775,7 @@
 
 ## others 
 
+- [back-stack/showcase](https://github.com/back-stack/showcase) - The showcase implementation of The BACK stack
 - [niallrmurphy/twinslo](https://github.com/niallrmurphy/twinslo) - Repository for illustrating the twinslo approach to monitoring SLOs
 - [tomekl007/manning_software_mistakes_and_tradeoffs](https://github.com/tomekl007/manning_software_mistakes_and_tradeoffs) - The code for my book: https://www.manning.com/books/software-mistakes-and-tradeoffs published for Manning.
 - [red-hat-people-team/open-decision-framework](https://github.com/red-hat-people-team/open-decision-framework) - A community version of the Open Decision Framework
