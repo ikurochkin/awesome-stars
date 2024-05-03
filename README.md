@@ -634,7 +634,7 @@
 - [editor](#editor)
 - [edn](#edn)
 - [educational](#educational)
-- [effect-system](#effect-system)
+- [effect](#effect)
 - [eks](#eks)
 - [elasticsearch](#elasticsearch)
 - [electrical-engineering](#electrical-engineering)
@@ -742,7 +742,6 @@
 - [forum](#forum)
 - [foss](#foss)
 - [four-keys](#four-keys)
-- [fp](#fp)
 - [framework](#framework)
 - [frameworks](#frameworks)
 - [free](#free)
@@ -1618,6 +1617,7 @@
 - [scheduled-jobs](#scheduled-jobs)
 - [scheduler](#scheduler)
 - [scheduling](#scheduling)
+- [schema](#schema)
 - [schema-changes](#schema-changes)
 - [schema-migrations](#schema-migrations)
 - [schemas](#schemas)
@@ -1922,6 +1922,7 @@
 - [tvos](#tvos)
 - [twitter](#twitter)
 - [typeform](#typeform)
+- [typescipt](#typescipt)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
@@ -2041,7 +2042,6 @@
 - [zabbix-api](#zabbix-api)
 - [zabbix-server](#zabbix-server)
 - [zabbix-templates](#zabbix-templates)
-- [zio](#zio)
 - [zipkin](#zipkin)
 - [zod](#zod)
 - [zookeeper](#zookeeper)
@@ -3640,6 +3640,7 @@
 
 ## cli 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [philips-labs/tabia](https://github.com/philips-labs/tabia) - Repository characteristics
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -5790,9 +5791,9 @@
 
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 
-## effect-system 
+## effect 
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 
 ## eks 
 
@@ -6277,13 +6278,8 @@
 
 - [thoughtworks/metrik](https://github.com/thoughtworks/metrik) - An easy-to-use, cross-platform measurement tool that pulls data out of CD pipelines and analysis the four key metrics for you.
 
-## fp 
-
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
-
 ## framework 
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [yandex/yandex-tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool
@@ -7831,6 +7827,7 @@
 
 ## javascript 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
@@ -9693,6 +9690,7 @@
 
 ## opentelemetry 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [open-telemetry/community](https://github.com/open-telemetry/community) - OpenTelemetry community content
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
@@ -9775,6 +9773,8 @@
 
 ## others 
 
+- [devopsenterprise/2024-europe-virtual](https://github.com/devopsenterprise/2024-europe-virtual) - Enterprise Technology Leadership Summit Europe Virtual 2024 Slides
+- [lethain/systems-explorations](https://github.com/lethain/systems-explorations) - Examples of using systems library to model dynamic systems.
 - [back-stack/showcase](https://github.com/back-stack/showcase) - The showcase implementation of The BACK stack
 - [niallrmurphy/twinslo](https://github.com/niallrmurphy/twinslo) - Repository for illustrating the twinslo approach to monitoring SLOs
 - [tomekl007/manning_software_mistakes_and_tradeoffs](https://github.com/tomekl007/manning_software_mistakes_and_tradeoffs) - The code for my book: https://www.manning.com/books/software-mistakes-and-tradeoffs published for Manning.
@@ -10782,6 +10782,7 @@
 
 ## platform 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [volvo-cars/lingon](https://github.com/volvo-cars/lingon) - Lingon is a collection of libraries and tools for building platforms using Go.
 - [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - Links and materials to my public talks
 
@@ -12051,6 +12052,10 @@
 ## scheduling 
 
 - [linkedin/oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
+
+## schema 
+
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 
 ## schema-changes 
 
@@ -13678,9 +13683,12 @@
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 
+## typescipt 
+
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
+
 ## typescript 
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
@@ -14277,10 +14285,6 @@
 
 - [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 - [monitoringartist/zabbix-community-repos](https://github.com/monitoringartist/zabbix-community-repos) - :memo: 850+ Zabbix community project links: SW/HW/DB templates, scripts, CLIs, integrations, API libraries, modules, configurations, ...
-
-## zio 
-
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 
 ## zipkin 
 
