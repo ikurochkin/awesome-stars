@@ -496,7 +496,6 @@
 - [datasets](#datasets)
 - [dataviz](#dataviz)
 - [dba-roadmap](#dba-roadmap)
-- [dbeaver](#dbeaver)
 - [dbms](#dbms)
 - [dbt](#dbt)
 - [dcim](#dcim)
@@ -1096,6 +1095,7 @@
 - [linux-foundation](#linux-foundation)
 - [linux-insides](#linux-insides)
 - [linux-kernel](#linux-kernel)
+- [liquibase](#liquibase)
 - [list](#list)
 - [lists](#lists)
 - [live-coding](#live-coding)
@@ -1618,7 +1618,6 @@
 - [scheduler](#scheduler)
 - [scheduling](#scheduling)
 - [schema](#schema)
-- [schema-changes](#schema-changes)
 - [schema-migrations](#schema-migrations)
 - [schemas](#schemas)
 - [science](#science)
@@ -3616,7 +3615,7 @@
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition](https://github.com/Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition) - The Way of CI/CD is a project from which you can assemble your custom pipeline by using different pieces of code or by including entire stages. This project serves as a builder for creating pipelines 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [skyzyx/engineering-for-site-reliability](https://github.com/skyzyx/engineering-for-site-reliability) - Overall map of topics to cover for my “Engineering for Site Reliability” blog series.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -3692,7 +3691,7 @@
 ## clickhouse 
 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [flant/loghouse](https://github.com/flant/loghouse) - Ready to use log management solution for Kubernetes storing data in ClickHouse and providing web UI.
@@ -4915,10 +4914,6 @@
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-## dbeaver 
-
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
-
 ## dbms 
 
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
@@ -5211,7 +5206,7 @@
 - [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.
 - [Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition](https://github.com/Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition) - The Way of CI/CD is a project from which you can assemble your custom pipeline by using different pieces of code or by including entire stages. This project serves as a builder for creating pipelines 
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [dastergon/wheel-of-misfortune](https://github.com/dastergon/wheel-of-misfortune) - A role-playing game for incident management training
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering
@@ -6217,6 +6212,7 @@
 
 ## flyway 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [petr-korobeinikov/flyway-example](https://github.com/petr-korobeinikov/flyway-example) - Flyway (https://flywaydb.org) usage example.
 
 ## foreman 
@@ -6461,7 +6457,6 @@
 - [github/innovationgraph](https://github.com/github/innovationgraph) - GitHub Innovation Graph
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [mikaelvesavuori/github-dora-metrics](https://github.com/mikaelvesavuori/github-dora-metrics) - Instant, badge-ready DORA metrics for your GitHub repository.
 - [mntnr/awesome-contributing](https://github.com/mntnr/awesome-contributing) - Awesome contributing guides for open source development.
 - [mntnr/dashboard](https://github.com/mntnr/dashboard) - A status board for repositories within a GitHub organization.
@@ -6575,7 +6570,7 @@
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition](https://github.com/Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition) - The Way of CI/CD is a project from which you can assemble your custom pipeline by using different pieces of code or by including entire stages. This project serves as a builder for creating pipelines 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [phillipj/gitlab-search](https://github.com/phillipj/gitlab-search) - Command line tool to search for contents in GitLab repositories
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized configuration as a code tool for GitLab
@@ -6597,7 +6592,7 @@
 - [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 - [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
@@ -8464,6 +8459,10 @@
 
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 
+## liquibase 
+
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+
 ## list 
 
 - [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
@@ -9105,7 +9104,7 @@
 
 ## mongodb 
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
@@ -9229,7 +9228,7 @@
 ## mysql 
 
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
@@ -9735,7 +9734,7 @@
 
 ## oracle 
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 
@@ -9773,6 +9772,8 @@
 
 ## others 
 
+- [stepev/jira-blocker-analyser](https://github.com/stepev/jira-blocker-analyser) - 
+- [anvarKhakimov/jira-metrics-plugin](https://github.com/anvarKhakimov/jira-metrics-plugin) - The Jira Metrics Plugin enhances Kanban boards in Jira with advanced analytics for better project management.
 - [devopsenterprise/2024-europe-virtual](https://github.com/devopsenterprise/2024-europe-virtual) - Enterprise Technology Leadership Summit Europe Virtual 2024 Slides
 - [lethain/systems-explorations](https://github.com/lethain/systems-explorations) - Examples of using systems library to model dynamic systems.
 - [back-stack/showcase](https://github.com/back-stack/showcase) - The showcase implementation of The BACK stack
@@ -10891,7 +10892,7 @@
 ## postgres 
 
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - MergeStat enables anyone to ask questions about the history and contents of source code.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -10908,7 +10909,7 @@
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -11544,7 +11545,7 @@
 
 ## redis 
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
 - [fetlife/rollout](https://github.com/fetlife/rollout) - Feature flippers.
@@ -12057,13 +12058,9 @@
 
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 
-## schema-changes 
-
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
-
 ## schema-migrations 
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 
 ## schemas 
 
@@ -12495,7 +12492,7 @@
 ## snowflake 
 
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 
@@ -12656,7 +12653,7 @@
 ## sql 
 
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
@@ -12666,7 +12663,7 @@
 
 ## sql-client 
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 
 ## sql-editor 
 
@@ -12682,7 +12679,7 @@
 
 ## sqlserver 
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 
 ## sre 
@@ -13260,6 +13257,7 @@
 - [nrkno/terraform-registry](https://github.com/nrkno/terraform-registry) - A private Terraform registry with modular store backends.
 - [refl3ction/tfgen](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [itsumma/kulebiac](https://github.com/itsumma/kulebiac) - Фреймворк на основе CDKTF для развертывания облачной инфраструктуры любой сложности
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [volvo-cars/lingon](https://github.com/volvo-cars/lingon) - Lingon is a collection of libraries and tools for building platforms using Go.
@@ -13458,7 +13456,7 @@
 
 ## tidb 
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 
 ## time-series 
 
