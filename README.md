@@ -424,6 +424,7 @@
 - [cross-platform](#cross-platform)
 - [crowdsourcing](#crowdsourcing)
 - [crunchbase](#crunchbase)
+- [crypto](#crypto)
 - [csharp](#csharp)
 - [cspm](#cspm)
 - [css](#css)
@@ -626,6 +627,7 @@
 - [easy-deploy](#easy-deploy)
 - [ebpf](#ebpf)
 - [ec2](#ec2)
+- [economics](#economics)
 - [ecosystem](#ecosystem)
 - [ecr](#ecr)
 - [ecs](#ecs)
@@ -1100,6 +1102,7 @@
 - [lists](#lists)
 - [live-coding](#live-coding)
 - [llama](#llama)
+- [llama3](#llama3)
 - [llamacpp](#llamacpp)
 - [llm](#llm)
 - [llmops](#llmops)
@@ -1139,6 +1142,7 @@
 - [maintainer-wanted](#maintainer-wanted)
 - [make](#make)
 - [makefile](#makefile)
+- [malware](#malware)
 - [managed-by-terraform](#managed-by-terraform)
 - [management](#management)
 - [management-system](#management-system)
@@ -1199,7 +1203,6 @@
 - [mining-software-repositories](#mining-software-repositories)
 - [mintty](#mintty)
 - [mirror](#mirror)
-- [mistral](#mistral)
 - [mit-license](#mit-license)
 - [mksh](#mksh)
 - [mob](#mob)
@@ -1331,6 +1334,7 @@
 - [org-mode](#org-mode)
 - [organization](#organization)
 - [organizations](#organizations)
+- [osint](#osint)
 - [ospo](#ospo)
 - [osquery](#osquery)
 - [others](#others)
@@ -1754,6 +1758,7 @@
 - [status-page](#status-page)
 - [statuspage](#statuspage)
 - [stm32](#stm32)
+- [stocks](#stocks)
 - [storage](#storage)
 - [stored-procedures](#stored-procedures)
 - [strategy](#strategy)
@@ -1850,6 +1855,7 @@
 - [terraform-registry](#terraform-registry)
 - [terraform-templates](#terraform-templates)
 - [terragrunt](#terragrunt)
+- [terrorism](#terrorism)
 - [test](#test)
 - [test-automation](#test-automation)
 - [test-coverage](#test-coverage)
@@ -1890,6 +1896,7 @@
 - [tools](#tools)
 - [top](#top)
 - [topic](#topic)
+- [tor](#tor)
 - [touch](#touch)
 - [traces](#traces)
 - [tracing](#tracing)
@@ -2006,6 +2013,7 @@
 - [web-ui](#web-ui)
 - [webapi](#webapi)
 - [webapp](#webapp)
+- [webdevelopment](#webdevelopment)
 - [webgl](#webgl)
 - [webperf](#webperf)
 - [website](#website)
@@ -2663,6 +2671,7 @@
 
 ## awesome 
 
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
@@ -2712,6 +2721,7 @@
 
 ## awesome-list 
 
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [h1alexbel/awesome-social-program-analysis](https://github.com/h1alexbel/awesome-social-program-analysis) - Curated list of academic papers on Social Program Analysis
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
@@ -2762,6 +2772,7 @@
 
 ## awesome-lists 
 
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [buildwithusers/awesome-devrel-library](https://github.com/buildwithusers/awesome-devrel-library) - Curated list of inspiring learnings (articles, videos, podcast episodes) around DevRel 🥑
 
 ## awesome-stars 
@@ -2905,6 +2916,7 @@
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - Porto is a Modern Software Architectural Pattern that scales with your business!
 - [docops-hq/conf](https://github.com/docops-hq/conf) - Конспекты докладов IT-конференций
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
@@ -4553,6 +4565,10 @@
 
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 
+## crypto 
+
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
+
 ## csharp 
 
 - [minhhungit/github-action-rss-crawler](https://github.com/minhhungit/github-action-rss-crawler) - Auto crawl RSS feeds using Github Action
@@ -4639,6 +4655,7 @@
 
 ## cybersecurity 
 
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -5752,6 +5769,10 @@
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
+
+## economics 
+
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 
 ## ecosystem 
 
@@ -8494,6 +8515,10 @@
 
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 
+## llama3 
+
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
+
 ## llamacpp 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
@@ -8686,6 +8711,10 @@
 ## makefile 
 
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
+
+## malware 
+
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 
 ## managed-by-terraform 
 
@@ -9015,10 +9044,6 @@
 ## mirror 
 
 - [wikimedia/operations-puppet](https://github.com/wikimedia/operations-puppet) - Wikimedia Foundation operates some of the largest collaborative projects in the world. This is the Puppet repo for our servers. This repository is a mirror; see https://www.mediawiki.org/wiki/Develope
-
-## mistral 
-
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 
 ## mit-license 
 
@@ -9759,6 +9784,10 @@
 ## organizations 
 
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
+
+## osint 
+
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 
 ## ospo 
 
@@ -12833,6 +12862,10 @@
 
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 
+## stocks 
+
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
+
 ## storage 
 
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
@@ -13333,6 +13366,10 @@
 
 - [refl3ction/tfgen](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY
 
+## terrorism 
+
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
+
 ## test 
 
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
@@ -13536,6 +13573,10 @@
 ## topic 
 
 - [linkedin/kafka-monitor](https://github.com/linkedin/kafka-monitor) - Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availab
+
+## tor 
+
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 
 ## touch 
 
@@ -14108,6 +14149,10 @@
 ## webapp 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## webdevelopment 
+
+- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - Porto is a Modern Software Architectural Pattern that scales with your business!
 
 ## webgl 
 
