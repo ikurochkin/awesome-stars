@@ -9926,7 +9926,7 @@
 - [onlineconf/onlineconf](https://github.com/onlineconf/onlineconf) - Application level configuration system
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [bmurashin/ansible-agent](https://github.com/bmurashin/ansible-agent) - 
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load In Software Development
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [dxtips/community-tools](https://github.com/dxtips/community-tools) - list of tools for community
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
