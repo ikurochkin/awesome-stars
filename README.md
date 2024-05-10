@@ -9951,7 +9951,7 @@
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [dodopizza/RTFM](https://github.com/dodopizza/RTFM) - Dodo Engineering team manual
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
-- [Benedict/awesome-stateof](https://github.com/Benedict/awesome-stateof) - An awesome list of state of reports
+- [Benedict/stateof-stateof](https://github.com/Benedict/stateof-stateof) - An awesome list of state of reports
 - [fabioz/mu-repo](https://github.com/fabioz/mu-repo) - Tool to help in dealing with multiple git repositories
 - [Tinkoff/career](https://github.com/Tinkoff/career) - Информация о внутренней кухне Тинькофф, включая подготовку к собеседованию
 - [HiredThought/wardley-mapping-canvas](https://github.com/HiredThought/wardley-mapping-canvas) - A repository for the Wardley Mapping Canvas
