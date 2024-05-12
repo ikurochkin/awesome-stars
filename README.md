@@ -3033,7 +3033,7 @@
 
 ## behavioral-interviews 
 
-- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews at Tech companies.
+- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 ## behaviour 
@@ -3554,17 +3554,11 @@
 - [DataDog/chef-datadog](https://github.com/DataDog/chef-datadog) - Chef cookbook for Datadog Agent & Integrations
 - [chefspec/fauxhai](https://github.com/chefspec/fauxhai) - Easily mock full ohai data
 - [chef-cookbooks/chef-ingredient](https://github.com/chef-cookbooks/chef-ingredient) - Primitives for managing Chef products and packages
-- [express42/memcached](https://github.com/express42/memcached) - Express 42 memcached cookbook
-- [express42/theforeman](https://github.com/express42/theforeman) - Express 42 theforeman cookbook
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [chef/supermarket](https://github.com/chef/supermarket) - Chef's community platform
-- [express42/zabbix_lwrp](https://github.com/express42/zabbix_lwrp) - Express 42 zabbix cookbook
 - [Sous-Chefs-Boneyard/swap](https://github.com/Sous-Chefs-Boneyard/swap) - Development repository for the swap cookbook
 - [dev-sec/chef-os-hardening](https://github.com/dev-sec/chef-os-hardening) - This chef cookbook provides numerous security-related configurations, providing all-round base protection.
-- [express42/helpers_express42](https://github.com/express42/helpers_express42) - Express 42 helpers
-- [express42/ruby_lwrp](https://github.com/express42/ruby_lwrp) - Express 42 ruby installer cookbook
 - [evilmartians/chef-nginx](https://github.com/evilmartians/chef-nginx) - Chef Nginx recipes
-- [express42/openvpn](https://github.com/express42/openvpn) - Express 42 openvpn cookbook
 - [express42/testo](https://github.com/express42/testo) - Example project with chef, berkshelf, vagrant and packer.
 - [Graylog2/graylog2-cookbook](https://github.com/Graylog2/graylog2-cookbook) - Chef recipes to deploy Graylog
 - [chef-boneyard/chef-dk](https://github.com/chef-boneyard/chef-dk) - DEPRECATED: A streamlined development and deployment workflow for Chef Infra platform.
@@ -3572,7 +3566,6 @@
 - [chef-boneyard/microsoft_azure](https://github.com/chef-boneyard/microsoft_azure) - Windows Azure Cookbook for Chef
 - [chefspec/chefspec](https://github.com/chefspec/chefspec) - Write RSpec examples and generate coverage reports for Chef recipes!
 - [miketheman/knife-role-spaghetti](https://github.com/miketheman/knife-role-spaghetti) - Knife plugin for Chef to draw dependency graphs for roles. Cut through the spaghetti with a knife.
-- [express42/postgresql_lwrp](https://github.com/express42/postgresql_lwrp) - Express 42 postgresql cookbook
 - [till/easybib-cookbooks](https://github.com/till/easybib-cookbooks) - THIS IS UNMAINTAINED
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 
@@ -4442,16 +4435,9 @@
 
 ## cookbooks 
 
-- [express42/memcached](https://github.com/express42/memcached) - Express 42 memcached cookbook
-- [express42/theforeman](https://github.com/express42/theforeman) - Express 42 theforeman cookbook
 - [chef/supermarket](https://github.com/chef/supermarket) - Chef's community platform
-- [express42/zabbix_lwrp](https://github.com/express42/zabbix_lwrp) - Express 42 zabbix cookbook
-- [express42/helpers_express42](https://github.com/express42/helpers_express42) - Express 42 helpers
-- [express42/ruby_lwrp](https://github.com/express42/ruby_lwrp) - Express 42 ruby installer cookbook
 - [evilmartians/chef-nginx](https://github.com/evilmartians/chef-nginx) - Chef Nginx recipes
-- [express42/openvpn](https://github.com/express42/openvpn) - Express 42 openvpn cookbook
 - [Graylog2/graylog2-cookbook](https://github.com/Graylog2/graylog2-cookbook) - Chef recipes to deploy Graylog
-- [express42/postgresql_lwrp](https://github.com/express42/postgresql_lwrp) - Express 42 postgresql cookbook
 
 ## cookiecutter 
 
@@ -7449,8 +7435,6 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [express42/terraform_examples](https://github.com/express42/terraform_examples) - Express 42 terraform selectel examples
-- [express42/zabbix_lwrp](https://github.com/express42/zabbix_lwrp) - Express 42 zabbix cookbook
-- [express42/helpers_express42](https://github.com/express42/helpers_express42) - Express 42 helpers
 
 ## iam 
 
@@ -7702,7 +7686,7 @@
 
 ## interview-preparation 
 
-- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews at Tech companies.
+- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews.
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
@@ -7726,7 +7710,7 @@
 
 ## interviews 
 
-- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews at Tech companies.
+- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews.
 
 ## intrusion-detection 
 
@@ -9738,7 +9722,6 @@
 ## openvpn 
 
 - [express42/knife-openvpn](https://github.com/express42/knife-openvpn) - A knife plugin for Express 42 openvpn cookbook
-- [express42/openvpn](https://github.com/express42/openvpn) - Express 42 openvpn cookbook
 
 ## operations 
 
@@ -9808,6 +9791,7 @@
 
 ## others 
 
+- [swyxio/README](https://github.com/swyxio/README) - a readme for people working with me. always a work in progress.
 - [stepev/jira-blocker-analyser](https://github.com/stepev/jira-blocker-analyser) - 
 - [anvarKhakimov/jira-metrics-plugin](https://github.com/anvarKhakimov/jira-metrics-plugin) - The Jira Metrics Plugin enhances Kanban boards in Jira with advanced analytics for better project management.
 - [devopsenterprise/2024-europe-virtual](https://github.com/devopsenterprise/2024-europe-virtual) - Enterprise Technology Leadership Summit Europe Virtual 2024 Slides
@@ -10939,7 +10923,6 @@
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [express42/postgresql_lwrp](https://github.com/express42/postgresql_lwrp) - Express 42 postgresql cookbook
 
 ## postgresql 
 
@@ -12589,7 +12572,7 @@
 
 ## software-engineering 
 
-- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews at Tech companies.
+- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [ligurio/swebok-2004-in-russian](https://github.com/ligurio/swebok-2004-in-russian) - Основы программной инженерии (SWEBOK 2004 на русском) в EPUB и HTML
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -14315,7 +14298,6 @@
 - [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 - [zabbix-tools/libzbxpgsql](https://github.com/zabbix-tools/libzbxpgsql) - Monitor PostgreSQL with Zabbix
 - [jitlogic/zorka](https://github.com/jitlogic/zorka) - Sophisticated monitoring agent for Java
-- [express42/zabbix_lwrp](https://github.com/express42/zabbix_lwrp) - Express 42 zabbix cookbook
 - [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
 - [jasonmcintosh/rabbitmq-zabbix](https://github.com/jasonmcintosh/rabbitmq-zabbix) - Zabbix RabbitMQ Configuration
 - [burner1024/zabbix-sql](https://github.com/burner1024/zabbix-sql) - Useful Zabbix SQL queries
