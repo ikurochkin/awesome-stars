@@ -172,6 +172,7 @@
 - [big-data](#big-data)
 - [bigdata](#bigdata)
 - [bigquery](#bigquery)
+- [bilibili](#bilibili)
 - [billing](#billing)
 - [bioinformatics](#bioinformatics)
 - [bitbucket](#bitbucket)
@@ -615,6 +616,8 @@
 - [dot](#dot)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [douban](#douban)
+- [dribbble](#dribbble)
 - [drift](#drift)
 - [drift-detection](#drift-detection)
 - [driver](#driver)
@@ -954,6 +957,7 @@
 - [innersource](#innersource)
 - [insights](#insights)
 - [inspec](#inspec)
+- [instagram](#instagram)
 - [instrumentation](#instrumentation)
 - [integration](#integration)
 - [interactive-visualizations](#interactive-visualizations)
@@ -1115,6 +1119,7 @@
 - [local-development](#local-development)
 - [localstack](#localstack)
 - [locust](#locust)
+- [lofter](#lofter)
 - [log](#log)
 - [log-analysis](#log-analysis)
 - [log-analytics](#log-analytics)
@@ -1300,6 +1305,7 @@
 - [obsidian-plugin](#obsidian-plugin)
 - [obsidian-theme](#obsidian-theme)
 - [oci](#oci)
+- [ocr](#ocr)
 - [oh-my-zsh](#oh-my-zsh)
 - [oh-my-zsh-plugin](#oh-my-zsh-plugin)
 - [oh-my-zsh-theme](#oh-my-zsh-theme)
@@ -1393,6 +1399,7 @@
 - [pipeline](#pipeline)
 - [pitch](#pitch)
 - [pixhawk](#pixhawk)
+- [pixiv](#pixiv)
 - [pkgbuild](#pkgbuild)
 - [pkm](#pkm)
 - [plantuml](#plantuml)
@@ -1587,6 +1594,7 @@
 - [rpm](#rpm)
 - [rspec](#rspec)
 - [rss](#rss)
+- [rsshub](#rsshub)
 - [rtl-sdr](#rtl-sdr)
 - [rubocop](#rubocop)
 - [ruby](#ruby)
@@ -1726,6 +1734,7 @@
 - [spinnaker](#spinnaker)
 - [split-testing](#split-testing)
 - [sponsor](#sponsor)
+- [spotify](#spotify)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sql-client](#sql-client)
@@ -1862,6 +1871,7 @@
 - [test-coverage](#test-coverage)
 - [test-driven-development](#test-driven-development)
 - [test-engineering](#test-engineering)
+- [testcontainers](#testcontainers)
 - [testing](#testing)
 - [testing-framework](#testing-framework)
 - [testing-library](#testing-library)
@@ -1879,6 +1889,7 @@
 - [threat-intelligence](#threat-intelligence)
 - [threat-modeling](#threat-modeling)
 - [tidb](#tidb)
+- [tiktok](#tiktok)
 - [time-series](#time-series)
 - [timeline](#timeline)
 - [timer](#timer)
@@ -1946,6 +1957,7 @@
 - [user-friendly](#user-friendly)
 - [utilities](#utilities)
 - [utility](#utility)
+- [v2ex](#v2ex)
 - [vagrant](#vagrant)
 - [vagrantfile](#vagrantfile)
 - [validation](#validation)
@@ -2021,12 +2033,15 @@
 - [website-monitor](#website-monitor)
 - [websocket](#websocket)
 - [webui](#webui)
+- [wechat](#wechat)
+- [weibo](#weibo)
 - [well-architected](#well-architected)
 - [werf](#werf)
 - [whisper](#whisper)
 - [whiteboard](#whiteboard)
 - [wiki](#wiki)
 - [windows](#windows)
+- [wiremock](#wiremock)
 - [work](#work)
 - [workflow](#workflow)
 - [workflow-engine](#workflow-engine)
@@ -2050,6 +2065,7 @@
 - [zabbix-api](#zabbix-api)
 - [zabbix-server](#zabbix-server)
 - [zabbix-templates](#zabbix-templates)
+- [zhihu](#zhihu)
 - [zipkin](#zipkin)
 - [zod](#zod)
 - [zookeeper](#zookeeper)
@@ -3083,6 +3099,10 @@
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 
+## bilibili 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
 ## billing 
 
 - [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
@@ -4065,6 +4085,7 @@
 
 ## community 
 
+- [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [open-telemetry/community](https://github.com/open-telemetry/community) - OpenTelemetry community content
 - [orbit-love/devrel-kpis](https://github.com/orbit-love/devrel-kpis) - A community-sourced resource of metrics and methods for proving ROI through data + story. Advice from around the DevRel and Community world.
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
@@ -5706,6 +5727,14 @@
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [bronumski/HealthNet](https://github.com/bronumski/HealthNet) - .Net health check endpoint
 
+## douban 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+## dribbble 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
 ## drift 
 
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
@@ -6845,6 +6874,7 @@
 
 ## gradle 
 
+- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
 - [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
 
 ## gradle-kotlin-dsl 
@@ -7006,6 +7036,7 @@
 
 ## hacktoberfest 
 
+- [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) - Github Action implementation of SLSA Provenance Generation
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
@@ -7575,6 +7606,7 @@
 
 ## infrastructure-as-code 
 
+- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
@@ -7631,6 +7663,10 @@
 - [chef-boneyard/terraform-provisioner-inspec](https://github.com/chef-boneyard/terraform-provisioner-inspec) - Terraform InSpec Provisioner Plugin
 - [chef/cookstyle](https://github.com/chef/cookstyle) - A linting tool that helps you to write better Chef Infra cookbooks and InSpec profiles by detecting and automatically correcting style, syntax, and logic mistakes in your code.
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
+
+## instagram 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## instrumentation 
 
@@ -7789,6 +7825,7 @@
 
 ## it 
 
+- [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [joelparkerhenderson/maturity-models](https://github.com/joelparkerhenderson/maturity-models) - Maturity models for IT, Agile, DevOps, TOGAF, Six Sigma, P3M3, etc.
 
@@ -8560,11 +8597,16 @@
 
 ## localstack 
 
+- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## locust 
 
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
+
+## lofter 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## log 
 
@@ -9518,6 +9560,7 @@
 
 ## obsidian 
 
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [sytone/obsidian-queryallthethings](https://github.com/sytone/obsidian-queryallthethings) - Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
@@ -9531,6 +9574,7 @@
 
 ## obsidian-md 
 
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [sytone/obsidian-queryallthethings](https://github.com/sytone/obsidian-queryallthethings) - Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-h
 - [platers/obsidian-linter](https://github.com/platers/obsidian-linter) - An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.
@@ -9548,6 +9592,7 @@
 
 ## obsidian-plugin 
 
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [sytone/obsidian-queryallthethings](https://github.com/sytone/obsidian-queryallthethings) - Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [platers/obsidian-linter](https://github.com/platers/obsidian-linter) - An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.
@@ -9571,6 +9616,10 @@
 - [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
+
+## ocr 
+
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 
 ## oh-my-zsh 
 
@@ -9791,6 +9840,8 @@
 
 ## others 
 
+- [lethain/eng-strategy-models](https://github.com/lethain/eng-strategy-models) - 
+- [ruby/rss](https://github.com/ruby/rss) - RSS reading and writing
 - [swyxio/README](https://github.com/swyxio/README) - a readme for people working with me. always a work in progress.
 - [stepev/jira-blocker-analyser](https://github.com/stepev/jira-blocker-analyser) - 
 - [anvarKhakimov/jira-metrics-plugin](https://github.com/anvarKhakimov/jira-metrics-plugin) - The Jira Metrics Plugin enhances Kanban boards in Jira with advanced analytics for better project management.
@@ -10681,6 +10732,7 @@
 
 ## pdf 
 
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 
 ## pdf-viewer 
@@ -10787,6 +10839,10 @@
 ## pixhawk 
 
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+
+## pixiv 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## pkgbuild 
 
@@ -11239,6 +11295,7 @@
 
 ## pulumi 
 
+- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 
@@ -11858,8 +11915,13 @@
 
 ## rss 
 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [minhhungit/github-action-rss-crawler](https://github.com/minhhungit/github-action-rss-crawler) - Auto crawl RSS feeds using Github Action
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
+
+## rsshub 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## rtl-sdr 
 
@@ -12114,6 +12176,7 @@
 
 ## search 
 
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [hverlin/Quest](https://github.com/hverlin/Quest) - Quest is a Unified Engine for Searching Things (JIRA, Confluence, Google Drive, Dropbox paper, Slack...)
@@ -12663,6 +12726,10 @@
 
 - [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
 
+## spotify 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
 ## spring-boot 
 
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
@@ -13202,6 +13269,7 @@
 
 ## telegram 
 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [Asgoret/devops_chats](https://github.com/Asgoret/devops_chats) - Repository of DevOps (RUS) chats in Telegram
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
@@ -13381,6 +13449,10 @@
 
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 
+## testcontainers 
+
+- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
+
 ## testing 
 
 - [qase-tms/QA](https://github.com/qase-tms/QA) - All things Quality Assurance
@@ -13484,6 +13556,10 @@
 ## tidb 
 
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+
+## tiktok 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## time-series 
 
@@ -13704,6 +13780,7 @@
 
 ## twitter 
 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 
@@ -13808,6 +13885,10 @@
 - [dodopizza/kubectl-shovel](https://github.com/dodopizza/kubectl-shovel) - kubectl plugin for gathering diagnostics from running in k8s dotnet applications
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
+
+## v2ex 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## vagrant 
 
@@ -14169,6 +14250,14 @@
 
 - [roxy-wi/roxy-wi](https://github.com/roxy-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
 
+## wechat 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+## weibo 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
 ## well-architected 
 
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
@@ -14200,6 +14289,10 @@
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+
+## wiremock 
+
+- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
 
 ## work 
 
@@ -14288,6 +14381,7 @@
 
 ## youtube 
 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 - [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
 
@@ -14317,6 +14411,10 @@
 
 - [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 - [monitoringartist/zabbix-community-repos](https://github.com/monitoringartist/zabbix-community-repos) - :memo: 850+ Zabbix community project links: SW/HW/DB templates, scripts, CLIs, integrations, API libraries, modules, configurations, ...
+
+## zhihu 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## zipkin 
 
