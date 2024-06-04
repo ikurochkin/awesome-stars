@@ -615,6 +615,7 @@
 - [dod](#dod)
 - [domain-driven-design](#domain-driven-design)
 - [domain-specific-language](#domain-specific-language)
+- [dora](#dora)
 - [dora-metrics](#dora-metrics)
 - [dot](#dot)
 - [dotfiles](#dotfiles)
@@ -5731,6 +5732,15 @@
 ## domain-specific-language 
 
 - [ContextMapper/context-mapper-dsl](https://github.com/ContextMapper/context-mapper-dsl) - ContextMapper DSL: A Domain-specific Language for Context Mapping & Service Decomposition
+
+## dora 
+
+- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source dev productivity platform for engineering teams ✨
+- [dora-metrics/pelorus](https://github.com/dora-metrics/pelorus) - Automate the measurement of organizational behavior
+- [mikaelvesavuori/github-dora-metrics](https://github.com/mikaelvesavuori/github-dora-metrics) - Instant, badge-ready DORA metrics for your GitHub repository.
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
+- [thoughtworks/metrik](https://github.com/thoughtworks/metrik) - An easy-to-use, cross-platform measurement tool that pulls data out of CD pipelines and analysis the four key metrics for you.
+- [devops-ru/awesome-devops_ru](https://github.com/devops-ru/awesome-devops_ru) - Roadmap по материалам о DevOps, помогающим его понять, осмыслить и принять
 
 ## dora-metrics 
 
