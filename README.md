@@ -328,8 +328,10 @@
 - [codereview](#codereview)
 - [coding](#coding)
 - [coding-assistant](#coding-assistant)
+- [coding-exercises](#coding-exercises)
 - [coding-interview](#coding-interview)
 - [coding-interviews](#coding-interviews)
+- [coding-katas](#coding-katas)
 - [cog](#cog)
 - [cognitive](#cognitive)
 - [collaboration](#collaboration)
@@ -617,6 +619,7 @@
 - [documentation-tool](#documentation-tool)
 - [docute](#docute)
 - [dod](#dod)
+- [dojo](#dojo)
 - [domain-driven-design](#domain-driven-design)
 - [domain-specific-language](#domain-specific-language)
 - [dora](#dora)
@@ -1035,6 +1038,7 @@
 - [kafka-cluster](#kafka-cluster)
 - [kanban](#kanban)
 - [kata](#kata)
+- [katas](#katas)
 - [keepalived](#keepalived)
 - [key-metrics](#key-metrics)
 - [key-value](#key-value)
@@ -2730,6 +2734,7 @@
 
 ## awesome 
 
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
@@ -2780,6 +2785,7 @@
 
 ## awesome-list 
 
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [h1alexbel/awesome-social-program-analysis](https://github.com/h1alexbel/awesome-social-program-analysis) - Curated list of academic papers on Social Program Analysis
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
@@ -2831,6 +2837,7 @@
 
 ## awesome-lists 
 
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [buildwithusers/awesome-devrel-library](https://github.com/buildwithusers/awesome-devrel-library) - Curated list of inspiring learnings (articles, videos, podcast episodes) around DevRel 🥑
 
@@ -4044,11 +4051,16 @@
 
 ## coding 
 
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 
 ## coding-assistant 
 
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+
+## coding-exercises 
+
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 
 ## coding-interview 
 
@@ -4059,6 +4071,10 @@
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+## coding-katas 
+
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 
 ## cog 
 
@@ -5764,6 +5780,10 @@
 ## dod 
 
 - [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
+
+## dojo 
+
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 
 ## domain-driven-design 
 
@@ -8121,6 +8141,10 @@
 
 - [tekiegirl/Archangels](https://github.com/tekiegirl/Archangels) - Entry to the O'Reilly Autumn 2021 Architectural Kata
 
+## katas 
+
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
+
 ## keepalived 
 
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
@@ -8448,6 +8472,7 @@
 
 ## learning 
 
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [EnablingTeam/trainings](https://github.com/EnablingTeam/trainings) - Enabling.team Trainings
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [anitsh/til](https://github.com/anitsh/til) - Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.
@@ -8611,6 +8636,7 @@
 
 ## list 
 
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
@@ -11140,6 +11166,7 @@
 
 ## practice 
 
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [evgeniy-kharchenko/DevOps-Origins](https://github.com/evgeniy-kharchenko/DevOps-Origins) - Проект посвящённый описанию отраслевой DevOps модели
 - [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
 
@@ -11198,6 +11225,7 @@
 
 ## productivity 
 
+- [middlewarehq/unwrapped](https://github.com/middlewarehq/unwrapped) - Spotify Wrapped for developers.
 - [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
@@ -11403,6 +11431,7 @@
 
 ## pull-requests 
 
+- [middlewarehq/unwrapped](https://github.com/middlewarehq/unwrapped) - Spotify Wrapped for developers.
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [decentralizedlabs/pr-codex](https://github.com/decentralizedlabs/pr-codex) - A ChatGPT-powered bot to summarize PR code diffs
@@ -13023,6 +13052,7 @@
 
 ## stats 
 
+- [middlewarehq/unwrapped](https://github.com/middlewarehq/unwrapped) - Spotify Wrapped for developers.
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
 ## statsd 
@@ -13847,6 +13877,7 @@
 
 ## training 
 
+- [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [EnablingTeam/trainings](https://github.com/EnablingTeam/trainings) - Enabling.team Trainings
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [gruntwork-io/infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training) - Materials for learning how to use infrastructure-as-code
