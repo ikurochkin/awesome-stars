@@ -6391,11 +6391,11 @@
 
 ## form-builder 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
 
 ## form-generator 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
 
 ## formal-specification 
 
@@ -6417,7 +6417,7 @@
 
 ## forms-builder 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
 
 ## forum 
 
@@ -10035,7 +10035,7 @@
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [startupguide/awesome-oss-investors](https://github.com/startupguide/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [DevOpsKitchenTalks/podcast-materials](https://github.com/DevOpsKitchenTalks/podcast-materials) - 
-- [Byndyusoft/hypothesismapping](https://github.com/Byndyusoft/hypothesismapping) - База знаний о методе "Карта гипотез"
+- [Byndyusoft/hypothesismapping](https://github.com/Byndyusoft/hypothesismapping) - База знаний о методе «Карта гипотез»
 - [flussonic/marktome](https://github.com/flussonic/marktome) - Markdown to json and back with prerprocessors
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [SkeltonThatcher/devopstopologies](https://github.com/SkeltonThatcher/devopstopologies) - Website for the DevOps Team Topologies at devopstopologies.com
@@ -13198,7 +13198,7 @@
 ## survey 
 
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
@@ -13210,7 +13210,7 @@
 
 ## survey-app 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 
 ## survey-data 
@@ -13223,7 +13223,7 @@
 
 ## surveyjs 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
 
 ## surveys 
 
