@@ -9975,6 +9975,7 @@
 
 ## others 
 
+- [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [jedi-framework/manifest](https://github.com/jedi-framework/manifest) - Принципы развития джунов в самостоятельных экспертов
 - [fxcoudert/tools](https://github.com/fxcoudert/tools) - Tools and scripts I wrote and regularly use
 - [matkoch/resharper-cognitivecomplexity](https://github.com/matkoch/resharper-cognitivecomplexity) - 
