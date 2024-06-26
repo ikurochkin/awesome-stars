@@ -1700,6 +1700,7 @@
 - [shell](#shell)
 - [shell-script](#shell-script)
 - [shellcheck](#shellcheck)
+- [shfmt](#shfmt)
 - [showcase](#showcase)
 - [simulator](#simulator)
 - [site](#site)
@@ -9977,6 +9978,7 @@
 
 ## others 
 
+- [yandex/securitygym](https://github.com/yandex/securitygym) - 
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [jedi-framework/manifest](https://github.com/jedi-framework/manifest) - Принципы развития джунов в самостоятельных экспертов
 - [fxcoudert/tools](https://github.com/fxcoudert/tools) - Tools and scripts I wrote and regularly use
@@ -12617,6 +12619,10 @@
 ## shellcheck 
 
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+
+## shfmt 
+
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 
 ## showcase 
 
