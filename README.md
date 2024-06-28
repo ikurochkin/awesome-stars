@@ -787,6 +787,7 @@
 - [gen-ai](#gen-ai)
 - [genai](#genai)
 - [generation](#generation)
+- [generative-ai](#generative-ai)
 - [generator](#generator)
 - [getting-started](#getting-started)
 - [gifs](#gifs)
@@ -6558,6 +6559,10 @@
 ## generation 
 
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
+
+## generative-ai 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## generator 
 
