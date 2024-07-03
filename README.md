@@ -698,6 +698,7 @@
 - [etl](#etl)
 - [event-driven](#event-driven)
 - [event-driven-architecture](#event-driven-architecture)
+- [event-sourcing](#event-sourcing)
 - [eventbridge](#eventbridge)
 - [events](#events)
 - [exam](#exam)
@@ -904,6 +905,7 @@
 - [help-wanted](#help-wanted)
 - [heroku](#heroku)
 - [heroku-cli-plugin](#heroku-cli-plugin)
+- [hexagonal-architecture](#hexagonal-architecture)
 - [high-availability](#high-availability)
 - [highload](#highload)
 - [hiring](#hiring)
@@ -1240,6 +1242,7 @@
 - [modeling](#modeling)
 - [modeling-dynamic-systems](#modeling-dynamic-systems)
 - [modelling](#modelling)
+- [modular-monolith](#modular-monolith)
 - [module](#module)
 - [molecule](#molecule)
 - [moleculer](#moleculer)
@@ -1427,6 +1430,7 @@
 - [player](#player)
 - [plpgsql](#plpgsql)
 - [plugin](#plugin)
+- [plugin-architecture](#plugin-architecture)
 - [plugin-framework](#plugin-framework)
 - [plugins](#plugins)
 - [podcast](#podcast)
@@ -3724,6 +3728,7 @@
 
 ## clean-architecture 
 
+- [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 - [stringconcat/ddd_practice](https://github.com/stringconcat/ddd_practice) - 
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 
@@ -5836,6 +5841,7 @@
 
 ## dotnet 
 
+- [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [bronumski/HealthNet](https://github.com/bronumski/HealthNet) - .Net health check endpoint
@@ -6145,10 +6151,15 @@
 ## event-driven 
 
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+- [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 
 ## event-driven-architecture 
 
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
+
+## event-sourcing 
+
+- [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 
 ## eventbridge 
 
@@ -7418,6 +7429,10 @@
 ## heroku-cli-plugin 
 
 - [heroku/heroku-pg-extras](https://github.com/heroku/heroku-pg-extras) - A heroku plugin for awesome pg:* commands that are also great and fun and super.
+
+## hexagonal-architecture 
+
+- [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 
 ## high-availability 
 
@@ -9279,6 +9294,10 @@
 
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 
+## modular-monolith 
+
+- [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
+
 ## module 
 
 - [puppetlabs-toy-chest/puppetlabs-openstack](https://github.com/puppetlabs-toy-chest/puppetlabs-openstack) - Puppet Labs Reference and Testing Deployment Module for OpenStack (master tracks Kilo)
@@ -9989,6 +10008,7 @@
 
 ## others 
 
+- [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [yandex/securitygym](https://github.com/yandex/securitygym) - 
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [jedi-framework/manifest](https://github.com/jedi-framework/manifest) - Принципы развития джунов в самостоятельных экспертов
@@ -10006,7 +10026,7 @@
 - [back-stack/showcase](https://github.com/back-stack/showcase) - The showcase implementation of The BACK stack
 - [niallrmurphy/twinslo](https://github.com/niallrmurphy/twinslo) - Repository for illustrating the twinslo approach to monitoring SLOs
 - [tomekl007/manning_software_mistakes_and_tradeoffs](https://github.com/tomekl007/manning_software_mistakes_and_tradeoffs) - The code for my book: https://www.manning.com/books/software-mistakes-and-tradeoffs published for Manning.
-- [open-organization/open-decision-framework](https://github.com/open-organization/open-decision-framework) - A community version of the Open Decision Framework
+- [open-organization/open-decision-framework](https://github.com/open-organization/open-decision-framework) - A community version of the Open Decision Framework - A flexible, open approach to making decisions and leading projects
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [fast-flow/meetup](https://github.com/fast-flow/meetup) - Meetup ideas and resources
 - [UoYCS-plasma/GP2](https://github.com/UoYCS-plasma/GP2) - The rule-based graph programming language GP 2
@@ -10070,7 +10090,6 @@
 - [r9y-dev/site](https://github.com/r9y-dev/site) - 
 - [r9y-dev/r9y-map](https://github.com/r9y-dev/r9y-map) - 
 - [benwilcock/backstage-plugin-backchat](https://github.com/benwilcock/backstage-plugin-backchat) - A quick and dirty frontend plugin that integrates a GenAI feature into Backstage
-- [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 - [plesk/engineering-efficiency-assets](https://github.com/plesk/engineering-efficiency-assets) - The set of the assets to build Grafana dashboards with the metrics to analyse the effectiveness of your engineering practices
 - [papers-we-love/organizers](https://github.com/papers-we-love/organizers) - Materials for starting a local Papers We Love chapter
 - [sharovatov/sharovatov.github.io](https://github.com/sharovatov/sharovatov.github.io) - sharovatov.github.io content
@@ -11057,6 +11076,10 @@
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [vagrant-landrush/landrush](https://github.com/vagrant-landrush/landrush) - A Vagrant plugin that provides a simple DNS server for Vagrant guests
 - [Parallels/vagrant-parallels](https://github.com/Parallels/vagrant-parallels) - Vagrant Parallels Provider
+
+## plugin-architecture 
+
+- [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 
 ## plugin-framework 
 
@@ -12223,6 +12246,7 @@
 
 ## saas 
 
+- [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 
 ## safety 
@@ -13506,6 +13530,7 @@
 
 ## template 
 
+- [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 
 ## template-project 
