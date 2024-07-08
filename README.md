@@ -1080,7 +1080,6 @@
 - [kvm](#kvm)
 - [lab](#lab)
 - [labels](#labels)
-- [labels-generator](#labels-generator)
 - [labs](#labs)
 - [lambda](#lambda)
 - [landing-zone](#landing-zone)
@@ -8426,10 +8425,6 @@
 
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-
-## labels-generator 
-
-- [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 
 ## labs 
 
