@@ -3209,7 +3209,7 @@
 
 ## book 
 
-- [ligurio/swebok-2004-in-russian](https://github.com/ligurio/swebok-2004-in-russian) - Основы программной инженерии (SWEBOK 2004 на русском) в EPUB и HTML
+- [ligurio/swebok-2004-in-russian](https://github.com/ligurio/swebok-2004-in-russian) - Основы программной инженерии (SWEBOK 2004 на русском) в EPUB, FB2 и HTML
 - [paul-hammant/tbd](https://github.com/paul-hammant/tbd) - Source for TrunkBasedDevelopment.com
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [le0pard/postgresql_book](https://github.com/le0pard/postgresql_book) - Book about PostgreSQL (russian)
@@ -12813,7 +12813,7 @@
 ## software 
 
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
-- [ligurio/swebok-2004-in-russian](https://github.com/ligurio/swebok-2004-in-russian) - Основы программной инженерии (SWEBOK 2004 на русском) в EPUB и HTML
+- [ligurio/swebok-2004-in-russian](https://github.com/ligurio/swebok-2004-in-russian) - Основы программной инженерии (SWEBOK 2004 на русском) в EPUB, FB2 и HTML
 - [sdg-1/consulting-handbook](https://github.com/sdg-1/consulting-handbook) - A guide for technical professionals looking to start consulting
 - [tekiegirl/Archangels](https://github.com/tekiegirl/Archangels) - Entry to the O'Reilly Autumn 2021 Architectural Kata
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -12859,7 +12859,7 @@
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-- [ligurio/swebok-2004-in-russian](https://github.com/ligurio/swebok-2004-in-russian) - Основы программной инженерии (SWEBOK 2004 на русском) в EPUB и HTML
+- [ligurio/swebok-2004-in-russian](https://github.com/ligurio/swebok-2004-in-russian) - Основы программной инженерии (SWEBOK 2004 на русском) в EPUB, FB2 и HTML
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 - [oskardudycz/ArchitectureWeekly](https://github.com/oskardudycz/ArchitectureWeekly) - Architecture Weekly - links and resources to boost your knowledge and developer skills
