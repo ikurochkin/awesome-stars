@@ -974,6 +974,7 @@
 - [infrastructure-testing](#infrastructure-testing)
 - [inner-source](#inner-source)
 - [innersource](#innersource)
+- [insight](#insight)
 - [insights](#insights)
 - [inspec](#inspec)
 - [instagram](#instagram)
@@ -7800,6 +7801,10 @@
 - [InnerSourceCommons/InnerSourceLearningPath](https://github.com/InnerSourceCommons/InnerSourceLearningPath) - Holds the source material for the InnerSource Commons Learning Path
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization
 - [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - Open Source guidance from Zalando, Europe's largest online fashion platform
+
+## insight 
+
+- [AJamesPhillips/DataCurator](https://github.com/AJamesPhillips/DataCurator) - DataCurator enables you to map and understand complex systems before helping you plan, communicate and navigate successful interventions in them.
 
 ## insights 
 
