@@ -343,7 +343,6 @@
 - [command-line-tool](#command-line-tool)
 - [commercial-open-source](#commercial-open-source)
 - [commit](#commit)
-- [commit-hooks](#commit-hooks)
 - [commitizen](#commitizen)
 - [commits](#commits)
 - [communication](#communication)
@@ -4158,10 +4157,6 @@
 - [casperdcl/git-fame](https://github.com/casperdcl/git-fame) - :star: Pretty-print `git` repository collaborators sorted by contributions
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
-
-## commit-hooks 
-
-- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 
 ## commitizen 
 
