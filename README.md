@@ -1349,6 +1349,7 @@
 - [opencv](#opencv)
 - [openshift](#openshift)
 - [opensource](#opensource)
+- [openssf-scorecard](#openssf-scorecard)
 - [openstack](#openstack)
 - [openstack-swift](#openstack-swift)
 - [opensuse](#opensuse)
@@ -9920,6 +9921,11 @@
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - ASOC, ASPM, DevSecOps, Vulnerability Management Using ArcherySec.
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.
+
+## openssf-scorecard 
+
+- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 
 ## openstack 
 
