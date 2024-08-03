@@ -88,6 +88,7 @@
 - [archive](#archive)
 - [archiving](#archiving)
 - [archlinux](#archlinux)
+- [archops](#archops)
 - [argo](#argo)
 - [argo-cd](#argo-cd)
 - [argocd](#argocd)
@@ -2581,6 +2582,10 @@
 
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
+
+## archops 
+
+- [RabotaRu/DocHub](https://github.com/RabotaRu/DocHub) - Управление архитектурой как кодом
 
 ## argo 
 
@@ -10256,7 +10261,6 @@
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [jkomoros/CASsim](https://github.com/jkomoros/CASsim) - Complex Adaptive Systems Simulator
 - [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
-- [RabotaRu/DocHub](https://github.com/RabotaRu/DocHub) - Управление архитектурой как кодом
 - [slackhq/goSDL](https://github.com/slackhq/goSDL) - goSDL
 - [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [getmentor/getmentor.github.io](https://github.com/getmentor/getmentor.github.io) - GetMentor.dev educational community portal
