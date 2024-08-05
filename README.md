@@ -1034,6 +1034,7 @@
 - [jobseeker](#jobseeker)
 - [jquery](#jquery)
 - [json](#json)
+- [jsonnet](#jsonnet)
 - [jumpserver](#jumpserver)
 - [jvm](#jvm)
 - [k3s](#k3s)
@@ -1368,6 +1369,7 @@
 - [osint](#osint)
 - [ospo](#ospo)
 - [osquery](#osquery)
+- [oss](#oss)
 - [others](#others)
 - [owasp](#owasp)
 - [owasp-top-ten](#owasp-top-ten)
@@ -3748,6 +3750,7 @@
 
 ## cli 
 
+- [lintnet/lintnet](https://github.com/lintnet/lintnet) - General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [philips-labs/tabia](https://github.com/philips-labs/tabia) - Repository characteristics
@@ -8127,6 +8130,10 @@
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
 
+## jsonnet 
+
+- [lintnet/lintnet](https://github.com/lintnet/lintnet) - General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily
+
 ## jumpserver 
 
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
@@ -8602,6 +8609,7 @@
 
 ## linter 
 
+- [lintnet/lintnet](https://github.com/lintnet/lintnet) - General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
@@ -10028,6 +10036,10 @@
 
 - [kolide/launcher](https://github.com/kolide/launcher) - Osquery launcher, autoupdater, and packager
 - [kolide/fleet](https://github.com/kolide/fleet) - A flexible control server for osquery fleets
+
+## oss 
+
+- [lintnet/lintnet](https://github.com/lintnet/lintnet) - General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily
 
 ## others 
 
