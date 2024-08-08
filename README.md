@@ -1422,6 +1422,7 @@
 - [performance-test](#performance-test)
 - [performance-testing](#performance-testing)
 - [performance-tuning](#performance-tuning)
+- [pharo](#pharo)
 - [php](#php)
 - [pipeline](#pipeline)
 - [pitch](#pitch)
@@ -1722,6 +1723,7 @@
 - [site-reliability](#site-reliability)
 - [site-reliability-engineer](#site-reliability-engineer)
 - [site-reliability-engineering](#site-reliability-engineering)
+- [sitespeed](#sitespeed)
 - [six-sigma](#six-sigma)
 - [skill](#skill)
 - [skills](#skills)
@@ -1732,6 +1734,7 @@
 - [slo](#slo)
 - [sloc](#sloc)
 - [sloccount](#sloccount)
+- [smalltalk](#smalltalk)
 - [smarthome](#smarthome)
 - [smm](#smm)
 - [sms-gateway](#sms-gateway)
@@ -3209,7 +3212,7 @@
 ## blog 
 
 - [EnablingTeam/insights](https://github.com/EnablingTeam/insights) - Enabling.team Insights
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [vas3k/vas3k.blog](https://github.com/vas3k/vas3k.blog) - My blog codebase
 
@@ -6250,7 +6253,7 @@
 
 ## fastapi 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 
 ## fault-injection 
 
@@ -6528,7 +6531,7 @@
 
 ## funding 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 
 ## fuzzing 
@@ -6700,7 +6703,7 @@
 
 ## github-app 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [decentralizedlabs/pr-codex](https://github.com/decentralizedlabs/pr-codex) - A ChatGPT-powered bot to summarize PR code diffs
 
 ## github-automation 
@@ -9133,6 +9136,7 @@
 
 ## metrics 
 
+- [luque/dm-metrics](https://github.com/luque/dm-metrics) - Robert C. Martin's packages dependency management metrics for Pharo.
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
 - [anvarKhakimov/jira-metrics-plugin](https://github.com/anvarKhakimov/jira-metrics-plugin) - The Jira Metrics Plugin enhances Kanban boards in Jira with advanced analytics for better project management.
@@ -9598,7 +9602,7 @@
 ## nextjs 
 
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
@@ -10052,6 +10056,7 @@
 
 ## others 
 
+- [ignatij/dependency-management-metrics-maven-plugin](https://github.com/ignatij/dependency-management-metrics-maven-plugin) - Maven plugin for calculation of Dependency Management Metrics
 - [timurb/writebook](https://github.com/timurb/writebook) - 
 - [cncf/cartografos](https://github.com/cncf/cartografos) - The Cartografos working group aims to provide tools to help adopters and end-users to navigate the CNCF landscape and the wider cloud native ecosystem.
 - [hplush/slowreader](https://github.com/hplush/slowreader) - Web app to combine feeds from social networks and RSS and to help read more meaningful and deep content
@@ -11040,6 +11045,10 @@
 
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 
+## pharo 
+
+- [luque/dm-metrics](https://github.com/luque/dm-metrics) - Robert C. Martin's packages dependency management metrics for Pharo.
+
 ## php 
 
 - [unacms/una](https://github.com/unacms/una) - UNA Community Management System
@@ -11161,7 +11170,7 @@
 
 ## polar 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 
 ## policy 
 
@@ -11581,7 +11590,7 @@
 ## python 
 
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [vas3k/vas3k.blog](https://github.com/vas3k/vas3k.blog) - My blog codebase
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
@@ -11664,6 +11673,7 @@
 
 ## quality-assurance 
 
+- [luque/dm-metrics](https://github.com/luque/dm-metrics) - Robert C. Martin's packages dependency management metrics for Pharo.
 - [qase-tms/QA](https://github.com/qase-tms/QA) - All things Quality Assurance
 - [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - “Библия QA” - это обновляемая база знаний объемом 560+ страниц
 
@@ -11770,7 +11780,7 @@
 ## react 
 
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -12755,6 +12765,10 @@
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
 
+## sitespeed 
+
+- [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
+
 ## six-sigma 
 
 - [joelparkerhenderson/maturity-models](https://github.com/joelparkerhenderson/maturity-models) - Maturity models for IT, Agile, DevOps, TOGAF, Six Sigma, P3M3, etc.
@@ -12815,6 +12829,10 @@
 ## sloccount 
 
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+
+## smalltalk 
+
+- [luque/dm-metrics](https://github.com/luque/dm-metrics) - Robert C. Martin's packages dependency management metrics for Pharo.
 
 ## smarthome 
 
@@ -12992,7 +13010,7 @@
 
 ## sponsor 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 
 ## spotify 
 
@@ -13223,7 +13241,7 @@
 
 ## stripe 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 
 ## structurizr 
 
@@ -13271,7 +13289,7 @@
 
 ## subscriptions 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
 
 ## suggestion 
@@ -13445,6 +13463,7 @@
 
 ## systems 
 
+- [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
@@ -13473,7 +13492,7 @@
 
 ## tailwindcss 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 
@@ -14084,7 +14103,7 @@
 
 ## turborepo 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 
@@ -14117,7 +14136,7 @@
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
