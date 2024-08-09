@@ -111,6 +111,7 @@
 - [assistant](#assistant)
 - [async](#async)
 - [async-await](#async-await)
+- [atlantis](#atlantis)
 - [atom](#atom)
 - [audit](#audit)
 - [augmentation](#augmentation)
@@ -2691,6 +2692,10 @@
 ## async-await 
 
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+
+## atlantis 
+
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 
 ## atom 
 
