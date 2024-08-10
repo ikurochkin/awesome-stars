@@ -413,6 +413,8 @@
 - [cookbooks](#cookbooks)
 - [cookiecutter](#cookiecutter)
 - [copy-paste](#copy-paste)
+- [copyright](#copyright)
+- [copyright-scan](#copyright-scan)
 - [coredns](#coredns)
 - [correct](#correct)
 - [cost](#cost)
@@ -528,6 +530,7 @@
 - [demo](#demo)
 - [dependencies](#dependencies)
 - [dependency-checker](#dependency-checker)
+- [dependency-graph](#dependency-graph)
 - [dependency-manager](#dependency-manager)
 - [deploy](#deploy)
 - [deploy-tool](#deploy-tool)
@@ -1109,6 +1112,10 @@
 - [lessons-learned](#lessons-learned)
 - [letsencrypt](#letsencrypt)
 - [library](#library)
+- [license](#license)
+- [license-checking](#license-checking)
+- [license-management](#license-management)
+- [license-scan](#license-scan)
 - [licenses](#licenses)
 - [life](#life)
 - [light-theme](#light-theme)
@@ -1345,6 +1352,7 @@
 - [oop](#oop)
 - [open-data](#open-data)
 - [open-source](#open-source)
+- [open-source-licensing](#open-source-licensing)
 - [openai](#openai)
 - [openai-api](#openai-api)
 - [openapi](#openapi)
@@ -1371,6 +1379,7 @@
 - [ospo](#ospo)
 - [osquery](#osquery)
 - [oss](#oss)
+- [oss-compliance](#oss-compliance)
 - [others](#others)
 - [owasp](#owasp)
 - [owasp-top-ten](#owasp-top-ten)
@@ -1656,6 +1665,7 @@
 - [sast](#sast)
 - [sbom](#sbom)
 - [sbom-generator](#sbom-generator)
+- [sca](#sca)
 - [scala](#scala)
 - [scalability](#scalability)
 - [scalable](#scalable)
@@ -4245,6 +4255,7 @@
 
 ## compliance 
 
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [zuazo/dockerspec](https://github.com/zuazo/dockerspec) - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily.
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
@@ -4586,6 +4597,14 @@
 
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 
+## copyright 
+
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
+
+## copyright-scan 
+
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
+
 ## coredns 
 
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -4788,6 +4807,7 @@
 
 ## cyclonedx 
 
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
 ## cypher 
@@ -5149,6 +5169,7 @@
 
 ## dependencies 
 
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 500+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
@@ -5156,6 +5177,10 @@
 ## dependency-checker 
 
 - [rubysec/bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level verification for Bundler
+
+## dependency-graph 
+
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 
 ## dependency-manager 
 
@@ -7204,6 +7229,7 @@
 
 ## hacktoberfest 
 
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit) - Toolkit for cloud-native application lifecycle management
 - [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
@@ -8583,6 +8609,22 @@
 
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 
+## license 
+
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
+
+## license-checking 
+
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
+
+## license-management 
+
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
+
+## license-scan 
+
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
+
 ## licenses 
 
 - [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
@@ -9905,6 +9947,10 @@
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [le0pard/postgresql_book](https://github.com/le0pard/postgresql_book) - Book about PostgreSQL (russian)
 
+## open-source-licensing 
+
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
+
 ## openai 
 
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
@@ -10047,6 +10093,7 @@
 
 ## ospo 
 
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 
@@ -10058,6 +10105,10 @@
 ## oss 
 
 - [lintnet/lintnet](https://github.com/lintnet/lintnet) - General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily
+
+## oss-compliance 
+
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 
 ## others 
 
@@ -10842,6 +10893,7 @@
 
 ## package-manager 
 
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
@@ -12355,13 +12407,19 @@
 
 ## sbom 
 
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
 ## sbom-generator 
 
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
+
+## sca 
+
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 
 ## scala 
 
@@ -12978,6 +13036,7 @@
 
 ## spdx 
 
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
 
