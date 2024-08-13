@@ -970,6 +970,7 @@
 - [information-retrieval](#information-retrieval)
 - [infosec](#infosec)
 - [infra](#infra)
+- [infra-as-code](#infra-as-code)
 - [infrared](#infrared)
 - [infrastructure](#infrastructure)
 - [infrastructure-as-code](#infrastructure-as-code)
@@ -5374,7 +5375,7 @@
 - [EnablingTeam/trainings](https://github.com/EnablingTeam/trainings) - Enabling.team Trainings
 - [dora-metrics/pelorus](https://github.com/dora-metrics/pelorus) - Automate the measurement of organizational behavior
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [operate-first/sre](https://github.com/operate-first/sre) - SRE content
@@ -6443,7 +6444,7 @@
 
 ## flux 
 
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.
 
 ## flyway 
 
@@ -6829,7 +6830,7 @@
 ## gitops 
 
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -7679,7 +7680,7 @@
 
 ## idp 
 
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.
 
 ## ietf 
 
@@ -7776,6 +7777,10 @@
 ## infra 
 
 - [QubitProducts/bamboo](https://github.com/QubitProducts/bamboo) - HAProxy auto configuration and auto service discovery for Mesos Marathon
+
+## infra-as-code 
+
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 
 ## infrared 
 
@@ -8191,7 +8196,7 @@
 
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 - [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
@@ -8339,7 +8344,7 @@
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [opstower-ai/devops-ai-open-leaderboard](https://github.com/opstower-ai/devops-ai-open-leaderboard) - DevOps AI Assistant benchmarks for AWS, Kubernetes, and more
 - [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
@@ -10496,7 +10501,7 @@
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [grosser/stub_server](https://github.com/grosser/stub_server) - Boot up a real server to serve testing replies
 - [bkc1/terraform-multi-env](https://github.com/bkc1/terraform-multi-env) - Terraform wrapper script for handling multi-environment, multi-region deployments
-- [DataDog/kvexpress](https://github.com/DataDog/kvexpress) - Go program to move data in and out of Consul's KV store.
+- [DataDog/kvexpress](https://github.com/DataDog/kvexpress) - ## Auto-archived due to inactivity. ## Go program to move data in and out of Consul's KV store.
 - [aphyr/distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
 - [willthames/ansible-review](https://github.com/willthames/ansible-review) - 
 - [aspring/racker](https://github.com/aspring/racker) - Racker is an opinionated Ruby DSL for generating Packer(www.packer.io) templates.
