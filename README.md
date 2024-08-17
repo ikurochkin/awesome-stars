@@ -3058,7 +3058,7 @@
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
 - [AxisCommunications/backstage-plugins](https://github.com/AxisCommunications/backstage-plugins) - Backstage Plugins Created by Axis Communications
-- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - Enterprise-ready Backstage distribution
+- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - This repo is moving to https://github.com/redhat-developer/red-hat-developer-hub
 - [einride/backstage-go](https://github.com/einride/backstage-go) - Backstage SDK for Go
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 
@@ -7255,7 +7255,7 @@
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - Enterprise-ready Backstage distribution
+- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - This repo is moving to https://github.com/redhat-developer/red-hat-developer-hub
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -7894,7 +7894,7 @@
 
 ## internal-developer-platform 
 
-- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - Enterprise-ready Backstage distribution
+- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - This repo is moving to https://github.com/redhat-developer/red-hat-developer-hub
 
 ## international 
 
