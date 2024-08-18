@@ -1536,6 +1536,7 @@
 - [pytorch](#pytorch)
 - [qa](#qa)
 - [qa-automation](#qa-automation)
+- [qa-roadmap](#qa-roadmap)
 - [quality](#quality)
 - [quality-assurance](#quality-assurance)
 - [quality-control](#quality-control)
@@ -11727,6 +11728,10 @@
 ## qa-automation 
 
 - [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - “Библия QA” - это обновляемая база знаний объемом 560+ страниц
+
+## qa-roadmap 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## quality 
 
