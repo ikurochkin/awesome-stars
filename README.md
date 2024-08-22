@@ -2157,7 +2157,7 @@
 ## acceptance-testing 
 
 - [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
-- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined comprehensive set of checks for your entire Puppet code and data
+- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined efficient comprehensive set of checks for your entire Puppet code and data
 
 ## access-control 
 
@@ -7325,7 +7325,7 @@
 - [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken) - Test Kitchen driver/provisioner for lightning faster Chef Infra cookbook testing with Docker
 - [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker) - A Test Kitchen Driver for Docker
 - [express42/ansible-repertory](https://github.com/express42/ansible-repertory) - 
-- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined comprehensive set of checks for your entire Puppet code and data
+- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined efficient comprehensive set of checks for your entire Puppet code and data
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [chef-cookbooks/chef-ingredient](https://github.com/chef-cookbooks/chef-ingredient) - Primitives for managing Chef products and packages
@@ -8687,7 +8687,7 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
-- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined comprehensive set of checks for your entire Puppet code and data
+- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined efficient comprehensive set of checks for your entire Puppet code and data
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 
@@ -11621,7 +11621,7 @@
 - [github/octocatalog-diff](https://github.com/github/octocatalog-diff) - Compile Puppet catalogs from 2 branches, versions, etc., and compare them
 - [puppetlabs/pdk](https://github.com/puppetlabs/pdk) - The shortest path to better modules: Puppet Development Kit; Download:
 - [v0v04ka/puppet2conf](https://github.com/v0v04ka/puppet2conf) - puppet module documentation to confluence
-- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined comprehensive set of checks for your entire Puppet code and data
+- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined efficient comprehensive set of checks for your entire Puppet code and data
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [nwops/puppet-retrospec](https://github.com/nwops/puppet-retrospec) - The only tool you need to generate puppet code, tests, modules, facts, types, providers, data and everything else.
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
@@ -12282,7 +12282,7 @@
 - [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker) - A Test Kitchen Driver for Docker
 - [newcontext-oss/kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
-- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined comprehensive set of checks for your entire Puppet code and data
+- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined efficient comprehensive set of checks for your entire Puppet code and data
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
 - [ryotarai/infrataster](https://github.com/ryotarai/infrataster) - Infrastructure Behavior Testing Framework
 - [chefspec/fauxhai](https://github.com/chefspec/fauxhai) - Easily mock full ohai data
@@ -13347,7 +13347,7 @@
 
 ## style-linter 
 
-- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined comprehensive set of checks for your entire Puppet code and data
+- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined efficient comprehensive set of checks for your entire Puppet code and data
 
 ## styleguide 
 
@@ -13475,7 +13475,7 @@
 
 ## syntax-checker 
 
-- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined comprehensive set of checks for your entire Puppet code and data
+- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined efficient comprehensive set of checks for your entire Puppet code and data
 
 ## syntax-highlighting 
 
@@ -13867,7 +13867,7 @@
 - [TYPO3-infrastructure/jenkins-pipeline-global-library-chefci](https://github.com/TYPO3-infrastructure/jenkins-pipeline-global-library-chefci) - Jenkins Pipeline's "Workflow Global Libs" for Chef CI
 - [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken) - Test Kitchen driver/provisioner for lightning faster Chef Infra cookbook testing with Docker
 - [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker) - A Test Kitchen Driver for Docker
-- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined comprehensive set of checks for your entire Puppet code and data
+- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined efficient comprehensive set of checks for your entire Puppet code and data
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
@@ -14255,7 +14255,7 @@
 
 ## unit-testing 
 
-- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined comprehensive set of checks for your entire Puppet code and data
+- [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined efficient comprehensive set of checks for your entire Puppet code and data
 
 ## unix 
 
