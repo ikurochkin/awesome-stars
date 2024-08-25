@@ -26,6 +26,7 @@
 - [ai](#ai)
 - [ai-gateway](#ai-gateway)
 - [ai-project](#ai-project)
+- [airgap](#airgap)
 - [airsim](#airsim)
 - [airtable](#airtable)
 - [alert](#alert)
@@ -2250,6 +2251,11 @@
 ## ai-project 
 
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
+
+## airgap 
+
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
+- [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
 
 ## airsim 
 
