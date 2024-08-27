@@ -2866,7 +2866,7 @@
 - [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) - Wardley maps community hub. Useful Wardley mapping resources
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [moarpepes/awesome-mesh](https://github.com/moarpepes/awesome-mesh) - This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes c
@@ -3236,7 +3236,7 @@
 
 - [EnablingTeam/insights](https://github.com/EnablingTeam/insights) - Enabling.team Insights
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [vas3k/vas3k.blog](https://github.com/vas3k/vas3k.blog) - My blog codebase
 
 ## blueteam 
@@ -4051,7 +4051,7 @@
 ## code 
 
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 ## code-analysis 
 
@@ -4304,7 +4304,7 @@
 - [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences: we keep an eye on all of them!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -4655,7 +4655,7 @@
 
 ## courses 
 
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
 ## coverage 
@@ -4792,7 +4792,7 @@
 
 ## curriculum 
 
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [opsschool/curriculum](https://github.com/opsschool/curriculum) - Ops School Curriculum
 
 ## customer-data-platform 
@@ -5806,7 +5806,7 @@
 ## docs 
 
 - [oss-compass/community](https://github.com/oss-compass/community) - 
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [artsy/README](https://github.com/artsy/README) - :wave: - The documentation for being an Artsy Engineer
 
@@ -8094,7 +8094,7 @@
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [tech-conferences/conference-data](https://github.com/tech-conferences/conference-data) - Conference data for www.confs.tech
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -9064,7 +9064,7 @@
 
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -9101,7 +9101,7 @@
 
 ## mdx 
 
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 ## media 
 
@@ -11858,7 +11858,7 @@
 
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -12514,7 +12514,7 @@
 
 ## scrollytelling 
 
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
 ## sdk 
 
@@ -13487,7 +13487,7 @@
 
 ## syntax-highlighting 
 
-- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 
 ## synthetic-monitoring 
