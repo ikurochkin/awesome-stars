@@ -690,6 +690,7 @@
 - [entrepreneur](#entrepreneur)
 - [entrepreneurs](#entrepreneurs)
 - [entrepreneurship](#entrepreneurship)
+- [entrepreneurship-resources](#entrepreneurship-resources)
 - [env](#env)
 - [environment](#environment)
 - [environment-variables](#environment-variables)
@@ -6152,6 +6153,10 @@
 
 - [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
 
+## entrepreneurship-resources 
+
+- [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
+
 ## env 
 
 - [cloudposse-archives/tfenv](https://github.com/cloudposse-archives/tfenv) - Transform environment variables for use with Terraform (e.g.  `HOSTNAME` ⇨ `TF_VAR_hostname`)
@@ -10123,6 +10128,7 @@
 
 ## others 
 
+- [jtprogru/obsidian-vault-full-statistics-plugin](https://github.com/jtprogru/obsidian-vault-full-statistics-plugin) - 
 - [cluttrdev/gitlab-exporter](https://github.com/cluttrdev/gitlab-exporter) - An exporter for GitLab observability and analytics.
 - [ignatij/dependency-management-metrics-maven-plugin](https://github.com/ignatij/dependency-management-metrics-maven-plugin) - Maven plugin for calculation of Dependency Management Metrics
 - [timurb/writebook](https://github.com/timurb/writebook) - 
