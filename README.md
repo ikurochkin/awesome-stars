@@ -3468,7 +3468,7 @@
 
 ## cd 
 
-- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the KubeRocketCI (a.k.a. EPAM Delivery Platform) main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registr
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [cburgmer/buildviz](https://github.com/cburgmer/buildviz) - Transparency for your build pipeline's results and runtime
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
@@ -3584,7 +3584,7 @@
 
 ## chart 
 
-- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the KubeRocketCI (a.k.a. EPAM Delivery Platform) main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registr
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -3719,7 +3719,7 @@
 ## ci 
 
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
-- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the KubeRocketCI (a.k.a. EPAM Delivery Platform) main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registr
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
@@ -3754,7 +3754,7 @@
 
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
-- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the KubeRocketCI (a.k.a. EPAM Delivery Platform) main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registr
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition](https://github.com/Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition) - The Way of CI/CD is a project from which you can assemble your custom pipeline by using different pieces of code or by including entire stages. This project serves as a builder for creating pipelines 
@@ -5208,7 +5208,7 @@
 
 ## deployment 
 
-- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the KubeRocketCI (a.k.a. EPAM Delivery Platform) main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registr
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [mbtproject/mbt](https://github.com/mbtproject/mbt) - The most flexible build tool for monorepo
 - [ansistrano/deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
@@ -7458,7 +7458,7 @@
 ## helm 
 
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
-- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the KubeRocketCI (a.k.a. EPAM Delivery Platform) main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registr
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
@@ -8206,7 +8206,7 @@
 ## k8s 
 
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
-- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the KubeRocketCI (a.k.a. EPAM Delivery Platform) main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registr
 - [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -8346,7 +8346,7 @@
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
-- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the KubeRocketCI (a.k.a. EPAM Delivery Platform) main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registr
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
@@ -9254,7 +9254,7 @@
 
 ## microservice 
 
-- [epam/edp-install](https://github.com/epam/edp-install) - Start from the EPAM Delivery Platform main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registration, user creation i
+- [epam/edp-install](https://github.com/epam/edp-install) - Start from the KubeRocketCI (a.k.a. EPAM Delivery Platform) main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registr
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
