@@ -281,6 +281,7 @@
 - [circle](#circle)
 - [circleci](#circleci)
 - [circuit-breaker](#circuit-breaker)
+- [claude-ai](#claude-ai)
 - [clean-architecture](#clean-architecture)
 - [cli](#cli)
 - [cli-app](#cli-app)
@@ -891,6 +892,7 @@
 - [hacktoberfest2021](#hacktoberfest2021)
 - [hacktoberfest2022](#hacktoberfest2022)
 - [hacktoberfest2023](#hacktoberfest2023)
+- [hacktoberfest2024](#hacktoberfest2024)
 - [hadoop](#hadoop)
 - [hammerspoon](#hammerspoon)
 - [haproxy-configuration](#haproxy-configuration)
@@ -2232,6 +2234,7 @@
 - [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
@@ -3624,6 +3627,7 @@
 
 ## chatgpt 
 
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the y
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -3775,6 +3779,10 @@
 
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 
+## claude-ai 
+
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+
 ## clean-architecture 
 
 - [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
@@ -3787,6 +3795,7 @@
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
 - [philips-labs/tabia](https://github.com/philips-labs/tabia) - Repository characteristics
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -5343,6 +5352,7 @@
 
 ## developer-tools 
 
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [microsoft/HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [trunk-io/plugins](https://github.com/trunk-io/plugins) - Trunk.io plugins repo
@@ -7057,6 +7067,7 @@
 
 ## gpt 
 
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
 
@@ -7245,6 +7256,7 @@
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit) - Toolkit for cloud-native application lifecycle management
 - [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) - Github Action implementation of SLSA Provenance Generation
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
@@ -7387,6 +7399,10 @@
 ## hacktoberfest2023 
 
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
+
+## hacktoberfest2024 
+
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 
 ## hadoop 
 
@@ -9969,6 +9985,7 @@
 
 ## openai 
 
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
@@ -10247,7 +10264,6 @@
 - [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor
 - [caniszczyk/rugpulls.dev](https://github.com/caniszczyk/rugpulls.dev) - 
 - [jetporch/jetporch](https://github.com/jetporch/jetporch) - Read-only mirror: see https://www.jetporch.com/community/sourcehut
-- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [vendorsec/mvsp](https://github.com/vendorsec/mvsp) - Minimum Viable Secure Product mvsp.dev
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
 - [ossf/malicious-packages](https://github.com/ossf/malicious-packages) - A repository of reports of malicious packages identified in Open Source package repositories, consumable via the Open Source Vulnerability (OSV) format.
