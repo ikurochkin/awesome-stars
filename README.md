@@ -1609,6 +1609,7 @@
 - [replication](#replication)
 - [reporting](#reporting)
 - [reporting-engine](#reporting-engine)
+- [reports](#reports)
 - [representation-learning](#representation-learning)
 - [reproducibility](#reproducibility)
 - [request-routing](#request-routing)
@@ -9215,6 +9216,7 @@
 
 ## metrics 
 
+- [opensearch-project/opensearch-metrics](https://github.com/opensearch-project/opensearch-metrics) - OpenSearch Metrics
 - [luque/dm-metrics](https://github.com/luque/dm-metrics) - Robert C. Martin's packages dependency management metrics for Pharo.
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
@@ -12103,6 +12105,10 @@
 ## reporting-engine 
 
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
+
+## reports 
+
+- [opensearch-project/opensearch-metrics](https://github.com/opensearch-project/opensearch-metrics) - OpenSearch Metrics
 
 ## representation-learning 
 
