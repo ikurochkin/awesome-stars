@@ -867,6 +867,7 @@
 - [graph](#graph)
 - [graph-algorithms](#graph-algorithms)
 - [graph-database](#graph-database)
+- [graph-library](#graph-library)
 - [graph-theory](#graph-theory)
 - [graphdb](#graphdb)
 - [graphing](#graphing)
@@ -2800,7 +2801,7 @@
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
-- [stevexuereb/awesome-slo](https://github.com/stevexuereb/awesome-slo) - Curated list of resources on SLOs
+- [steve-mt/awesome-slo](https://github.com/steve-mt/awesome-slo) - Curated list of resources on SLOs
 - [feststelltaste/awesome-software-analytics](https://github.com/feststelltaste/awesome-software-analytics) - Curated list of awesome resources and links about Software Analytics
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [ikurochkin/awesome-stars](https://github.com/ikurochkin/awesome-stars) - A curated list of my GitHub stars!
@@ -2852,7 +2853,7 @@
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
-- [stevexuereb/awesome-slo](https://github.com/stevexuereb/awesome-slo) - Curated list of resources on SLOs
+- [steve-mt/awesome-slo](https://github.com/steve-mt/awesome-slo) - Curated list of resources on SLOs
 - [feststelltaste/awesome-software-analytics](https://github.com/feststelltaste/awesome-software-analytics) - Curated list of awesome resources and links about Software Analytics
 - [ikurochkin/awesome-stars](https://github.com/ikurochkin/awesome-stars) - A curated list of my GitHub stars!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -7158,6 +7159,10 @@
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
+
+## graph-library 
+
+- [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
 
 ## graph-theory 
 
@@ -12916,7 +12921,7 @@
 
 ## slo 
 
-- [stevexuereb/awesome-slo](https://github.com/stevexuereb/awesome-slo) - Curated list of resources on SLOs
+- [steve-mt/awesome-slo](https://github.com/steve-mt/awesome-slo) - Curated list of resources on SLOs
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [last9/slo-computer](https://github.com/last9/slo-computer) - SLOs, Error windows and alerts are complicated. Here an attempt to make it easy
 - [OpenSLO/slogen](https://github.com/OpenSLO/slogen) - tool to create and manage content for reliability tracking from logs/event data.
@@ -13163,7 +13168,7 @@
 ## sre 
 
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
-- [stevexuereb/awesome-slo](https://github.com/stevexuereb/awesome-slo) - Curated list of resources on SLOs
+- [steve-mt/awesome-slo](https://github.com/steve-mt/awesome-slo) - Curated list of resources on SLOs
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [last9/slo-computer](https://github.com/last9/slo-computer) - SLOs, Error windows and alerts are complicated. Here an attempt to make it easy
 - [teivah/sre-roadmap](https://github.com/teivah/sre-roadmap) - An Opinionated Roadmap to Become an SRE (Concepts &gt; Tools)
