@@ -1984,6 +1984,7 @@
 - [traefik](#traefik)
 - [traffic](#traffic)
 - [training](#training)
+- [transactional-emails](#transactional-emails)
 - [transactions](#transactions)
 - [transcripts](#transcripts)
 - [transformation](#transformation)
@@ -14129,6 +14130,10 @@
 - [EnablingTeam/trainings](https://github.com/EnablingTeam/trainings) - Enabling.team Trainings
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [gruntwork-io/infrastructure-as-code-training](https://github.com/gruntwork-io/infrastructure-as-code-training) - Materials for learning how to use infrastructure-as-code
+
+## transactional-emails 
+
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 
 ## transactions 
 
