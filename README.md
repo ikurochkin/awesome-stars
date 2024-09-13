@@ -24,6 +24,7 @@
 - [agile](#agile)
 - [agile-development](#agile-development)
 - [ai](#ai)
+- [ai-chat](#ai-chat)
 - [ai-gateway](#ai-gateway)
 - [ai-project](#ai-project)
 - [airgap](#airgap)
@@ -180,6 +181,7 @@
 - [bigdata](#bigdata)
 - [bigquery](#bigquery)
 - [bilibili](#bilibili)
+- [bill-of-materials](#bill-of-materials)
 - [billing](#billing)
 - [bioinformatics](#bioinformatics)
 - [bitbucket](#bitbucket)
@@ -1767,6 +1769,7 @@
 - [software-analysis](#software-analysis)
 - [software-architect-roadmap](#software-architect-roadmap)
 - [software-architecture](#software-architecture)
+- [software-bill-of-materials](#software-bill-of-materials)
 - [software-composition-analysis](#software-composition-analysis)
 - [software-defined-radio](#software-defined-radio)
 - [software-design](#software-design)
@@ -2250,6 +2253,10 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
+
+## ai-chat 
+
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 
 ## ai-gateway 
 
@@ -3217,6 +3224,10 @@
 ## bilibili 
 
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+## bill-of-materials 
+
+- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
 
 ## billing 
 
@@ -12459,6 +12470,7 @@
 - [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
 
 ## sbom-generator 
 
@@ -13009,6 +13021,10 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
+
+## software-bill-of-materials 
+
+- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
 
 ## software-composition-analysis 
 
