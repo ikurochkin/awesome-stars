@@ -1361,6 +1361,7 @@
 - [open-data](#open-data)
 - [open-source](#open-source)
 - [open-source-licensing](#open-source-licensing)
+- [open-source-management](#open-source-management)
 - [openai](#openai)
 - [openai-api](#openai-api)
 - [openapi](#openapi)
@@ -10001,6 +10002,10 @@
 ## open-source-licensing 
 
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
+
+## open-source-management 
+
+- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 ## openai 
 
