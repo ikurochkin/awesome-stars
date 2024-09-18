@@ -7284,6 +7284,7 @@
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
 - [operate-first/sre](https://github.com/operate-first/sre) - SRE content
+- [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
 - [orbit-love/devrel-kpis](https://github.com/orbit-love/devrel-kpis) - A community-sourced resource of metrics and methods for proving ROI through data + story. Advice from around the DevRel and Community world.
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
@@ -10269,7 +10270,6 @@
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [telegram-ru/devops_chats](https://github.com/telegram-ru/devops_chats) - Repository of DevOps (RUS) chats in Telegram
-- [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
 - [jakubnabrdalik/architecture-guild](https://github.com/jakubnabrdalik/architecture-guild) - An example of an Architecture Guild repository
 - [NTCoding/modernization-strategy-selector](https://github.com/NTCoding/modernization-strategy-selector) - A model for choosing the optimal modernization strategy for each subsystem. Taken from my book Architecture Modernization (Manning)
 - [Tinkoff/dm-knowledgebase](https://github.com/Tinkoff/dm-knowledgebase) - База знаний профессии Деливери менеджер https://tinkoff.github.io/dm-knowledgebase/
