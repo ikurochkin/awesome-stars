@@ -2330,6 +2330,7 @@
 
 ## allure 
 
+- [allure-framework/allurectl](https://github.com/allure-framework/allurectl) - Allure TestOps Command line tool
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
 
 ## alternatives 
@@ -10214,7 +10215,7 @@
 - [OkayHQ/backstage-plugin](https://github.com/OkayHQ/backstage-plugin) - Backstage plugin for DORA metrics by Okay -- flexible analytics and reporting for engineering teams
 - [DevoteamNL/opendora](https://github.com/DevoteamNL/opendora) - Team performance insights for your organization.
 - [ongardie/diskbenchmark](https://github.com/ongardie/diskbenchmark) - Benchmarking utilities for measuring the latencies of disks (mostly interesting for SSDs).
-- [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Convert Compute And Books Into Instruct-Tuning Datasets (or classifiers)!
+- [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Convert Compute And Books Into Instruct-Tuning Datasets! Makes: QA, RP, Classifiers.
 - [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowi
 - [paulsbruce/CultureIn1min](https://github.com/paulsbruce/CultureIn1min) - An organizational culture assessment tool based on research by Westrum, Forsgren, and others.
 - [vseinstrumentiru/devopsconf2024](https://github.com/vseinstrumentiru/devopsconf2024) - Материалы к нашим докладам представленным на DevOpsConf 2024 Москва
