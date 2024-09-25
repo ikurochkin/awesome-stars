@@ -3355,11 +3355,11 @@
 
 ## build-automation 
 
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 
 ## build-pipelines 
 
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 
 ## build-system 
 
@@ -3753,7 +3753,7 @@
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [sethmlarson/trytravis](https://github.com/sethmlarson/trytravis) - Send local git changes to Travis CI without commits or pushes.
 - [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [m-reda/pipeline](https://github.com/m-reda/pipeline) - Node-based automation server
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 
@@ -3764,7 +3764,7 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 
 ## ci-server 
@@ -4518,7 +4518,7 @@
 - [Aptomi/k8s-app-engine](https://github.com/Aptomi/k8s-app-engine) - Application delivery engine for k8s
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [zendesk/samson](https://github.com/zendesk/samson) - Web interface for deployments, with plugin architecture and kubernetes support
@@ -4544,7 +4544,7 @@
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
 - [fabric8io/fabric8](https://github.com/fabric8io/fabric8) - fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins
 - [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
@@ -5737,7 +5737,7 @@
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 - [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [gliderlabs/registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
@@ -6704,7 +6704,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [mattiasgeniar/puppet-pre-commit-hook](https://github.com/mattiasgeniar/puppet-pre-commit-hook) - A Puppet pre-commit hook to validate syntax
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -6928,7 +6928,7 @@
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [m-reda/pipeline](https://github.com/m-reda/pipeline) - Node-based automation server
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -7365,7 +7365,7 @@
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [Hexlet/hexletguides.github.io](https://github.com/Hexlet/hexletguides.github.io) - Hexlet Guides
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [chef-boneyard/audit](https://github.com/chef-boneyard/audit) - Audit Cookbook for Chef Compliance
 - [Hexlet/ru-test-assignments](https://github.com/Hexlet/ru-test-assignments) - Тестовые задания для самостоятельного выполнения от разных it компаний
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
@@ -12555,7 +12555,7 @@
 
 ## scm 
 
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 
 ## scorecard 
 
