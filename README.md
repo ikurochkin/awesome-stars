@@ -526,6 +526,7 @@
 - [debugging](#debugging)
 - [decentralized](#decentralized)
 - [decision-making](#decision-making)
+- [decisions](#decisions)
 - [deep-learning](#deep-learning)
 - [deep-neural-networks](#deep-neural-networks)
 - [deep-reinforcement-learning](#deep-reinforcement-learning)
@@ -5169,6 +5170,11 @@
 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+
+## decisions 
+
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
 ## deep-learning 
 
