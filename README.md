@@ -7318,6 +7318,7 @@
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
 - [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - This repo is moving to https://github.com/redhat-developer/red-hat-developer-hub
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
@@ -7362,6 +7363,7 @@
 - [theforeman/foreman_ansible](https://github.com/theforeman/foreman_ansible) - :arrow_forward: Ansible integration in Foreman
 - [voxpupuli/puppet-blacksmith](https://github.com/voxpupuli/puppet-blacksmith) - Ruby Gem with Puppet Module utilities
 - [voxpupuli/puppet-prometheus_reporter](https://github.com/voxpupuli/puppet-prometheus_reporter) - A prometheus Puppet reports exporter for Puppet
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [theforeman/hammer-cli](https://github.com/theforeman/hammer-cli) - Next-gen CLI tool for foreman
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
