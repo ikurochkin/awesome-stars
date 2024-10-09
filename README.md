@@ -1289,6 +1289,7 @@
 - [msdos](#msdos)
 - [msgpack](#msgpack)
 - [mssql](#mssql)
+- [multi-cloud](#multi-cloud)
 - [multi-language](#multi-language)
 - [multi-platform](#multi-platform)
 - [multicloud](#multicloud)
@@ -2700,6 +2701,7 @@
 
 - [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
@@ -5277,6 +5279,7 @@
 ## deployment 
 
 - [epam/edp-install](https://github.com/epam/edp-install) - Start from the KubeRocketCI (a.k.a. EPAM Delivery Platform) main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registr
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [mbtproject/mbt](https://github.com/mbtproject/mbt) - The most flexible build tool for monorepo
 - [ansistrano/deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
@@ -7323,6 +7326,7 @@
 - [SierraSoftworks/git-tool](https://github.com/SierraSoftworks/git-tool) - Stop worrying about where your code is saved and start being more productive with this cross-platform CLI (with auto-complete and GitHub integration).
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit) - Toolkit for cloud-native application lifecycle management
+- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
 - [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
@@ -7336,6 +7340,7 @@
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
 - [operate-first/sre](https://github.com/operate-first/sre) - SRE content
 - [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [orbit-love/devrel-kpis](https://github.com/orbit-love/devrel-kpis) - A community-sourced resource of metrics and methods for proving ROI through data + story. Advice from around the DevRel and Community world.
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
@@ -8925,6 +8930,7 @@
 
 ## llmops 
 
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.
 
 ## llms 
@@ -9643,6 +9649,10 @@
 ## mssql 
 
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
+
+## multi-cloud 
+
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 
 ## multi-language 
 
