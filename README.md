@@ -588,6 +588,7 @@
 - [diagrams-as-code](#diagrams-as-code)
 - [dialogue-systems](#dialogue-systems)
 - [diff](#diff)
+- [digital-garden](#digital-garden)
 - [digitalocean](#digitalocean)
 - [disaster-management](#disaster-management)
 - [disaster-recovery](#disaster-recovery)
@@ -706,6 +707,7 @@
 - [equipment](#equipment)
 - [er-diagram](#er-diagram)
 - [es6](#es6)
+- [estimation](#estimation)
 - [etcd](#etcd)
 - [etl](#etl)
 - [event-driven](#event-driven)
@@ -1479,6 +1481,7 @@
 - [podcast](#podcast)
 - [podcasts](#podcasts)
 - [podman](#podman)
+- [poker](#poker)
 - [polar](#polar)
 - [policy](#policy)
 - [policy-as-code](#policy-as-code)
@@ -1712,11 +1715,13 @@
 - [scraping](#scraping)
 - [script](#script)
 - [scrollytelling](#scrollytelling)
+- [scrum](#scrum)
 - [sdk](#sdk)
 - [search](#search)
 - [search-engine](#search-engine)
 - [search-engines](#search-engines)
 - [secdevops](#secdevops)
+- [second-brain](#second-brain)
 - [secret](#secret)
 - [secret-management](#secret-management)
 - [secrets](#secrets)
@@ -2245,6 +2250,7 @@
 
 ## agile 
 
+- [papito/ballot](https://github.com/papito/ballot) - Estimation poker tool for distributed teams
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
 - [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
 - [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
@@ -5635,6 +5641,10 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 
+## digital-garden 
+
+- [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
+
 ## digitalocean 
 
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
@@ -6266,6 +6276,10 @@
 ## es6 
 
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+
+## estimation 
+
+- [papito/ballot](https://github.com/papito/ballot) - Estimation poker tool for distributed teams
 
 ## etcd 
 
@@ -7338,6 +7352,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager
 - [operate-first/sre](https://github.com/operate-first/sre) - SRE content
 - [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
@@ -7429,6 +7444,7 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [chef-cookbooks/chef-ingredient](https://github.com/chef-cookbooks/chef-ingredient) - Primitives for managing Chef products and packages
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [chef/supermarket](https://github.com/chef/supermarket) - Chef's community platform
 - [go-graphite/go-carbon](https://github.com/go-graphite/go-carbon) - Golang implementation of Graphite/Carbon server with classic architecture: Agent -&gt; Cache -&gt; Persister
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
@@ -7482,6 +7498,7 @@
 ## hacktoberfest2024 
 
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager
 
 ## hactoberfest 
 
@@ -11411,6 +11428,10 @@
 
 - [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
 
+## poker 
+
+- [papito/ballot](https://github.com/papito/ballot) - Estimation poker tool for distributed teams
+
 ## polar 
 
 - [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
@@ -12709,6 +12730,10 @@
 
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 
+## scrum 
+
+- [papito/ballot](https://github.com/papito/ballot) - Estimation poker tool for distributed teams
+
 ## sdk 
 
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
@@ -12736,6 +12761,10 @@
 
 - [Swordfish-Security/awesome-devsecops-russia](https://github.com/Swordfish-Security/awesome-devsecops-russia) - Awesome DevSecOps на русском языке
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - ASOC, ASPM, DevSecOps, Vulnerability Management Using ArcherySec.
+
+## second-brain 
+
+- [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 
 ## secret 
 
@@ -14925,6 +14954,7 @@
 
 ## wiki 
 
+- [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [devops-ru/awesome-devops_ru](https://github.com/devops-ru/awesome-devops_ru) - Roadmap по материалам о DevOps, помогающим его понять, осмыслить и принять
 
