@@ -27,9 +27,12 @@
 - [ai-chat](#ai-chat)
 - [ai-gateway](#ai-gateway)
 - [ai-project](#ai-project)
+- [aiops](#aiops)
 - [airgap](#airgap)
 - [airsim](#airsim)
 - [airtable](#airtable)
+- [alarm](#alarm)
+- [alarms](#alarms)
 - [alert](#alert)
 - [alerting](#alerting)
 - [alertmanager](#alertmanager)
@@ -117,6 +120,7 @@
 - [async-await](#async-await)
 - [atlantis](#atlantis)
 - [atom](#atom)
+- [atom-feed](#atom-feed)
 - [audit](#audit)
 - [augmentation](#augmentation)
 - [authoring](#authoring)
@@ -436,6 +440,7 @@
 - [cplusplus](#cplusplus)
 - [cpp](#cpp)
 - [crawler](#crawler)
+- [crawling](#crawling)
 - [credentials](#credentials)
 - [crm](#crm)
 - [crm-platform](#crm-platform)
@@ -741,6 +746,7 @@
 - [feature-toggling](#feature-toggling)
 - [features](#features)
 - [fedora](#fedora)
+- [feed](#feed)
 - [feedback](#feedback)
 - [fig](#fig)
 - [file-explorer](#file-explorer)
@@ -1056,6 +1062,7 @@
 - [jobseeker](#jobseeker)
 - [jquery](#jquery)
 - [json](#json)
+- [jsonfeed](#jsonfeed)
 - [jsonnet](#jsonnet)
 - [jumpserver](#jumpserver)
 - [jvm](#jvm)
@@ -1177,6 +1184,7 @@
 - [logging](#logging)
 - [logo](#logo)
 - [logs](#logs)
+- [logseq](#logseq)
 - [loki](#loki)
 - [longhorn](#longhorn)
 - [lookup-table](#lookup-table)
@@ -1343,6 +1351,7 @@
 - [nomad](#nomad)
 - [nosql](#nosql)
 - [note-taking](#note-taking)
+- [note-taking-app](#note-taking-app)
 - [notepad](#notepad)
 - [notes](#notes)
 - [notifications](#notifications)
@@ -1670,6 +1679,7 @@
 - [rpm](#rpm)
 - [rspec](#rspec)
 - [rss](#rss)
+- [rss-feed](#rss-feed)
 - [rsshub](#rsshub)
 - [rtl-sdr](#rtl-sdr)
 - [rubocop](#rubocop)
@@ -1819,6 +1829,7 @@
 - [specification](#specification)
 - [spellcheck](#spellcheck)
 - [sphinx](#sphinx)
+- [spider](#spider)
 - [spider-framework](#spider-framework)
 - [spinnaker](#spinnaker)
 - [split-testing](#split-testing)
@@ -2148,6 +2159,7 @@
 - [wiremock](#wiremock)
 - [work](#work)
 - [workflow](#workflow)
+- [workflow-automation](#workflow-automation)
 - [workflow-engine](#workflow-engine)
 - [workflow-management-system](#workflow-management-system)
 - [workflows](#workflows)
@@ -2300,6 +2312,10 @@
 
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 
+## aiops 
+
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
+
 ## airgap 
 
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
@@ -2313,12 +2329,21 @@
 
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 
+## alarm 
+
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
+
+## alarms 
+
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
+
 ## alert 
 
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 
 ## alerting 
 
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
@@ -2339,6 +2364,7 @@
 
 ## alerts 
 
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator
 
@@ -2776,7 +2802,12 @@
 
 ## atom 
 
+- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+
+## atom-feed 
+
+- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 
 ## audit 
 
@@ -4756,8 +4787,13 @@
 
 ## crawler 
 
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [minhhungit/github-action-rss-crawler](https://github.com/minhhungit/github-action-rss-crawler) - Auto crawl RSS feeds using Github Action
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+
+## crawling 
+
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 
 ## credentials 
 
@@ -6443,6 +6479,10 @@
 
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 
+## feed 
+
+- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
+
 ## feedback 
 
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
@@ -6609,6 +6649,7 @@
 
 ## framework 
 
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [yandex/yandex-tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool
@@ -6960,6 +7001,8 @@
 
 ## go 
 
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -7039,6 +7082,8 @@
 
 ## golang 
 
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -8322,6 +8367,10 @@
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
 
+## jsonfeed 
+
+- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
+
 ## jsonnet 
 
 - [lintnet/lintnet](https://github.com/lintnet/lintnet) - General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily
@@ -9048,6 +9097,10 @@
 - [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 - [flant/loghouse](https://github.com/flant/loghouse) - Ready to use log management solution for Kubernetes storing data in ClickHouse and providing web UI.
 
+## logseq 
+
+- [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
+
 ## loki 
 
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -9222,6 +9275,7 @@
 
 ## markdown 
 
+- [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
@@ -9599,6 +9653,7 @@
 
 ## monitoring 
 
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
@@ -9650,6 +9705,7 @@
 
 ## monitoring-tool 
 
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 
@@ -9925,12 +9981,17 @@
 
 - [anitsh/til](https://github.com/anitsh/til) - Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.
 
+## note-taking-app 
+
+- [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
+
 ## notepad 
 
 - [anitsh/til](https://github.com/anitsh/til) - Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.
 
 ## notes 
 
+- [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [anitsh/til](https://github.com/anitsh/til) - Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.
 - [mgp/book-notes](https://github.com/mgp/book-notes) - Notes from books and other interesting things that I've read. Table of contents at the end 👇
 
@@ -10000,6 +10061,7 @@
 
 ## obsidian 
 
+- [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [jtprogru/obsidian-vault-full-statistics-plugin](https://github.com/jtprogru/obsidian-vault-full-statistics-plugin) - Status bar item with vault full statistics such as number of notes, files, attachments, links, tags and quality of vault.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
@@ -10016,6 +10078,7 @@
 
 ## obsidian-md 
 
+- [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [sytone/obsidian-queryallthethings](https://github.com/sytone/obsidian-queryallthethings) - Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars
@@ -11190,6 +11253,7 @@
 
 ## parser 
 
+- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 
 ## parsing 
@@ -11869,6 +11933,7 @@
 
 ## python 
 
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
@@ -11931,6 +11996,7 @@
 
 ## python3 
 
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 
 ## pytorch 
@@ -12471,9 +12537,15 @@
 
 ## rss 
 
+- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
+- [aigoncharov/telegram-to-rss](https://github.com/aigoncharov/telegram-to-rss) - Generate an RSS feed from Telegram chats. You digital minimalism friend.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [minhhungit/github-action-rss-crawler](https://github.com/minhhungit/github-action-rss-crawler) - Auto crawl RSS feeds using Github Action
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
+
+## rss-feed 
+
+- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 
 ## rsshub 
 
@@ -12731,10 +12803,12 @@
 
 ## scraper 
 
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 
 ## scraping 
 
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 
 ## script 
@@ -13330,6 +13404,10 @@
 ## sphinx 
 
 - [opsschool/curriculum](https://github.com/opsschool/curriculum) - Ops School Curriculum
+
+## spider 
+
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 
 ## spider-framework 
 
@@ -13928,6 +14006,8 @@
 
 ## telegram 
 
+- [aigoncharov/telegram-to-rss](https://github.com/aigoncharov/telegram-to-rss) - Generate an RSS feed from Telegram chats. You digital minimalism friend.
+- [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [Asgoret/devops_chats](https://github.com/Asgoret/devops_chats) - Repository of DevOps (RUS) chats in Telegram
@@ -15002,6 +15082,10 @@
 - [walmartlabs/concord](https://github.com/walmartlabs/concord) - Concord - workflow orchestration and continuous deployment management
 - [m-reda/pipeline](https://github.com/m-reda/pipeline) - Node-based automation server
 - [Nike-Inc/bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
+
+## workflow-automation 
+
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 
 ## workflow-engine 
 
