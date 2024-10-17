@@ -467,7 +467,6 @@
 - [curl](#curl)
 - [curriculum](#curriculum)
 - [customer](#customer)
-- [customer-data-platform](#customer-data-platform)
 - [cv](#cv)
 - [cve](#cve)
 - [cybersecurity](#cybersecurity)
@@ -909,7 +908,6 @@
 - [hacktoberfest2022](#hacktoberfest2022)
 - [hacktoberfest2023](#hacktoberfest2023)
 - [hacktoberfest2024](#hacktoberfest2024)
-- [hactoberfest](#hactoberfest)
 - [hadoop](#hadoop)
 - [hammerspoon](#hammerspoon)
 - [haproxy-configuration](#haproxy-configuration)
@@ -1767,6 +1765,7 @@
 - [serverless-framework](#serverless-framework)
 - [service-catalog](#service-catalog)
 - [service-discovery](#service-discovery)
+- [service-level-agreement](#service-level-agreement)
 - [service-level-objective](#service-level-objective)
 - [service-mesh](#service-mesh)
 - [session-replay](#session-replay)
@@ -1843,6 +1842,7 @@
 - [sqlite3](#sqlite3)
 - [sqlserver](#sqlserver)
 - [sre](#sre)
+- [sre-culture](#sre-culture)
 - [sre-interview](#sre-interview)
 - [ssh](#ssh)
 - [ssh-agent](#ssh-agent)
@@ -2416,7 +2416,6 @@
 - [anvarKhakimov/jira-metrics-plugin](https://github.com/anvarKhakimov/jira-metrics-plugin) - The Jira Metrics Plugin enhances Kanban boards in Jira with advanced analytics for better project management.
 - [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 - [oss-compass/compass-web](https://github.com/oss-compass/compass-web) - Frontend project for the OSS Compass
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Management
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
@@ -4918,10 +4917,6 @@
 
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 
-## customer-data-platform 
-
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Management
-
 ## cv 
 
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
@@ -5415,7 +5410,6 @@
 
 ## developer-advocacy 
 
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Management
 - [buildwithusers/awesome-devrel-library](https://github.com/buildwithusers/awesome-devrel-library) - Curated list of inspiring learnings (articles, videos, podcast episodes) around DevRel 🥑
 - [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
 
@@ -5450,7 +5444,6 @@
 
 ## developer-relations 
 
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Management
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
 
 ## developer-roadmap 
@@ -5608,7 +5601,6 @@
 ## devrel 
 
 - [orbit-love/devrel-kpis](https://github.com/orbit-love/devrel-kpis) - A community-sourced resource of metrics and methods for proving ROI through data + story. Advice from around the DevRel and Community world.
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Management
 - [buildwithusers/awesome-devrel-library](https://github.com/buildwithusers/awesome-devrel-library) - Curated list of inspiring learnings (articles, videos, podcast episodes) around DevRel 🥑
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
 - [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
@@ -7406,6 +7398,7 @@
 - [philips-labs/tabia](https://github.com/philips-labs/tabia) - Repository characteristics
 - [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager
@@ -7555,10 +7548,6 @@
 
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager
-
-## hactoberfest 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## hadoop 
 
@@ -10382,6 +10371,7 @@
 
 ## others 
 
+- [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - 
 - [jolle/miro-export](https://github.com/jolle/miro-export) - Export Miro boards or frames as SVGs
 - [andrewharmellaw/facilitating-software-architecture](https://github.com/andrewharmellaw/facilitating-software-architecture) - Materials associated with my book "Facilitating Software Architecture"
 - [nilsbert/Dependency-Discovery-Deck](https://github.com/nilsbert/Dependency-Discovery-Deck) - A Card Game to support Dependency Detection for Scaled Agile SetUps like SAFe
@@ -13078,6 +13068,10 @@
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 
+## service-level-agreement 
+
+- [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
+
 ## service-level-objective 
 
 - [last9/slo-computer](https://github.com/last9/slo-computer) - SLOs, Error windows and alerts are complicated. Here an attempt to make it easy
@@ -13490,6 +13484,10 @@
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+
+## sre-culture 
+
+- [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 
 ## sre-interview 
 
