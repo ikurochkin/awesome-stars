@@ -1848,7 +1848,6 @@
 - [ssh-agent](#ssh-agent)
 - [stable-diffusion](#stable-diffusion)
 - [stack](#stack)
-- [stackdriver](#stackdriver)
 - [stackstorm](#stackstorm)
 - [standard](#standard)
 - [standards](#standards)
@@ -13509,10 +13508,6 @@
 
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [Nike-Inc/bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
-
-## stackdriver 
-
-- [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 
 ## stackstorm 
 
