@@ -82,6 +82,7 @@
 - [applicant-tracking-system](#applicant-tracking-system)
 - [application-monitoring](#application-monitoring)
 - [application-security](#application-security)
+- [approximate-nearest-neighbor-search](#approximate-nearest-neighbor-search)
 - [appsec](#appsec)
 - [appserver](#appserver)
 - [appwrite](#appwrite)
@@ -681,6 +682,7 @@
 - [email-marketing](#email-marketing)
 - [embedded-systems](#embedded-systems)
 - [embeddings](#embeddings)
+- [embeddings-similarity](#embeddings-similarity)
 - [ember](#ember)
 - [emberjs](#emberjs)
 - [employee-handbook](#employee-handbook)
@@ -937,6 +939,7 @@
 - [histogram](#histogram)
 - [history](#history)
 - [hls](#hls)
+- [hnsw](#hnsw)
 - [home-automation](#home-automation)
 - [homebrew](#homebrew)
 - [honeypot](#honeypot)
@@ -978,6 +981,7 @@
 - [image-generation](#image-generation)
 - [image-manipulation](#image-manipulation)
 - [image-processing](#image-processing)
+- [image-search](#image-search)
 - [in-memory](#in-memory)
 - [incident](#incident)
 - [incident-management](#incident-management)
@@ -1082,6 +1086,7 @@
 - [kindle](#kindle)
 - [kinesis](#kinesis)
 - [kitchen](#kitchen)
+- [knn-algorithm](#knn-algorithm)
 - [knowledge](#knowledge)
 - [knowledge-base](#knowledge-base)
 - [knowledge-graph](#knowledge-graph)
@@ -1223,6 +1228,7 @@
 - [marketing-web-ops](#marketing-web-ops)
 - [mask](#mask)
 - [masking](#masking)
+- [matching](#matching)
 - [mdx](#mdx)
 - [media](#media)
 - [media-player](#media-player)
@@ -1268,6 +1274,7 @@
 - [mit-license](#mit-license)
 - [mksh](#mksh)
 - [ml-ops](#ml-ops)
+- [mlops](#mlops)
 - [mob](#mob)
 - [mob-programming](#mob-programming)
 - [mobile-app](#mobile-app)
@@ -1312,6 +1319,7 @@
 - [nancyfx](#nancyfx)
 - [natural-language](#natural-language)
 - [natural-language-processing](#natural-language-processing)
+- [nearest-neighbor-search](#nearest-neighbor-search)
 - [neo4j](#neo4j)
 - [ner](#ner)
 - [nessus](#nessus)
@@ -1326,6 +1334,8 @@
 - [network-monitoring](#network-monitoring)
 - [network-visualization](#network-visualization)
 - [networking](#networking)
+- [neural-network](#neural-network)
+- [neural-search](#neural-search)
 - [news](#news)
 - [newsletter](#newsletter)
 - [newsletter-management](#newsletter-management)
@@ -1610,6 +1620,7 @@
 - [reasoning](#reasoning)
 - [reasonml](#reasonml)
 - [recipes](#recipes)
+- [recommender-system](#recommender-system)
 - [recorder](#recorder)
 - [recording](#recording)
 - [recovery](#recovery)
@@ -1774,6 +1785,7 @@
 - [shellcheck](#shellcheck)
 - [shfmt](#shfmt)
 - [showcase](#showcase)
+- [similarity-search](#similarity-search)
 - [simulator](#simulator)
 - [site](#site)
 - [site-reliability](#site-reliability)
@@ -2080,6 +2092,8 @@
 - [vc](#vc)
 - [vcs](#vcs)
 - [vector-database](#vector-database)
+- [vector-search](#vector-search)
+- [vector-search-engine](#vector-search-engine)
 - [velero](#velero)
 - [venture-capital](#venture-capital)
 - [version](#version)
@@ -2612,6 +2626,10 @@
 ## application-security 
 
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
+
+## approximate-nearest-neighbor-search 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
 ## appsec 
 
@@ -6178,6 +6196,10 @@
 
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 
+## embeddings-similarity 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+
 ## ember 
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -7381,6 +7403,7 @@
 
 ## hacktoberfest 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [SierraSoftworks/git-tool](https://github.com/SierraSoftworks/git-tool) - Stop worrying about where your code is saved and start being more productive with this cross-platform CLI (with auto-complete and GitHub integration).
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit) - Toolkit for cloud-native application lifecycle management
@@ -7691,6 +7714,10 @@
 
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 
+## hnsw 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+
 ## home-automation 
 
 - [sergejey/majordomo](https://github.com/sergejey/majordomo) - Home automation platform
@@ -7882,6 +7909,10 @@
 ## image-processing 
 
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
+
+## image-search 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
 ## in-memory 
 
@@ -8456,6 +8487,10 @@
 ## kitchen 
 
 - [newcontext-oss/kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Test Kitchen plugins for testing Terraform configurations
+
+## knn-algorithm 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
 ## knowledge 
 
@@ -9141,6 +9176,7 @@
 
 ## machine-learning 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [tthtlc/awesome-source-analysis](https://github.com/tthtlc/awesome-source-analysis) - Source code understanding via Machine Learning techniques
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
@@ -9297,6 +9333,10 @@
 ## masking 
 
 - [cloudposse-archives/tfmask](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
+
+## matching 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
 ## mdx 
 
@@ -9543,6 +9583,10 @@
 
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 
+## mlops 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+
 ## mob 
 
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
@@ -9788,6 +9832,10 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 
+## nearest-neighbor-search 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+
 ## neo4j 
 
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
@@ -9850,6 +9898,14 @@
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver. A *NIX or BSD system running Netatalk is capable of serving many Macintosh clients simultaneously as an AppleShare file server.
+
+## neural-network 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+
+## neural-search 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
 ## news 
 
@@ -12195,6 +12251,10 @@
 
 - [chef/cookstyle](https://github.com/chef/cookstyle) - A linting tool that helps you to write better Chef Infra cookbooks and InSpec profiles by detecting and automatically correcting style, syntax, and logic mistakes in your code.
 
+## recommender-system 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+
 ## recorder 
 
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -12817,6 +12877,7 @@
 
 ## search 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
@@ -12824,11 +12885,13 @@
 
 ## search-engine 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 
 ## search-engines 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## secdevops 
@@ -13116,6 +13179,10 @@
 ## showcase 
 
 - [StackStorm/showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
+
+## similarity-search 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
 ## simulator 
 
@@ -14700,7 +14767,16 @@
 
 ## vector-database 
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
+
+## vector-search 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+
+## vector-search-engine 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
 ## velero 
 
