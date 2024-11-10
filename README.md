@@ -597,6 +597,7 @@
 - [dialogue-systems](#dialogue-systems)
 - [diff](#diff)
 - [digital-garden](#digital-garden)
+- [digital-products](#digital-products)
 - [digitalocean](#digitalocean)
 - [disaster-management](#disaster-management)
 - [disaster-recovery](#disaster-recovery)
@@ -914,6 +915,7 @@
 - [hacktoberfest2024](#hacktoberfest2024)
 - [hadoop](#hadoop)
 - [hammerspoon](#hammerspoon)
+- [handbook](#handbook)
 - [haproxy-configuration](#haproxy-configuration)
 - [haproxy-servers](#haproxy-servers)
 - [hardening](#hardening)
@@ -1140,6 +1142,7 @@
 - [lecture-notes](#lecture-notes)
 - [lectures](#lectures)
 - [legacy-code](#legacy-code)
+- [lemon-squeezy](#lemon-squeezy)
 - [less](#less)
 - [lessons-learned](#lessons-learned)
 - [letsencrypt](#letsencrypt)
@@ -1444,6 +1447,7 @@
 - [packet-generator](#packet-generator)
 - [packet-loss](#packet-loss)
 - [packet-sniffer](#packet-sniffer)
+- [paddle](#paddle)
 - [page](#page)
 - [pages](#pages)
 - [pagespeed](#pagespeed)
@@ -1849,6 +1853,7 @@
 - [spider-framework](#spider-framework)
 - [spinnaker](#spinnaker)
 - [split-testing](#split-testing)
+- [splunk](#splunk)
 - [sponsor](#sponsor)
 - [spotify](#spotify)
 - [spring-boot](#spring-boot)
@@ -2281,7 +2286,7 @@
 ## agent 
 
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [jitlogic/zorka](https://github.com/jitlogic/zorka) - Sophisticated monitoring agent for Java
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
 
@@ -2315,7 +2320,7 @@
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
@@ -2722,7 +2727,7 @@
 
 ## archops 
 
-- [RabotaRu/DocHub](https://github.com/RabotaRu/DocHub) - Управление архитектурой как кодом
+- [DocHubTeam/DocHub](https://github.com/DocHubTeam/DocHub) - Управление архитектурой как кодом
 
 ## argo 
 
@@ -2811,7 +2816,7 @@
 
 ## assistant 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## async 
 
@@ -2907,6 +2912,7 @@
 
 ## awesome 
 
+- [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越技术布道师列表
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
@@ -2957,6 +2963,7 @@
 
 ## awesome-list 
 
+- [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越技术布道师列表
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [h1alexbel/awesome-social-program-analysis](https://github.com/h1alexbel/awesome-social-program-analysis) - Curated list of academic papers on Social Program Analysis
@@ -3363,7 +3370,6 @@
 ## blog 
 
 - [EnablingTeam/insights](https://github.com/EnablingTeam/insights) - Enabling.team Insights
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [vas3k/vas3k.blog](https://github.com/vas3k/vas3k.blog) - My blog codebase
 
@@ -3733,7 +3739,7 @@
 ## chat 
 
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 
 ## chat-application 
@@ -3774,7 +3780,7 @@
 - [decentralizedlabs/pr-codex](https://github.com/decentralizedlabs/pr-codex) - A ChatGPT-powered bot to summarize PR code diffs
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 
@@ -5648,6 +5654,7 @@
 
 ## devrel 
 
+- [codepo8/developer-advocacy-handbook](https://github.com/codepo8/developer-advocacy-handbook) - This is the repo of the Developer Advocacy Handbook. It is here to file issues and to contribute.
 - [orbit-love/devrel-kpis](https://github.com/orbit-love/devrel-kpis) - A community-sourced resource of metrics and methods for proving ROI through data + story. Advice from around the DevRel and Community world.
 - [buildwithusers/awesome-devrel-library](https://github.com/buildwithusers/awesome-devrel-library) - Curated list of inspiring learnings (articles, videos, podcast episodes) around DevRel 🥑
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
@@ -5724,6 +5731,10 @@
 ## digital-garden 
 
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
+
+## digital-products 
+
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 
 ## digitalocean 
 
@@ -6212,7 +6223,7 @@
 ## emacs 
 
 - [emacs-vs/codemetrics](https://github.com/emacs-vs/codemetrics) - Plugin shows complexity information
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## email-marketing 
 
@@ -6457,7 +6468,7 @@
 ## fastapi 
 
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 
 ## fault-injection 
 
@@ -6737,7 +6748,6 @@
 
 ## funding 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 
 ## fuzzing 
@@ -6916,7 +6926,6 @@
 
 ## github-app 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [decentralizedlabs/pr-codex](https://github.com/decentralizedlabs/pr-codex) - A ChatGPT-powered bot to summarize PR code diffs
 
 ## github-automation 
@@ -7280,6 +7289,7 @@
 
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
@@ -7442,6 +7452,7 @@
 
 ## hacktoberfest 
 
+- [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越技术布道师列表
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [SierraSoftworks/git-tool](https://github.com/SierraSoftworks/git-tool) - Stop worrying about where your code is saved and start being more productive with this cross-platform CLI (with auto-complete and GitHub integration).
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
@@ -7587,6 +7598,7 @@
 
 ## hacktoberfest2021 
 
+- [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越技术布道师列表
 - [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
@@ -7611,6 +7623,10 @@
 ## hammerspoon 
 
 - [fork-my-spoons/gitlab-merge-requests.spoon](https://github.com/fork-my-spoons/gitlab-merge-requests.spoon) - GitLab merge requests integration with MacOS
+
+## handbook 
+
+- [codepo8/developer-advocacy-handbook](https://github.com/codepo8/developer-advocacy-handbook) - This is the repo of the Developer Advocacy Handbook. It is here to file issues and to contribute.
 
 ## haproxy-configuration 
 
@@ -7935,7 +7951,7 @@
 
 ## image-generation 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
 
 ## image-manipulation 
@@ -8864,6 +8880,10 @@
 
 - [LegacyCodeHQ/eureka](https://github.com/LegacyCodeHQ/eureka) - Breakthrough tooling to work with Kotlin and Java codebases 🚀
 
+## lemon-squeezy 
+
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+
 ## less 
 
 - [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
@@ -9049,12 +9069,12 @@
 
 ## llama3 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## llamacpp 
 
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## llm 
 
@@ -9066,7 +9086,7 @@
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 
 ## llm-ui 
@@ -9980,7 +10000,7 @@
 ## nextjs 
 
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
@@ -10161,7 +10181,7 @@
 - [jtprogru/obsidian-vault-full-statistics-plugin](https://github.com/jtprogru/obsidian-vault-full-statistics-plugin) - Status bar item with vault full statistics such as number of notes, files, attachments, links, tags and quality of vault.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [sytone/obsidian-queryallthethings](https://github.com/sytone/obsidian-queryallthethings) - Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
 - [IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint) - Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!
@@ -10177,7 +10197,7 @@
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [sytone/obsidian-queryallthethings](https://github.com/sytone/obsidian-queryallthethings) - Query all your data stored in Obsidian, this plugin allows SQL based queries against the data collections available in Obsidian and Dataview. Output can then be rendered by Handlebars
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [platers/obsidian-linter](https://github.com/platers/obsidian-linter) - An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.
 - [jensmtg/influx](https://github.com/jensmtg/influx) - An alternative backlinks plugin, which displays relevant and formatted excerpts from notes with linked mentions, based on the position of mentions in the notes' hierarchical structure (bullet level in
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
@@ -10477,6 +10497,8 @@
 
 ## others 
 
+- [NTCoding/prod-domain-biz-arch-building-blocks](https://github.com/NTCoding/prod-domain-biz-arch-building-blocks) - Product & Domain-Oriented Business Architecture Building Blocks
+- [diplodoc-platform/diplodoc](https://github.com/diplodoc-platform/diplodoc) - Entrypoint to Diplodoc platform
 - [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary) - Practices and ideas that empower teams to collaborate and deliver iteratively
 - [lad-tech/lad-tech.github.io](https://github.com/lad-tech/lad-tech.github.io) - Техрадар компании
 - [scottydocs/README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
@@ -11307,6 +11329,10 @@
 
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 
+## paddle 
+
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
+
 ## page 
 
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
@@ -11381,6 +11407,7 @@
 
 ## payments 
 
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
 
 ## pcap 
@@ -11614,7 +11641,7 @@
 
 ## polar 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 
 ## policy 
 
@@ -11778,7 +11805,7 @@
 - [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
@@ -12036,7 +12063,7 @@
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [vas3k/vas3k.blog](https://github.com/vas3k/vas3k.blog) - My blog codebase
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
@@ -12186,7 +12213,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## rails 
 
@@ -12232,7 +12259,7 @@
 ## react 
 
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
@@ -12495,7 +12522,7 @@
 
 ## research 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [acmsigsoft/EmpiricalStandards](https://github.com/acmsigsoft/EmpiricalStandards) - Tools and standards for conducting and evaluating research in software engineering
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 
@@ -12766,7 +12793,6 @@
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [LTD-Beget/syncookied](https://github.com/LTD-Beget/syncookied) - syn flood protection
@@ -12790,6 +12816,7 @@
 
 ## saas 
 
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [jezzsantos/saastack](https://github.com/jezzsantos/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 
@@ -13094,7 +13121,7 @@
 - [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -13122,7 +13149,7 @@
 ## semantic-search 
 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## semantic-versioning 
 
@@ -13539,9 +13566,13 @@
 
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 
+## splunk 
+
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+
 ## sponsor 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 
 ## spotify 
 
@@ -13777,7 +13808,7 @@
 
 ## stripe 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 
 ## structurizr 
 
@@ -13785,7 +13816,7 @@
 
 ## stt 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## study 
 
@@ -13825,7 +13856,7 @@
 
 ## subscriptions 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
 
 ## suggestion 
@@ -14037,7 +14068,6 @@
 
 ## tailwindcss 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 
@@ -14663,7 +14693,7 @@
 
 ## turborepo 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 
@@ -14697,7 +14727,7 @@
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
