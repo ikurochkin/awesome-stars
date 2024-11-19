@@ -3347,7 +3347,7 @@
 
 ## bill-of-materials 
 
-- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
+- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in Markdown and HTML formats.
 
 ## billing 
 
@@ -8933,7 +8933,7 @@
 
 ## licenses 
 
-- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
+- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in Markdown and HTML formats.
 
 ## life 
 
@@ -9033,7 +9033,7 @@
 
 ## linux-foundation 
 
-- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
+- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in Markdown and HTML formats.
 
 ## linux-insides 
 
@@ -11058,7 +11058,6 @@
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [jenkinsci/rundeck-plugin](https://github.com/jenkinsci/rundeck-plugin) - Jenkins plugin for Rundeck integration : trigger, notifier and option provider.
 - [okbob/plpgsql_lint](https://github.com/okbob/plpgsql_lint) - This is a postgresql extension that ensure a deep validation of embedded SQL inside PL/pgSQL functions
-- [sparknetworks/pgpm](https://github.com/sparknetworks/pgpm) - Package manager for Postgres 9.4+
 - [lesovsky/ansible-postgresql94-bdr](https://github.com/lesovsky/ansible-postgresql94-bdr) - PostgreSQL BDR (Bi-Directional Replication) is the replication technology for PostgreSQL, developed by 2ndQuadrant.
 - [gregs1104/pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard
 - [dataegret/pg-utils](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities
@@ -12871,7 +12870,7 @@
 - [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
+- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in Markdown and HTML formats.
 
 ## sbom-generator 
 
@@ -13469,7 +13468,7 @@
 
 ## software-bill-of-materials 
 
-- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
+- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in Markdown and HTML formats.
 
 ## software-composition-analysis 
 
@@ -13544,7 +13543,7 @@
 
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
+- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in Markdown and HTML formats.
 
 ## spec 
 
@@ -13554,7 +13553,7 @@
 
 ## specification 
 
-- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in MarkDown and HTML formats.
+- [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The SPDX specification in Markdown and HTML formats.
 - [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 
