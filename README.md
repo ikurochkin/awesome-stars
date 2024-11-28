@@ -1950,6 +1950,7 @@
 - [system-design](#system-design)
 - [system-design-interview](#system-design-interview)
 - [system-dynamics](#system-dynamics)
+- [system-modeling](#system-modeling)
 - [system-monitoring](#system-monitoring)
 - [systems](#systems)
 - [t3-stack](#t3-stack)
@@ -10513,6 +10514,7 @@
 
 ## others 
 
+- [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
 - [NTCoding/prod-domain-biz-arch-building-blocks](https://github.com/NTCoding/prod-domain-biz-arch-building-blocks) - Product & Domain-Oriented Business Architecture Building Blocks
 - [diplodoc-platform/diplodoc](https://github.com/diplodoc-platform/diplodoc) - Entrypoint to Diplodoc platform
 - [openpracticelibrary/openpracticelibrary](https://github.com/openpracticelibrary/openpracticelibrary) - Practices and ideas that empower teams to collaborate and deliver iteratively
@@ -10718,7 +10720,6 @@
 - [TeamTopologies/Team-Dependencies-Tracking](https://github.com/TeamTopologies/Team-Dependencies-Tracking) - Suggested tools and approaches to track team dependencies in an organization
 - [finopsfoundation/framework](https://github.com/finopsfoundation/framework) - A FinOps community-driven framework for building best practices, sharing stories, and strengthening the discipline.
 - [joatmon08/tdd-infrastructure](https://github.com/joatmon08/tdd-infrastructure) - Some examples of Test-Driven Development for Infrastructure
-- [lethain/systems](https://github.com/lethain/systems) - systems is a set of tools for describing, running and visualizing systems diagrams.
 - [mnaoumov/obsidian-linter](https://github.com/mnaoumov/obsidian-linter) - An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.
 - [etsy/DebriefingFacilitationGuide](https://github.com/etsy/DebriefingFacilitationGuide) - Leading Groups at Etsy to Learn From Accidents
 - [cutenode/1x.engineer](https://github.com/cutenode/1x.engineer) - The official website of 1x Engineers around the world
@@ -14047,6 +14048,12 @@
 
 - [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - Dynamic modeling for business, economics, and ecology using the system dynamics approach
 - [Fault-lang/Fault](https://github.com/Fault-lang/Fault) - a language for building system dynamic models
+
+## system-modeling 
+
+- [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - Dynamic modeling for business, economics, and ecology using the system dynamics approach
+- [Fault-lang/Fault](https://github.com/Fault-lang/Fault) - a language for building system dynamic models
+- [lethain/systems](https://github.com/lethain/systems) - systems is a set of tools for describing, running and visualizing systems diagrams.
 
 ## system-monitoring 
 
