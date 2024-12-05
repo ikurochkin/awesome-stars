@@ -429,7 +429,6 @@
 - [cookiecutter](#cookiecutter)
 - [copy-paste](#copy-paste)
 - [copyright](#copyright)
-- [copyright-scan](#copyright-scan)
 - [coredns](#coredns)
 - [correct](#correct)
 - [cost](#cost)
@@ -442,6 +441,7 @@
 - [coverage](#coverage)
 - [cplusplus](#cplusplus)
 - [cpp](#cpp)
+- [cra](#cra)
 - [crawler](#crawler)
 - [crawling](#crawling)
 - [credentials](#credentials)
@@ -1159,9 +1159,7 @@
 - [letsencrypt](#letsencrypt)
 - [library](#library)
 - [license](#license)
-- [license-checking](#license-checking)
 - [license-management](#license-management)
-- [license-scan](#license-scan)
 - [licenses](#licenses)
 - [life](#life)
 - [light-theme](#light-theme)
@@ -4785,10 +4783,6 @@
 
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 
-## copyright-scan 
-
-- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
-
 ## coredns 
 
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -4848,6 +4842,10 @@
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+
+## cra 
+
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 
 ## crawler 
 
@@ -6084,6 +6082,7 @@
 
 ## dora 
 
+- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
 - [dora-metrics/pelorus](https://github.com/dora-metrics/pelorus) - Automate the measurement of organizational behavior
 - [mikaelvesavuori/github-dora-metrics](https://github.com/mikaelvesavuori/github-dora-metrics) - Instant, badge-ready DORA metrics for your GitHub repository.
@@ -8972,15 +8971,7 @@
 
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 
-## license-checking 
-
-- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
-
 ## license-management 
-
-- [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
-
-## license-scan 
 
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 
