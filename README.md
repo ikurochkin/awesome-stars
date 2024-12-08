@@ -3310,7 +3310,7 @@
 
 ## benchmark 
 
-- [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-bench: Can Language Models Resolve Real-world Github Issues?
+- [swe-bench/SWE-bench](https://github.com/swe-bench/SWE-bench) - [ICLR 2024] SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 
 ## benchmarking 
@@ -8871,7 +8871,7 @@
 
 ## language-model 
 
-- [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-bench: Can Language Models Resolve Real-world Github Issues?
+- [swe-bench/SWE-bench](https://github.com/swe-bench/SWE-bench) - [ICLR 2024] SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [ai-forever/ru-gpts](https://github.com/ai-forever/ru-gpts) - Russian GPT3 models.
@@ -10879,7 +10879,7 @@
 - [puppetlabs-toy-chest/beaker-testmode_switcher](https://github.com/puppetlabs-toy-chest/beaker-testmode_switcher) - run your puppet module tests in master/agent, apply or local mode
 - [puppetlabs/pupperware](https://github.com/puppetlabs/pupperware) - Container fun time lives here.
 - [puppetlabs/best-practices](https://github.com/puppetlabs/best-practices) - Best practice docs created by the Puppet Customer Success team
-- [Qarik-Group/safe](https://github.com/Qarik-Group/safe) - A Vault CLI
+- [egen/safe](https://github.com/egen/safe) - A Vault CLI
 - [anthonygrees/chef_pipelines](https://github.com/anthonygrees/chef_pipelines) - 
 - [opendiffy/diffy](https://github.com/opendiffy/diffy) - 
 - [adaptivecapacitylabs/Resilience-Engineering-Resources](https://github.com/adaptivecapacitylabs/Resilience-Engineering-Resources) - This is a collection of readings, talks, and other bits regarding the field of Resilience Engineering
@@ -13555,7 +13555,7 @@
 
 ## software-engineering 
 
-- [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-bench: Can Language Models Resolve Real-world Github Issues?
+- [swe-bench/SWE-bench](https://github.com/swe-bench/SWE-bench) - [ICLR 2024] SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
