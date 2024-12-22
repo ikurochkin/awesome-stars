@@ -1748,6 +1748,7 @@
 - [scaling](#scaling)
 - [scanning](#scanning)
 - [scans](#scans)
+- [scc](#scc)
 - [scheduled-jobs](#scheduled-jobs)
 - [scheduler](#scheduler)
 - [scheduling](#scheduling)
@@ -12990,6 +12991,10 @@
 
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+
+## scc 
+
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 
 ## scheduled-jobs 
 
