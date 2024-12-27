@@ -1095,6 +1095,7 @@
 - [kanban](#kanban)
 - [kata](#kata)
 - [katas](#katas)
+- [keep](#keep)
 - [keepalived](#keepalived)
 - [key-metrics](#key-metrics)
 - [key-value](#key-value)
@@ -8585,6 +8586,10 @@
 ## katas 
 
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
+
+## keep 
+
+- [github/octocatalog-diff](https://github.com/github/octocatalog-diff) - Compile Puppet catalogs from 2 branches, versions, etc., and compare them
 
 ## keepalived 
 
