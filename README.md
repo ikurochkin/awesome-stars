@@ -6,6 +6,7 @@
 ## Contents
 
 - [ab-testing](#ab-testing)
+- [abstract-syntax-tree](#abstract-syntax-tree)
 - [abtest](#abtest)
 - [academic](#academic)
 - [accelerate](#accelerate)
@@ -117,6 +118,7 @@
 - [asset-management](#asset-management)
 - [assets-management](#assets-management)
 - [assistant](#assistant)
+- [ast](#ast)
 - [async](#async)
 - [async-await](#async-await)
 - [atlantis](#atlantis)
@@ -664,6 +666,7 @@
 - [duplicates](#duplicates)
 - [duplications](#duplications)
 - [dx](#dx)
+- [dynamic](#dynamic)
 - [dynamodb](#dynamodb)
 - [e2e-testing](#e2e-testing)
 - [easy-deploy](#easy-deploy)
@@ -696,6 +699,7 @@
 - [emberjs](#emberjs)
 - [emoji](#emoji)
 - [employee-handbook](#employee-handbook)
+- [employees](#employees)
 - [emulators](#emulators)
 - [encoder](#encoder)
 - [encryption](#encryption)
@@ -843,6 +847,8 @@
 - [github-metrics](#github-metrics)
 - [github-mobile](#github-mobile)
 - [github-packages](#github-packages)
+- [github-profile](#github-profile)
+- [github-readme-stats](#github-readme-stats)
 - [github-releases](#github-releases)
 - [github-sponsors](#github-sponsors)
 - [github-template](#github-template)
@@ -1321,6 +1327,7 @@
 - [monitoring-tool](#monitoring-tool)
 - [monorepo](#monorepo)
 - [mor](#mor)
+- [motivation](#motivation)
 - [mp4](#mp4)
 - [mpp](#mpp)
 - [msdos](#msdos)
@@ -1408,6 +1415,7 @@
 - [ollama](#ollama)
 - [ollama-webui](#ollama-webui)
 - [on-call](#on-call)
+- [onboarding](#onboarding)
 - [oncall](#oncall)
 - [one-liners](#one-liners)
 - [onion-architecture](#onion-architecture)
@@ -1529,6 +1537,7 @@
 - [polar](#polar)
 - [policy](#policy)
 - [policy-as-code](#policy-as-code)
+- [politics](#politics)
 - [polyglot-microservices](#polyglot-microservices)
 - [portable](#portable)
 - [portfolio](#portfolio)
@@ -1552,11 +1561,14 @@
 - [probot](#probot)
 - [processes](#processes)
 - [product-design](#product-design)
+- [product-development](#product-development)
+- [product-management](#product-management)
 - [production](#production)
 - [productivity](#productivity)
 - [productivity-tools](#productivity-tools)
 - [professional](#professional)
 - [profile](#profile)
+- [profile-readme](#profile-readme)
 - [profiling](#profiling)
 - [programmer](#programmer)
 - [programming](#programming)
@@ -1642,6 +1654,7 @@
 - [reading](#reading)
 - [reading-notes](#reading-notes)
 - [readme](#readme)
+- [readme-stats](#readme-stats)
 - [readme-template](#readme-template)
 - [reasoning](#reasoning)
 - [reasonml](#reasonml)
@@ -1650,12 +1663,14 @@
 - [recorder](#recorder)
 - [recording](#recording)
 - [recovery](#recovery)
+- [recruitment](#recruitment)
 - [redhat](#redhat)
 - [redis](#redis)
 - [redshift](#redshift)
 - [redteam](#redteam)
 - [redux](#redux)
 - [refactoring](#refactoring)
+- [refactoring-tools](#refactoring-tools)
 - [regex](#regex)
 - [registry](#registry)
 - [regular-expression](#regular-expression)
@@ -1849,6 +1864,7 @@
 - [software-architecture](#software-architecture)
 - [software-bill-of-materials](#software-bill-of-materials)
 - [software-composition-analysis](#software-composition-analysis)
+- [software-crafters](#software-crafters)
 - [software-defined-radio](#software-defined-radio)
 - [software-design](#software-design)
 - [software-development](#software-development)
@@ -1914,6 +1930,7 @@
 - [strategy](#strategy)
 - [stream-processing](#stream-processing)
 - [streamer](#streamer)
+- [streamer-site](#streamer-site)
 - [streamer-tool](#streamer-tool)
 - [streaming-data](#streaming-data)
 - [stripe](#stripe)
@@ -2077,6 +2094,7 @@
 - [transcripts](#transcripts)
 - [transformation](#transformation)
 - [transformers](#transformers)
+- [transition](#transition)
 - [translations](#translations)
 - [transmission](#transmission)
 - [transmitter](#transmitter)
@@ -2085,6 +2103,7 @@
 - [travis-ci](#travis-ci)
 - [tree-sitter](#tree-sitter)
 - [trends](#trends)
+- [troposphere](#troposphere)
 - [troubleshooting](#troubleshooting)
 - [trpc](#trpc)
 - [tsdb](#tsdb)
@@ -2244,6 +2263,10 @@
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [openflagr/flagr](https://github.com/openflagr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice
 
+## abstract-syntax-tree 
+
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
+
 ## abtest 
 
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
@@ -2344,7 +2367,7 @@
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
@@ -2470,7 +2493,7 @@
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
@@ -2841,6 +2864,10 @@
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
+## ast 
+
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
+
 ## async 
 
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
@@ -2935,6 +2962,7 @@
 
 ## awesome 
 
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越技术布道师列表
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
@@ -2986,6 +3014,7 @@
 
 ## awesome-list 
 
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越技术布道师列表
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
@@ -3215,7 +3244,7 @@
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
 - [backstage/community](https://github.com/backstage/community) - All about the Backstage community (Meetups, Sessions etc.)
 - [AxisCommunications/backstage-plugins](https://github.com/AxisCommunications/backstage-plugins) - Backstage Plugins Created by Axis Communications
-- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - This repo is moving to https://github.com/redhat-developer/red-hat-developer-hub
+- [redhat-developer/rhdh](https://github.com/redhat-developer/rhdh) - The repo formerly known as janus-idp/backstage-showcase
 - [einride/backstage-go](https://github.com/einride/backstage-go) - Backstage SDK for Go
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 
@@ -3348,7 +3377,7 @@
 - [apache/kibble](https://github.com/apache/kibble) - Apache Kibble - a tool to collect, aggregate and visualize data about any software project
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [yahoo/CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 
 ## bigdata 
@@ -3456,7 +3485,7 @@
 
 ## bots 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
 
 ## broken-links 
@@ -3619,6 +3648,7 @@
 
 ## career 
 
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [sdg-1/consulting-handbook](https://github.com/sdg-1/consulting-handbook) - A guide for technical professionals looking to start consulting
 
 ## career-guide 
@@ -3781,7 +3811,7 @@
 ## chatbot 
 
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
 - [operable/cog](https://github.com/operable/cog) - Bringing the power of the command line to chat
@@ -3799,7 +3829,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [microsoft/HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-comm
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
@@ -3814,7 +3844,7 @@
 
 ## chatgpt-api 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-comm
 
@@ -4018,7 +4048,7 @@
 
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [flant/loghouse](https://github.com/flant/loghouse) - Ready to use log management solution for Kubernetes storing data in ClickHouse and providing web UI.
 
 ## client 
@@ -4274,13 +4304,14 @@
 
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 
 ## code-search 
 
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 
 ## code-search-engine 
@@ -4290,7 +4321,7 @@
 ## codereview 
 
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 
 ## coding 
@@ -4300,7 +4331,7 @@
 
 ## coding-assistant 
 
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 
 ## coding-exercises 
 
@@ -4849,7 +4880,7 @@
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## cra 
 
@@ -4950,6 +4981,7 @@
 
 ## cto 
 
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
 ## cuelang 
@@ -4962,6 +4994,11 @@
 
 ## culture 
 
+- [unionstreetmedia/dev-principles](https://github.com/unionstreetmedia/dev-principles) - Union Street Media's documentation on engineering culture, principles and practices. #dev-principles on Slack
+- [AudienseCo/engineering-principles](https://github.com/AudienseCo/engineering-principles) - Guiding principles that serve as a blueprint for decision-making when developing and designing products at Audiense
+- [goshippo/about-us](https://github.com/goshippo/about-us) - Shippo's Engineering Guidebook
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
+- [mayadata-io/culture](https://github.com/mayadata-io/culture) - Team Culture, Processes, Handbooks
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
@@ -5276,7 +5313,7 @@
 ## dbms 
 
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## dbt 
 
@@ -5331,6 +5368,7 @@
 
 ## decision-making 
 
+- [mayadata-io/culture](https://github.com/mayadata-io/culture) - Team Culture, Processes, Handbooks
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
 ## decisions 
@@ -5579,6 +5617,7 @@
 
 ## devops 
 
+- [AudienseCo/engineering-principles](https://github.com/AudienseCo/engineering-principles) - Guiding principles that serve as a blueprint for decision-making when developing and designing products at Audiense
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
@@ -5728,7 +5767,7 @@
 ## devtools 
 
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [0xDones/tfgen](https://github.com/0xDones/tfgen) - Terraform code generator for consistent codebase and DRY
 
 ## dhcp 
@@ -5831,7 +5870,7 @@
 ## distributed-database 
 
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
 
 ## distributed-sql-database 
@@ -6031,6 +6070,7 @@
 
 ## documentation 
 
+- [guardian/our-engineering-culture](https://github.com/guardian/our-engineering-culture) - How we as engineers define our culture
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [PAIR-code/datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook) - The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation.
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
@@ -6160,6 +6200,10 @@
 
 - [mikaelvesavuori/codemetrix](https://github.com/mikaelvesavuori/codemetrix) - Understand the level of coupling and changeability of your code in a second. 🪄
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
+
+## dynamic 
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 ## dynamodb 
 
@@ -6305,6 +6349,10 @@
 
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 
+## employees 
+
+- [mayadata-io/culture](https://github.com/mayadata-io/culture) - Team Culture, Processes, Handbooks
+
 ## emulators 
 
 - [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
@@ -6327,6 +6375,8 @@
 
 ## engineering 
 
+- [goshippo/about-us](https://github.com/goshippo/about-us) - Shippo's Engineering Guidebook
+- [mayadata-io/culture](https://github.com/mayadata-io/culture) - Team Culture, Processes, Handbooks
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [devopshq/dohq-doc-templates](https://github.com/devopshq/dohq-doc-templates) - Шаблоны инженерной документации для упрощения и сопровождения регламентных работ
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
@@ -6492,6 +6542,7 @@
 
 ## extreme-programming 
 
+- [AudienseCo/engineering-principles](https://github.com/AudienseCo/engineering-principles) - Guiding principles that serve as a blueprint for decision-making when developing and designing products at Audiense
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
 
 ## failover 
@@ -6929,6 +6980,7 @@
 
 ## github 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [philips-labs/tabia](https://github.com/philips-labs/tabia) - Repository characteristics
@@ -7029,6 +7081,14 @@
 ## github-packages 
 
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
+
+## github-profile 
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+
+## github-readme-stats 
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 ## github-releases 
 
@@ -7325,7 +7385,7 @@
 
 ## gpt-4 
 
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 
@@ -7517,6 +7577,7 @@
 
 ## hacktoberfest 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越技术布道师列表
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [SierraSoftworks/git-tool](https://github.com/SierraSoftworks/git-tool) - Stop worrying about where your code is saved and start being more productive with this cross-platform CLI (with auto-complete and GitHub integration).
@@ -7551,7 +7612,6 @@
 - [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
-- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - This repo is moving to https://github.com/redhat-developer/red-hat-developer-hub
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsor
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -7598,7 +7658,7 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [theforeman/hammer-cli](https://github.com/theforeman/hammer-cli) - Next-gen CLI tool for foreman
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [puppetlabs/pdk](https://github.com/puppetlabs/pdk) - The shortest path to better modules: Puppet Development Kit; Download:
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -7809,6 +7869,7 @@
 
 ## hiring 
 
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
@@ -8222,7 +8283,7 @@
 
 ## internal-developer-platform 
 
-- [janus-idp/backstage-showcase](https://github.com/janus-idp/backstage-showcase) - This repo is moving to https://github.com/redhat-developer/red-hat-developer-hub
+- [redhat-developer/rhdh](https://github.com/redhat-developer/rhdh) - The repo formerly known as janus-idp/backstage-showcase
 
 ## international 
 
@@ -8381,6 +8442,7 @@
 
 ## java 
 
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [artipie/artipie](https://github.com/artipie/artipie) - Binary Artifact Management Tool
@@ -8878,7 +8940,7 @@
 
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [ballerina-platform/ballerina-lang](https://github.com/ballerina-platform/ballerina-lang) - The Ballerina Programming Language
 
 ## language-model 
@@ -8917,6 +8979,7 @@
 
 ## leadership 
 
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [trustmaster/embook](https://github.com/trustmaster/embook) - Management patterns and situational techniques for Engineering Managers
 - [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
@@ -9383,6 +9446,7 @@
 
 ## management 
 
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
@@ -9892,13 +9956,17 @@
 
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 
+## motivation 
+
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
+
 ## mp4 
 
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 
 ## mpp 
 
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## msdos 
 
@@ -10344,7 +10412,7 @@
 
 ## olap 
 
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## ollama 
 
@@ -10360,6 +10428,10 @@
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
+
+## onboarding 
+
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 
 ## oncall 
 
@@ -10421,7 +10493,7 @@
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-comm
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
@@ -10583,7 +10655,14 @@
 
 ## others 
 
-- [OpenPuppetProject/planning](https://github.com/OpenPuppetProject/planning) - Planning and roadmap for the OpenPuppet project
+- [landx-id/landx-engineering-culture](https://github.com/landx-id/landx-engineering-culture) - LandX Engineering Culture and Workflows
+- [code-dot-org/engineering-culture](https://github.com/code-dot-org/engineering-culture) - 
+- [Publicis-Sapient-ANZ/the-engineering-way](https://github.com/Publicis-Sapient-ANZ/the-engineering-way) - Engineering the Sapient Way. Our engineering practices and culture codified.
+- [kartenmacherei/engineering-culture](https://github.com/kartenmacherei/engineering-culture) - A guide describing how we want to work at celebrate
+- [ShopifyEng/Culture](https://github.com/ShopifyEng/Culture) - Shopify Engineering - Culture - An empowering culture is the product of great people, strong values, and diversity.
+- [Optimal-AI/Culture](https://github.com/Optimal-AI/Culture) - Tara's engineering culture documents
+- [patsevanton/russian-conferences-articles](https://github.com/patsevanton/russian-conferences-articles) - Коллективная расшифровка видеодокладов c Российских конференций, митапов в статьи
+- [OpenVoxProject/planning](https://github.com/OpenVoxProject/planning) - Planning and roadmap for the OpenPuppet project
 - [cresta/atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) - Detect terraform drift in atlantis
 - [awslabs/kro](https://github.com/awslabs/kro) - kro | Kube Resource Orchestrator
 - [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
@@ -11599,6 +11678,7 @@
 
 ## php 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [unacms/una](https://github.com/unacms/una) - UNA Community Management System
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -11745,6 +11825,10 @@
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [chef/cookstyle](https://github.com/chef/cookstyle) - A linting tool that helps you to write better Chef Infra cookbooks and InSpec profiles by detecting and automatically correcting style, syntax, and logic mistakes in your code.
 
+## politics 
+
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
+
 ## polyglot-microservices 
 
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
@@ -11864,6 +11948,8 @@
 
 ## principles 
 
+- [unionstreetmedia/dev-principles](https://github.com/unionstreetmedia/dev-principles) - Union Street Media's documentation on engineering culture, principles and practices. #dev-principles on Slack
+- [AudienseCo/engineering-principles](https://github.com/AudienseCo/engineering-principles) - Guiding principles that serve as a blueprint for decision-making when developing and designing products at Audiense
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 
@@ -11888,6 +11974,14 @@
 ## product-design 
 
 - [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - Open Source guidance from Zalando, Europe's largest online fashion platform
+
+## product-development 
+
+- [AudienseCo/engineering-principles](https://github.com/AudienseCo/engineering-principles) - Guiding principles that serve as a blueprint for decision-making when developing and designing products at Audiense
+
+## product-management 
+
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 
 ## production 
 
@@ -11915,8 +12009,13 @@
 
 ## profile 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [Nike-Inc/bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
 - [chef/cookstyle](https://github.com/chef/cookstyle) - A linting tool that helps you to write better Chef Infra cookbooks and InSpec profiles by detecting and automatically correcting style, syntax, and logic mistakes in your code.
+
+## profile-readme 
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 ## profiling 
 
@@ -11968,6 +12067,7 @@
 
 ## project-management 
 
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
@@ -12089,7 +12189,7 @@
 
 ## pull-request 
 
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 
 ## pull-request-review 
 
@@ -12104,7 +12204,7 @@
 - [kortirso/pullmetry](https://github.com/kortirso/pullmetry) - PullKeeper - app for getting relevant stats about PRs and reviewers
 - [middlewarehq/unwrapped](https://github.com/middlewarehq/unwrapped) - Spotify Wrapped for developers.
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [decentralizedlabs/pr-codex](https://github.com/decentralizedlabs/pr-codex) - A ChatGPT-powered bot to summarize PR code diffs
 
 ## pulumi 
@@ -12416,9 +12516,14 @@
 
 ## readme 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - Open Source guidance from Zalando, Europe's largest online fashion platform
+
+## readme-stats 
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 ## readme-template 
 
@@ -12454,6 +12559,10 @@
 
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 
+## recruitment 
+
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
+
 ## redhat 
 
 - [openkilt/openrepo](https://github.com/openkilt/openrepo) - Open Source repository management for deb, rpm, and generic packages
@@ -12482,10 +12591,15 @@
 
 ## refactoring 
 
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [mikaelvesavuori/codemetrix](https://github.com/mikaelvesavuori/codemetrix) - Understand the level of coupling and changeability of your code in a second. 🪄
 - [LegacyCodeHQ/eureka](https://github.com/LegacyCodeHQ/eureka) - Breakthrough tooling to work with Kotlin and Java codebases 🚀
 - [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+
+## refactoring-tools 
+
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 
 ## regex 
 
@@ -12895,7 +13009,7 @@
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [LTD-Beget/syncookied](https://github.com/LTD-Beget/syncookied) - syn flood protection
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -13569,6 +13683,10 @@
 
 - [ozontech/dtrack-audit](https://github.com/ozontech/dtrack-audit) - OWASP Dependency Track API client for intergration into CI/CD pipeline
 
+## software-crafters 
+
+- [AudienseCo/engineering-principles](https://github.com/AudienseCo/engineering-principles) - Guiding principles that serve as a blueprint for decision-making when developing and designing products at Audiense
+
 ## software-defined-radio 
 
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
@@ -13700,7 +13818,7 @@
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -13811,6 +13929,7 @@
 
 ## startup-resources 
 
+- [mayadata-io/culture](https://github.com/mayadata-io/culture) - Team Culture, Processes, Handbooks
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 
 ## startups 
@@ -13849,6 +13968,7 @@
 
 ## stats 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [middlewarehq/unwrapped](https://github.com/middlewarehq/unwrapped) - Spotify Wrapped for developers.
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
@@ -13904,6 +14024,10 @@
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 
 ## streamer 
+
+- [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
+
+## streamer-site 
 
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 
@@ -14155,6 +14279,7 @@
 
 ## systems 
 
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -14743,6 +14868,10 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [ai-forever/ru-gpts](https://github.com/ai-forever/ru-gpts) - Russian GPT3 models.
 
+## transition 
+
+- [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
+
 ## translations 
 
 - [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - “Библия QA” - это обновляемая база знаний объемом 560+ страниц
@@ -14779,6 +14908,10 @@
 ## trends 
 
 - [EnablingTeam/insights](https://github.com/EnablingTeam/insights) - Enabling.team Insights
+
+## troposphere 
+
+- [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 
 ## troubleshooting 
 
