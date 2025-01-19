@@ -10688,6 +10688,7 @@
 
 ## others 
 
+- [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [davelush/salary-benchmarker](https://github.com/davelush/salary-benchmarker) - Grabs a set of salary benchmark data from ITJobsWatch
 - [landx-id/landx-engineering-culture](https://github.com/landx-id/landx-engineering-culture) - LandX Engineering Culture and Workflows
 - [code-dot-org/engineering-culture](https://github.com/code-dot-org/engineering-culture) - 
