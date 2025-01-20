@@ -398,6 +398,7 @@
 - [configuration-language](#configuration-language)
 - [configuration-management](#configuration-management)
 - [confluence](#confluence)
+- [consensus-algorithm](#consensus-algorithm)
 - [consul](#consul)
 - [consulting](#consulting)
 - [container](#container)
@@ -514,12 +515,16 @@
 - [data-security](#data-security)
 - [data-structures](#data-structures)
 - [data-validation](#data-validation)
+- [data-version-control](#data-version-control)
+- [data-versioning](#data-versioning)
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [database-access](#database-access)
 - [database-document](#database-document)
 - [database-schema](#database-schema)
 - [database-systems](#database-systems)
+- [database-version-control](#database-version-control)
+- [database-versioning](#database-versioning)
 - [databases](#databases)
 - [datadiscovery](#datadiscovery)
 - [datadog](#datadog)
@@ -540,6 +545,7 @@
 - [debug](#debug)
 - [debugging](#debugging)
 - [decentralized](#decentralized)
+- [decentralized-database](#decentralized-database)
 - [decision-making](#decision-making)
 - [decisions](#decisions)
 - [deep-learning](#deep-learning)
@@ -832,6 +838,8 @@
 - [gifs](#gifs)
 - [git](#git)
 - [git-addons](#git-addons)
+- [git-database](#git-database)
+- [git-for-data](#git-for-data)
 - [gitbook](#gitbook)
 - [github](#github)
 - [github-action](#github-action)
@@ -1007,6 +1015,7 @@
 - [image-manipulation](#image-manipulation)
 - [image-processing](#image-processing)
 - [image-search](#image-search)
+- [immutable-database](#immutable-database)
 - [in-memory](#in-memory)
 - [incident](#incident)
 - [incident-management](#incident-management)
@@ -1491,6 +1500,7 @@
 - [partitioning](#partitioning)
 - [patch-management](#patch-management)
 - [patterns](#patterns)
+- [paxos](#paxos)
 - [payments](#payments)
 - [pcap](#pcap)
 - [pdf](#pdf)
@@ -1637,6 +1647,7 @@
 - [radar](#radar)
 - [radiation](#radiation)
 - [radio](#radio)
+- [raft](#raft)
 - [rag](#rag)
 - [rails](#rails)
 - [rails-application](#rails-application)
@@ -2155,6 +2166,7 @@
 - [venture-capital](#venture-capital)
 - [venv](#venv)
 - [version](#version)
+- [version-controlled-database](#version-controlled-database)
 - [versioning](#versioning)
 - [vertical-slice-architecture](#vertical-slice-architecture)
 - [video](#video)
@@ -2968,6 +2980,7 @@
 
 ## awesome 
 
+- [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越技术布道师列表
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
@@ -4396,6 +4409,7 @@
 
 ## command-line 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [yegor256/cobench](https://github.com/yegor256/cobench) - Coders Benchmarking Script: automatically collects productivity metrics from a team of GitHub contributors
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -4621,6 +4635,10 @@
 ## confluence 
 
 - [v0v04ka/puppet2conf](https://github.com/v0v04ka/puppet2conf) - puppet module documentation to confluence
+
+## consensus-algorithm 
+
+- [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 
 ## consul 
 
@@ -5242,6 +5260,14 @@
 
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 
+## data-version-control 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+
+## data-versioning 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+
 ## data-visualization 
 
 - [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab) - GrimoireLab: platform for software development analytics and insights
@@ -5252,6 +5278,7 @@
 
 ## database 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
@@ -5284,6 +5311,14 @@
 ## database-systems 
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+
+## database-version-control 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+
+## database-versioning 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## databases 
 
@@ -5382,6 +5417,10 @@
 ## decentralized 
 
 - [wso2/reference-architecture](https://github.com/wso2/reference-architecture) - The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.
+
+## decentralized-database 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## decision-making 
 
@@ -6964,6 +7003,7 @@
 
 ## git 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [SierraSoftworks/git-tool](https://github.com/SierraSoftworks/git-tool) - Stop worrying about where your code is saved and start being more productive with this cross-platform CLI (with auto-complete and GitHub integration).
 - [philips-labs/tabia](https://github.com/philips-labs/tabia) - Repository characteristics
@@ -6998,6 +7038,14 @@
 ## git-addons 
 
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+
+## git-database 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+
+## git-for-data 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## gitbook 
 
@@ -7270,6 +7318,7 @@
 
 ## golang 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -8124,6 +8173,10 @@
 ## image-search 
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+
+## immutable-database 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## in-memory 
 
@@ -9524,6 +9577,7 @@
 
 ## mariadb 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 
 ## markdoc 
@@ -10041,6 +10095,7 @@
 
 ## mysql 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
@@ -10688,6 +10743,8 @@
 
 ## others 
 
+- [cncf/architecture](https://github.com/cncf/architecture) - 
+- [tom-geraghty/wait-time-calculator](https://github.com/tom-geraghty/wait-time-calculator) - A simple spreadsheet calculator to estimate increased wait time based upon utilisation, using simplified queueing theory.
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [davelush/salary-benchmarker](https://github.com/davelush/salary-benchmarker) - Grabs a set of salary benchmark data from ITJobsWatch
 - [landx-id/landx-engineering-culture](https://github.com/landx-id/landx-engineering-culture) - LandX Engineering Culture and Workflows
@@ -11607,6 +11664,10 @@
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 
+## paxos 
+
+- [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
+
 ## payments 
 
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
@@ -12439,6 +12500,10 @@
 ## radio 
 
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
+
+## raft 
+
+- [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 
 ## rag 
 
@@ -13858,6 +13923,7 @@
 
 ## sql 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
@@ -15199,6 +15265,10 @@
 - [semantic-release/changelog](https://github.com/semantic-release/changelog) - :blue_book: semantic-release plugin to create or update a changelog file
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
+
+## version-controlled-database 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## versioning 
 
