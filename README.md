@@ -121,6 +121,7 @@
 - [ast](#ast)
 - [async](#async)
 - [async-await](#async-await)
+- [asyncio](#asyncio)
 - [atlantis](#atlantis)
 - [atom](#atom)
 - [atom-feed](#atom-feed)
@@ -185,6 +186,7 @@
 - [benchmark](#benchmark)
 - [benchmarking](#benchmarking)
 - [best-practices](#best-practices)
+- [bestpractices](#bestpractices)
 - [bi](#bi)
 - [bias](#bias)
 - [big-data](#big-data)
@@ -209,6 +211,7 @@
 - [bootstrapper](#bootstrapper)
 - [bot](#bot)
 - [bot-framework](#bot-framework)
+- [botkit](#botkit)
 - [boto3](#boto3)
 - [bots](#bots)
 - [broken-links](#broken-links)
@@ -356,6 +359,7 @@
 - [cog](#cog)
 - [cognitive](#cognitive)
 - [collaboration](#collaboration)
+- [collaborative](#collaborative)
 - [collection](#collection)
 - [color-scheme](#color-scheme)
 - [command-line](#command-line)
@@ -412,10 +416,12 @@
 - [content](#content)
 - [content-marketing](#content-marketing)
 - [content-strategy](#content-strategy)
+- [continous-delivery](#continous-delivery)
 - [continous-deployment](#continous-deployment)
 - [continuous-delivery](#continuous-delivery)
 - [continuous-deployment](#continuous-deployment)
 - [continuous-integration](#continuous-integration)
+- [continuous-profiling](#continuous-profiling)
 - [continuous-testing](#continuous-testing)
 - [contribute](#contribute)
 - [contributing](#contributing)
@@ -552,6 +558,7 @@
 - [deep-neural-networks](#deep-neural-networks)
 - [deep-reinforcement-learning](#deep-reinforcement-learning)
 - [deeplearning](#deeplearning)
+- [deepseek](#deepseek)
 - [delivery-pipeline](#delivery-pipeline)
 - [demo](#demo)
 - [deno](#deno)
@@ -783,6 +790,7 @@
 - [fish](#fish)
 - [fitness](#fitness)
 - [fixtures](#fixtures)
+- [flamegraph](#flamegraph)
 - [flask](#flask)
 - [flipper](#flipper)
 - [flipper-zero](#flipper-zero)
@@ -840,6 +848,7 @@
 - [git-addons](#git-addons)
 - [git-database](#git-database)
 - [git-for-data](#git-for-data)
+- [git-hooks](#git-hooks)
 - [gitbook](#gitbook)
 - [github](#github)
 - [github-action](#github-action)
@@ -847,6 +856,7 @@
 - [github-api](#github-api)
 - [github-app](#github-app)
 - [github-automation](#github-automation)
+- [github-bot-framework](#github-bot-framework)
 - [github-cli](#github-cli)
 - [github-codespaces](#github-codespaces)
 - [github-config](#github-config)
@@ -997,6 +1007,7 @@
 - [huggingface](#huggingface)
 - [hugo](#hugo)
 - [human-resources](#human-resources)
+- [husky](#husky)
 - [hybrid-cloud](#hybrid-cloud)
 - [iac](#iac)
 - [iam](#iam)
@@ -1094,7 +1105,6 @@
 - [jobs-search](#jobs-search)
 - [jobsearch](#jobsearch)
 - [jobseeker](#jobseeker)
-- [jquery](#jquery)
 - [json](#json)
 - [jsonfeed](#jsonfeed)
 - [jsonnet](#jsonnet)
@@ -1390,6 +1400,7 @@
 - [nixos](#nixos)
 - [nlg](#nlg)
 - [nlp](#nlp)
+- [nlu](#nlu)
 - [nmap](#nmap)
 - [no-dependencies](#no-dependencies)
 - [node](#node)
@@ -1520,6 +1531,7 @@
 - [performance-metrics](#performance-metrics)
 - [performance-test](#performance-test)
 - [performance-testing](#performance-testing)
+- [performance-tools](#performance-tools)
 - [performance-tuning](#performance-tuning)
 - [pharo](#pharo)
 - [php](#php)
@@ -1544,6 +1556,7 @@
 - [plugin-framework](#plugin-framework)
 - [plugins](#plugins)
 - [png](#png)
+- [pocketbase](#pocketbase)
 - [podcast](#podcast)
 - [podcasts](#podcasts)
 - [podman](#podman)
@@ -1839,6 +1852,7 @@
 - [service-mesh](#service-mesh)
 - [session-replay](#session-replay)
 - [sharding](#sharding)
+- [share](#share)
 - [shell](#shell)
 - [shell-script](#shell-script)
 - [shellcheck](#shellcheck)
@@ -2255,6 +2269,7 @@
 - [xcode](#xcode)
 - [xctest](#xctest)
 - [xml](#xml)
+- [xterm](#xterm)
 - [y-combinator](#y-combinator)
 - [yabai](#yabai)
 - [yaml](#yaml)
@@ -2357,7 +2372,7 @@
 - [papito/ballot](https://github.com/papito/ballot) - Estimation poker tool for distributed teams
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
 - [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
-- [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
+- [continuous-architecture/toolkit](https://github.com/continuous-architecture/toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
 - [teterkin/Agile-manifesto-in-ArchiMate](https://github.com/teterkin/Agile-manifesto-in-ArchiMate) - Agile Manifesto in ArchiMate
 - [joelparkerhenderson/maturity-models](https://github.com/joelparkerhenderson/maturity-models) - Maturity models for IT, Agile, DevOps, TOGAF, Six Sigma, P3M3, etc.
 - [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My collection of public speaking engagements.
@@ -2369,7 +2384,6 @@
 
 ## ai 
 
-- [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
@@ -2754,7 +2768,7 @@
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-- [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
+- [continuous-architecture/toolkit](https://github.com/continuous-architecture/toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
 - [unlight/solution-architecture](https://github.com/unlight/solution-architecture) - Solution Architecture links, articles, books, video lessons, etc.
 - [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - Porto is a Modern Software Architectural Pattern that scales with your business!
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
@@ -2862,6 +2876,7 @@
 
 ## assessment 
 
+- [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 
@@ -2893,6 +2908,10 @@
 
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 
+## asyncio 
+
+- [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
+
 ## atlantis 
 
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -2908,6 +2927,7 @@
 
 ## audit 
 
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
@@ -3383,6 +3403,10 @@
 - [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)
 - [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter
 
+## bestpractices 
+
+- [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
+
 ## bi 
 
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
@@ -3406,7 +3430,7 @@
 
 ## bigquery 
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 
 ## bilibili 
@@ -3498,7 +3522,12 @@
 
 ## bot-framework 
 
+- [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [operable/cog](https://github.com/operable/cog) - Bringing the power of the command line to chat
+
+## botkit 
+
+- [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 
 ## boto3 
 
@@ -3876,6 +3905,7 @@
 
 ## chatops 
 
+- [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
 - [operable/cog](https://github.com/operable/cog) - Bringing the power of the command line to chat
@@ -4018,6 +4048,8 @@
 
 ## cli 
 
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [lintnet/lintnet](https://github.com/lintnet/lintnet) - General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
@@ -4333,7 +4365,7 @@
 
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
@@ -4350,7 +4382,7 @@
 ## codereview 
 
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 
 ## coding 
@@ -4360,7 +4392,7 @@
 
 ## coding-assistant 
 
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 
 ## coding-exercises 
 
@@ -4395,6 +4427,10 @@
 - [ddd-crew/eventstorming-glossary-cheat-sheet](https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet) - 
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+
+## collaborative 
+
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 
 ## collection 
 
@@ -4439,6 +4475,7 @@
 
 ## commit 
 
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
 - [casperdcl/git-fame](https://github.com/casperdcl/git-fame) - :star: Pretty-print `git` repository collaborators sorted by contributions
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
@@ -4508,6 +4545,7 @@
 
 ## compliance 
 
+- [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [zuazo/dockerspec](https://github.com/zuazo/dockerspec) - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily.
@@ -4722,6 +4760,10 @@
 
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
 
+## continous-delivery 
+
+- [Minimum-CD/cd-manifesto](https://github.com/Minimum-CD/cd-manifesto) - Minimum Viable Continuous Delivery
+
 ## continous-deployment 
 
 - [Minimum-CD/cd-manifesto](https://github.com/Minimum-CD/cd-manifesto) - Minimum Viable Continuous Delivery
@@ -4760,7 +4802,7 @@
 
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [cburgmer/buildviz](https://github.com/cburgmer/buildviz) - Transparency for your build pipeline's results and runtime
 - [Minimum-CD/cd-manifesto](https://github.com/Minimum-CD/cd-manifesto) - Minimum Viable Continuous Delivery
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
@@ -4772,8 +4814,13 @@
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 
+## continuous-profiling 
+
+- [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
+
 ## continuous-testing 
 
+- [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
 
 ## contribute 
@@ -5270,6 +5317,7 @@
 
 ## data-visualization 
 
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
 - [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab) - GrimoireLab: platform for software development analytics and insights
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
@@ -5302,11 +5350,11 @@
 
 ## database-document 
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 
 ## database-schema 
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 
 ## database-systems 
 
@@ -5452,6 +5500,10 @@
 ## deeplearning 
 
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+
+## deepseek 
+
+- [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 
 ## delivery-pipeline 
 
@@ -5677,6 +5729,8 @@
 
 ## devops 
 
+- [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
+- [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [AudienseCo/engineering-principles](https://github.com/AudienseCo/engineering-principles) - Guiding principles that serve as a blueprint for decision-making when developing and designing products at Audiense
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
@@ -5808,6 +5862,7 @@
 
 ## devsecops 
 
+- [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
 - [Swordfish-Security/awesome-devsecops-russia](https://github.com/Swordfish-Security/awesome-devsecops-russia) - Awesome DevSecOps на русском языке
@@ -5828,7 +5883,7 @@
 ## devtools 
 
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [0xDones/tfgen](https://github.com/0xDones/tfgen) - Terraform code generator for consistent codebase and DRY
 
 ## dhcp 
@@ -6159,7 +6214,7 @@
 
 ## documentation-tool 
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [v0v04ka/puppet2conf](https://github.com/v0v04ka/puppet2conf) - puppet module documentation to confluence
 
@@ -6268,7 +6323,7 @@
 
 ## dynamodb 
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 
 ## e2e-testing 
@@ -6281,6 +6336,7 @@
 
 ## ebpf 
 
+- [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastr
 
@@ -6527,7 +6583,7 @@
 
 ## er-diagram 
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 
 ## es6 
 
@@ -6586,7 +6642,7 @@
 
 ## excel 
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 
 ## exfiltration 
 
@@ -6759,6 +6815,10 @@
 
 - [lamoda/gonkey](https://github.com/lamoda/gonkey) - Gonkey - a testing automation tool
 
+## flamegraph 
+
+- [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
+
 ## flask 
 
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -6863,8 +6923,9 @@
 
 ## framework 
 
+- [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
+- [continuous-architecture/toolkit](https://github.com/continuous-architecture/toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [yandex/yandex-tank](https://github.com/yandex/yandex-tank) - Load and performance benchmark tool
 
@@ -7003,6 +7064,10 @@
 
 ## git 
 
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [SierraSoftworks/git-tool](https://github.com/SierraSoftworks/git-tool) - Stop worrying about where your code is saved and start being more productive with this cross-platform CLI (with auto-complete and GitHub integration).
@@ -7046,6 +7111,10 @@
 ## git-for-data 
 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+
+## git-hooks 
+
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 
 ## gitbook 
 
@@ -7110,6 +7179,10 @@
 ## github-automation 
 
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
+
+## github-bot-framework 
+
+- [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 
 ## github-cli 
 
@@ -7318,6 +7391,7 @@
 
 ## golang 
 
+- [natrontech/kubelab](https://github.com/natrontech/kubelab) - Experience Kubernetes Mastery Through Practice
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
@@ -7442,7 +7516,7 @@
 ## governance 
 
 - [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.
-- [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
+- [continuous-architecture/toolkit](https://github.com/continuous-architecture/toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
 
 ## government 
 
@@ -7461,7 +7535,7 @@
 
 ## gpt-4 
 
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 
@@ -7653,6 +7727,8 @@
 
 ## hacktoberfest 
 
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越技术布道师列表
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
@@ -7688,7 +7764,7 @@
 - [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsor
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
@@ -8090,6 +8166,10 @@
 ## human-resources 
 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+
+## husky 
+
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 
 ## hybrid-cloud 
 
@@ -8632,12 +8712,9 @@
 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 
-## jquery 
-
-- [olton/metroui](https://github.com/olton/metroui) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
-
 ## json 
 
+- [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
@@ -8823,6 +8900,8 @@
 
 ## kubernetes 
 
+- [natrontech/kubelab](https://github.com/natrontech/kubelab) - Experience Kubernetes Mastery Through Practice
+- [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit) - Toolkit for cloud-native application lifecycle management
@@ -8993,6 +9072,7 @@
 
 ## labs 
 
+- [natrontech/kubelab](https://github.com/natrontech/kubelab) - Experience Kubernetes Mastery Through Practice
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 
 ## lakehouse 
@@ -9165,6 +9245,7 @@
 
 ## lint 
 
+- [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
@@ -9368,6 +9449,7 @@
 
 ## log 
 
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 
@@ -9578,7 +9660,7 @@
 ## mariadb 
 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 
 ## markdoc 
 
@@ -9593,7 +9675,7 @@
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization
 - [artsy/README](https://github.com/artsy/README) - :wave: - The documentation for being an Artsy Engineer
@@ -9685,7 +9767,7 @@
 
 ## mermaid 
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 
 ## mesh-networks 
 
@@ -9974,7 +10056,7 @@
 
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
@@ -10025,7 +10107,7 @@
 ## monitoring-tool 
 
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 
 ## monorepo 
@@ -10098,7 +10180,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
@@ -10283,6 +10365,10 @@
 
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
 
+## nlu 
+
+- [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
+
 ## nmap 
 
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -10298,7 +10384,7 @@
 ## nodejs 
 
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
@@ -10389,6 +10475,7 @@
 
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [mikaelvesavuori/catalogist](https://github.com/mikaelvesavuori/catalogist) - Catalogist is the easy way to catalog and make your software and (micro)services visible to your organization in a lightweight and developer-friendly way.
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [last9/slo-computer](https://github.com/last9/slo-computer) - SLOs, Error windows and alerts are complicated. Here an attempt to make it easy
@@ -10544,6 +10631,7 @@
 
 ## open-source 
 
+- [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Management
@@ -10580,7 +10668,7 @@
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-comm
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
@@ -10720,6 +10808,7 @@
 
 ## osint 
 
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 
 ## ospo 
@@ -10743,6 +10832,10 @@
 
 ## others 
 
+- [PacktPublishing/Platform-Engineering-for-Architects](https://github.com/PacktPublishing/Platform-Engineering-for-Architects) - Platform Engineering for Architects, published by Packt
+- [Jet-Security-Team/Jet-Container-Security-Framework](https://github.com/Jet-Security-Team/Jet-Container-Security-Framework) - Jet Container Security Framework (JCSF)
+- [r3code/error-budget-burn-rate-alert-calculator](https://github.com/r3code/error-budget-burn-rate-alert-calculator) - SLO Error budget burn rate alert calculator
+- [nickstenning/burnrate](https://github.com/nickstenning/burnrate) - A burn rate alert calculator
 - [cncf/architecture](https://github.com/cncf/architecture) - 
 - [tom-geraghty/wait-time-calculator](https://github.com/tom-geraghty/wait-time-calculator) - A simple spreadsheet calculator to estimate increased wait time based upon utilisation, using simplified queueing theory.
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -10756,7 +10849,7 @@
 - [patsevanton/russian-conferences-articles](https://github.com/patsevanton/russian-conferences-articles) - Коллективная расшифровка видеодокладов c Российских конференций, митапов в статьи
 - [OpenVoxProject/planning](https://github.com/OpenVoxProject/planning) - Planning and roadmap for the OpenPuppet project
 - [cresta/atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) - Detect terraform drift in atlantis
-- [awslabs/kro](https://github.com/awslabs/kro) - kro | Kube Resource Orchestrator
+- [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator
 - [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
 - [NTCoding/prod-domain-biz-arch-building-blocks](https://github.com/NTCoding/prod-domain-biz-arch-building-blocks) - Product & Domain-Oriented Business Architecture Building Blocks
 - [diplodoc-platform/diplodoc](https://github.com/diplodoc-platform/diplodoc) - Entrypoint to Diplodoc platform
@@ -11227,7 +11320,7 @@
 - [hashicorp/otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
 - [poise/application](https://github.com/poise/application) - A Chef cookbook to deploy applications.
 - [postgrespro/pg_grab_statement](https://github.com/postgrespro/pg_grab_statement) - PostgreSQL extension for recoding workload of specific database
-- [brianclements/pkictl](https://github.com/brianclements/pkictl) - Openssl wrapper script for simplifying Public Key Infrastructure tasks.
+- [clemtibs/pkictl](https://github.com/clemtibs/pkictl) - Openssl wrapper script for simplifying Public Key Infrastructure tasks.
 - [sparkleformation/sfn](https://github.com/sparkleformation/sfn) - SparkleFormation CLI
 - [customink/strainer](https://github.com/customink/strainer) - Run isolated cookbook tests against your chef repository with Strainer.
 - [jveski/puppet-spec](https://github.com/jveski/puppet-spec) - Test Puppet code with Puppet code
@@ -11730,6 +11823,7 @@
 
 ## performance 
 
+- [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
 - [yegor256/cobench](https://github.com/yegor256/cobench) - Coders Benchmarking Script: automatically collects productivity metrics from a team of GitHub contributors
 - [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -11762,6 +11856,10 @@
 
 - [microsoft/HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
+
+## performance-tools 
+
+- [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
 
 ## performance-tuning 
 
@@ -11816,7 +11914,7 @@
 ## plantuml 
 
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 
 ## platform 
 
@@ -11887,6 +11985,10 @@
 ## png 
 
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
+
+## pocketbase 
+
+- [natrontech/kubelab](https://github.com/natrontech/kubelab) - Experience Kubernetes Mastery Through Practice
 
 ## podcast 
 
@@ -11970,7 +12072,7 @@
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [lesovsky/noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL
@@ -12018,10 +12120,11 @@
 
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [evgeniy-kharchenko/DevOps-Origins](https://github.com/evgeniy-kharchenko/DevOps-Origins) - Проект посвящённый описанию отраслевой DevOps модели
-- [michelin/Continuous-Architecture-Toolkit](https://github.com/michelin/Continuous-Architecture-Toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
+- [continuous-architecture/toolkit](https://github.com/continuous-architecture/toolkit) - For Digital and Agile enterprises wanting to leverage the architecture discipline to better steer their transformation journey while coping with the exponential flow of changes, Continuous Architectur
 
 ## pre-commit 
 
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [mattiasgeniar/puppet-pre-commit-hook](https://github.com/mattiasgeniar/puppet-pre-commit-hook) - A Puppet pre-commit hook to validate syntax
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
@@ -12116,6 +12219,7 @@
 
 ## profiling 
 
+- [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
 - [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 
 ## programmer 
@@ -12286,7 +12390,7 @@
 
 ## pull-request 
 
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 
 ## pull-request-review 
 
@@ -12301,7 +12405,7 @@
 - [kortirso/pullmetry](https://github.com/kortirso/pullmetry) - PullKeeper - app for getting relevant stats about PRs and reviewers
 - [middlewarehq/unwrapped](https://github.com/middlewarehq/unwrapped) - Spotify Wrapped for developers.
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
-- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [decentralizedlabs/pr-codex](https://github.com/decentralizedlabs/pr-codex) - A ChatGPT-powered bot to summarize PR code diffs
 
 ## pulumi 
@@ -12416,6 +12520,7 @@
 
 ## python3 
 
+- [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 
@@ -12678,7 +12783,7 @@
 
 ## redshift 
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 
@@ -12800,6 +12905,7 @@
 
 ## report 
 
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
 - [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My collection of public speaking engagements.
 
 ## reporting 
@@ -13106,6 +13212,7 @@
 
 ## rust 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [SierraSoftworks/git-tool](https://github.com/SierraSoftworks/git-tool) - Stop worrying about where your code is saved and start being more productive with this cross-platform CLI (with auto-complete and GitHub integration).
@@ -13214,6 +13321,7 @@
 
 ## scans 
 
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 
@@ -13321,6 +13429,7 @@
 
 ## secret 
 
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3
 
 ## secret-management 
@@ -13329,11 +13438,14 @@
 
 ## secrets 
 
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 
 ## security 
 
+- [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) - Github Action implementation of SLSA Provenance Generation
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -13414,6 +13526,7 @@
 
 ## security-tools 
 
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) - Github Action implementation of SLSA Provenance Generation
 - [RogueMaster/awesome-flipperzero-withModules](https://github.com/RogueMaster/awesome-flipperzero-withModules) - A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware.
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
@@ -13567,6 +13680,10 @@
 ## sharding 
 
 - [smira/redis-resharding-proxy](https://github.com/smira/redis-resharding-proxy) - Redis Resharding Proxy
+
+## share 
+
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 
 ## shell 
 
@@ -13739,7 +13856,7 @@
 
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 
 ## social 
@@ -13859,7 +13976,7 @@
 
 ## spanner 
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 
 ## spdx 
 
@@ -13943,7 +14060,7 @@
 
 ## sqlite 
 
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 
 ## sqlite3 
 
@@ -13952,7 +14069,7 @@
 ## sqlserver 
 
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 
 ## sre 
 
@@ -13988,6 +14105,7 @@
 
 ## ssh 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
 
@@ -14049,6 +14167,7 @@
 
 ## static-analysis 
 
+- [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -14071,6 +14190,7 @@
 
 ## statistics 
 
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
 - [jtprogru/obsidian-vault-full-statistics-plugin](https://github.com/jtprogru/obsidian-vault-full-statistics-plugin) - Status bar item with vault full statistics such as number of notes, files, attachments, links, tags and quality of vault.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
@@ -14097,13 +14217,14 @@
 
 ## status-page 
 
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 
 ## statuspage 
 
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [ks888/LambStatus](https://github.com/ks888/LambStatus) - [Maintenance mode] Serverless Status Page System
@@ -14267,11 +14388,12 @@
 
 ## svelte 
 
+- [natrontech/kubelab](https://github.com/natrontech/kubelab) - Experience Kubernetes Mastery Through Practice
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 
 ## sveltekit 
 
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 
 ## svg 
 
@@ -14572,6 +14694,8 @@
 
 ## terminal 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -14588,6 +14712,7 @@
 
 ## terraform 
 
+- [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
@@ -15040,6 +15165,7 @@
 
 ## tty 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
 ## tui 
@@ -15431,6 +15557,7 @@
 
 ## vulnerability 
 
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 
 ## vulnerability-assessment 
@@ -15440,6 +15567,7 @@
 
 ## vulnerability-databases 
 
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 
 ## vulnerability-detection 
@@ -15448,6 +15576,7 @@
 
 ## vulnerability-management 
 
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - ASOC, ASPM, DevSecOps, Vulnerability Management Using ArcherySec.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -15459,6 +15588,7 @@
 
 ## vulnerability-scanners 
 
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 
@@ -15491,6 +15621,7 @@
 
 ## web 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -15633,6 +15764,7 @@
 
 ## workflow 
 
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [walmartlabs/concord](https://github.com/walmartlabs/concord) - Concord - workflow orchestration and continuous deployment management
 - [m-reda/pipeline](https://github.com/m-reda/pipeline) - Node-based automation server
@@ -15689,6 +15821,10 @@
 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 
+## xterm 
+
+- [natrontech/kubelab](https://github.com/natrontech/kubelab) - Experience Kubernetes Mastery Through Practice
+
 ## y-combinator 
 
 - [sturdy-dev/sturdy](https://github.com/sturdy-dev/sturdy) - 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)
@@ -15699,6 +15835,7 @@
 
 ## yaml 
 
+- [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
