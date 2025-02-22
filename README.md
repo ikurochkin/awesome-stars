@@ -901,6 +901,7 @@
 - [google-cloud-storage](#google-cloud-storage)
 - [google-summer-of-code](#google-summer-of-code)
 - [googleforms](#googleforms)
+- [googlers](#googlers)
 - [gopher](#gopher)
 - [gophers](#gophers)
 - [goroutine](#goroutine)
@@ -2271,6 +2272,7 @@
 - [workflow-management-system](#workflow-management-system)
 - [workflows](#workflows)
 - [workshop](#workshop)
+- [workshop-materials](#workshop-materials)
 - [writing](#writing)
 - [writing-tool](#writing-tool)
 - [wtf](#wtf)
@@ -7534,6 +7536,10 @@
 
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 
+## googlers 
+
+- [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+
 ## gopher 
 
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
@@ -8775,7 +8781,6 @@
 
 ## jumpserver 
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 
 ## jvm 
@@ -10085,6 +10090,7 @@
 
 ## mongodb 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
@@ -15861,6 +15867,10 @@
 
 - [EnablingTeam/trainings](https://github.com/EnablingTeam/trainings) - Enabling.team Trainings
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
+
+## workshop-materials 
+
+- [mariuszgil/awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming) - Awesome EventStorming
 
 ## writing 
 
