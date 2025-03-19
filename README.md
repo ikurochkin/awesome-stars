@@ -844,6 +844,7 @@
 - [generation](#generation)
 - [generative-ai](#generative-ai)
 - [generator](#generator)
+- [geopolitics](#geopolitics)
 - [getting-started](#getting-started)
 - [gh-actions](#gh-actions)
 - [gifs](#gifs)
@@ -7079,6 +7080,10 @@
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [nwops/puppet-retrospec](https://github.com/nwops/puppet-retrospec) - The only tool you need to generate puppet code, tests, modules, facts, types, providers, data and everything else.
+
+## geopolitics 
+
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 
 ## getting-started 
 
