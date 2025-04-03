@@ -156,7 +156,6 @@
 - [azure](#azure)
 - [azure-blob](#azure-blob)
 - [azure-cli](#azure-cli)
-- [azure-devops](#azure-devops)
 - [azure-functions](#azure-functions)
 - [azure-pipelines](#azure-pipelines)
 - [azure-security](#azure-security)
@@ -3078,6 +3077,7 @@
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [steve-mt/awesome-slo](https://github.com/steve-mt/awesome-slo) - Curated list of resources on SLOs
 - [feststelltaste/awesome-software-analytics](https://github.com/feststelltaste/awesome-software-analytics) - Curated list of awesome resources and links about Software Analytics
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [ikurochkin/awesome-stars](https://github.com/ikurochkin/awesome-stars) - A curated list of my GitHub stars!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
@@ -3252,10 +3252,6 @@
 ## azure-cli 
 
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
-
-## azure-devops 
-
-- [SierraSoftworks/git-tool](https://github.com/SierraSoftworks/git-tool) - Stop worrying about where your code is saved and start being more productive with this cross-platform CLI (with auto-complete and GitHub integration).
 
 ## azure-functions 
 
@@ -6067,6 +6063,7 @@
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
@@ -7768,7 +7765,6 @@
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越技术布道师列表
-- [SierraSoftworks/git-tool](https://github.com/SierraSoftworks/git-tool) - Stop worrying about where your code is saved and start being more productive with this cross-platform CLI (with auto-complete and GitHub integration).
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit) - Toolkit for cloud-native application lifecycle management
 - [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
