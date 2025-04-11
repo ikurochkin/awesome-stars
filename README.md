@@ -2051,6 +2051,7 @@
 - [telegram-bot](#telegram-bot)
 - [telegram-group](#telegram-group)
 - [telemetry](#telemetry)
+- [teleport](#teleport)
 - [temperature-sensor](#temperature-sensor)
 - [template](#template)
 - [template-project](#template-project)
@@ -14715,6 +14716,10 @@
 ## telemetry 
 
 - [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
+
+## teleport 
+
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 
 ## temperature-sensor 
 
