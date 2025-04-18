@@ -11397,7 +11397,6 @@
 - [bryanwb/kh](https://github.com/bryanwb/kh) - The King's Hand (kh) is a tool for organizing and executing shell(ish) scripts written in Go
 - [ctrlok/chef_cleaner](https://github.com/ctrlok/chef_cleaner) - Simple chef handler to remove files who was not updated by chef in specific directory.
 - [adubkov/zbx_nginx_template](https://github.com/adubkov/zbx_nginx_template) - Zabbix template for Nginx
-- [skyarch-networks/sky_zabbix](https://github.com/skyarch-networks/sky_zabbix) - An API Wrapper of Zabbix.
 - [ayust/underhanded](https://github.com/ayust/underhanded) - The ultimate underhanded dotfiles
 - [bobtfish/AWSnycast](https://github.com/bobtfish/AWSnycast) - 'Anycast' in AWS
 - [chef-boneyard/chef-acceptance](https://github.com/chef-boneyard/chef-acceptance) - Chef Acceptance Testing Framework
