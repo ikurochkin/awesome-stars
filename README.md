@@ -10946,6 +10946,8 @@
 
 ## others 
 
+- [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) - Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
+- [msklv/LinuxCheck](https://github.com/msklv/LinuxCheck) - Инструмент для экстренного реагирования, сбора информации и обнаружения уязвимостей в Linux, поддерживающий проверку более чем 70 пунктов по 13 категориям
 - [vseinstrumentiru/devopsconf2025](https://github.com/vseinstrumentiru/devopsconf2025) - Материалы к DevOpsConf 2025
 - [mooltiverse/nyx](https://github.com/mooltiverse/nyx) - The one stop semantic release tool
 - [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John's book "A Philosophy of Software Design" and Bob's book "Clean Code".
