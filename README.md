@@ -10952,7 +10952,7 @@
 - [mooltiverse/nyx](https://github.com/mooltiverse/nyx) - The one stop semantic release tool
 - [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John's book "A Philosophy of Software Design" and Bob's book "Clean Code".
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-- [danilax86/mr-metrics](https://github.com/danilax86/mr-metrics) - 
+- [danilax86/mr-metrics](https://github.com/danilax86/mr-metrics) - A simple web application that shows a [developer × repository] table of merged MRs
 - [PacktPublishing/Platform-Engineering-for-Architects](https://github.com/PacktPublishing/Platform-Engineering-for-Architects) - Platform Engineering for Architects, published by Packt
 - [Jet-Security-Team/Jet-Container-Security-Framework](https://github.com/Jet-Security-Team/Jet-Container-Security-Framework) - Jet Container Security Framework (JCSF)
 - [r3code/error-budget-burn-rate-alert-calculator](https://github.com/r3code/error-budget-burn-rate-alert-calculator) - SLO Error budget burn rate alert calculator
