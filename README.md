@@ -3040,7 +3040,7 @@
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
-- [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
+- [jonathimer/awesome-oss-investors](https://github.com/jonathimer/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [steve-mt/awesome-slo](https://github.com/steve-mt/awesome-slo) - Curated list of resources on SLOs
 - [feststelltaste/awesome-software-analytics](https://github.com/feststelltaste/awesome-software-analytics) - Curated list of awesome resources and links about Software Analytics
@@ -3093,7 +3093,7 @@
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [h1alexbel/awesome-social-program-analysis](https://github.com/h1alexbel/awesome-social-program-analysis) - Curated list of academic papers on Social Program Analysis
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
-- [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
+- [jonathimer/awesome-oss-investors](https://github.com/jonathimer/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [steve-mt/awesome-slo](https://github.com/steve-mt/awesome-slo) - Curated list of resources on SLOs
 - [feststelltaste/awesome-software-analytics](https://github.com/feststelltaste/awesome-software-analytics) - Curated list of awesome resources and links about Software Analytics
@@ -4505,7 +4505,7 @@
 
 ## commercial-open-source 
 
-- [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
+- [jonathimer/awesome-oss-investors](https://github.com/jonathimer/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 
 ## commit 
 
@@ -8603,7 +8603,7 @@
 
 ## investment 
 
-- [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
+- [jonathimer/awesome-oss-investors](https://github.com/jonathimer/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 
 ## ios 
 
@@ -9433,7 +9433,7 @@
 ## list 
 
 - [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
-- [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
+- [jonathimer/awesome-oss-investors](https://github.com/jonathimer/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
@@ -10947,7 +10947,7 @@
 ## others 
 
 - [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) - Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
-- [msklv/LinuxCheck](https://github.com/msklv/LinuxCheck) - Инструмент для экстренного реагирования, сбора информации и обнаружения уязвимостей в Linux, поддерживающий проверку более чем 70 пунктов по 13 категориям
+- [msklv/LinuxCheck](https://github.com/msklv/LinuxCheck) - Инструмент для сбора информации и обнаружения уязвимостей как в Debian  и Ubuntu Linux так и в Alt и Astra Linux, с проверкой более чем по 70 пунктам из 13 категорий
 - [vseinstrumentiru/devopsconf2025](https://github.com/vseinstrumentiru/devopsconf2025) - Материалы к DevOpsConf 2025
 - [mooltiverse/nyx](https://github.com/mooltiverse/nyx) - The one stop semantic release tool
 - [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John's book "A Philosophy of Software Design" and Bob's book "Clean Code".
@@ -13090,7 +13090,7 @@
 
 ## resources 
 
-- [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
+- [jonathimer/awesome-oss-investors](https://github.com/jonathimer/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
@@ -15499,7 +15499,7 @@
 
 ## vc 
 
-- [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
+- [jonathimer/awesome-oss-investors](https://github.com/jonathimer/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 
 ## vcs 
 
@@ -15530,7 +15530,7 @@
 
 ## venture-capital 
 
-- [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
+- [jonathimer/awesome-oss-investors](https://github.com/jonathimer/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 
 ## venv 
 
