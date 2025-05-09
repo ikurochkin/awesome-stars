@@ -83,6 +83,7 @@
 - [apple-watch](#apple-watch)
 - [apple2](#apple2)
 - [applicant-tracking-system](#applicant-tracking-system)
+- [application-architecture](#application-architecture)
 - [application-monitoring](#application-monitoring)
 - [application-security](#application-security)
 - [appsec](#appsec)
@@ -122,6 +123,7 @@
 - [ast](#ast)
 - [async](#async)
 - [async-await](#async-await)
+- [asyncapi](#asyncapi)
 - [asyncio](#asyncio)
 - [atlantis](#atlantis)
 - [atom](#atom)
@@ -2011,6 +2013,8 @@
 - [sveltekit](#sveltekit)
 - [svg](#svg)
 - [swagger](#swagger)
+- [swagger-codegen](#swagger-codegen)
+- [swagger-ui](#swagger-ui)
 - [swap](#swap)
 - [swarm](#swarm)
 - [swift](#swift)
@@ -2570,7 +2574,7 @@
 
 ## analyzer 
 
-- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 500+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
+- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 550+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 
 ## android 
 
@@ -2739,6 +2743,10 @@
 ## applicant-tracking-system 
 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+
+## application-architecture 
+
+- [DocHubTeam/DocHub](https://github.com/DocHubTeam/DocHub) - Управление архитектурой как кодом
 
 ## application-monitoring 
 
@@ -2937,6 +2945,10 @@
 ## async-await 
 
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+
+## asyncapi 
+
+- [DocHubTeam/DocHub](https://github.com/DocHubTeam/DocHub) - Управление архитектурой как кодом
 
 ## asyncio 
 
@@ -5567,7 +5579,7 @@
 ## dependencies 
 
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
-- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 500+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
+- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 550+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 
@@ -8427,7 +8439,7 @@
 
 ## infrastructure 
 
-- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 500+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
+- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 550+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -9873,6 +9885,7 @@
 ## mermaid 
 
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
+- [DocHubTeam/DocHub](https://github.com/DocHubTeam/DocHub) - Управление архитектурой как кодом
 
 ## mesh-networks 
 
@@ -9893,7 +9906,7 @@
 ## metadata 
 
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
-- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 500+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
+- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract 550+ technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 
 ## metadata-management 
@@ -14542,9 +14555,18 @@
 ## swagger 
 
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
+- [DocHubTeam/DocHub](https://github.com/DocHubTeam/DocHub) - Управление архитектурой как кодом
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
 - [openflagr/flagr](https://github.com/openflagr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice
 - [goadesign/goa](https://github.com/goadesign/goa) - Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.
+
+## swagger-codegen 
+
+- [DocHubTeam/DocHub](https://github.com/DocHubTeam/DocHub) - Управление архитектурой как кодом
+
+## swagger-ui 
+
+- [DocHubTeam/DocHub](https://github.com/DocHubTeam/DocHub) - Управление архитектурой как кодом
 
 ## swap 
 
