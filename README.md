@@ -778,6 +778,7 @@
 - [fault-tolerance](#fault-tolerance)
 - [feature](#feature)
 - [feature-flag](#feature-flag)
+- [feature-flagging](#feature-flagging)
 - [feature-flags](#feature-flags)
 - [feature-toggle](#feature-toggle)
 - [feature-toggles](#feature-toggles)
@@ -1163,6 +1164,7 @@
 - [kubernetes-cluster](#kubernetes-cluster)
 - [kubernetes-clusters](#kubernetes-clusters)
 - [kubernetes-deployment](#kubernetes-deployment)
+- [kubernetes-distribution](#kubernetes-distribution)
 - [kubernetes-ingress](#kubernetes-ingress)
 - [kubernetes-ingress-controller](#kubernetes-ingress-controller)
 - [kubernetes-security](#kubernetes-security)
@@ -6788,6 +6790,11 @@
 
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
 
+## feature-flagging 
+
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
+
 ## feature-flags 
 
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
@@ -7940,7 +7947,6 @@
 - [voxpupuli/beaker](https://github.com/voxpupuli/beaker) - Puppet Acceptance Testing Harness
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) - Puppet Labs Standard Library module
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [test-kitchen/kitchen-digitalocean](https://github.com/test-kitchen/kitchen-digitalocean) - A Test Kitchen driver for DigitalOcean
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [test-kitchen/kitchen-vagrant](https://github.com/test-kitchen/kitchen-vagrant) - A Test Kitchen Driver for Vagrant
@@ -9124,6 +9130,10 @@
 ## kubernetes-deployment 
 
 - [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructi
+
+## kubernetes-distribution 
+
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 
 ## kubernetes-ingress 
 
