@@ -10979,6 +10979,7 @@
 
 ## others 
 
+- [joelparkerhenderson/causal-analysis-based-on-system-theory](https://github.com/joelparkerhenderson/causal-analysis-based-on-system-theory) - Causal Analysis based on System Theory (CAST)
 - [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) - Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
 - [msklv/LinuxCheck](https://github.com/msklv/LinuxCheck) - Инструмент для сбора информации и обнаружения уязвимостей как в Debian  и Ubuntu Linux так и в Alt и Astra Linux, с проверкой более чем по 70 пунктам из 13 категорий
 - [vseinstrumentiru/devopsconf2025](https://github.com/vseinstrumentiru/devopsconf2025) - Материалы к DevOpsConf 2025
@@ -11444,7 +11445,7 @@
 - [selectel-vds/ansible-vscale-modules](https://github.com/selectel-vds/ansible-vscale-modules) - Ansible modules for vscale.io
 - [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks) - Open source chef cookbooks.
 - [manicminer/ansible-auto-scaling-tutorial](https://github.com/manicminer/ansible-auto-scaling-tutorial) - Ansible EC2 Auto Scaling Tutorial
-- [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Logs for humans to read.
+- [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Observability on your laptop
 - [kyleparisi/slabbix](https://github.com/kyleparisi/slabbix) - Upload zabbix graphs to slack via hubot
 - [jdauphant/awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
 - [PimenovAlexander/r4s-bluetooth](https://github.com/PimenovAlexander/r4s-bluetooth) - Hacking Ready For Sky (R4S) home appliances
