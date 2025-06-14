@@ -543,6 +543,7 @@
 - [datadog](#datadog)
 - [dataengineering](#dataengineering)
 - [dataquality](#dataquality)
+- [dataset-generation](#dataset-generation)
 - [datasets](#datasets)
 - [dataviz](#dataviz)
 - [dba-roadmap](#dba-roadmap)
@@ -794,6 +795,7 @@
 - [file-explorer](#file-explorer)
 - [fileserver](#fileserver)
 - [filesystem-cache](#filesystem-cache)
+- [finetuning-llms](#finetuning-llms)
 - [finops](#finops)
 - [firebase](#firebase)
 - [firefox-addon](#firefox-addon)
@@ -2418,6 +2420,7 @@
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
+- [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -5470,6 +5473,10 @@
 
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 
+## dataset-generation 
+
+- [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
+
 ## datasets 
 
 - [PAIR-code/datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook) - The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation.
@@ -6882,6 +6889,10 @@
 ## filesystem-cache 
 
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
+
+## finetuning-llms 
+
+- [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
 
 ## finops 
 
@@ -11079,7 +11090,6 @@
 - [OkayHQ/backstage-plugin](https://github.com/OkayHQ/backstage-plugin) - Backstage plugin for DORA metrics by Okay -- flexible analytics and reporting for engineering teams
 - [DevoteamNL/opendora](https://github.com/DevoteamNL/opendora) - Team performance insights for your organization.
 - [ongardie/diskbenchmark](https://github.com/ongardie/diskbenchmark) - Benchmarking utilities for measuring the latencies of disks (mostly interesting for SSDs).
-- [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Convert Compute And Books Into Instruct-Tuning Datasets! Makes: QA, RP, Classifiers.
 - [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowi
 - [paulsbruce/CultureIn1min](https://github.com/paulsbruce/CultureIn1min) - An organizational culture assessment tool based on research by Westrum, Forsgren, and others.
 - [vseinstrumentiru/devopsconf2024](https://github.com/vseinstrumentiru/devopsconf2024) - Материалы к нашим докладам представленным на DevOpsConf 2024 Москва
