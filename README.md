@@ -210,6 +210,7 @@
 - [book-notes](#book-notes)
 - [bookmarks](#bookmarks)
 - [books](#books)
+- [bootstarp](#bootstarp)
 - [bootstrap](#bootstrap)
 - [bootstrap-theme](#bootstrap-theme)
 - [bootstrapper](#bootstrapper)
@@ -859,6 +860,7 @@
 - [generation](#generation)
 - [generative-ai](#generative-ai)
 - [generator](#generator)
+- [generators](#generators)
 - [geopolitics](#geopolitics)
 - [getting-started](#getting-started)
 - [gh-actions](#gh-actions)
@@ -1205,7 +1207,6 @@
 - [lecture-notes](#lecture-notes)
 - [lectures](#lectures)
 - [legacy-code](#legacy-code)
-- [lemon-squeezy](#lemon-squeezy)
 - [less](#less)
 - [lessons-learned](#lessons-learned)
 - [letsencrypt](#letsencrypt)
@@ -1372,7 +1373,6 @@
 - [monitoring](#monitoring)
 - [monitoring-tool](#monitoring-tool)
 - [monorepo](#monorepo)
-- [mor](#mor)
 - [motivation](#motivation)
 - [mp4](#mp4)
 - [mpp](#mpp)
@@ -1518,7 +1518,6 @@
 - [packet-generator](#packet-generator)
 - [packet-loss](#packet-loss)
 - [packet-sniffer](#packet-sniffer)
-- [paddle](#paddle)
 - [page](#page)
 - [pages](#pages)
 - [pagespeed](#pagespeed)
@@ -1947,7 +1946,6 @@
 - [spinnaker](#spinnaker)
 - [split-testing](#split-testing)
 - [splunk](#splunk)
-- [sponsor](#sponsor)
 - [spotify](#spotify)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
@@ -1991,7 +1989,6 @@
 - [streamer-site](#streamer-site)
 - [streamer-tool](#streamer-tool)
 - [streaming-data](#streaming-data)
-- [stripe](#stripe)
 - [structurizr](#structurizr)
 - [stt](#stt)
 - [study](#study)
@@ -2424,7 +2421,7 @@
 - [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
@@ -2997,7 +2994,7 @@
 
 ## augmentation 
 
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 
 ## authoring 
 
@@ -3186,6 +3183,7 @@
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- [oleg-nenashev/workshop-aws-mocks-as-code](https://github.com/oleg-nenashev/workshop-aws-mocks-as-code) - Demo for the Infrastructure-as-Code in Java, with AWS/Localstack, Testcontainers and WireMock
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [opstower-ai/devops-ai-open-leaderboard](https://github.com/opstower-ai/devops-ai-open-leaderboard) - DevOps AI Assistant benchmarks for AWS, Kubernetes, and more
@@ -3561,6 +3559,10 @@
 - [mgp/book-notes](https://github.com/mgp/book-notes) - Notes from books and other interesting things that I've read. Table of contents at the end 👇
 - [launchdarkly/featureflags](https://github.com/launchdarkly/featureflags) - The guide to decoupling feature rollout from code deployment for feature flag-driven development.  Feature flags give a software organization the power to reduce risk, iterate quicker, and get more co
 - [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
+
+## bootstarp 
+
+- [vseinstrumentiru/slojka](https://github.com/vseinstrumentiru/slojka) - Готовый набор для старта работы с SLO / Ready to go SLO bootstrap
 
 ## bootstrap 
 
@@ -6283,6 +6285,7 @@
 
 ## documentation 
 
+- [vseinstrumentiru/slojka](https://github.com/vseinstrumentiru/slojka) - Готовый набор для старта работы с SLO / Ready to go SLO bootstrap
 - [guardian/our-engineering-culture](https://github.com/guardian/our-engineering-culture) - How we as engineers define our culture
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [PAIR-code/datacardsplaybook](https://github.com/PAIR-code/datacardsplaybook) - The Data Cards Playbook helps dataset producers and publishers adopt a people-centered approach to transparency in dataset documentation.
@@ -7183,6 +7186,10 @@
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [nwops/puppet-retrospec](https://github.com/nwops/puppet-retrospec) - The only tool you need to generate puppet code, tests, modules, facts, types, providers, data and everything else.
 
+## generators 
+
+- [vseinstrumentiru/slojka](https://github.com/vseinstrumentiru/slojka) - Готовый набор для старта работы с SLO / Ready to go SLO bootstrap
+
 ## geopolitics 
 
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
@@ -7455,6 +7462,7 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -7541,6 +7549,7 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -7695,7 +7704,7 @@
 
 ## gradle 
 
-- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
+- [oleg-nenashev/workshop-aws-mocks-as-code](https://github.com/oleg-nenashev/workshop-aws-mocks-as-code) - Demo for the Infrastructure-as-Code in Java, with AWS/Localstack, Testcontainers and WireMock
 - [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
 
 ## gradle-kotlin-dsl 
@@ -7729,6 +7738,7 @@
 
 ## grafana-dashboards 
 
+- [vseinstrumentiru/slojka](https://github.com/vseinstrumentiru/slojka) - Готовый набор для старта работы с SLO / Ready to go SLO bootstrap
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 
 ## grafana-panel 
@@ -8507,7 +8517,7 @@
 ## infrastructure-as-code 
 
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
-- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
+- [oleg-nenashev/workshop-aws-mocks-as-code](https://github.com/oleg-nenashev/workshop-aws-mocks-as-code) - Demo for the Infrastructure-as-Code in Java, with AWS/Localstack, Testcontainers and WireMock
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
@@ -9343,10 +9353,6 @@
 
 - [LegacyCodeHQ/eureka](https://github.com/LegacyCodeHQ/eureka) - Breakthrough tooling to work with Kotlin and Java codebases 🚀
 
-## lemon-squeezy 
-
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
-
 ## less 
 
 - [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive web applications!
@@ -9380,7 +9386,7 @@
 
 ## life 
 
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 
 ## light-theme 
 
@@ -9593,7 +9599,7 @@
 
 ## localstack 
 
-- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
+- [oleg-nenashev/workshop-aws-mocks-as-code](https://github.com/oleg-nenashev/workshop-aws-mocks-as-code) - Demo for the Infrastructure-as-Code in Java, with AWS/Localstack, Testcontainers and WireMock
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## locust 
@@ -10285,10 +10291,6 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [mbtproject/mbt](https://github.com/mbtproject/mbt) - The most flexible build tool for monorepo
 - [travis-ci/travis-cookbooks](https://github.com/travis-ci/travis-cookbooks) - Chef cookbook monolithic repo :book: :bomb:
-
-## mor 
-
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 ## motivation 
 
@@ -11869,10 +11871,6 @@
 
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 
-## paddle 
-
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
-
 ## page 
 
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
@@ -12611,7 +12609,7 @@
 ## pulumi 
 
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
+- [oleg-nenashev/workshop-aws-mocks-as-code](https://github.com/oleg-nenashev/workshop-aws-mocks-as-code) - Demo for the Infrastructure-as-Code in Java, with AWS/Localstack, Testcontainers and WireMock
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 
@@ -14012,6 +14010,7 @@
 
 ## slo 
 
+- [vseinstrumentiru/slojka](https://github.com/vseinstrumentiru/slojka) - Готовый набор для старта работы с SLO / Ready to go SLO bootstrap
 - [steve-mt/awesome-slo](https://github.com/steve-mt/awesome-slo) - Curated list of resources on SLOs
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [last9/slo-computer](https://github.com/last9/slo-computer) - SLOs, Error windows and alerts are complicated. Here an attempt to make it easy
@@ -14239,10 +14238,6 @@
 ## splunk 
 
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
-
-## sponsor 
-
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 ## spotify 
 
@@ -14485,10 +14480,6 @@
 ## streaming-data 
 
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
-
-## stripe 
-
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 
 ## structurizr 
 
@@ -15070,7 +15061,7 @@
 
 ## testcontainers 
 
-- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
+- [oleg-nenashev/workshop-aws-mocks-as-code](https://github.com/oleg-nenashev/workshop-aws-mocks-as-code) - Demo for the Infrastructure-as-Code in Java, with AWS/Localstack, Testcontainers and WireMock
 
 ## testing 
 
@@ -16006,11 +15997,11 @@
 
 ## wiremock 
 
-- [oleg-nenashev/mocks-as-code-demo](https://github.com/oleg-nenashev/mocks-as-code-demo) - Demo for the Infrastructure-as-Code in Java
+- [oleg-nenashev/workshop-aws-mocks-as-code](https://github.com/oleg-nenashev/workshop-aws-mocks-as-code) - Demo for the Infrastructure-as-Code in Java, with AWS/Localstack, Testcontainers and WireMock
 
 ## work 
 
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 
 ## workflow 
 
