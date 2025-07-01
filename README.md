@@ -22,6 +22,9 @@
 - [administrator](#administrator)
 - [adr](#adr)
 - [agent](#agent)
+- [agentic-ai](#agentic-ai)
+- [agentic-framework](#agentic-framework)
+- [agentic-workflow](#agentic-workflow)
 - [agile](#agile)
 - [agile-development](#agile-development)
 - [ai](#ai)
@@ -855,6 +858,8 @@
 - [gcp-security](#gcp-security)
 - [gelf](#gelf)
 - [gem](#gem)
+- [gemini](#gemini)
+- [gemini-api](#gemini-api)
 - [gen-ai](#gen-ai)
 - [genai](#genai)
 - [generation](#generation)
@@ -1427,6 +1432,7 @@
 - [nlp](#nlp)
 - [nlu](#nlu)
 - [nmap](#nmap)
+- [no-code](#no-code)
 - [no-dependencies](#no-dependencies)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -1907,7 +1913,6 @@
 - [smm](#smm)
 - [sms-gateway](#sms-gateway)
 - [smtp](#smtp)
-- [snapcraft](#snapcraft)
 - [snippet](#snippet)
 - [snippets](#snippets)
 - [snmp](#snmp)
@@ -2066,6 +2071,7 @@
 - [teamlead](#teamlead)
 - [teamwork](#teamwork)
 - [tech](#tech)
+- [tech-radar](#tech-radar)
 - [technical-documentation](#technical-documentation)
 - [technical-writing](#technical-writing)
 - [telegram](#telegram)
@@ -2395,10 +2401,23 @@
 
 ## agent 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [jitlogic/zorka](https://github.com/jitlogic/zorka) - Sophisticated monitoring agent for Java
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
+
+## agentic-ai 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
+## agentic-framework 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
+## agentic-workflow 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## agile 
 
@@ -2417,6 +2436,7 @@
 
 ## ai 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
@@ -3013,6 +3033,7 @@
 
 ## automation 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
@@ -3394,7 +3415,7 @@
 
 ## bash 
 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -5119,6 +5140,7 @@
 
 ## css 
 
+- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [GSA/cto-website](https://github.com/GSA/cto-website) - Tech at GSA website
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
@@ -7025,6 +7047,7 @@
 
 ## formatter 
 
+- [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 
@@ -7163,12 +7186,22 @@
 
 - [express42/knife-openvpn](https://github.com/express42/knife-openvpn) - A knife plugin for Express 42 openvpn cookbook
 
+## gemini 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+## gemini-api 
+
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+
 ## gen-ai 
 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 
 ## genai 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.
 
 ## generation 
@@ -7680,6 +7713,7 @@
 
 ## gpt 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
@@ -7690,6 +7724,7 @@
 
 ## gpt-4 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
@@ -7887,6 +7922,7 @@
 
 ## hacktoberfest 
 
+- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
@@ -8249,6 +8285,7 @@
 
 ## html 
 
+- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive web applications!
 
 ## html5 
@@ -8883,6 +8920,7 @@
 
 ## json 
 
+- [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
@@ -9420,6 +9458,7 @@
 
 ## linter 
 
+- [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files
 - [lintnet/lintnet](https://github.com/lintnet/lintnet) - General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
@@ -9450,7 +9489,7 @@
 
 ## linux 
 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
@@ -9539,6 +9578,7 @@
 
 ## llm 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [h1alexbel/awesome-social-program-analysis](https://github.com/h1alexbel/awesome-social-program-analysis) - Curated list of academic papers on Social Program Analysis
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -9669,6 +9709,7 @@
 
 ## low-code 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 
 ## low-level 
@@ -9729,7 +9770,7 @@
 
 ## macos 
 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -9877,6 +9918,7 @@
 
 ## mcp 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -10487,6 +10529,7 @@
 
 ## nextjs 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -10550,6 +10593,10 @@
 ## nmap 
 
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+
+## no-code 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## no-dependencies 
 
@@ -10846,6 +10893,7 @@
 
 ## openai 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -10973,6 +11021,7 @@
 
 ## orchestration 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
@@ -12655,6 +12704,7 @@
 
 ## python 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [vas3k/vas3k.club](https://github.com/vas3k/vas3k.club) - No bullshit IT community with private membership
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
@@ -12810,6 +12860,7 @@
 
 ## rag 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
@@ -12861,6 +12912,7 @@
 
 ## react 
 
+- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
@@ -13419,7 +13471,7 @@
 ## rust 
 
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [SierraSoftworks/git-tool](https://github.com/SierraSoftworks/git-tool) - Stop worrying about where your code is saved and start being more productive with this cross-platform CLI (with auto-complete and GitHub integration).
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
@@ -13896,7 +13948,7 @@
 
 ## shell 
 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -14049,10 +14101,6 @@
 ## smtp 
 
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-
-## snapcraft 
-
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## snippet 
 
@@ -14848,6 +14896,10 @@
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
+## tech-radar 
+
+- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
+
 ## technical-documentation 
 
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
@@ -14920,7 +14972,7 @@
 - [nalgeon/howto](https://github.com/nalgeon/howto) - Humble command-line assistant
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -15848,7 +15900,7 @@
 ## wasm 
 
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 
 ## watchos 
@@ -16005,6 +16057,7 @@
 
 ## workflow 
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [walmartlabs/concord](https://github.com/walmartlabs/concord) - Concord - workflow orchestration and continuous deployment management
@@ -16081,6 +16134,7 @@
 
 ## yaml 
 
+- [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
@@ -16158,7 +16212,7 @@
 
 ## zsh 
 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
