@@ -3005,7 +3005,7 @@
 
 ## audit 
 
-- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
@@ -4565,7 +4565,7 @@
 
 ## commit 
 
-- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [casperdcl/git-fame](https://github.com/casperdcl/git-fame) - :star: Pretty-print `git` repository collaborators sorted by contributions
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
@@ -5425,7 +5425,7 @@
 
 ## data-visualization 
 
-- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab) - GrimoireLab: platform for software development analytics and insights
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -7237,7 +7237,7 @@
 - [ejwa/gitinspector](https://github.com/ejwa/gitinspector) - :bar_chart: The statistical analysis tool for git repositories
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
-- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -9638,7 +9638,7 @@
 
 ## log 
 
-- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 
@@ -11022,7 +11022,7 @@
 
 ## osint 
 
-- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 
 ## ospo 
@@ -13144,7 +13144,7 @@
 
 ## report 
 
-- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My collection of public speaking engagements.
 
 ## reporting 
@@ -14441,7 +14441,7 @@
 ## statistics 
 
 - [ejwa/gitinspector](https://github.com/ejwa/gitinspector) - :bar_chart: The statistical analysis tool for git repositories
-- [bakhirev/assayo](https://github.com/bakhirev/assayo) - git log analysis and visualization for team lead
+- [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [jtprogru/obsidian-vault-full-statistics-plugin](https://github.com/jtprogru/obsidian-vault-full-statistics-plugin) - Status bar item with vault full statistics such as number of notes, files, attachments, links, tags and quality of vault.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
