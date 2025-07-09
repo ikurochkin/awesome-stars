@@ -1485,6 +1485,7 @@
 - [opencv](#opencv)
 - [openshift](#openshift)
 - [opensource](#opensource)
+- [openssf](#openssf)
 - [openssf-scorecard](#openssf-scorecard)
 - [openstack](#openstack)
 - [openstack-swift](#openstack-swift)
@@ -1505,6 +1506,7 @@
 - [osquery](#osquery)
 - [oss](#oss)
 - [oss-compliance](#oss-compliance)
+- [ossf](#ossf)
 - [others](#others)
 - [owasp](#owasp)
 - [owasp-top-ten](#owasp-top-ten)
@@ -10929,6 +10931,10 @@
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.
 
+## openssf 
+
+- [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)
+
 ## openssf-scorecard 
 
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
@@ -11045,6 +11051,10 @@
 
 - [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
+
+## ossf 
+
+- [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)
 
 ## others 
 
