@@ -927,6 +927,7 @@
 - [gopher](#gopher)
 - [gophers](#gophers)
 - [goroutine](#goroutine)
+- [goss](#goss)
 - [governance](#governance)
 - [government](#government)
 - [gpt](#gpt)
@@ -7694,6 +7695,10 @@
 
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
 
+## goss 
+
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
+
 ## governance 
 
 - [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.
@@ -11058,6 +11063,8 @@
 
 ## others 
 
+- [BenMorris/NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.
+- [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java
 - [ALLSLO-COMMUNITY/awesome-slo](https://github.com/ALLSLO-COMMUNITY/awesome-slo) - Подборка статей, докладов и инструментов по теме SLI/SLO
 - [joelparkerhenderson/causal-analysis-based-on-system-theory](https://github.com/joelparkerhenderson/causal-analysis-based-on-system-theory) - Causal Analysis based on System Theory (CAST)
 - [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) - Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
