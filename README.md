@@ -59,6 +59,7 @@
 - [android](#android)
 - [android-emulator](#android-emulator)
 - [android-interview-questions](#android-interview-questions)
+- [angular](#angular)
 - [angular-roadmap](#angular-roadmap)
 - [announcements](#announcements)
 - [ansible](#ansible)
@@ -210,6 +211,7 @@
 - [blog](#blog)
 - [blueteam](#blueteam)
 - [boardgame](#boardgame)
+- [boards](#boards)
 - [book](#book)
 - [book-notes](#book-notes)
 - [bookmarks](#bookmarks)
@@ -228,6 +230,7 @@
 - [browser](#browser)
 - [bsd](#bsd)
 - [bug-bounty](#bug-bounty)
+- [bug-tracker](#bug-tracker)
 - [bugreport](#bugreport)
 - [build](#build)
 - [build-automation](#build-automation)
@@ -1045,6 +1048,7 @@
 - [idp](#idp)
 - [ietf](#ietf)
 - [ietf-rfcs](#ietf-rfcs)
+- [ifc](#ifc)
 - [ifttt](#ifttt)
 - [illustration](#illustration)
 - [illustrations](#illustrations)
@@ -1139,6 +1143,7 @@
 - [jumpserver](#jumpserver)
 - [jvm](#jvm)
 - [k3s](#k3s)
+- [k6](#k6)
 - [k8s](#k8s)
 - [k8s-cluster](#k8s-cluster)
 - [k8s-sig-cluster-lifecycle](#k8s-sig-cluster-lifecycle)
@@ -1483,6 +1488,7 @@
 - [openapi3](#openapi3)
 - [opencost](#opencost)
 - [opencv](#opencv)
+- [openproject](#openproject)
 - [openshift](#openshift)
 - [opensource](#opensource)
 - [openssf](#openssf)
@@ -1493,6 +1499,7 @@
 - [opentelemetry](#opentelemetry)
 - [opentofu](#opentofu)
 - [openvpn](#openvpn)
+- [openzipkin](#openzipkin)
 - [operations](#operations)
 - [operator](#operator)
 - [operator-sdk](#operator-sdk)
@@ -1637,6 +1644,7 @@
 - [progressive-delivery](#progressive-delivery)
 - [project](#project)
 - [project-management](#project-management)
+- [project-planning](#project-planning)
 - [prometheus](#prometheus)
 - [prometheus-alertmanager](#prometheus-alertmanager)
 - [prometheus-exporter](#prometheus-exporter)
@@ -2619,6 +2627,10 @@
 
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 
+## angular 
+
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+
 ## angular-roadmap 
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -3037,7 +3049,7 @@
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Toolkit & Orchestration for Developers
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
@@ -3557,6 +3569,10 @@
 
 - [sobolevn/ship-it-boardgame](https://github.com/sobolevn/ship-it-boardgame) - Social and fun boardgame about IT. Best with 🍻
 
+## boards 
+
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+
 ## book 
 
 - [ligurio/swebok-2004-in-russian](https://github.com/ligurio/swebok-2004-in-russian) - Основы программной инженерии (SWEBOK 2004 на русском) в EPUB, FB2 и HTML
@@ -3641,6 +3657,10 @@
 ## bug-bounty 
 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+
+## bug-tracker 
+
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 
 ## bugreport 
 
@@ -5375,7 +5395,7 @@
 
 ## data-orchestration 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 
 ## data-pipelines 
 
@@ -5866,7 +5886,7 @@
 - [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.
 - [Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition](https://github.com/Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition) - The Way of CI/CD is a project from which you can assemble your custom pipeline by using different pieces of code or by including entire stages. This project serves as a builder for creating pipelines 
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 - [dastergon/wheel-of-misfortune](https://github.com/dastergon/wheel-of-misfortune) - A role-playing game for incident management training
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering
@@ -7141,10 +7161,12 @@
 
 ## gantt 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 
 ## gantt-chart 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 
 ## gantt-diagram 
@@ -8194,7 +8216,7 @@
 ## high-availability 
 
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
@@ -8410,6 +8432,10 @@
 
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 
+## ifc 
+
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+
 ## ifttt 
 
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
@@ -8549,7 +8575,7 @@
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 - [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My collection of public speaking engagements.
 - [ultral/awesome-iac-testing](https://github.com/ultral/awesome-iac-testing) - A list of awesome IaC testing articles, speeches & links. Especially about Ansible.
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
@@ -8757,6 +8783,7 @@
 
 ## issue-tracker 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 
@@ -8800,7 +8827,7 @@
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [artipie/artipie](https://github.com/artipie/artipie) - Binary Artifact Management Tool
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [LegacyCodeHQ/eureka](https://github.com/LegacyCodeHQ/eureka) - Breakthrough tooling to work with Kotlin and Java codebases 🚀
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -8940,6 +8967,10 @@
 
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
 
+## k6 
+
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
+
 ## k8s 
 
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -8992,6 +9023,7 @@
 
 ## kanban 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [anvarKhakimov/jira-metrics-plugin](https://github.com/anvarKhakimov/jira-metrics-plugin) - The Jira Metrics Plugin enhances Kanban boards in Jira with advanced analytics for better project management.
 - [roovo/obsidian-card-board](https://github.com/roovo/obsidian-card-board) - An Obsidian plugin to make working with tasks a pleasure (hopefully anyway).
 
@@ -9700,7 +9732,7 @@
 ## low-code 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 
 ## low-level 
 
@@ -9708,7 +9740,7 @@
 
 ## lowcode 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 
 ## lsp 
 
@@ -10914,6 +10946,10 @@
 
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 
+## openproject 
+
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+
 ## openshift 
 
 - [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
@@ -10973,6 +11009,10 @@
 
 - [express42/knife-openvpn](https://github.com/express42/knife-openvpn) - A knife plugin for Express 42 openvpn cookbook
 
+## openzipkin 
+
+- [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
+
 ## operations 
 
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
@@ -11008,7 +11048,7 @@
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [criteo-cookbooks/choregraphie](https://github.com/criteo-cookbooks/choregraphie) - Choregraphie offers primitive to coordinate convergence of chef resources.
@@ -11056,6 +11096,9 @@
 
 ## others 
 
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats
+- [Teslow/build-your-x](https://github.com/Teslow/build-your-x) - 🤓 Build your own (insert technology here)
 - [BenMorris/NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.
 - [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java
 - [ALLSLO-COMMUNITY/awesome-slo](https://github.com/ALLSLO-COMMUNITY/awesome-slo) - Подборка статей, докладов и инструментов по теме SLI/SLO
@@ -12114,13 +12157,13 @@
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 - [cburgmer/buildviz](https://github.com/cburgmer/buildviz) - Transparency for your build pipeline's results and runtime
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 
 ## pipeline-as-code 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 
 ## pitch 
 
@@ -12508,6 +12551,7 @@
 
 ## project-management 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
@@ -12515,6 +12559,10 @@
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+
+## project-planning 
+
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 
 ## prometheus 
 
@@ -13303,6 +13351,7 @@
 
 ## roadmap 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [teivah/sre-roadmap](https://github.com/teivah/sre-roadmap) - An Opinionated Roadmap to Become an SRE (Concepts &gt; Tools)
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
@@ -13372,6 +13421,7 @@
 
 ## ruby 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
 - [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -13645,6 +13695,7 @@
 
 ## scrum 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [papito/ballot](https://github.com/papito/ballot) - Estimation poker tool for distributed teams
 
 ## sdk 
@@ -15234,6 +15285,7 @@
 
 ## timeline 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 
 ## timeline-analysis 
@@ -16048,7 +16100,7 @@
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 - [walmartlabs/concord](https://github.com/walmartlabs/concord) - Concord - workflow orchestration and continuous deployment management
 - [m-reda/pipeline](https://github.com/m-reda/pipeline) - Node-based automation server
 - [Nike-Inc/bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
@@ -16067,6 +16119,7 @@
 
 ## workflows 
 
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
