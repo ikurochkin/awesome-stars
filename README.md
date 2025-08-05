@@ -1092,6 +1092,7 @@
 - [interface](#interface)
 - [internal-developer-platform](#internal-developer-platform)
 - [international](#international)
+- [internet-draft](#internet-draft)
 - [interpreter](#interpreter)
 - [interview](#interview)
 - [interview-practice](#interview-practice)
@@ -8683,6 +8684,10 @@
 
 - [confcodeofconduct/confcodeofconduct.com](https://github.com/confcodeofconduct/confcodeofconduct.com) - A code of conduct template for conferences
 
+## internet-draft 
+
+- [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
+
 ## interpreter 
 
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -11125,6 +11130,7 @@
 
 ## others 
 
+- [CommonPaper/SLA](https://github.com/CommonPaper/SLA) - Common Paper Service Level Agreement
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats
 - [Teslow/build-your-x](https://github.com/Teslow/build-your-x) - 🤓 Build your own (insert technology here)
