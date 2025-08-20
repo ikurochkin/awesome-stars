@@ -560,7 +560,6 @@
 - [dba-roadmap](#dba-roadmap)
 - [dbeaver](#dbeaver)
 - [dbms](#dbms)
-- [dbt](#dbt)
 - [dcim](#dcim)
 - [ddd](#ddd)
 - [ddd-architecture](#ddd-architecture)
@@ -1317,6 +1316,7 @@
 - [mask](#mask)
 - [masking](#masking)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [mdx](#mdx)
 - [media](#media)
 - [media-player](#media-player)
@@ -1939,6 +1939,7 @@
 - [social](#social)
 - [social-media](#social-media)
 - [social-network](#social-network)
+- [socketio](#socketio)
 - [soft-skills](#soft-skills)
 - [software](#software)
 - [software-analysis](#software-analysis)
@@ -5441,7 +5442,6 @@
 
 ## data-science 
 
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 
@@ -5572,10 +5572,6 @@
 
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-
-## dbt 
-
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 
 ## dcim 
 
@@ -9990,7 +9986,12 @@
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+## mcp-server 
+
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 
 ## mdx 
 
@@ -14249,6 +14250,10 @@
 ## social-network 
 
 - [unacms/UNA](https://github.com/unacms/UNA) - UNA Community Management System
+
+## socketio 
+
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 
 ## soft-skills 
 
