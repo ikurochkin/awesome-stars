@@ -1854,6 +1854,7 @@
 - [schema-migrations](#schema-migrations)
 - [schemas](#schemas)
 - [science](#science)
+- [scip-enabled](#scip-enabled)
 - [scm](#scm)
 - [scorecard](#scorecard)
 - [scraper](#scraper)
@@ -13745,6 +13746,10 @@
 ## science 
 
 - [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences: we keep an eye on all of them!
+
+## scip-enabled 
+
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## scm 
 
