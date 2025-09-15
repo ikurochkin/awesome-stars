@@ -744,6 +744,7 @@
 - [engineering](#engineering)
 - [engineering-blogs](#engineering-blogs)
 - [engineering-management](#engineering-management)
+- [engineering-productivity](#engineering-productivity)
 - [english](#english)
 - [ensemble](#ensemble)
 - [enterprise](#enterprise)
@@ -6697,6 +6698,10 @@
 - [kaushikb9/em-interviews](https://github.com/kaushikb9/em-interviews) - Repository of interview questions for Engineering Leadership roles - Engineering Manager, Director of Engineering, VP Engineering and also senior IC roles
 - [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 
+## engineering-productivity 
+
+- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
+
 ## english 
 
 - [teterkin/Agile-manifesto-in-ArchiMate](https://github.com/teterkin/Agile-manifesto-in-ArchiMate) - Agile Manifesto in ArchiMate
@@ -9049,7 +9054,7 @@
 
 ## k8s-sig-cloud-provider 
 
-- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator
+- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kubernetes Resource Orchestrator
 
 ## k8s-sig-cluster-lifecycle 
 
