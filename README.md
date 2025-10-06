@@ -810,6 +810,7 @@
 - [fig](#fig)
 - [file](#file)
 - [file-explorer](#file-explorer)
+- [file-sharing-server](#file-sharing-server)
 - [fileserver](#fileserver)
 - [filesystem-cache](#filesystem-cache)
 - [finetuning-llms](#finetuning-llms)
@@ -7020,6 +7021,10 @@
 
 - [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative) - This Obsidian Plugin allows users to have a different file explorer experience.
 
+## file-sharing-server 
+
+- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver that can provide file sharing services to macOS, Classic Mac OS, and Apple II clients.
+
 ## fileserver 
 
 - [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver that can provide file sharing services to macOS, Classic Mac OS, and Apple II clients.
@@ -8058,6 +8063,7 @@
 - [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie.
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 - [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) - Github Action implementation of SLSA Provenance Generation
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [philips-labs/tabia](https://github.com/philips-labs/tabia) - Repository characteristics
@@ -8213,6 +8219,7 @@
 
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 
 ## hadoop 
 
@@ -11262,10 +11269,10 @@
 
 ## others 
 
-- [devopsenterprise/2025-las-vegas](https://github.com/devopsenterprise/2025-las-vegas) - Enterprise Technology Leadership Summit Las Vegas 2024 Slides
+- [devopsenterprise/2025-las-vegas](https://github.com/devopsenterprise/2025-las-vegas) - Enterprise Technology Leadership Summit Las Vegas 2025 Slides
 - [google/oss-rebuild](https://github.com/google/oss-rebuild) - Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
 - [CommonPaper/SLA](https://github.com/CommonPaper/SLA) - Common Paper Service Level Agreement
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats
 - [Teslow/build-your-x](https://github.com/Teslow/build-your-x) - 🤓 Build your own (insert technology here)
 - [BenMorris/NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.
@@ -11565,8 +11572,8 @@
 - [nickmilo/IMF-v3](https://github.com/nickmilo/IMF-v3) - 
 - [TeamTopologies/Thin-Platform-template](https://github.com/TeamTopologies/Thin-Platform-template) - A simple template for a wiki page for a TVP (thinnest viable platform) - as explained in the Team Topologies book
 - [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) - A template for defining a Team API - as explained in the Team Topologies book
-- [devopsenterprise/2020-London-Virtual](https://github.com/devopsenterprise/2020-London-Virtual) - 
-- [devopsenterprise/2020-Las-Vegas-Virtual](https://github.com/devopsenterprise/2020-Las-Vegas-Virtual) - 
+- [devopsenterprise/2020-London-Virtual](https://github.com/devopsenterprise/2020-London-Virtual) - DevOps Enterprise Summit 2020 - London Virtual
+- [devopsenterprise/2020-Las-Vegas-Virtual](https://github.com/devopsenterprise/2020-Las-Vegas-Virtual) - DevOps Enterprise Summit 2020 - Las Vegas Virtual
 - [prometheus/OpenMetrics](https://github.com/prometheus/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [avito-tech/puppet-controlrepo-template](https://github.com/avito-tech/puppet-controlrepo-template) - Шаблон control repo для Puppet к статье «Инфраструктура как код в Авито: уроки которые мы извлекли»
 - [avito-tech/puppet-module-template](https://github.com/avito-tech/puppet-module-template) - Шаблон Puppet модуля к статье «Инфраструктура как код в Авито: уроки которые мы извлекли»
@@ -11591,14 +11598,14 @@
 - [conventional-commits/conventional-commits-action](https://github.com/conventional-commits/conventional-commits-action) - Automatically tag releases and generate a CHANGELOG using conventionalcommits.org and GitHub actions
 - [lorin/resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
-- [devopsenterprise/2018-Las-Vegas](https://github.com/devopsenterprise/2018-Las-Vegas) - DevOps Enterprise Summit 2018 slides
+- [devopsenterprise/2018-Las-Vegas](https://github.com/devopsenterprise/2018-Las-Vegas) - DevOps Enterprise Summit 2018 - Las Vegas
 - [chef/knife-tidy](https://github.com/chef/knife-tidy) - Report on stale Chef Server nodes/cookbooks, clean those up and additionally clean data integrity issues from a knife-ec-backup object based backup!
 - [ikurochkin/uptimeday-3-2018](https://github.com/ikurochkin/uptimeday-3-2018) - Конспект докладов на Uptimeday-3 2018
 - [uber/astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
 - [pulumi/tf12-vs-pulumi](https://github.com/pulumi/tf12-vs-pulumi) - A collection of HCL2 examples, rewritten to Pulumi
 - [realgenekim/devopshandbook_endnotes](https://github.com/realgenekim/devopshandbook_endnotes) - Endnotes and citations to The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois and John Willis
-- [devopsenterprise/2017-london](https://github.com/devopsenterprise/2017-london) - June 5-6, 2017 London
-- [devopsenterprise/2017-San-Francisco](https://github.com/devopsenterprise/2017-San-Francisco) - November 13–15, 2017
+- [devopsenterprise/2017-london](https://github.com/devopsenterprise/2017-london) - DevOps Enterprise Summit 2017 - London
+- [devopsenterprise/2017-San-Francisco](https://github.com/devopsenterprise/2017-San-Francisco) - DevOps Enterprise Summit 2017 - San Francisco
 - [devopsenterprise/2018-London](https://github.com/devopsenterprise/2018-London) - DevOps Enterprise Summit, London, June 25-26, 2018
 - [botchagalupe/my-presentations](https://github.com/botchagalupe/my-presentations) - 
 - [awslabs/aws-config-rules](https://github.com/awslabs/aws-config-rules) - [Node, Python, Java] Repository of sample Custom Rules for AWS Config.
