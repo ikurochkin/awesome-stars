@@ -8103,6 +8103,7 @@
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [OpenVoxProject/planning](https://github.com/OpenVoxProject/planning) - Planning and roadmap for the OpenPuppet project
 - [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越技术布道师列表
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit) - Toolkit for cloud-native application lifecycle management
@@ -11361,7 +11362,6 @@
 - [ShopifyEng/Culture](https://github.com/ShopifyEng/Culture) - Shopify Engineering - Culture - An empowering culture is the product of great people, strong values, and diversity.
 - [Optimal-AI/Culture](https://github.com/Optimal-AI/Culture) - Tara's engineering culture documents
 - [patsevanton/russian-conferences-articles](https://github.com/patsevanton/russian-conferences-articles) - Коллективная расшифровка видеодокладов c Российских конференций, митапов в статьи
-- [OpenVoxProject/planning](https://github.com/OpenVoxProject/planning) - Planning and roadmap for the OpenPuppet project
 - [cresta/atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) - Detect terraform drift in atlantis
 - [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
 - [NTCoding/prod-domain-biz-arch-building-blocks](https://github.com/NTCoding/prod-domain-biz-arch-building-blocks) - Product & Domain-Oriented Business Architecture Building Blocks
