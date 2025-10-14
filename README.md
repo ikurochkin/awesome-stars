@@ -8209,10 +8209,12 @@
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
 - [chef/cookstyle](https://github.com/chef/cookstyle) - A linting tool that helps you to write better Chef Infra cookbooks and InSpec profiles by detecting and automatically correcting style, syntax, and logic mistakes in your code.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+- [checkmake/checkmake](https://github.com/checkmake/checkmake) - Linter/analyzer for Makefiles
 - [test-kitchen/kitchen-dokken](https://github.com/test-kitchen/kitchen-dokken) - Test Kitchen driver/provisioner for lightning faster Chef Infra cookbook testing with Docker
 - [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker) - A Test Kitchen Driver for Docker
 - [express42/ansible-repertory](https://github.com/express42/ansible-repertory) - 
 - [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined efficient comprehensive set of checks for your entire Puppet code and data
+- [goadesign/goa](https://github.com/goadesign/goa) - Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [chef-cookbooks/chef-ingredient](https://github.com/chef-cookbooks/chef-ingredient) - Primitives for managing Chef products and packages
@@ -11343,6 +11345,7 @@
 
 ## others 
 
+- [resiliencefoundations/resiliencefoundations.github.io](https://github.com/resiliencefoundations/resiliencefoundations.github.io) - 
 - [devopsenterprise/2025-las-vegas](https://github.com/devopsenterprise/2025-las-vegas) - Enterprise Technology Leadership Summit Las Vegas 2025 Slides
 - [google/oss-rebuild](https://github.com/google/oss-rebuild) - Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
 - [CommonPaper/SLA](https://github.com/CommonPaper/SLA) - Common Paper Service Level Agreement
