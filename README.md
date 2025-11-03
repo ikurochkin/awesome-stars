@@ -643,6 +643,7 @@
 - [devtool](#devtool)
 - [devtools](#devtools)
 - [dhcp](#dhcp)
+- [diagnostics](#diagnostics)
 - [diagram](#diagram)
 - [diagram-as-code](#diagram-as-code)
 - [diagramming](#diagramming)
@@ -1208,6 +1209,7 @@
 - [kubectl](#kubectl)
 - [kubectl-plugins](#kubectl-plugins)
 - [kubernetes](#kubernetes)
+- [kubernetes-addons](#kubernetes-addons)
 - [kubernetes-cli](#kubernetes-cli)
 - [kubernetes-cluster](#kubernetes-cluster)
 - [kubernetes-clusters](#kubernetes-clusters)
@@ -1428,6 +1430,7 @@
 - [mssql](#mssql)
 - [multi-agent-systems](#multi-agent-systems)
 - [multi-cloud](#multi-cloud)
+- [multi-cluster](#multi-cluster)
 - [multi-language](#multi-language)
 - [multi-platform](#multi-platform)
 - [multiagent](#multiagent)
@@ -3121,7 +3124,7 @@
 
 ## attestation 
 
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 
 ## audit 
 
@@ -4296,6 +4299,7 @@
 
 ## cli 
 
+- [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
@@ -4438,6 +4442,7 @@
 
 ## cloud-native 
 
+- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [notaryproject/notation](https://github.com/notaryproject/notation) - A CLI tool to sign and verify artifacts
 - [cloud-native-principles/cloud-native-principles](https://github.com/cloud-native-principles/cloud-native-principles) - 
 - [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
@@ -4811,7 +4816,7 @@
 ## compliance 
 
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
@@ -5415,7 +5420,7 @@
 
 ## cyclonedx 
 
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
@@ -5460,6 +5465,7 @@
 
 ## dashboard 
 
+- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [oss-compass/compass-web](https://github.com/oss-compass/compass-web) - Frontend project for the OSS Compass
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [mntnr/dashboard](https://github.com/mntnr/dashboard) - A status board for repositories within a GitHub organization.
@@ -6172,7 +6178,7 @@
 
 ## devsecops 
 
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [Threagile/threagile](https://github.com/Threagile/threagile) - Agile Threat Modeling Toolkit
@@ -6200,6 +6206,10 @@
 ## dhcp 
 
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
+
+## diagnostics 
+
+- [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 
 ## diagram 
 
@@ -8194,7 +8204,6 @@
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) - Gamified Chaos Engineering Tool for Kubernetes
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
@@ -8579,6 +8588,7 @@
 
 ## http 
 
+- [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [eabykov/monitor-monitoring](https://github.com/eabykov/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
@@ -8597,6 +8607,7 @@
 
 ## http2 
 
+- [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [apache/trafficserver](https://github.com/apache/trafficserver) - Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.
 
 ## http3 
@@ -9404,6 +9415,7 @@
 
 ## kubernetes 
 
+- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [notaryproject/notation](https://github.com/notaryproject/notation) - A CLI tool to sign and verify artifacts
 - [natrontech/kubelab](https://github.com/natrontech/kubelab) - Experience Kubernetes Mastery Through Practice
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
@@ -9504,6 +9516,10 @@
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [zendesk/samson](https://github.com/zendesk/samson) - Web interface for deployments, with plugin architecture and kubernetes support
+
+## kubernetes-addons 
+
+- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 
 ## kubernetes-cli 
 
@@ -9713,7 +9729,7 @@
 
 ## license 
 
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 
 ## license-management 
@@ -10608,6 +10624,8 @@
 
 ## monitoring 
 
+- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
+- [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
@@ -10701,6 +10719,10 @@
 ## multi-cloud 
 
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
+
+## multi-cluster 
+
+- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 
 ## multi-language 
 
@@ -10841,6 +10863,7 @@
 
 ## networking 
 
+- [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [cloud-native-principles/cloud-native-principles](https://github.com/cloud-native-principles/cloud-native-principles) - 
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
@@ -11231,7 +11254,7 @@
 
 ## open-source-licensing 
 
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 
 ## open-source-management 
@@ -11418,7 +11441,7 @@
 
 ## ospo 
 
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
@@ -11435,7 +11458,7 @@
 
 ## oss-compliance 
 
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 
 ## ossf 
@@ -12447,6 +12470,7 @@
 
 ## performance 
 
+- [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
 - [yegor256/cobench](https://github.com/yegor256/cobench) - Coders Benchmarking Script: automatically collects productivity metrics from a team of GitHub contributors
 - [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
@@ -12864,6 +12888,7 @@
 
 ## profiling 
 
+- [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
 - [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
 
@@ -12929,6 +12954,7 @@
 
 ## prometheus 
 
+- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
@@ -13706,6 +13732,7 @@
 
 ## rich 
 
+- [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 
 ## riemann 
@@ -13961,7 +13988,7 @@
 
 ## sbom 
 
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
@@ -14135,7 +14162,7 @@
 
 ## security 
 
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) - Github Action implementation of SLSA Provenance Generation
@@ -14685,7 +14712,7 @@
 
 ## spdx 
 
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The System Package Data Exchange (SPDX) specification in Markdown and HTML formats.
@@ -15059,7 +15086,7 @@
 
 ## supply-chain-security 
 
-- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
+- [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 
 ## support 
 
@@ -15742,6 +15769,7 @@
 
 ## tls 
 
+- [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 
 ## todo 
@@ -16223,6 +16251,7 @@
 
 ## visualization 
 
+- [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
