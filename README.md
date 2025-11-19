@@ -2007,6 +2007,7 @@
 - [soundcloud](#soundcloud)
 - [source-code-analysis](#source-code-analysis)
 - [spa](#spa)
+- [spacebar](#spacebar)
 - [spanner](#spanner)
 - [spdx](#spdx)
 - [spec](#spec)
@@ -2504,6 +2505,7 @@
 
 ## agents 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -2526,6 +2528,7 @@
 
 ## ai 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -10271,6 +10274,7 @@
 
 ## mcp 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
@@ -11488,6 +11492,13 @@
 
 ## others 
 
+- [den-vasyliev/aire](https://github.com/den-vasyliev/aire) - AI Reliability Engineering (AIRE).
+- [MERA-Evaluation/MERA](https://github.com/MERA-Evaluation/MERA) - MERA (Multimodal Evaluation for Russian-language Architectures) is a new open benchmark for the Russian language for evaluating SOTA models.
+- [MERA-Evaluation/MERA_CODE](https://github.com/MERA-Evaluation/MERA_CODE) - MERA Code — the first comprehensive open benchmark for evaluating large language models (LLMs) in applied programming tasks in Russian.
+- [eferro/augmentedcode-configuration](https://github.com/eferro/augmentedcode-configuration) - 
+- [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices
+- [presence-calculus/samplepath](https://github.com/presence-calculus/samplepath) - Sample path analysis for flow processes
+- [xPOURY4/CodeCraft-Architect](https://github.com/xPOURY4/CodeCraft-Architect) - AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices
 - [bdfinst/interactive-cd](https://github.com/bdfinst/interactive-cd) - Interactive CD dependency diagram
 - [mgreiler/awesome-code-review-research](https://github.com/mgreiler/awesome-code-review-research) - 
 - [Azure/opendigitaltwins-dtdl](https://github.com/Azure/opendigitaltwins-dtdl) - Digital Twins Definition Language
@@ -12003,7 +12014,6 @@
 - [rapidloop/rtop-bot](https://github.com/rapidloop/rtop-bot) - A Bot for Remote Server Monitoring over SSH
 - [n0rad/jmx-zabbix](https://github.com/n0rad/jmx-zabbix) - Service that load jmx metrics periodically and push to zabbix in one shot
 - [q1x/zabbix-gnomes](https://github.com/q1x/zabbix-gnomes) - Various scripts to automate tasks in Zabbix
-- [tech-sketch/hyclops](https://github.com/tech-sketch/hyclops) - HyClops is Zabbix extension tool.
 - [aws/opsworks-cookbooks](https://github.com/aws/opsworks-cookbooks) - Chef Cookbooks for the AWS OpsWorks Service
 - [djosephsen/lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework for Slack in Go
 - [sensu/sensu-chef](https://github.com/sensu/sensu-chef) - Sensu Chef cookbook.
@@ -13942,6 +13952,7 @@
 
 ## rust 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -14729,6 +14740,10 @@
 ## spa 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+
+## spacebar 
+
+- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 
 ## spanner 
 
