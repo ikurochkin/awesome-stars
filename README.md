@@ -1284,7 +1284,6 @@
 - [llamacpp](#llamacpp)
 - [llm](#llm)
 - [llm-gateway](#llm-gateway)
-- [llm-ops](#llm-ops)
 - [llm-ui](#llm-ui)
 - [llm-webui](#llm-webui)
 - [llmops](#llmops)
@@ -9934,10 +9933,6 @@
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 
 ## llm-gateway 
-
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
-
-## llm-ops 
 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 
