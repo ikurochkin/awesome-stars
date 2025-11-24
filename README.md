@@ -1405,6 +1405,7 @@
 - [moby](#moby)
 - [mocking](#mocking)
 - [mocks](#mocks)
+- [model](#model)
 - [modelica](#modelica)
 - [modelica-library](#modelica-library)
 - [modeling](#modeling)
@@ -2527,6 +2528,7 @@
 
 ## ai 
 
+- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artifacial Intelligence Model Format Specification
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -10572,6 +10574,10 @@
 
 - [lamoda/gonkey](https://github.com/lamoda/gonkey) - Gonkey - a testing automation tool
 
+## model 
+
+- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artifacial Intelligence Model Format Specification
+
 ## modelica 
 
 - [bslMS/BusinessSimulation](https://github.com/bslMS/BusinessSimulation) - Dynamic modeling for business, economics, and ecology using the system dynamics approach
@@ -11168,6 +11174,7 @@
 
 ## oci 
 
+- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artifacial Intelligence Model Format Specification
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
@@ -11487,6 +11494,10 @@
 
 ## others 
 
+- [ossf/security-assessments](https://github.com/ossf/security-assessments) - 
+- [Cloud-Native-Platform-Engineering/cnpe-community](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community) - 📨🚚Cloud Native Platform Engineering Community
+- [chrisgallivan123/shift-happens](https://github.com/chrisgallivan123/shift-happens) - 
+- [Financial-Times/engineering-progression](https://github.com/Financial-Times/engineering-progression) - Careers and progression for staff members in the Technology organisation at the FT.
 - [den-vasyliev/aire](https://github.com/den-vasyliev/aire) - AI Reliability Engineering (AIRE).
 - [MERA-Evaluation/MERA](https://github.com/MERA-Evaluation/MERA) - MERA (Multimodal Evaluation for Russian-language Architectures) is a new open benchmark for the Russian language for evaluating SOTA models.
 - [MERA-Evaluation/MERA_CODE](https://github.com/MERA-Evaluation/MERA_CODE) - MERA Code — the first comprehensive open benchmark for evaluating large language models (LLMs) in applied programming tasks in Russian.
@@ -14764,6 +14775,7 @@
 
 ## specification 
 
+- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artifacial Intelligence Model Format Specification
 - [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The System Package Data Exchange (SPDX) specification in Markdown and HTML formats.
 - [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
