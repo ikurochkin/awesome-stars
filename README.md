@@ -906,6 +906,7 @@
 - [git-database](#git-database)
 - [git-for-data](#git-for-data)
 - [git-hooks](#git-hooks)
+- [git-statistics](#git-statistics)
 - [gitbook](#gitbook)
 - [github](#github)
 - [github-action](#github-action)
@@ -1426,6 +1427,7 @@
 - [monitoring](#monitoring)
 - [monitoring-tool](#monitoring-tool)
 - [monorepo](#monorepo)
+- [monthly-costs](#monthly-costs)
 - [motivation](#motivation)
 - [mp4](#mp4)
 - [mpp](#mpp)
@@ -1550,6 +1552,7 @@
 - [opensuse](#opensuse)
 - [opentelemetry](#opentelemetry)
 - [opentofu](#opentofu)
+- [opentsdb](#opentsdb)
 - [openvpn](#openvpn)
 - [openzipkin](#openzipkin)
 - [operations](#operations)
@@ -2164,6 +2167,7 @@
 - [terraform-aws](#terraform-aws)
 - [terraform-cloud](#terraform-cloud)
 - [terraform-configurations](#terraform-configurations)
+- [terraform-cost-estimation](#terraform-cost-estimation)
 - [terraform-gcp](#terraform-gcp)
 - [terraform-github-actions](#terraform-github-actions)
 - [terraform-modules](#terraform-modules)
@@ -7582,6 +7586,10 @@
 
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 
+## git-statistics 
+
+- [n0rfas/git-analytics](https://github.com/n0rfas/git-analytics) - Advanced analytics for Git repositories — commits, authors, code churn, lines of code, trends, and visual dashboards.
+
 ## gitbook 
 
 - [egoist/docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
@@ -10735,6 +10743,10 @@
 - [mbtproject/mbt](https://github.com/mbtproject/mbt) - The most flexible build tool for monorepo
 - [travis-ci/travis-cookbooks](https://github.com/travis-ci/travis-cookbooks) - Chef cookbook monolithic repo :book: :bomb:
 
+## monthly-costs 
+
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+
 ## motivation 
 
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
@@ -11425,6 +11437,10 @@
 - [terrakube-io/terrakube](https://github.com/terrakube-io/terrakube) - Open source IaC Automation and Collaboration Software.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 
+## opentsdb 
+
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+
 ## openvpn 
 
 - [express42/knife-openvpn](https://github.com/express42/knife-openvpn) - A knife plugin for Express 42 openvpn cookbook
@@ -11527,7 +11543,7 @@
 - [MERA-Evaluation/MERA_CODE](https://github.com/MERA-Evaluation/MERA_CODE) - MERA Code — the first comprehensive open benchmark for evaluating large language models (LLMs) in applied programming tasks in Russian.
 - [eferro/augmentedcode-configuration](https://github.com/eferro/augmentedcode-configuration) - 
 - [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices
-- [presence-calculus/samplepath](https://github.com/presence-calculus/samplepath) - Sample path analysis for flow processes
+- [presence-calculus/samplepath](https://github.com/presence-calculus/samplepath) - Applying Little's Law to analyze flow and process dynamics in complex adaptive systems.
 - [xPOURY4/CodeCraft-Architect](https://github.com/xPOURY4/CodeCraft-Architect) - AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices
 - [bdfinst/interactive-cd](https://github.com/bdfinst/interactive-cd) - Interactive CD dependency diagram
 - [mgreiler/awesome-code-review-research](https://github.com/mgreiler/awesome-code-review-research) - 
@@ -15619,6 +15635,10 @@
 
 - [shihanng/tfvar](https://github.com/shihanng/tfvar) - Terraform's variable definitions template generator.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+
+## terraform-cost-estimation 
+
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 
 ## terraform-gcp 
 
