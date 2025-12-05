@@ -2074,7 +2074,6 @@
 - [stt](#stt)
 - [study](#study)
 - [study-plan](#study-plan)
-- [style-checker](#style-checker)
 - [style-guide](#style-guide)
 - [style-linter](#style-linter)
 - [styleguide](#styleguide)
@@ -15123,10 +15122,6 @@
 ## study-plan 
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
-## style-checker 
-
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 
 ## style-guide 
 
