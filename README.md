@@ -11533,6 +11533,7 @@
 
 ## others 
 
+- [deckhouse/website-development-platform](https://github.com/deckhouse/website-development-platform) - Website for the Deckhouse Development Platform documentation
 - [ossf/security-assessments](https://github.com/ossf/security-assessments) - 
 - [Cloud-Native-Platform-Engineering/cnpe-community](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community) - 📨🚚Cloud Native Platform Engineering Community
 - [chrisgallivan123/shift-happens](https://github.com/chrisgallivan123/shift-happens) - 
@@ -11554,7 +11555,7 @@
 - [devopsenterprise/2025-las-vegas](https://github.com/devopsenterprise/2025-las-vegas) - Enterprise Technology Leadership Summit Las Vegas 2025 Slides
 - [google/oss-rebuild](https://github.com/google/oss-rebuild) - Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
 - [CommonPaper/SLA](https://github.com/CommonPaper/SLA) - Common Paper Service Level Agreement
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats
 - [Teslow/build-your-x](https://github.com/Teslow/build-your-x) - 🤓 Build your own (insert technology here)
 - [BenMorris/NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.
