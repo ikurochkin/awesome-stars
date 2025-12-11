@@ -11552,7 +11552,6 @@
 
 - [deckhouse/website-development-platform](https://github.com/deckhouse/website-development-platform) - Website for the Deckhouse Development Platform documentation
 - [ossf/security-assessments](https://github.com/ossf/security-assessments) - 
-- [Cloud-Native-Platform-Engineering/cnpe-community](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community) - 📨🚚Cloud Native Platform Engineering Community
 - [chrisgallivan123/shift-happens](https://github.com/chrisgallivan123/shift-happens) - 
 - [Financial-Times/engineering-progression](https://github.com/Financial-Times/engineering-progression) - Careers and progression for staff members in the Technology organisation at the FT.
 - [den-vasyliev/aire](https://github.com/den-vasyliev/aire) - AI Reliability Engineering (AIRE).
@@ -12672,6 +12671,7 @@
 
 ## platform-engineering 
 
+- [Cloud-Native-Platform-Engineering/cnpe-community](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community) - 📨🚚Cloud Native Platform Engineering Community
 - [cnoe-io/ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering) - CAIPE: Community AI Platform Engineering Multi-Agent Systems
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
