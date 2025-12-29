@@ -11573,6 +11573,8 @@
 
 ## others 
 
+- [Jet-Security-Team/DevSecOps-Assessment-Framework-ENG](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework-ENG) - DevSecOps Assessment Framework ENG
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 - [stevemcghee/go-to-production](https://github.com/stevemcghee/go-to-production) - a simple todo app, but with not-simple reliability added
 - [kazhuravlev/obsidian-github](https://github.com/kazhuravlev/obsidian-github) - Plugin that fetch your github stars into notes
