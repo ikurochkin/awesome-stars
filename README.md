@@ -2198,6 +2198,7 @@
 - [text-to-diagram](#text-to-diagram)
 - [text2sql](#text2sql)
 - [tflint](#tflint)
+- [tftp](#tftp)
 - [thanos](#thanos)
 - [theforeman](#theforeman)
 - [theme](#theme)
@@ -11573,6 +11574,7 @@
 
 ## others 
 
+- [NTCoding/claude-skillz](https://github.com/NTCoding/claude-skillz) - Random Claude skills for common, simple programming tasks
 - [Jet-Security-Team/DevSecOps-Assessment-Framework-ENG](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework-ENG) - DevSecOps Assessment Framework ENG
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
@@ -15838,6 +15840,10 @@
 ## tflint 
 
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
+
+## tftp 
+
+- [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 
 ## thanos 
 
