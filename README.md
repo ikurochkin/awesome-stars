@@ -444,6 +444,7 @@
 - [content](#content)
 - [content-marketing](#content-marketing)
 - [content-strategy](#content-strategy)
+- [context-window](#context-window)
 - [continous-delivery](#continous-delivery)
 - [continous-deployment](#continous-deployment)
 - [continuous-delivery](#continuous-delivery)
@@ -5072,6 +5073,10 @@
 ## content-strategy 
 
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
+
+## context-window 
+
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
 ## continous-delivery 
 
@@ -11602,7 +11607,7 @@
 - [devopsenterprise/2025-las-vegas](https://github.com/devopsenterprise/2025-las-vegas) - Enterprise Technology Leadership Summit Las Vegas 2025 Slides
 - [google/oss-rebuild](https://github.com/google/oss-rebuild) - Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
 - [CommonPaper/SLA](https://github.com/CommonPaper/SLA) - Common Paper Service Level Agreement
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [Cyb3r-Jak3/atlas-stats-exporter](https://github.com/Cyb3r-Jak3/atlas-stats-exporter) - Promethues exporter for RIPE atlas stats
 - [Teslow/build-your-x](https://github.com/Teslow/build-your-x) - 🤓 Build your own (insert technology here)
 - [BenMorris/NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.
@@ -11639,7 +11644,7 @@
 - [lad-tech/lad-tech.github.io](https://github.com/lad-tech/lad-tech.github.io) - Техрадар компании
 - [scottydocs/README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
 - [Engineer-Petr/Engineer-Petr.github.io](https://github.com/Engineer-Petr/Engineer-Petr.github.io) - Companies that relocate Software Engineers from Russia, Belarus and Ukraine
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [jolle/miro-export](https://github.com/jolle/miro-export) - Export Miro boards or frames as SVGs
 - [andrewharmellaw/facilitating-software-architecture](https://github.com/andrewharmellaw/facilitating-software-architecture) - Materials associated with my book "Facilitating Software Architecture"
 - [nilsbert/Dependency-Discovery-Deck](https://github.com/nilsbert/Dependency-Discovery-Deck) - A Card Game to support Dependency Detection for Scaled Agile SetUps like SAFe
