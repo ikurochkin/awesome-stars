@@ -11579,6 +11579,7 @@
 
 ## others 
 
+- [cncf/radar](https://github.com/cncf/radar) - CNCF Tech Radar
 - [NTCoding/claude-skillz](https://github.com/NTCoding/claude-skillz) - Random Claude skills for common, simple programming tasks
 - [Jet-Security-Team/DevSecOps-Assessment-Framework-ENG](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework-ENG) - DevSecOps Assessment Framework ENG
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
