@@ -32,13 +32,11 @@
 - [agile-development](#agile-development)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
-- [ai-agents-framework](#ai-agents-framework)
 - [ai-chat](#ai-chat)
 - [ai-gateway](#ai-gateway)
 - [ai-project](#ai-project)
 - [ai-search](#ai-search)
 - [ai-search-engine](#ai-search-engine)
-- [aiagentframework](#aiagentframework)
 - [aiops](#aiops)
 - [airgap](#airgap)
 - [airsim](#airsim)
@@ -1240,6 +1238,7 @@
 - [landing-zone](#landing-zone)
 - [landscape](#landscape)
 - [langchain](#langchain)
+- [langgraph](#langgraph)
 - [language](#language)
 - [language-model](#language-model)
 - [language-server](#language-server)
@@ -2582,10 +2581,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
-## ai-agents-framework 
-
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-
 ## ai-chat 
 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -2606,10 +2601,6 @@
 ## ai-search-engine 
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-
-## aiagentframework 
-
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## aiops 
 
@@ -9707,6 +9698,10 @@
 - [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
+## langgraph 
+
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+
 ## language 
 
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
@@ -11579,6 +11574,8 @@
 
 ## others 
 
+- [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
+- [NTCoding/legacy-modernization-io](https://github.com/NTCoding/legacy-modernization-io) - legacy-modernization.io
 - [cncf/radar](https://github.com/cncf/radar) - CNCF Tech Radar
 - [NTCoding/claude-skillz](https://github.com/NTCoding/claude-skillz) - Random Claude skills for common, simple programming tasks
 - [Jet-Security-Team/DevSecOps-Assessment-Framework-ENG](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework-ENG) - DevSecOps Assessment Framework ENG
