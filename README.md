@@ -11740,7 +11740,7 @@
 - [linkedin/dph-framework](https://github.com/linkedin/dph-framework) - 
 - [Doubling-Open-Source/git_calculator](https://github.com/Doubling-Open-Source/git_calculator) - Calculate dora metrics and related from a git repository on the local file system. Does not require integration with GitHub or any other git service provider.
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev: Dev All through LLM-powered Multi-Agent Collaboration
 - [telegram-ru/devops_chats](https://github.com/telegram-ru/devops_chats) - Repository of DevOps (RUS) chats in Telegram
 - [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
 - [jakubnabrdalik/architecture-guild](https://github.com/jakubnabrdalik/architecture-guild) - An example of an Architecture Guild repository
