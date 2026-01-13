@@ -588,6 +588,7 @@
 - [deep-learning](#deep-learning)
 - [deep-neural-networks](#deep-neural-networks)
 - [deep-reinforcement-learning](#deep-reinforcement-learning)
+- [deepagents](#deepagents)
 - [deeplearning](#deeplearning)
 - [deepseek](#deepseek)
 - [delivery-pipeline](#delivery-pipeline)
@@ -4961,7 +4962,7 @@
 ## configuration 
 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 
 ## configuration-as-code 
@@ -4970,7 +4971,7 @@
 
 ## configuration-language 
 
-- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 
 ## configuration-management 
 
@@ -5835,6 +5836,10 @@
 ## deep-reinforcement-learning 
 
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+
+## deepagents 
+
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## deeplearning 
 
@@ -8898,7 +8903,7 @@
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
-- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
@@ -11047,7 +11052,7 @@
 
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
-- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 
 ## nix-darwin 
 
@@ -14092,7 +14097,7 @@
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
-- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
