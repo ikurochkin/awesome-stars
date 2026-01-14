@@ -11597,6 +11597,8 @@
 
 ## others 
 
+- [get-dx/dx-mcp-server](https://github.com/get-dx/dx-mcp-server) - 
+- [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository
 - [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
