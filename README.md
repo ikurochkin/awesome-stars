@@ -8367,7 +8367,6 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [chef-cookbooks/chef-ingredient](https://github.com/chef-cookbooks/chef-ingredient) - Primitives for managing Chef products and packages
-- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [chef/supermarket](https://github.com/chef/supermarket) - Chef's community platform
 - [go-graphite/go-carbon](https://github.com/go-graphite/go-carbon) - Golang implementation of Graphite/Carbon server with classic architecture: Agent -&gt; Cache -&gt; Persister
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
