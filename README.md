@@ -1221,14 +1221,18 @@
 - [kubernetes-cli](#kubernetes-cli)
 - [kubernetes-cluster](#kubernetes-cluster)
 - [kubernetes-clusters](#kubernetes-clusters)
+- [kubernetes-dashboard](#kubernetes-dashboard)
+- [kubernetes-debugging](#kubernetes-debugging)
 - [kubernetes-deployment](#kubernetes-deployment)
 - [kubernetes-distribution](#kubernetes-distribution)
 - [kubernetes-ingress](#kubernetes-ingress)
 - [kubernetes-ingress-controller](#kubernetes-ingress-controller)
+- [kubernetes-monitoring](#kubernetes-monitoring)
 - [kubernetes-security](#kubernetes-security)
 - [kubernetes-setup](#kubernetes-setup)
 - [kubernetes-sig](#kubernetes-sig)
 - [kubernetes-tools](#kubernetes-tools)
+- [kubernetes-ui](#kubernetes-ui)
 - [kubespray](#kubespray)
 - [kubevirt](#kubevirt)
 - [kustomize](#kustomize)
@@ -4473,6 +4477,7 @@
 
 ## cloud-native 
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [notaryproject/notation](https://github.com/notaryproject/notation) - A CLI tool to sign and verify artifacts
 - [cloud-native-principles/cloud-native-principles](https://github.com/cloud-native-principles/cloud-native-principles) - 
@@ -5322,7 +5327,7 @@
 
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
-- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
+- [dkron-io/dkron](https://github.com/dkron-io/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 
 ## cron-jobs 
 
@@ -5501,6 +5506,7 @@
 
 ## dashboard 
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [oss-compass/compass-web](https://github.com/oss-compass/compass-web) - Frontend project for the OSS Compass
@@ -5797,6 +5803,7 @@
 
 ## debugging 
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [danluu/debugging-stories](https://github.com/danluu/debugging-stories) - A collection of debugging stories. PRs welcome (sorry for the backlog) :-)
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [mhausenblas/cinf](https://github.com/mhausenblas/cinf) - Command line tool to view namespaces and cgroups, useful for low-level container prodding
@@ -6082,6 +6089,7 @@
 
 ## devops 
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
 - [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
@@ -6368,7 +6376,7 @@
 - [dastergon/CardsAgainstReliability](https://github.com/dastergon/CardsAgainstReliability) - A party card game for engineers caring about reliability. Based on Cards Against Humanity.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
-- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
+- [dkron-io/dkron](https://github.com/dkron-io/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 
 ## distributed-tracing 
 
@@ -7110,7 +7118,7 @@
 
 ## fault-tolerance 
 
-- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
+- [dkron-io/dkron](https://github.com/dkron-io/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 
 ## feature 
 
@@ -9340,6 +9348,7 @@
 
 ## k8s 
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
 - [epam/edp-install](https://github.com/epam/edp-install) - Start from the KubeRocketCI (a.k.a. EPAM Delivery Platform) main page. This repository contains the Helm Chart templates that describe the installation of the main configuration (e.g. database registr
@@ -9502,6 +9511,7 @@
 
 ## kubernetes 
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [notaryproject/notation](https://github.com/notaryproject/notation) - A CLI tool to sign and verify artifacts
@@ -9624,6 +9634,14 @@
 
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
+## kubernetes-dashboard 
+
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+
+## kubernetes-debugging 
+
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+
 ## kubernetes-deployment 
 
 - [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructi
@@ -9639,6 +9657,10 @@
 ## kubernetes-ingress-controller 
 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+
+## kubernetes-monitoring 
+
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 
 ## kubernetes-security 
 
@@ -9656,6 +9678,10 @@
 ## kubernetes-tools 
 
 - [Aracki/toolnetes](https://github.com/Aracki/toolnetes) - 🔧 Collection of miscellaneous Kubernetes tools and articles.
+
+## kubernetes-ui 
+
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 
 ## kubespray 
 
@@ -11544,6 +11570,7 @@
 
 ## orchestration 
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
@@ -11597,6 +11624,8 @@
 
 ## others 
 
+- [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
+- [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [get-dx/dx-mcp-server](https://github.com/get-dx/dx-mcp-server) - 
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -12798,6 +12827,7 @@
 
 ## plugins 
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## png 
@@ -13079,6 +13109,7 @@
 
 ## programming-language 
 
+- [rue-language/rue](https://github.com/rue-language/rue) - A programming language that is higher level than Rust but lower level than Go. Someday, anyways.
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
@@ -14215,7 +14246,7 @@
 
 ## scheduled-jobs 
 
-- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
+- [dkron-io/dkron](https://github.com/dkron-io/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 
 ## scheduler 
 
