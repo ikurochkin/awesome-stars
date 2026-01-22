@@ -2136,6 +2136,7 @@
 - [system-dynamics](#system-dynamics)
 - [system-monitoring](#system-monitoring)
 - [systems](#systems)
+- [systems-thinking](#systems-thinking)
 - [t3-stack](#t3-stack)
 - [tabletop](#tabletop)
 - [tabletop-simulator](#tabletop-simulator)
@@ -11892,7 +11893,6 @@
 - [TeamTopologies/Team-Dependencies-Tracking](https://github.com/TeamTopologies/Team-Dependencies-Tracking) - Suggested tools and approaches to track team dependencies in an organization
 - [finopsfoundation/framework](https://github.com/finopsfoundation/framework) - A FinOps community-driven framework for building best practices, sharing stories, and strengthening the discipline.
 - [joatmon08/tdd-infrastructure](https://github.com/joatmon08/tdd-infrastructure) - Some examples of Test-Driven Development for Infrastructure
-- [lethain/systems](https://github.com/lethain/systems) - systems is a set of tools for describing, running and visualizing systems diagrams.
 - [mnaoumov/obsidian-linter](https://github.com/mnaoumov/obsidian-linter) - An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.
 - [etsy/DebriefingFacilitationGuide](https://github.com/etsy/DebriefingFacilitationGuide) - Leading Groups at Etsy to Learn From Accidents
 - [cutenode/1x.engineer](https://github.com/cutenode/1x.engineer) - The official website of 1x Engineers around the world
@@ -15484,6 +15484,11 @@
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+
+## systems-thinking 
+
+- [AJamesPhillips/DataCurator](https://github.com/AJamesPhillips/DataCurator) - DataCurator enables you to map and understand complex systems before helping you plan, communicate and navigate successful interventions in them.
+- [lethain/systems](https://github.com/lethain/systems) - systems is a set of tools for describing, running and visualizing systems diagrams.
 
 ## t3-stack 
 
