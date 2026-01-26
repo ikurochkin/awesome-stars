@@ -327,6 +327,8 @@
 - [circuit-breaker](#circuit-breaker)
 - [claude](#claude)
 - [claude-ai](#claude-ai)
+- [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [clean-architecture](#clean-architecture)
 - [cli](#cli)
 - [cli-app](#cli-app)
@@ -997,6 +999,7 @@
 - [grid](#grid)
 - [groovy](#groovy)
 - [grpc](#grpc)
+- [gtd](#gtd)
 - [gui](#gui)
 - [guidebook](#guidebook)
 - [guidelines](#guidelines)
@@ -1029,6 +1032,7 @@
 - [health-check](#health-check)
 - [healthcheck](#healthcheck)
 - [heartbeat](#heartbeat)
+- [helix](#helix)
 - [helm](#helm)
 - [helm-plugin](#helm-plugin)
 - [helm-plugins](#helm-plugins)
@@ -1244,6 +1248,7 @@
 - [labs](#labs)
 - [lakehouse](#lakehouse)
 - [lambda](#lambda)
+- [lan](#lan)
 - [landing-zone](#landing-zone)
 - [landscape](#landscape)
 - [langchain](#langchain)
@@ -1325,6 +1330,7 @@
 - [low-level](#low-level)
 - [lowcode](#lowcode)
 - [lsp](#lsp)
+- [lsp-server](#lsp-server)
 - [lua](#lua)
 - [lvs](#lvs)
 - [lyft](#lyft)
@@ -1428,6 +1434,7 @@
 - [modular-monolith](#modular-monolith)
 - [modular-monoliths](#modular-monoliths)
 - [module](#module)
+- [modules](#modules)
 - [molecule](#molecule)
 - [moleculer](#moleculer)
 - [money](#money)
@@ -1465,6 +1472,7 @@
 - [natural-language-processing](#natural-language-processing)
 - [nearest-neighbor-search](#nearest-neighbor-search)
 - [neo4j](#neo4j)
+- [neovim](#neovim)
 - [ner](#ner)
 - [nessus](#nessus)
 - [nestjs](#nestjs)
@@ -1608,6 +1616,7 @@
 - [pandoc](#pandoc)
 - [paper](#paper)
 - [papers](#papers)
+- [para](#para)
 - [parallels](#parallels)
 - [parallels-desktop](#parallels-desktop)
 - [parser](#parser)
@@ -2205,6 +2214,7 @@
 - [testing-practices](#testing-practices)
 - [testing-tools](#testing-tools)
 - [tex](#tex)
+- [text-editor](#text-editor)
 - [text-processing](#text-processing)
 - [text-to-diagram](#text-to-diagram)
 - [text2sql](#text2sql)
@@ -2419,6 +2429,8 @@
 - [zabbix-api](#zabbix-api)
 - [zabbix-server](#zabbix-server)
 - [zabbix-templates](#zabbix-templates)
+- [zed](#zed)
+- [zettelkasten](#zettelkasten)
 - [zhihu](#zhihu)
 - [zipkin](#zipkin)
 - [zod](#zod)
@@ -3656,6 +3668,7 @@
 
 ## best-practices 
 
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
@@ -4333,6 +4346,14 @@
 
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 
+## claude-code 
+
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+
+## claude-skills 
+
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+
 ## clean-architecture 
 
 - [SaaStacked/saastack](https://github.com/SaaStacked/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
@@ -4341,6 +4362,7 @@
 
 ## cli 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
@@ -6061,6 +6083,7 @@
 
 ## developer-tools 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [microsoft/HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
@@ -6100,6 +6123,7 @@
 
 ## devops 
 
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
@@ -6303,6 +6327,7 @@
 
 ## diff 
 
+- [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
 - [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
@@ -7827,6 +7852,7 @@
 
 ## go 
 
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozontech/seq-db](https://github.com/ozontech/seq-db) - seq-db is a scalable and high-performance database designed for storing and querying logs efficiently
 - [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
@@ -7915,6 +7941,7 @@
 
 ## golang 
 
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozontech/seq-db](https://github.com/ozontech/seq-db) - seq-db is a scalable and high-performance database designed for storing and querying logs efficiently
 - [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
@@ -8140,6 +8167,7 @@
 
 ## graph 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 - [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
@@ -8228,6 +8256,10 @@
 
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [kolide/launcher](https://github.com/kolide/launcher) - Osquery launcher, autoupdater, and packager
+
+## gtd 
+
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 
 ## gui 
 
@@ -8519,6 +8551,10 @@
 ## heartbeat 
 
 - [bronumski/HealthNet](https://github.com/bronumski/HealthNet) - .Net health check endpoint
+
+## helix 
+
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 
 ## helm 
 
@@ -8938,6 +8974,7 @@
 
 ## infrastructure-as-code 
 
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [oleg-nenashev/workshop-aws-mocks-as-code](https://github.com/oleg-nenashev/workshop-aws-mocks-as-code) - Demo for the Infrastructure-as-Code in Java, with AWS/Localstack, Testcontainers and WireMock
@@ -9495,6 +9532,7 @@
 
 ## knowledge-management 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [NickVolynkin/ritfest18-knowledge-management](https://github.com/NickVolynkin/ritfest18-knowledge-management) - Польза от управления знаниями в компании
 
@@ -9738,6 +9776,10 @@
 - [humank/ddd-practitioners-ref](https://github.com/humank/ddd-practitioners-ref) - EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.
 - [ks888/LambStatus](https://github.com/ks888/LambStatus) - [Maintenance mode] Serverless Status Page System
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+
+## lan 
+
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 
 ## landing-zone 
 
@@ -10189,8 +10231,13 @@
 
 ## lsp 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - Generate interactive call graphs for various languages
+
+## lsp-server 
+
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 
 ## lua 
 
@@ -10339,6 +10386,7 @@
 
 ## markdown 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -10735,6 +10783,10 @@
 - [puppetlabs-toy-chest/puppetlabs-openstack](https://github.com/puppetlabs-toy-chest/puppetlabs-openstack) - Puppet Labs Reference and Testing Deployment Module for OpenStack (master tracks Kilo)
 - [puppetlabs/puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib) - Puppet Labs Standard Library module
 
+## modules 
+
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+
 ## molecule 
 
 - [lean-delivery/ansible-development-kit](https://github.com/lean-delivery/ansible-development-kit) - Ansible Development Kit (roles development)
@@ -10960,6 +11012,10 @@
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [neo4j-labs/neodash](https://github.com/neo4j-labs/neodash) - NeoDash - a Dashboard Builder for Neo4j
 
+## neovim 
+
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+
 ## ner 
 
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
@@ -10994,6 +11050,7 @@
 
 ## network 
 
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 
@@ -11019,6 +11076,7 @@
 
 ## networking 
 
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [cloud-native-principles/cloud-native-principles](https://github.com/cloud-native-principles/cloud-native-principles) - 
 - [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
@@ -11172,6 +11230,7 @@
 
 ## notes 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [anitsh/til](https://github.com/anitsh/til) - Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.
 - [mgp/book-notes](https://github.com/mgp/book-notes) - Notes from books and other interesting things that I've read. Table of contents at the end 👇
@@ -11536,6 +11595,7 @@
 
 ## opentofu 
 
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
@@ -11642,6 +11702,7 @@
 
 ## others 
 
+- [ContainerSolutions/cloud-native-patterns](https://github.com/ContainerSolutions/cloud-native-patterns) - Cloud Native Patterns
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [get-dx/dx-mcp-server](https://github.com/get-dx/dx-mcp-server) - 
@@ -12574,6 +12635,10 @@
 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
+## para 
+
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+
 ## parallels 
 
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
@@ -12769,6 +12834,7 @@
 
 ## pkm 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 
 ## plantuml 
@@ -13067,6 +13133,7 @@
 
 ## productivity 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [middlewarehq/unwrapped](https://github.com/middlewarehq/unwrapped) - Spotify Wrapped for developers.
 - [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
@@ -14139,6 +14206,7 @@
 
 ## rust 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
@@ -15715,6 +15783,7 @@
 
 ## terraform 
 
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
@@ -15850,6 +15919,7 @@
 
 ## testing 
 
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [qase-tms/QA](https://github.com/qase-tms/QA) - All things Quality Assurance
 - [microsoft/HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
@@ -15906,6 +15976,10 @@
 ## tex 
 
 - [le0pard/postgresql_book](https://github.com/le0pard/postgresql_book) - Book about PostgreSQL (russian)
+
+## text-editor 
+
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 
 ## text-processing 
 
@@ -16221,6 +16295,8 @@
 
 ## tui 
 
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
+- [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -16579,6 +16655,7 @@
 
 ## vscode 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - Generate interactive call graphs for various languages
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -16863,6 +16940,7 @@
 
 ## writing 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
 
@@ -16956,6 +17034,14 @@
 
 - [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 - [monitoringartist/zabbix-community-repos](https://github.com/monitoringartist/zabbix-community-repos) - :memo: 850+ Zabbix community project links: SW/HW/DB templates, scripts, CLIs, integrations, API libraries, modules, configurations, ...
+
+## zed 
+
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+
+## zettelkasten 
+
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 
 ## zhihu 
 
