@@ -1575,6 +1575,7 @@
 - [opentelemetry](#opentelemetry)
 - [opentofu](#opentofu)
 - [opentsdb](#opentsdb)
+- [opentui](#opentui)
 - [openvpn](#openvpn)
 - [openzipkin](#openzipkin)
 - [operations](#operations)
@@ -11613,6 +11614,10 @@
 ## opentsdb 
 
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+
+## opentui 
+
+- [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
 
 ## openvpn 
 
