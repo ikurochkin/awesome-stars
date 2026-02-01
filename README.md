@@ -1930,7 +1930,6 @@
 - [schemas](#schemas)
 - [science](#science)
 - [scientific-software](#scientific-software)
-- [scip-enabled](#scip-enabled)
 - [scm](#scm)
 - [scorecard](#scorecard)
 - [scraper](#scraper)
@@ -2332,6 +2331,7 @@
 - [venv](#venv)
 - [verify](#verify)
 - [version](#version)
+- [version-control](#version-control)
 - [version-controlled-database](#version-controlled-database)
 - [versioning](#versioning)
 - [vertical-slice-architecture](#vertical-slice-architecture)
@@ -14382,10 +14382,6 @@
 
 - [aimclub/OSA](https://github.com/aimclub/OSA) - Tool that just makes your open source project better using LLM agents
 
-## scip-enabled 
-
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-
 ## scm 
 
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -16549,6 +16545,10 @@
 - [semantic-release/changelog](https://github.com/semantic-release/changelog) - :blue_book: semantic-release plugin to create or update a changelog file
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
+
+## version-control 
+
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## version-controlled-database 
 
