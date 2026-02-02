@@ -803,6 +803,7 @@
 - [exfiltration](#exfiltration)
 - [experimentation](#experimentation)
 - [experiments](#experiments)
+- [explainability](#explainability)
 - [express](#express)
 - [expressjs](#expressjs)
 - [extreme-programming](#extreme-programming)
@@ -1010,6 +1011,7 @@
 - [hacking](#hacking)
 - [hacks](#hacks)
 - [hacktoberfest](#hacktoberfest)
+- [hacktoberfest-2025](#hacktoberfest-2025)
 - [hacktoberfest-accepted](#hacktoberfest-accepted)
 - [hacktoberfest2020](#hacktoberfest2020)
 - [hacktoberfest2021](#hacktoberfest2021)
@@ -1257,6 +1259,7 @@
 - [language](#language)
 - [language-model](#language-model)
 - [language-server](#language-server)
+- [language-server-client](#language-server-client)
 - [language-server-protocol](#language-server-protocol)
 - [laravel](#laravel)
 - [latency](#latency)
@@ -2297,6 +2300,7 @@
 - [tvos](#tvos)
 - [twitter](#twitter)
 - [typeform](#typeform)
+- [typescipt](#typescipt)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
@@ -2548,6 +2552,7 @@
 
 ## agents 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -7114,6 +7119,10 @@
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 
+## explainability 
+
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
+
 ## express 
 
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
@@ -7947,6 +7956,7 @@
 
 ## golang 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozontech/seq-db](https://github.com/ozontech/seq-db) - seq-db is a scalable and high-performance database designed for storing and querying logs efficiently
@@ -8310,6 +8320,7 @@
 
 ## hacktoberfest 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -8450,6 +8461,10 @@
 - [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen) - Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+
+## hacktoberfest-2025 
+
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 
 ## hacktoberfest-accepted 
 
@@ -9823,8 +9838,13 @@
 
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 
+## language-server-client 
+
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
+
 ## language-server-protocol 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - Generate interactive call graphs for various languages
 
 ## laravel 
@@ -10117,6 +10137,7 @@
 
 ## llms 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -10237,6 +10258,7 @@
 
 ## lsp 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - Generate interactive call graphs for various languages
@@ -11714,6 +11736,7 @@
 
 ## others 
 
+- [rothenbergt/backstage-agent-skills](https://github.com/rothenbergt/backstage-agent-skills) - Backstage skills for AI agents
 - [TechLead-Conf/TechLead-Maturity-Model](https://github.com/TechLead-Conf/TechLead-Maturity-Model) - Матрица зрелости техлида. Дизайн матрицы был вдохновлен KMM (kanban maturity model). Матричное описание уровней зрелости для техлида будет представлять собой матрицу компетенций. Матрицу можно будет и
 - [ContainerSolutions/cloud-native-patterns](https://github.com/ContainerSolutions/cloud-native-patterns) - Cloud Native Patterns
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
@@ -13500,6 +13523,7 @@
 
 ## python3 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
@@ -15229,6 +15253,7 @@
 
 ## static-analysis 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - Generate interactive call graphs for various languages
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -16358,8 +16383,13 @@
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 
+## typescipt 
+
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
+
 ## typescript 
 
+- [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
