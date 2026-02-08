@@ -106,6 +106,7 @@
 - [architectural-patterns](#architectural-patterns)
 - [architectural-styles](#architectural-styles)
 - [architecture](#architecture)
+- [architecture-as-code](#architecture-as-code)
 - [architecture-decision-record](#architecture-decision-record)
 - [architecture-decision-records](#architecture-decision-records)
 - [archive](#archive)
@@ -3026,6 +3027,10 @@
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [rabbitmq/internals](https://github.com/rabbitmq/internals) - High level architecture overview
+
+## architecture-as-code 
+
+- [DocHubTeam/DocHub](https://github.com/DocHubTeam/DocHub) - Управление архитектурой как кодом
 
 ## architecture-decision-record 
 
