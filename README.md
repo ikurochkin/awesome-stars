@@ -11741,6 +11741,8 @@
 
 ## others 
 
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - Enterprise Architecture Governance & Vendor Procurement Toolkit
+- [den-vasyliev/agentregistry-inventory](https://github.com/den-vasyliev/agentregistry-inventory) - The Control Plane for AI Infrastructure Kubernetes-native registry for MCP servers, agents, skills & models
 - [rothenbergt/backstage-agent-skills](https://github.com/rothenbergt/backstage-agent-skills) - Backstage skills for AI agents
 - [TechLead-Conf/TechLead-Maturity-Model](https://github.com/TechLead-Conf/TechLead-Maturity-Model) - Матрица зрелости техлида. Дизайн матрицы был вдохновлен KMM (kanban maturity model). Матричное описание уровней зрелости для техлида будет представлять собой матрицу компетенций. Матрицу можно будет и
 - [ContainerSolutions/cloud-native-patterns](https://github.com/ContainerSolutions/cloud-native-patterns) - Cloud Native Patterns
