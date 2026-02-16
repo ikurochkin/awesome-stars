@@ -27,6 +27,7 @@
 - [agentic-ai](#agentic-ai)
 - [agentic-framework](#agentic-framework)
 - [agentic-workflow](#agentic-workflow)
+- [agentic-workflows](#agentic-workflows)
 - [agents](#agents)
 - [agile](#agile)
 - [agile-development](#agile-development)
@@ -71,6 +72,7 @@
 - [ansible-roles](#ansible-roles)
 - [answers](#answers)
 - [anthropic](#anthropic)
+- [anthropic-claude](#anthropic-claude)
 - [apache](#apache)
 - [apachespark](#apachespark)
 - [apex](#apex)
@@ -329,7 +331,16 @@
 - [claude](#claude)
 - [claude-ai](#claude-ai)
 - [claude-code](#claude-code)
+- [claude-code-cli](#claude-code-cli)
+- [claude-code-commands](#claude-code-commands)
+- [claude-code-plugin](#claude-code-plugin)
+- [claude-code-plugins](#claude-code-plugins)
+- [claude-code-skills](#claude-code-skills)
+- [claude-code-subagents](#claude-code-subagents)
 - [claude-skills](#claude-skills)
+- [claudecode](#claudecode)
+- [claudecode-config](#claudecode-config)
+- [claudecode-subagents](#claudecode-subagents)
 - [clean-architecture](#clean-architecture)
 - [cli](#cli)
 - [cli-app](#cli-app)
@@ -2109,6 +2120,8 @@
 - [style-guide](#style-guide)
 - [style-linter](#style-linter)
 - [styleguide](#styleguide)
+- [sub-agents](#sub-agents)
+- [subagents](#subagents)
 - [subghz](#subghz)
 - [sublime-text](#sublime-text)
 - [subscriptions](#subscriptions)
@@ -2541,6 +2554,7 @@
 
 ## agentic-ai 
 
+- [marcus/sidecar](https://github.com/marcus/sidecar) - Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
 - [cnoe-io/ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering) - CAIPE: Community AI Platform Engineering Multi-Agent Systems
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
@@ -2552,8 +2566,13 @@
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
+## agentic-workflows 
+
+- [marcus/sidecar](https://github.com/marcus/sidecar) - Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
+
 ## agents 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
@@ -2613,6 +2632,7 @@
 
 ## ai-agents 
 
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [cnoe-io/ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering) - CAIPE: Community AI Platform Engineering Multi-Agent Systems
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -2839,7 +2859,12 @@
 
 ## anthropic 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+
+## anthropic-claude 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## apache 
 
@@ -3231,6 +3256,8 @@
 
 ## automation 
 
+- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [finos/architecture-as-code](https://github.com/finos/architecture-as-code) - "Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seaml
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
@@ -3951,10 +3978,12 @@
 
 ## c4 
 
+- [bitsmuggler/c4-skill](https://github.com/bitsmuggler/c4-skill) - Claude Code skill to create a C4 model based on an existing code base
 - [bitsmuggler/arc42-c4-software-architecture-documentation-example](https://github.com/bitsmuggler/arc42-c4-software-architecture-documentation-example) - This example shows how you can use arc42 in combination with the C4 model and the Documentation as Code technique.
 
 ## c4-model 
 
+- [bitsmuggler/c4-skill](https://github.com/bitsmuggler/c4-skill) - Claude Code skill to create a C4 model based on an existing code base
 - [bitsmuggler/arc42-c4-software-architecture-documentation-example](https://github.com/bitsmuggler/arc42-c4-software-architecture-documentation-example) - This example shows how you can use arc42 in combination with the C4 model and the Documentation as Code technique.
 
 ## c4model 
@@ -4361,6 +4390,8 @@
 
 ## claude 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
@@ -4370,11 +4401,53 @@
 
 ## claude-code 
 
+- [marcus/sidecar](https://github.com/marcus/sidecar) - Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
+- [bitsmuggler/c4-skill](https://github.com/bitsmuggler/c4-skill) - Claude Code skill to create a C4 model based on an existing code base
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+
+## claude-code-cli 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
+## claude-code-commands 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
+## claude-code-plugin 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
+## claude-code-plugins 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
+## claude-code-skills 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
+## claude-code-subagents 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## claude-skills 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+
+## claudecode 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
+## claudecode-config 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
+## claudecode-subagents 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## clean-architecture 
 
@@ -5214,6 +5287,7 @@
 
 ## control-plane 
 
+- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
 
@@ -6153,6 +6227,7 @@
 
 ## devops 
 
+- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [finos/architecture-as-code](https://github.com/finos/architecture-as-code) - "Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seaml
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
@@ -7077,6 +7152,7 @@
 
 ## event-driven 
 
+- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [SaaStacked/saastack](https://github.com/SaaStacked/saastack) - A comprehensive codebase template for starting your real-world, fully featured SaaS web products. On the .NET platform
 
@@ -7888,6 +7964,7 @@
 
 ## go 
 
+- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozontech/seq-db](https://github.com/ozontech/seq-db) - seq-db is a scalable and high-performance database designed for storing and querying logs efficiently
@@ -8455,7 +8532,7 @@
 - [test-kitchen/kitchen-docker](https://github.com/test-kitchen/kitchen-docker) - A Test Kitchen Driver for Docker
 - [express42/ansible-repertory](https://github.com/express42/ansible-repertory) - 
 - [mschuchard/puppet-check](https://github.com/mschuchard/puppet-check) - A streamlined efficient comprehensive set of checks for your entire Puppet code and data
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [chef-cookbooks/chef-ingredient](https://github.com/chef-cookbooks/chef-ingredient) - Primitives for managing Chef products and packages
 - [chef/supermarket](https://github.com/chef/supermarket) - Chef's community platform
@@ -9383,15 +9460,15 @@
 
 ## jobs-search 
 
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## jobsearch 
 
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## jobseeker 
 
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## json 
 
@@ -9605,6 +9682,7 @@
 
 ## kubernetes 
 
+- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
@@ -11703,6 +11781,7 @@
 
 ## orchestration 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -11757,6 +11836,9 @@
 
 ## others 
 
+- [systeminit/swamp](https://github.com/systeminit/swamp) - Stinemates, Watson, Adam, Mahir, Paul
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [pulumi/agent-skills](https://github.com/pulumi/agent-skills) - 
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - Enterprise Architecture Governance & Vendor Procurement Toolkit
 - [den-vasyliev/agentregistry-inventory](https://github.com/den-vasyliev/agentregistry-inventory) - The Control Plane for AI Infrastructure Kubernetes-native registry for MCP servers, agents, skills & models
@@ -13696,6 +13778,7 @@
 
 ## react 
 
+- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
@@ -13884,6 +13967,7 @@
 
 ## release-automation 
 
+- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
@@ -13918,11 +14002,11 @@
 
 ## remote 
 
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## remote-companies 
 
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## remote-config 
 
@@ -13938,11 +14022,11 @@
 
 ## remote-job 
 
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## remote-work 
 
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## replication 
 
@@ -14629,6 +14713,7 @@
 
 ## self-hosted 
 
+- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -14987,6 +15072,7 @@
 
 ## software-architecture 
 
+- [bitsmuggler/c4-skill](https://github.com/bitsmuggler/c4-skill) - Claude Code skill to create a C4 model based on an existing code base
 - [denyspoltorak/metapatterns](https://github.com/denyspoltorak/metapatterns) - Architectural Metapatterns book and wiki
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [mikaelvesavuori/codemetrix](https://github.com/mikaelvesavuori/codemetrix) - Understand the level of coupling and changeability of your code in a second. 🪄
@@ -15387,6 +15473,7 @@
 
 ## structurizr 
 
+- [bitsmuggler/c4-skill](https://github.com/bitsmuggler/c4-skill) - Claude Code skill to create a C4 model based on an existing code base
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 
 ## stt 
@@ -15416,6 +15503,14 @@
 - [best-doctor/guides](https://github.com/best-doctor/guides) - Набор гайдов, которые использует команда разработки BestDoctor
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+
+## sub-agents 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
+## subagents 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## subghz 
 
@@ -16359,6 +16454,7 @@
 
 ## tui 
 
+- [marcus/sidecar](https://github.com/marcus/sidecar) - Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -16989,6 +17085,7 @@
 
 ## workflow-automation 
 
+- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 
 ## workflow-engine 
@@ -17001,6 +17098,7 @@
 
 ## workflows 
 
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
