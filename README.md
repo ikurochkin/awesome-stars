@@ -391,6 +391,7 @@
 - [code-search](#code-search)
 - [code-search-engine](#code-search-engine)
 - [codereview](#codereview)
+- [codex](#codex)
 - [coding](#coding)
 - [coding-assistant](#coding-assistant)
 - [coding-exercises](#coding-exercises)
@@ -526,6 +527,7 @@
 - [curated-list](#curated-list)
 - [curl](#curl)
 - [curriculum](#curriculum)
+- [cursor](#cursor)
 - [customer](#customer)
 - [cv](#cv)
 - [cve](#cve)
@@ -1578,6 +1580,7 @@
 - [openai-proxy](#openai-proxy)
 - [openapi](#openapi)
 - [openapi3](#openapi3)
+- [opencode](#opencode)
 - [opencost](#opencost)
 - [opencv](#opencv)
 - [openproject](#openproject)
@@ -2545,6 +2548,7 @@
 
 ## agent 
 
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -2564,6 +2568,7 @@
 
 ## agentic-workflow 
 
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## agentic-workflows 
@@ -2632,7 +2637,9 @@
 
 ## ai-agents 
 
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [cnoe-io/ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering) - CAIPE: Community AI Platform Engineering Multi-Agent Systems
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -4401,11 +4408,13 @@
 
 ## claude-code 
 
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
 - [marcus/sidecar](https://github.com/marcus/sidecar) - Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
 - [bitsmuggler/c4-skill](https://github.com/bitsmuggler/c4-skill) - Claude Code skill to create a C4 model based on an existing code base
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+- [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 
 ## claude-code-cli 
 
@@ -4457,6 +4466,7 @@
 
 ## cli 
 
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
@@ -4782,6 +4792,8 @@
 
 ## code-quality 
 
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -4818,6 +4830,10 @@
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
+
+## codex 
+
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
 
 ## coding 
 
@@ -5568,6 +5584,10 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [opsschool/curriculum](https://github.com/opsschool/curriculum) - Ops School Curriculum
 
+## cursor 
+
+- [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
+
 ## customer 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -6189,6 +6209,7 @@
 ## developer-tools 
 
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [microsoft/HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -6227,6 +6248,7 @@
 
 ## devops 
 
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [finos/architecture-as-code](https://github.com/finos/architecture-as-code) - "Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seaml
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
@@ -11662,6 +11684,11 @@
 
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
 
+## opencode 
+
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
+
 ## opencost 
 
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
@@ -11783,6 +11810,7 @@
 
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+- [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
@@ -11836,6 +11864,7 @@
 
 ## others 
 
+- [DavidROliverBA/Daves-Claude-Code-Skills](https://github.com/DavidROliverBA/Daves-Claude-Code-Skills) - Reusable Claude Code skills for architecture, diagramming, and knowledge management
 - [systeminit/swamp](https://github.com/systeminit/swamp) - Stinemates, Watson, Adam, Mahir, Paul
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [pulumi/agent-skills](https://github.com/pulumi/agent-skills) - 
@@ -11848,7 +11877,6 @@
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [get-dx/dx-mcp-server](https://github.com/get-dx/dx-mcp-server) - 
-- [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository
 - [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
@@ -13455,6 +13483,7 @@
 
 ## provenance 
 
+- [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) - Github Action implementation of SLSA Provenance Generation
 
 ## provider 
@@ -15813,6 +15842,7 @@
 
 ## tdd 
 
+- [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [di-sukharev/AI-TDD](https://github.com/di-sukharev/AI-TDD) - CLI for TDD — you write the test, GPT writes the code to pass it ✅
 - [zuazo/dockerspec](https://github.com/zuazo/dockerspec) - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily.
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
@@ -16509,6 +16539,7 @@
 
 ## typescript 
 
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
