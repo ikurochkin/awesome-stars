@@ -2976,7 +2976,7 @@
 
 ## apple2 
 
-- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver that can provide file sharing services to macOS, Classic Mac OS, and Apple II clients.
+- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver for Macs and cross-platform AFP clients
 
 ## applicant-tracking-system 
 
@@ -4552,6 +4552,7 @@
 
 ## cloud 
 
+- [FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec) - The Unifying Language for Technology Value
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [cloud-native-principles/cloud-native-principles](https://github.com/cloud-native-principles/cloud-native-principles) - 
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
@@ -7369,11 +7370,11 @@
 
 ## file-sharing-server 
 
-- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver that can provide file sharing services to macOS, Classic Mac OS, and Apple II clients.
+- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver for Macs and cross-platform AFP clients
 
 ## fileserver 
 
-- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver that can provide file sharing services to macOS, Classic Mac OS, and Apple II clients.
+- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver for Macs and cross-platform AFP clients
 
 ## filesystem-cache 
 
@@ -7385,6 +7386,7 @@
 
 ## finops 
 
+- [FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec) - The Unifying Language for Technology Value
 - [electrolux-oss/infrawallet](https://github.com/electrolux-oss/infrawallet) - Backstage plugin that controls your cloud costs just in the way how you control your bank accounts
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
@@ -10427,7 +10429,7 @@
 
 ## macintosh 
 
-- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver that can provide file sharing services to macOS, Classic Mac OS, and Apple II clients.
+- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver for Macs and cross-platform AFP clients
 
 ## macos 
 
@@ -10441,7 +10443,7 @@
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
-- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver that can provide file sharing services to macOS, Classic Mac OS, and Apple II clients.
+- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver for Macs and cross-platform AFP clients
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## magic 
@@ -11234,7 +11236,7 @@
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
-- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver that can provide file sharing services to macOS, Classic Mac OS, and Apple II clients.
+- [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver for Macs and cross-platform AFP clients
 
 ## neural-network 
 
