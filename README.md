@@ -581,6 +581,7 @@
 - [database-version-control](#database-version-control)
 - [database-versioning](#database-versioning)
 - [databases](#databases)
+- [databricks](#databricks)
 - [datadiscovery](#datadiscovery)
 - [datadog](#datadog)
 - [dataengineering](#dataengineering)
@@ -957,6 +958,7 @@
 - [gitlab](#gitlab)
 - [gitlab-api](#gitlab-api)
 - [gitlab-ci](#gitlab-ci)
+- [gitlog](#gitlog)
 - [gitops](#gitops)
 - [gitpod](#gitpod)
 - [glm](#glm)
@@ -2476,7 +2478,7 @@
 ## ab-testing 
 
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [openflagr/flagr](https://github.com/openflagr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice
 
 ## abstract-syntax-tree 
@@ -2486,7 +2488,7 @@
 
 ## abtest 
 
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 
 ## academic 
 
@@ -2780,7 +2782,7 @@
 - [oss-compass/compass-web](https://github.com/oss-compass/compass-web) - Frontend project for the OSS Compass
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -3760,7 +3762,7 @@
 ## bigquery 
 
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 
 ## bilibili 
 
@@ -4535,7 +4537,7 @@
 
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [flant/loghouse](https://github.com/flant/loghouse) - Ready to use log management solution for Kubernetes storing data in ClickHouse and providing web UI.
 
@@ -5234,7 +5236,7 @@
 
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [cburgmer/buildviz](https://github.com/cburgmer/buildviz) - Transparency for your build pipeline's results and runtime
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [cdfoundation/toc](https://github.com/cdfoundation/toc) - CDF Technical Oversight Committee (TOC) facilitates communication and collaboration among the Technical Projects
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
@@ -5704,7 +5706,7 @@
 
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
 ## data-catalog 
@@ -5727,7 +5729,7 @@
 
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 
 ## data-governance 
 
@@ -5783,7 +5785,7 @@
 
 ## data-science 
 
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 
 ## data-science-club 
@@ -5869,6 +5871,10 @@
 
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+
+## databricks 
+
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 
 ## datadiscovery 
 
@@ -7231,7 +7237,7 @@
 
 ## experimentation 
 
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 
 ## experiments 
 
@@ -7302,12 +7308,12 @@
 
 ## feature-flagging 
 
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
 
 ## feature-flags 
 
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [openflagr/flagr](https://github.com/openflagr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice
 - [thiagolunardi/FeatureToggle](https://github.com/thiagolunardi/FeatureToggle) - Feature Toggles (aka Feature Flags) described by Martin Fowler
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
@@ -7956,6 +7962,10 @@
 
 - [yodamad/gitlab-emoji](https://github.com/yodamad/gitlab-emoji) - You love emojis 😄 ? You love Gitlab ?
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
+
+## gitlog 
+
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
 ## gitops 
 
@@ -10977,6 +10987,7 @@
 
 ## monitoring 
 
+- [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
@@ -13056,6 +13067,7 @@
 
 ## playwright 
 
+- [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 
 ## plpgsql 
@@ -13403,6 +13415,7 @@
 
 ## prometheus 
 
+- [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
@@ -13765,6 +13778,7 @@
 
 ## rails 
 
+- [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -13943,7 +13957,7 @@
 ## redshift 
 
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 
 ## redteam 
@@ -14041,7 +14055,7 @@
 
 ## remote-config 
 
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 
 ## remote-development 
 
@@ -14288,6 +14302,7 @@
 
 ## ruby 
 
+- [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
 - [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
@@ -15062,7 +15077,7 @@
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 
 ## social 
 
@@ -15244,7 +15259,7 @@
 
 ## split-testing 
 
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 
 ## splunk 
 
@@ -15423,7 +15438,7 @@
 - [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [jtprogru/obsidian-vault-full-statistics-plugin](https://github.com/jtprogru/obsidian-vault-full-statistics-plugin) - Status bar item with vault full statistics such as number of notes, files, attachments, links, tags and quality of vault.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 
@@ -15700,6 +15715,7 @@
 
 ## synthetic-monitoring 
 
+- [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
 
