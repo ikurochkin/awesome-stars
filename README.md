@@ -2606,7 +2606,7 @@
 ## ai 
 
 - [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
-- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artifacial Intelligence Model Format Specification
+- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artificial Intelligence Model Format Specification
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The architecture catalog for distributed systems. Document events, services, domains & flows with AI-powered discovery.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
@@ -10909,7 +10909,7 @@
 
 ## model 
 
-- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artifacial Intelligence Model Format Specification
+- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artificial Intelligence Model Format Specification
 
 ## modelica 
 
@@ -11530,7 +11530,7 @@
 
 ## oci 
 
-- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artifacial Intelligence Model Format Specification
+- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artificial Intelligence Model Format Specification
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
@@ -15228,7 +15228,7 @@
 
 ## specification 
 
-- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artifacial Intelligence Model Format Specification
+- [modelpack/model-spec](https://github.com/modelpack/model-spec) - Cloud Native Artificial Intelligence Model Format Specification
 - [spdx/spdx-spec](https://github.com/spdx/spdx-spec) - The System Package Data Exchange (SPDX) specification in Markdown and HTML formats.
 - [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
