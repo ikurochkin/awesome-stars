@@ -25,6 +25,7 @@
 - [adr](#adr)
 - [agent](#agent)
 - [agentic-ai](#agentic-ai)
+- [agentic-coding](#agentic-coding)
 - [agentic-framework](#agentic-framework)
 - [agentic-workflow](#agentic-workflow)
 - [agentic-workflows](#agentic-workflows)
@@ -338,6 +339,7 @@
 - [claude-code-skills](#claude-code-skills)
 - [claude-code-subagents](#claude-code-subagents)
 - [claude-skills](#claude-skills)
+- [claude-subagents](#claude-subagents)
 - [claudecode](#claudecode)
 - [claudecode-config](#claudecode-config)
 - [claudecode-subagents](#claudecode-subagents)
@@ -926,6 +928,7 @@
 - [git-addons](#git-addons)
 - [git-analysis](#git-analysis)
 - [git-cliff](#git-cliff)
+- [git-commands](#git-commands)
 - [git-database](#git-database)
 - [git-for-data](#git-for-data)
 - [git-hooks](#git-hooks)
@@ -1582,6 +1585,7 @@
 - [openai-proxy](#openai-proxy)
 - [openapi](#openapi)
 - [openapi3](#openapi3)
+- [openclaw](#openclaw)
 - [opencode](#opencode)
 - [opencost](#opencost)
 - [opencv](#opencv)
@@ -2137,6 +2141,7 @@
 - [supabase](#supabase)
 - [supermarket](#supermarket)
 - [supply-chain](#supply-chain)
+- [supply-chain-management](#supply-chain-management)
 - [supply-chain-security](#supply-chain-security)
 - [support](#support)
 - [supports-dot-config](#supports-dot-config)
@@ -2560,9 +2565,15 @@
 
 ## agentic-ai 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
+- [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [marcus/sidecar](https://github.com/marcus/sidecar) - Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
 - [cnoe-io/ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering) - CAIPE: Community AI Platform Engineering Multi-Agent Systems
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
+## agentic-coding 
+
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
 
 ## agentic-framework 
 
@@ -2570,6 +2581,7 @@
 
 ## agentic-workflow 
 
+- [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
@@ -2873,6 +2885,7 @@
 
 ## anthropic-claude 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## apache 
@@ -4406,10 +4419,13 @@
 
 ## claude-ai 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 
 ## claude-code 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
+- [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
 - [marcus/sidecar](https://github.com/marcus/sidecar) - Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
 - [bitsmuggler/c4-skill](https://github.com/bitsmuggler/c4-skill) - Claude Code skill to create a C4 model based on an existing code base
@@ -4436,6 +4452,7 @@
 
 ## claude-code-skills 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## claude-code-subagents 
@@ -4444,9 +4461,14 @@
 
 ## claude-skills 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+
+## claude-subagents 
+
+- [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 
 ## claudecode 
 
@@ -4458,6 +4480,7 @@
 
 ## claudecode-subagents 
 
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## clean-architecture 
@@ -6024,6 +6047,7 @@
 
 ## dependencies 
 
+- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - About  A git subcommand for analyzing package/dependency usage in git repositories over time
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract +700 technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
@@ -7732,6 +7756,7 @@
 
 ## git 
 
+- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - About  A git subcommand for analyzing package/dependency usage in git repositories over time
 - [n0rfas/git-analytics](https://github.com/n0rfas/git-analytics) - Advanced analytics for Git repositories — commits, authors, code churn, lines of code, trends, and visual dashboards.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -7783,6 +7808,10 @@
 ## git-cliff 
 
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+
+## git-commands 
+
+- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - About  A git subcommand for analyzing package/dependency usage in git repositories over time
 
 ## git-database 
 
@@ -10235,6 +10264,7 @@
 
 ## llm 
 
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 157 models. 30 providers. One command to find what runs on your hardware.
 - [aimclub/OSA](https://github.com/aimclub/OSA) - Tool that just makes your open source project better using LLM agents
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -10597,6 +10627,7 @@
 
 ## mcp 
 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -11697,6 +11728,10 @@
 
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
 
+## openclaw 
+
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 157 models. 30 providers. One command to find what runs on your hardware.
+
 ## opencode 
 
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
@@ -11877,6 +11912,9 @@
 
 ## others 
 
+- [serejke/book-data-engineering](https://github.com/serejke/book-data-engineering) - Data Engineering Principles: A comprehensive reference book for experienced software engineers transitioning into data engineering
+- [maroda/practiceofpractice](https://github.com/maroda/practiceofpractice) - Resources for Practice of Practice Gameplay
+- [Resilience-Engineering/resilience-tabletop](https://github.com/Resilience-Engineering/resilience-tabletop) - 
 - [DavidROliverBA/Daves-Claude-Code-Skills](https://github.com/DavidROliverBA/Daves-Claude-Code-Skills) - Reusable Claude Code skills for architecture, diagramming, and knowledge management
 - [systeminit/swamp](https://github.com/systeminit/swamp) - Stinemates, Watson, Adam, Mahir, Paul
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -12727,6 +12765,7 @@
 
 ## package-management 
 
+- [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - About  A git subcommand for analyzing package/dependency usage in git repositories over time
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
 
@@ -14474,6 +14513,7 @@
 
 ## sbom 
 
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM diff and TUI analysis tool. Compares CycloneDX/SPDX files to component changes, dependency shifts, license conflicts, and vulnerabilities.
 - [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
@@ -14982,6 +15022,7 @@
 
 ## skill 
 
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 157 models. 30 providers. One command to find what runs on your hardware.
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 
 ## skills 
@@ -15598,6 +15639,10 @@
 ## supply-chain 
 
 - [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)
+
+## supply-chain-management 
+
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM diff and TUI analysis tool. Compares CycloneDX/SPDX files to component changes, dependency shifts, license conflicts, and vulnerabilities.
 
 ## supply-chain-security 
 
@@ -16939,6 +16984,7 @@
 
 ## vulnerability-management 
 
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM diff and TUI analysis tool. Compares CycloneDX/SPDX files to component changes, dependency shifts, license conflicts, and vulnerabilities.
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - ASOC, ASPM, DevSecOps, Vulnerability Management Using ArcherySec.
