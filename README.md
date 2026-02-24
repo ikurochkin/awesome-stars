@@ -11912,6 +11912,7 @@
 
 ## others 
 
+- [PRO-Robotech/openapi-ui](https://github.com/PRO-Robotech/openapi-ui) - 
 - [serejke/book-data-engineering](https://github.com/serejke/book-data-engineering) - Data Engineering Principles: A comprehensive reference book for experienced software engineers transitioning into data engineering
 - [maroda/practiceofpractice](https://github.com/maroda/practiceofpractice) - Resources for Practice of Practice Gameplay
 - [Resilience-Engineering/resilience-tabletop](https://github.com/Resilience-Engineering/resilience-tabletop) - 
