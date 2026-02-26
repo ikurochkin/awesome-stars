@@ -11934,7 +11934,7 @@
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [get-dx/dx-mcp-server](https://github.com/get-dx/dx-mcp-server) - 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-- [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository
+- [github-community-projects/measure-innersource](https://github.com/github-community-projects/measure-innersource) - A tool for measuring InnerSource collaboration in a repository
 - [NTCoding/living-architecture](https://github.com/NTCoding/living-architecture) - Extra software architecture from your code as living documentation. AI-assisted.
 - [NTCoding/legacy-modernization-io](https://github.com/NTCoding/legacy-modernization-io) - legacy-modernization.io
 - [cncf/radar](https://github.com/cncf/radar) - CNCF Tech Radar
@@ -12016,7 +12016,7 @@
 - [yandex/securitygym](https://github.com/yandex/securitygym) - 
 - [jedi-framework/manifest](https://github.com/jedi-framework/manifest) - Принципы развития джунов в самостоятельных экспертов
 - [fxcoudert/tools](https://github.com/fxcoudert/tools) - Tools and scripts I wrote and regularly use
-- [matkoch/resharper-cognitivecomplexity](https://github.com/matkoch/resharper-cognitivecomplexity) - 
+- [matkoch/jetbrains-plugin-cognitivecomplexity](https://github.com/matkoch/jetbrains-plugin-cognitivecomplexity) - 
 - [svyatoslav-reshetnikov/trunkbaseddevelopment.ru](https://github.com/svyatoslav-reshetnikov/trunkbaseddevelopment.ru) - This repo contains files from trunkbaseddevelopment.com translated to Russian language
 - [chaoss/wg-metrics-models](https://github.com/chaoss/wg-metrics-models) - Working Group for Metrics Model
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
@@ -12191,7 +12191,7 @@
 - [TeamTopologies/Team-Cognitive-Load-Assessment](https://github.com/TeamTopologies/Team-Cognitive-Load-Assessment) - A template for a team cognitive load assessment. Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manu
 - [CuriositySoftwareIreland/bank-of-athos](https://github.com/CuriositySoftwareIreland/bank-of-athos) - 
 - [swardley/WARDLEY-MAP-REPOSITORY](https://github.com/swardley/WARDLEY-MAP-REPOSITORY) - Maps from the 2022 AND BEYOND research projects
-- [brennhill/Principles](https://github.com/brennhill/Principles) - My software and leadership principles
+- [brennhill/Leading-Engineering-with-AI](https://github.com/brennhill/Leading-Engineering-with-AI) - My software and leadership principles
 - [matthewskelton/slowflow](https://github.com/matthewskelton/slowflow) - Contexts where fast flow might not be suitable. #fastflow
 - [jerrywcy/obsidian-path-finder](https://github.com/jerrywcy/obsidian-path-finder) - A plugin that can find the paths between two notes. Not sure who will want to use it...
 - [TeamTopologies/Team-Dependencies-Tracking](https://github.com/TeamTopologies/Team-Dependencies-Tracking) - Suggested tools and approaches to track team dependencies in an organization
