@@ -808,6 +808,7 @@
 - [estimation](#estimation)
 - [etcd](#etcd)
 - [etl](#etl)
+- [evaluation-framework](#evaluation-framework)
 - [event-driven](#event-driven)
 - [event-driven-architecture](#event-driven-architecture)
 - [event-sourcing](#event-sourcing)
@@ -1349,6 +1350,7 @@
 - [logs](#logs)
 - [logseq](#logseq)
 - [loki](#loki)
+- [long-context](#long-context)
 - [longhorn](#longhorn)
 - [lookup-table](#lookup-table)
 - [low-code](#low-code)
@@ -1698,6 +1700,7 @@
 - [plugin-architecture](#plugin-architecture)
 - [plugin-framework](#plugin-framework)
 - [plugins](#plugins)
+- [pmbok](#pmbok)
 - [png](#png)
 - [pocketbase](#pocketbase)
 - [podcast](#podcast)
@@ -2246,6 +2249,7 @@
 - [testing-tools](#testing-tools)
 - [tex](#tex)
 - [text-editor](#text-editor)
+- [text-generation](#text-generation)
 - [text-processing](#text-processing)
 - [text-to-diagram](#text-to-diagram)
 - [text2sql](#text2sql)
@@ -2622,6 +2626,7 @@
 
 ## ai 
 
+- [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
 - [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 - [modelpack/model-spec](https://github.com/modelpack/model-spec) - An Open Standard for Packaging, Distributing and Running LLMs in Cloud-Native Environments
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
@@ -3734,6 +3739,7 @@
 
 ## benchmark 
 
+- [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 
@@ -7208,6 +7214,10 @@
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 
+## evaluation-framework 
+
+- [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
+
 ## event-driven 
 
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
@@ -8947,6 +8957,7 @@
 
 ## huggingface 
 
+- [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 
@@ -10268,7 +10279,8 @@
 
 ## llm 
 
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 206 models. 30 providers. One command to find what runs on your hardware.
+- [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 497 models. 133 providers. One command to find what runs on your hardware.
 - [aimclub/OSA](https://github.com/aimclub/OSA) - Tool that just makes your open source project better using LLM agents
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -10401,6 +10413,10 @@
 ## loki 
 
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+
+## long-context 
+
+- [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
 
 ## longhorn 
 
@@ -11362,6 +11378,7 @@
 
 ## nlp 
 
+- [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
 
 ## nlu 
@@ -11734,7 +11751,7 @@
 
 ## openclaw 
 
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 206 models. 30 providers. One command to find what runs on your hardware.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 497 models. 133 providers. One command to find what runs on your hardware.
 
 ## opencode 
 
@@ -11916,6 +11933,7 @@
 
 ## others 
 
+- [Anni-Zou/DocBench](https://github.com/Anni-Zou/DocBench) - DocBench: A Benchmark for Evaluating LLM-based Document Reading Systems
 - [PRO-Robotech/openapi-ui](https://github.com/PRO-Robotech/openapi-ui) - 
 - [serejke/book-data-engineering](https://github.com/serejke/book-data-engineering) - Data Engineering Principles: A comprehensive reference book for experienced software engineers transitioning into data engineering
 - [maroda/practiceofpractice](https://github.com/maroda/practiceofpractice) - Resources for Practice of Practice Gameplay
@@ -13140,6 +13158,10 @@
 
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## pmbok 
+
+- [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, presented in 2023
 
 ## png 
 
@@ -15028,7 +15050,7 @@
 
 ## skill 
 
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 206 models. 30 providers. One command to find what runs on your hardware.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 497 models. 133 providers. One command to find what runs on your hardware.
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 
 ## skills 
@@ -16239,6 +16261,10 @@
 
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 
+## text-generation 
+
+- [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
+
 ## text-processing 
 
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
@@ -17217,6 +17243,7 @@
 
 ## writing 
 
+- [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
