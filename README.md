@@ -2559,7 +2559,7 @@
 
 ## agent 
 
-- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -2590,7 +2590,7 @@
 ## agentic-workflow 
 
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
-- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## agentic-workflows 
@@ -2660,7 +2660,7 @@
 
 ## ai-agents 
 
-- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
@@ -4437,7 +4437,7 @@
 
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
-- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [marcus/sidecar](https://github.com/marcus/sidecar) - Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
 - [bitsmuggler/c4-skill](https://github.com/bitsmuggler/c4-skill) - Claude Code skill to create a C4 model based on an existing code base
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
@@ -4502,7 +4502,7 @@
 
 ## cli 
 
-- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
@@ -4829,7 +4829,7 @@
 
 ## code-quality 
 
-- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
@@ -4870,7 +4870,7 @@
 
 ## codex 
 
-- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 
 ## coding 
 
@@ -6289,7 +6289,7 @@
 
 ## devops 
 
-- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [finos/architecture-as-code](https://github.com/finos/architecture-as-code) - "Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seaml
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
@@ -11751,7 +11751,7 @@
 
 ## opencode 
 
-- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 
 ## opencost 
@@ -16630,7 +16630,7 @@
 
 ## typescript 
 
-- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - CLI scanner for AI agent readiness — 9 Pillars / 5 Levels
+- [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
