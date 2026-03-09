@@ -26,6 +26,7 @@
 - [agent](#agent)
 - [agent-builder](#agent-builder)
 - [agent-memory](#agent-memory)
+- [agent-skills](#agent-skills)
 - [agentic-ai](#agentic-ai)
 - [agentic-coding](#agentic-coding)
 - [agentic-framework](#agentic-framework)
@@ -35,6 +36,7 @@
 - [agile](#agile)
 - [agile-development](#agile-development)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [ai-chat](#ai-chat)
 - [ai-coding-agent](#ai-coding-agent)
@@ -155,6 +157,8 @@
 - [authoring](#authoring)
 - [auto-remediation](#auto-remediation)
 - [autocomplete](#autocomplete)
+- [autogen](#autogen)
+- [autogen-extension](#autogen-extension)
 - [automation](#automation)
 - [autonomous-quadcoptor](#autonomous-quadcoptor)
 - [autonomous-vehicles](#autonomous-vehicles)
@@ -562,6 +566,7 @@
 - [data-integration](#data-integration)
 - [data-lineage](#data-lineage)
 - [data-masking](#data-masking)
+- [data-mesh](#data-mesh)
 - [data-mining](#data-mining)
 - [data-modeling](#data-modeling)
 - [data-observability](#data-observability)
@@ -918,6 +923,7 @@
 - [gem](#gem)
 - [gemini](#gemini)
 - [gemini-api](#gemini-api)
+- [gemini-cli-extension](#gemini-cli-extension)
 - [gen-ai](#gen-ai)
 - [genai](#genai)
 - [generation](#generation)
@@ -981,11 +987,18 @@
 - [good-first-issue](#good-first-issue)
 - [goodreads](#goodreads)
 - [google](#google)
+- [google-api](#google-api)
 - [google-bard](#google-bard)
+- [google-calendar](#google-calendar)
+- [google-chat](#google-chat)
 - [google-cloud](#google-cloud)
 - [google-cloud-functions](#google-cloud-functions)
 - [google-cloud-storage](#google-cloud-storage)
+- [google-docs](#google-docs)
+- [google-drive](#google-drive)
+- [google-sheets](#google-sheets)
 - [google-summer-of-code](#google-summer-of-code)
+- [google-workspace](#google-workspace)
 - [googleforms](#googleforms)
 - [googlers](#googlers)
 - [gopher](#gopher)
@@ -1437,6 +1450,7 @@
 - [microservices](#microservices)
 - [microservices-architecture](#microservices-architecture)
 - [microsoft](#microsoft)
+- [microsoft-office](#microsoft-office)
 - [midjourney](#midjourney)
 - [migration](#migration)
 - [mindmap](#mindmap)
@@ -1555,6 +1569,7 @@
 - [nsm](#nsm)
 - [nuxt](#nuxt)
 - [nvidia](#nvidia)
+- [oauth2](#oauth2)
 - [object-oriented](#object-oriented)
 - [objective-c](#objective-c)
 - [obs](#obs)
@@ -2580,6 +2595,10 @@
 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
+## agent-skills 
+
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
 ## agentic-ai 
 
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
@@ -2668,6 +2687,10 @@
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+## ai-agent 
+
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
 ## ai-agents 
 
@@ -3302,8 +3325,17 @@
 - [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 
+## autogen 
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+
+## autogen-extension 
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+
 ## automation 
 
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [finos/architecture-as-code](https://github.com/finos/architecture-as-code) - "Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seaml
@@ -4439,6 +4471,7 @@
 
 ## claude 
 
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
@@ -4519,6 +4552,7 @@
 
 ## cli 
 
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
@@ -4887,6 +4921,7 @@
 
 ## codex 
 
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 
 ## coding 
@@ -5742,6 +5777,7 @@
 
 ## data 
 
+- [bitol-io/open-data-contract-standard](https://github.com/bitol-io/open-data-contract-standard) - Home of the Open Data Contract Standard (ODCS).
 - [github/innovationgraph](https://github.com/github/innovationgraph) - GitHub Innovation Graph
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [sdg-1/consulting-handbook](https://github.com/sdg-1/consulting-handbook) - A guide for technical professionals looking to start consulting
@@ -5777,6 +5813,7 @@
 
 ## data-engineering 
 
+- [bitol-io/open-data-contract-standard](https://github.com/bitol-io/open-data-contract-standard) - Home of the Open Data Contract Standard (ODCS).
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
@@ -5800,6 +5837,10 @@
 ## data-masking 
 
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+
+## data-mesh 
+
+- [bitol-io/open-data-contract-standard](https://github.com/bitol-io/open-data-contract-standard) - Home of the Open Data Contract Standard (ODCS).
 
 ## data-mining 
 
@@ -5827,6 +5868,7 @@
 
 ## data-quality 
 
+- [bitol-io/open-data-contract-standard](https://github.com/bitol-io/open-data-contract-standard) - Home of the Open Data Contract Standard (ODCS).
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 
 ## data-quality-checks 
@@ -6315,7 +6357,7 @@
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [devopsweeklyarchive/devopsweeklyarchive.github.io](https://github.com/devopsweeklyarchive/devopsweeklyarchive.github.io) - Devops weekly newsletter's public archive
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
@@ -6423,7 +6465,7 @@
 
 ## devops-tools 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [devopsweeklyarchive/devopsweeklyarchive.github.io](https://github.com/devopsweeklyarchive/devopsweeklyarchive.github.io) - Devops weekly newsletter's public archive
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Toolkit & Orchestration for Developers
@@ -6543,7 +6585,7 @@
 
 ## discord 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 
 ## discourse 
@@ -6641,7 +6683,7 @@
 ## dns 
 
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [vagrant-landrush/landrush](https://github.com/vagrant-landrush/landrush) - A Vagrant plugin that provides a simple DNS server for Vagrant guests
 
@@ -7742,6 +7784,10 @@
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
+## gemini-cli-extension 
+
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
 ## gen-ai 
 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -8065,7 +8111,7 @@
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozontech/seq-db](https://github.com/ozontech/seq-db) - seq-db is a scalable and high-performance database designed for storing and querying logs efficiently
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
@@ -8155,7 +8201,7 @@
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozontech/seq-db](https://github.com/ozontech/seq-db) - seq-db is a scalable and high-performance database designed for storing and querying logs efficiently
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [natrontech/kubelab](https://github.com/natrontech/kubelab) - Experience Kubernetes Mastery Through Practice
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
 - [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Risor is a fast, embeddable scripting language for Go applications.  Add dynamic expressions, filters, and user-defined logic to your Go programs without embedding a heavy runtime like V8 or Python. E
@@ -8241,9 +8287,21 @@
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 
+## google-api 
+
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
 ## google-bard 
 
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
+
+## google-calendar 
+
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
+## google-chat 
+
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
 ## google-cloud 
 
@@ -8259,9 +8317,25 @@
 
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 
+## google-docs 
+
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
+## google-drive 
+
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
+## google-sheets 
+
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
 ## google-summer-of-code 
 
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
+
+## google-workspace 
+
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
 ## googleforms 
 
@@ -8930,7 +9004,7 @@
 
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -8962,7 +9036,7 @@
 
 ## https 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
 
 ## hubot 
@@ -10011,6 +10085,7 @@
 
 ## langchain 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 - [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.
@@ -10626,6 +10701,7 @@
 
 ## markdown 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
@@ -10647,6 +10723,7 @@
 
 ## marketing 
 
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 
@@ -10672,7 +10749,7 @@
 
 ## mattermost 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 
 ## mcp 
 
@@ -10911,6 +10988,10 @@
 
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [chef-boneyard/microsoft_azure](https://github.com/chef-boneyard/microsoft_azure) - Windows Azure Cookbook for Chef
+
+## microsoft-office 
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 ## midjourney 
 
@@ -11514,6 +11595,10 @@
 
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 
+## oauth2 
+
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
 ## object-oriented 
 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
@@ -11743,6 +11828,7 @@
 
 ## openai 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
@@ -11966,6 +12052,8 @@
 
 ## others 
 
+- [kryptophonik/claude-sre](https://github.com/kryptophonik/claude-sre) - SRE skills for Claude
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [agentexperience/ax](https://github.com/agentexperience/ax) - 
 - [virtualgenius/contextflow](https://github.com/virtualgenius/contextflow) - Visual DDD context mapper with Flow and Strategic views for analyzing bounded contexts and their relationships
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
@@ -12972,6 +13060,7 @@
 
 ## pdf 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 
@@ -14502,6 +14591,7 @@
 
 ## rust 
 
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
@@ -15105,7 +15195,7 @@
 
 ## slack 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
@@ -15116,7 +15206,7 @@
 
 ## slack-bot 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
 - [Andrew8xx8/kirpich](https://github.com/Andrew8xx8/kirpich) - Пацан-бот
 
@@ -15416,7 +15506,7 @@
 
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [steve-mt/awesome-slo](https://github.com/steve-mt/awesome-slo) - Curated list of resources on SLOs
@@ -15475,6 +15565,7 @@
 
 ## standard 
 
+- [bitol-io/open-data-contract-standard](https://github.com/bitol-io/open-data-contract-standard) - Home of the Open Data Contract Standard (ODCS).
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 
@@ -15960,7 +16051,7 @@
 ## tcp 
 
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 
 ## tcp-proxy 
 
@@ -16019,7 +16110,7 @@
 
 ## telegram 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Less than 7MB binary that outperforms enterprise monitoring giants consuming gigabytes of resources. While competitors require entire SRE/DevOps teams, this Go masterpiece delivers instant Telegram/Sl
+- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [fxlrnrpt/telegram-to-rss](https://github.com/fxlrnrpt/telegram-to-rss) - Generate an RSS feed from Telegram chats. You digital minimalism friend.
 - [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
