@@ -345,6 +345,7 @@
 - [claude-code-plugins](#claude-code-plugins)
 - [claude-code-skills](#claude-code-skills)
 - [claude-code-subagents](#claude-code-subagents)
+- [claude-skill](#claude-skill)
 - [claude-skills](#claude-skills)
 - [claude-subagents](#claude-subagents)
 - [claudecode](#claudecode)
@@ -1118,6 +1119,7 @@
 - [human-resources](#human-resources)
 - [husky](#husky)
 - [hybrid-cloud](#hybrid-cloud)
+- [hybrid-search](#hybrid-search)
 - [iac](#iac)
 - [iam](#iam)
 - [ice](#ice)
@@ -2694,6 +2696,7 @@
 ## ai-agent 
 
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not jus
 
 ## ai-agents 
 
@@ -4523,6 +4526,10 @@
 ## claude-code-subagents 
 
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+
+## claude-skill 
+
+- [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 
 ## claude-skills 
 
@@ -9075,6 +9082,10 @@
 ## hybrid-cloud 
 
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
+
+## hybrid-search 
+
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 
 ## iac 
 
