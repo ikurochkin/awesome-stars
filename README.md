@@ -12069,6 +12069,7 @@
 
 ## others 
 
+- [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [kryptophonik/claude-sre](https://github.com/kryptophonik/claude-sre) - SRE skills for Claude
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [agentexperience/ax](https://github.com/agentexperience/ax) - 
