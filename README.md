@@ -28,7 +28,6 @@
 - [agent-memory](#agent-memory)
 - [agent-skills](#agent-skills)
 - [agentic-ai](#agentic-ai)
-- [agentic-coding](#agentic-coding)
 - [agentic-framework](#agentic-framework)
 - [agentic-workflow](#agentic-workflow)
 - [agentic-workflows](#agentic-workflows)
@@ -402,6 +401,7 @@
 - [code-search-engine](#code-search-engine)
 - [codereview](#codereview)
 - [codex](#codex)
+- [codex-skills](#codex-skills)
 - [coding](#coding)
 - [coding-agents](#coding-agents)
 - [coding-assistant](#coding-assistant)
@@ -538,6 +538,7 @@
 - [curl](#curl)
 - [curriculum](#curriculum)
 - [cursor](#cursor)
+- [cursor-skills](#cursor-skills)
 - [customer](#customer)
 - [cv](#cv)
 - [cve](#cve)
@@ -1008,6 +1009,7 @@
 - [goss](#goss)
 - [governance](#governance)
 - [government](#government)
+- [gplv3](#gplv3)
 - [gpt](#gpt)
 - [gpt-3](#gpt-3)
 - [gpt-4](#gpt-4)
@@ -1075,6 +1077,7 @@
 - [heartbeat](#heartbeat)
 - [helix](#helix)
 - [helm](#helm)
+- [helm-chart](#helm-chart)
 - [helm-plugin](#helm-plugin)
 - [helm-plugins](#helm-plugins)
 - [help](#help)
@@ -1276,6 +1279,7 @@
 - [kubernetes-ingress](#kubernetes-ingress)
 - [kubernetes-ingress-controller](#kubernetes-ingress-controller)
 - [kubernetes-monitoring](#kubernetes-monitoring)
+- [kubernetes-operator](#kubernetes-operator)
 - [kubernetes-security](#kubernetes-security)
 - [kubernetes-setup](#kubernetes-setup)
 - [kubernetes-sig](#kubernetes-sig)
@@ -1375,7 +1379,6 @@
 - [low-level](#low-level)
 - [lowcode](#lowcode)
 - [lsp](#lsp)
-- [lsp-server](#lsp-server)
 - [lua](#lua)
 - [lvs](#lvs)
 - [lyft](#lyft)
@@ -1415,7 +1418,6 @@
 - [mcp-client](#mcp-client)
 - [mcp-gateway](#mcp-gateway)
 - [mcp-server](#mcp-server)
-- [mcp-tools](#mcp-tools)
 - [mdx](#mdx)
 - [media](#media)
 - [media-player](#media-player)
@@ -1588,6 +1590,7 @@
 - [oh-my-zsh-plugin](#oh-my-zsh-plugin)
 - [oh-my-zsh-theme](#oh-my-zsh-theme)
 - [ohmyzsh](#ohmyzsh)
+- [oidc](#oidc)
 - [olap](#olap)
 - [ollama](#ollama)
 - [ollama-webui](#ollama-webui)
@@ -1610,6 +1613,8 @@
 - [openai-proxy](#openai-proxy)
 - [openapi](#openapi)
 - [openapi3](#openapi3)
+- [openclaw](#openclaw)
+- [openclaw-skills](#openclaw-skills)
 - [opencode](#opencode)
 - [opencost](#opencost)
 - [opencv](#opencv)
@@ -1958,6 +1963,7 @@
 - [safety](#safety)
 - [sales](#sales)
 - [saltstack](#saltstack)
+- [saml](#saml)
 - [sampler](#sampler)
 - [sarif](#sarif)
 - [sarif-report](#sarif-report)
@@ -2130,6 +2136,7 @@
 - [startup](#startup)
 - [startup-resources](#startup-resources)
 - [startups](#startups)
+- [state-management](#state-management)
 - [static-analysis](#static-analysis)
 - [static-code-analysis](#static-code-analysis)
 - [statistical-analysis](#statistical-analysis)
@@ -2271,7 +2278,6 @@
 - [testing-practices](#testing-practices)
 - [testing-tools](#testing-tools)
 - [tex](#tex)
-- [text-editor](#text-editor)
 - [text-generation](#text-generation)
 - [text-processing](#text-processing)
 - [text-to-diagram](#text-to-diagram)
@@ -2365,6 +2371,7 @@
 - [unleash](#unleash)
 - [unmaintained](#unmaintained)
 - [unreal-engine](#unreal-engine)
+- [unused-resources](#unused-resources)
 - [uptime](#uptime)
 - [url](#url)
 - [user-friendly](#user-friendly)
@@ -2449,6 +2456,7 @@
 - [webapi](#webapi)
 - [webapp](#webapp)
 - [webdevelopment](#webdevelopment)
+- [webex](#webex)
 - [webgl](#webgl)
 - [webperf](#webperf)
 - [website](#website)
@@ -2603,19 +2611,16 @@
 ## agent-skills 
 
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 
 ## agentic-ai 
 
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [marcus/sidecar](https://github.com/marcus/sidecar) - Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
 - [cnoe-io/ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering) - CAIPE: Community AI Platform Engineering Multi-Agent Systems
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-
-## agentic-coding 
-
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
 
 ## agentic-framework 
 
@@ -2662,6 +2667,7 @@
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
 - [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [modelpack/model-spec](https://github.com/modelpack/model-spec) - An Open Standard for Packaging, Distributing and Running LLMs in Cloud-Native Environments
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The architecture catalog for distributed systems. Document events, services, domains & flows with AI-powered discovery.
@@ -2703,6 +2709,7 @@
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [cnoe-io/ai-platform-engineering](https://github.com/cnoe-io/ai-platform-engineering) - CAIPE: Community AI Platform Engineering Multi-Agent Systems
@@ -2717,7 +2724,7 @@
 
 ## ai-coding-agent 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 
 ## ai-gateway 
 
@@ -2940,7 +2947,7 @@
 
 ## anthropic-claude 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## apache 
@@ -4486,12 +4493,12 @@
 
 ## claude-ai 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 
 ## claude-code 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [marcus/sidecar](https://github.com/marcus/sidecar) - Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
@@ -4515,12 +4522,12 @@
 
 ## claude-code-plugins 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## claude-code-skills 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## claude-code-subagents 
@@ -4533,7 +4540,7 @@
 
 ## claude-skills 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
@@ -4552,7 +4559,6 @@
 
 ## claudecode-subagents 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## clean-architecture 
@@ -4565,7 +4571,7 @@
 
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
@@ -4934,6 +4940,10 @@
 
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
+
+## codex-skills 
+
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 
 ## coding 
 
@@ -5687,6 +5697,10 @@
 
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 
+## cursor-skills 
+
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+
 ## customer 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -6320,8 +6334,8 @@
 
 ## developer-tools 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [microsoft/HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
@@ -6361,6 +6375,7 @@
 
 ## devops 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
@@ -6525,7 +6540,6 @@
 
 ## devtools 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer. This repo is not the Qodo free tier! Try the free version on our website.
 - [0xDones/tfgen](https://github.com/0xDones/tfgen) - Terraform code generator for consistent codebase and DRY
@@ -6597,6 +6611,7 @@
 
 ## discord 
 
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 
@@ -6705,6 +6720,7 @@
 
 ## docker 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
@@ -7397,6 +7413,7 @@
 
 ## fastapi 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 
 ## fault-injection 
@@ -8090,6 +8107,7 @@
 
 ## gitops 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 - [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
@@ -8382,6 +8400,10 @@
 
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 
+## gplv3 
+
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
+
 ## gpt 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -8463,7 +8485,7 @@
 
 ## graph 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 - [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
@@ -8555,7 +8577,7 @@
 
 ## gtd 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 
 ## gui 
 
@@ -8855,7 +8877,7 @@
 
 ## helix 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 
 ## helm 
 
@@ -8870,6 +8892,10 @@
 - [Aptomi/k8s-app-engine](https://github.com/Aptomi/k8s-app-engine) - Application delivery engine for k8s
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
+
+## helm-chart 
+
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 
 ## helm-plugin 
 
@@ -9282,6 +9308,7 @@
 
 ## infrastructure-as-code 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
@@ -9840,7 +9867,7 @@
 
 ## knowledge-management 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [NickVolynkin/ritfest18-knowledge-management](https://github.com/NickVolynkin/ritfest18-knowledge-management) - Польза от управления знаниями в компании
 
@@ -9871,6 +9898,8 @@
 
 ## kubernetes 
 
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
@@ -10022,6 +10051,10 @@
 ## kubernetes-monitoring 
 
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+
+## kubernetes-operator 
+
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 
 ## kubernetes-security 
 
@@ -10562,16 +10595,13 @@
 ## lsp 
 
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - 🪄 Interactive Diagrams for Code
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - Generate interactive call graphs for various languages
 
-## lsp-server 
-
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
-
 ## lua 
 
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
@@ -10718,7 +10748,7 @@
 ## markdown 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -10790,10 +10820,6 @@
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
-
-## mcp-tools 
-
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
 
 ## mdx 
 
@@ -11358,7 +11384,7 @@
 
 ## neovim 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 
 ## ner 
 
@@ -11458,6 +11484,7 @@
 
 ## nextjs 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
@@ -11576,13 +11603,14 @@
 
 ## notes 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [anitsh/til](https://github.com/anitsh/til) - Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.
 - [mgp/book-notes](https://github.com/mgp/book-notes) - Notes from books and other interesting things that I've read. Table of contents at the end 👇
 
 ## notifications 
 
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [ableev/Zabbix-in-Telegram](https://github.com/ableev/Zabbix-in-Telegram) - Zabbix Notifications with graphs in Telegram
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [AcalephStorage/consul-alerts](https://github.com/AcalephStorage/consul-alerts) - A simple daemon to send notifications based on Consul health checks
@@ -11749,6 +11777,10 @@
 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
+## oidc 
+
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
+
 ## olap 
 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -11801,6 +11833,7 @@
 
 ## open-source 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [aimclub/OSA](https://github.com/aimclub/OSA) - Tool that just makes your open source project better using LLM agents
@@ -11871,7 +11904,7 @@
 
 ## openai-codex 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 
 ## openai-proxy 
 
@@ -11887,6 +11920,14 @@
 ## openapi3 
 
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
+
+## openclaw 
+
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+
+## openclaw-skills 
+
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 
 ## opencode 
 
@@ -11955,6 +11996,7 @@
 
 ## opentofu 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
@@ -12069,6 +12111,9 @@
 
 ## others 
 
+- [philyuchkoff/slozy](https://github.com/philyuchkoff/slozy) - Automated and simplified SLO creation for product teams and developers. Full alerting support, OpenSLO YAML format.
+- [base-14/cicada](https://github.com/base-14/cicada) - claude code analysis terminal app
+- [ClickHouse/sql.clickhouse.com](https://github.com/ClickHouse/sql.clickhouse.com) - Configuration for sql.clickhouse.com
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [kryptophonik/claude-sre](https://github.com/kryptophonik/claude-sre) - SRE skills for Claude
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - Modern Kubernetes visibility. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
@@ -13025,7 +13070,7 @@
 
 ## para 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 
 ## parallels 
 
@@ -13223,7 +13268,7 @@
 
 ## pkm 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 
 ## plantuml 
@@ -13393,6 +13438,7 @@
 
 ## postgresql 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -13527,7 +13573,7 @@
 
 ## productivity 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [middlewarehq/unwrapped](https://github.com/middlewarehq/unwrapped) - Spotify Wrapped for developers.
 - [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
@@ -13667,7 +13713,7 @@
 
 ## prompt-engineering 
 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -13816,6 +13862,7 @@
 
 ## python 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [github-community-projects/issue-metrics](https://github.com/github-community-projects/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -14017,6 +14064,7 @@
 
 ## rbac 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 
 ## rdbms 
@@ -14610,7 +14658,7 @@
 ## rust 
 
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
@@ -14669,6 +14717,10 @@
 
 - [valentin2105/Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - Recipe to deploy a production Kubernetes cluster.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
+
+## saml 
+
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 
 ## sampler 
 
@@ -14981,6 +15033,7 @@
 
 ## self-hosted 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source DevOps control plane for event-driven workflows.
 - [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -15221,6 +15274,7 @@
 
 ## slack 
 
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
@@ -15632,6 +15686,10 @@
 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+
+## state-management 
+
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 
 ## static-analysis 
 
@@ -16216,6 +16274,7 @@
 
 ## terraform 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
@@ -16276,6 +16335,7 @@
 
 ## terraform-cloud 
 
+- [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [terrakube-io/terrakube](https://github.com/terrakube-io/terrakube) - Open source IaC Automation and Collaboration Software.
 
 ## terraform-configurations 
@@ -16409,10 +16469,6 @@
 ## tex 
 
 - [le0pard/postgresql_book](https://github.com/le0pard/postgresql_book) - Book about PostgreSQL (russian)
-
-## text-editor 
-
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 
 ## text-generation 
 
@@ -16861,6 +16917,10 @@
 
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 
+## unused-resources 
+
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
+
 ## uptime 
 
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
@@ -17112,7 +17172,7 @@
 
 ## vscode 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - Generate interactive call graphs for various languages
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -17280,6 +17340,10 @@
 
 - [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - Porto is a Modern Software Architectural Pattern that scales with your business!
 
+## webex 
+
+- [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
+
 ## webgl 
 
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
@@ -17401,7 +17465,7 @@
 ## writing 
 
 - [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
 
@@ -17498,11 +17562,11 @@
 
 ## zed 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 
 ## zettelkasten 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 
 ## zhihu 
 
