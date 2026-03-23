@@ -2147,6 +2147,7 @@
 - [status](#status)
 - [status-bar](#status-bar)
 - [status-page](#status-page)
+- [statusline](#statusline)
 - [statuspage](#statuspage)
 - [stm32](#stm32)
 - [stocks](#stocks)
@@ -2945,6 +2946,7 @@
 
 ## anthropic 
 
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 
@@ -4488,6 +4490,7 @@
 
 ## claude 
 
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
@@ -4501,6 +4504,7 @@
 
 ## claude-code 
 
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
@@ -4572,6 +4576,7 @@
 
 ## cli 
 
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
@@ -10315,6 +10320,7 @@
 
 ## linter 
 
+- [thoughtbot/test_budget](https://github.com/thoughtbot/test_budget) - Prevent slow tests from creeping into your suite.
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files
 - [lintnet/lintnet](https://github.com/lintnet/lintnet) - General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily
@@ -12122,6 +12128,14 @@
 
 ## others 
 
+- [agent-format/agent-format-schema](https://github.com/agent-format/agent-format-schema) - 
+- [mame/ai-coding-lang-bench](https://github.com/mame/ai-coding-lang-bench) - Which programming language is best for AI coding agents? Benchmarking 13 languages with Claude Code.
+- [masoncl/review-prompts](https://github.com/masoncl/review-prompts) - AI review prompts
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [mac2590/the-platform-space](https://github.com/mac2590/the-platform-space) - A practical knowledge base and AI assistant for Platform Product Managers
+- [noamseg/interview-coach-skill](https://github.com/noamseg/interview-coach-skill) - 
+- [cisco-ai-defense/aibom](https://github.com/cisco-ai-defense/aibom) - AI Bill of Materials through source code scanning
+- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [vseinstrumentiru/observability-conf-2026](https://github.com/vseinstrumentiru/observability-conf-2026) - Материалы к конференции Observability Conf 2026
 - [philyuchkoff/slozy](https://github.com/philyuchkoff/slozy) - Automated and simplified SLO creation for product teams and developers. Full alerting support, OpenSLO YAML format.
 - [base-14/cicada](https://github.com/base-14/cicada) - claude code analysis terminal app
@@ -13187,6 +13201,7 @@
 
 ## performance 
 
+- [thoughtbot/test_budget](https://github.com/thoughtbot/test_budget) - Prevent slow tests from creeping into your suite.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
@@ -13339,6 +13354,7 @@
 
 ## plugin 
 
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative) - This Obsidian Plugin allows users to have a different file explorer experience.
 - [tadashi-aikawa/obsidian-various-complements-plugin](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) - This plugin for Obsidian enables you complete words like the auto-completion of IDE.
@@ -14573,6 +14589,7 @@
 
 ## ruby 
 
+- [thoughtbot/test_budget](https://github.com/thoughtbot/test_budget) - Prevent slow tests from creeping into your suite.
 - [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
@@ -15758,6 +15775,10 @@
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 
+## statusline 
+
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+
 ## statuspage 
 
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
@@ -16422,6 +16443,7 @@
 
 ## testing 
 
+- [thoughtbot/test_budget](https://github.com/thoughtbot/test_budget) - Prevent slow tests from creeping into your suite.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [qase-tms/QA](https://github.com/qase-tms/QA) - All things Quality Assurance
@@ -16853,6 +16875,7 @@
 
 ## typescript 
 
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
