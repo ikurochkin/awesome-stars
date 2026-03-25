@@ -12609,7 +12609,7 @@
 - [conscia-com/lambda-roadworker](https://github.com/conscia-com/lambda-roadworker) - Running roadworker in AWS Lambda to backup Route 53
 - [otomato-gh/devops-kpis](https://github.com/otomato-gh/devops-kpis) - 12 DevOps Flow Metrics as defined by Otomato DevOps Experts
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-- [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
+- [dynup/kpatch](https://github.com/dynup/kpatch) - NOTICE: kpatch is deprecated
 - [packpack/packpack](https://github.com/packpack/packpack) - Simple building of RPMs & Debian packages from git repos
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [grosser/stub_server](https://github.com/grosser/stub_server) - Boot up a real server to serve testing replies
