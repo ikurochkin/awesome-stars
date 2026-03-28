@@ -12135,7 +12135,7 @@
 - [mac2590/the-platform-space](https://github.com/mac2590/the-platform-space) - A practical knowledge base and AI assistant for Platform Product Managers
 - [noamseg/interview-coach-skill](https://github.com/noamseg/interview-coach-skill) - 
 - [cisco-ai-defense/aibom](https://github.com/cisco-ai-defense/aibom) - AI Bill of Materials through source code scanning
-- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database.
 - [vseinstrumentiru/observability-conf-2026](https://github.com/vseinstrumentiru/observability-conf-2026) - Материалы к конференции Observability Conf 2026
 - [philyuchkoff/slozy](https://github.com/philyuchkoff/slozy) - Automated and simplified SLO creation for product teams and developers. Full alerting support, OpenSLO YAML format.
 - [base-14/cicada](https://github.com/base-14/cicada) - claude code analysis terminal app
