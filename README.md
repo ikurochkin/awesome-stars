@@ -420,6 +420,7 @@
 - [command-line-tool](#command-line-tool)
 - [commercial-open-source](#commercial-open-source)
 - [commit](#commit)
+- [commit-history](#commit-history)
 - [commitizen](#commitizen)
 - [commits](#commits)
 - [communication](#communication)
@@ -1010,6 +1011,7 @@
 - [goss](#goss)
 - [governance](#governance)
 - [government](#government)
+- [government-procurement](#government-procurement)
 - [gplv3](#gplv3)
 - [gpt](#gpt)
 - [gpt-3](#gpt-3)
@@ -1311,6 +1313,7 @@
 - [latency](#latency)
 - [launchdarkly](#launchdarkly)
 - [lbs](#lbs)
+- [leaderboard](#leaderboard)
 - [leadership](#leadership)
 - [lean](#lean)
 - [learn](#learn)
@@ -1442,6 +1445,7 @@
 - [metabase](#metabase)
 - [metadata](#metadata)
 - [metadata-management](#metadata-management)
+- [metadata-standard](#metadata-standard)
 - [metasearch](#metasearch)
 - [metasearch-engine](#metasearch-engine)
 - [methodology](#methodology)
@@ -1805,6 +1809,7 @@
 - [proxies](#proxies)
 - [proxy](#proxy)
 - [psql](#psql)
+- [publiccode](#publiccode)
 - [publish](#publish)
 - [pull-request](#pull-request)
 - [pull-request-review](#pull-request-review)
@@ -2499,6 +2504,7 @@
 - [yaml](#yaml)
 - [yandex](#yandex)
 - [yandex-cloud](#yandex-cloud)
+- [yml](#yml)
 - [youtube](#youtube)
 - [zabbix](#zabbix)
 - [zabbix-api](#zabbix-api)
@@ -5056,6 +5062,10 @@
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 
+## commit-history 
+
+- [n0rfas/git-analytics](https://github.com/n0rfas/git-analytics) - Advanced analytics for Git repositories — commits, authors, code churn, lines of code, trends, and visual dashboards.
+
 ## commitizen 
 
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -6632,6 +6642,7 @@
 
 ## discoverability 
 
+- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software
 - [mikaelvesavuori/catalogist](https://github.com/mikaelvesavuori/catalogist) - Catalogist is the easy way to catalog and make your software and (micro)services visible to your organization in a lightweight and developer-friendly way.
 
 ## discovery 
@@ -7599,6 +7610,7 @@
 
 ## floss 
 
+- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software
 - [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)
 
 ## flowchart 
@@ -8413,7 +8425,13 @@
 
 ## government 
 
+- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software
+- [uk-x-gov-software-community/xgov-opensource-repo-scraper](https://github.com/uk-x-gov-software-community/xgov-opensource-repo-scraper) - 
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
+
+## government-procurement 
+
+- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software
 
 ## gplv3 
 
@@ -8641,6 +8659,7 @@
 
 ## hacktoberfest 
 
+- [uk-x-gov-software-community/xgov-opensource-repo-scraper](https://github.com/uk-x-gov-software-community/xgov-opensource-repo-scraper) - 
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 - [github-community-projects/issue-metrics](https://github.com/github-community-projects/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
@@ -10212,6 +10231,10 @@
 
 - [roxy-wi/roxy-wi](https://github.com/roxy-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
 
+## leaderboard 
+
+- [uk-x-gov-software-community/xgov-opensource-repo-scraper](https://github.com/uk-x-gov-software-community/xgov-opensource-repo-scraper) - 
+
 ## leadership 
 
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
@@ -10934,6 +10957,10 @@
 ## metadata-management 
 
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
+
+## metadata-standard 
+
+- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software
 
 ## metasearch 
 
@@ -11977,6 +12004,7 @@
 
 ## opensource 
 
+- [uk-x-gov-software-community/xgov-opensource-repo-scraper](https://github.com/uk-x-gov-software-community/xgov-opensource-repo-scraper) - 
 - [SAP/project-portal-for-innersource](https://github.com/SAP/project-portal-for-innersource) - Lists all InnerSource projects of a company in an interactive and easy to use way. Can be used as a template for implementing the "InnerSource portal" pattern by the InnerSource Commons community.
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
@@ -12135,6 +12163,10 @@
 
 ## others 
 
+- [chrisns/govreposcrape](https://github.com/chrisns/govreposcrape) - Semantic code search over ~24k UK government repositories using Google Cloud Run and Vertex AI Search
+- [ScaledAgileDevOps/SADMF](https://github.com/ScaledAgileDevOps/SADMF) - 
+- [marciopuga/cog](https://github.com/marciopuga/cog) - Cognitive architecture for Claude Code — persistent memory, self-reflection, and foresight
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
 - [agent-format/agent-format-schema](https://github.com/agent-format/agent-format-schema) - 
 - [mame/ai-coding-lang-bench](https://github.com/mame/ai-coding-lang-bench) - Which programming language is best for AI coding agents? Benchmarking 13 languages with Claude Code.
 - [masoncl/review-prompts](https://github.com/masoncl/review-prompts) - AI review prompts
@@ -13817,6 +13849,10 @@
 
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 
+## publiccode 
+
+- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software
+
 ## publish 
 
 - [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog
@@ -14882,6 +14918,7 @@
 
 ## scraper 
 
+- [uk-x-gov-software-community/xgov-opensource-repo-scraper](https://github.com/uk-x-gov-software-community/xgov-opensource-repo-scraper) - 
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 
@@ -17570,6 +17607,10 @@
 
 - [itsumma/kulebiac](https://github.com/itsumma/kulebiac) - Фреймворк на основе CDKTF для развертывания облачной инфраструктуры любой сложности
 - [aladmit/pulumi-yandex](https://github.com/aladmit/pulumi-yandex) - Unofficial Pulumi Yandex.Cloud Resource Provider
+
+## yml 
+
+- [publiccodeyml/publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - A metadata standard for public software
 
 ## youtube 
 
