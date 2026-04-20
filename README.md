@@ -477,6 +477,7 @@
 - [content](#content)
 - [content-marketing](#content-marketing)
 - [content-strategy](#content-strategy)
+- [context-engineering](#context-engineering)
 - [context-graph](#context-graph)
 - [context-window](#context-window)
 - [continous-delivery](#continous-delivery)
@@ -1687,6 +1688,7 @@
 - [pagespeed](#pagespeed)
 - [paging](#paging)
 - [pair-programming](#pair-programming)
+- [pakistan](#pakistan)
 - [pam](#pam)
 - [pandoc](#pandoc)
 - [paper](#paper)
@@ -2646,6 +2648,7 @@
 
 ## agentic-ai 
 
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
@@ -2656,6 +2659,7 @@
 ## agentic-coding 
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 
 ## agentic-engineering 
 
@@ -2667,6 +2671,7 @@
 
 ## agentic-workflow 
 
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -2705,6 +2710,7 @@
 
 - [electrolux-oss/infrakitchen](https://github.com/electrolux-oss/infrakitchen) - InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) - An open standard for declaring AI usage in software projects.
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [X-PLUG/WritingBench](https://github.com/X-PLUG/WritingBench) - WritingBench: A Comprehensive Benchmark for Generative Writing
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -2750,6 +2756,7 @@
 
 ## ai-agents 
 
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - Implementation of 17+ agentic architectures designed for practical use across different stages of AI system development.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
@@ -5409,6 +5416,10 @@
 ## content-strategy 
 
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
+
+## context-engineering 
+
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 
 ## context-graph 
 
@@ -12271,6 +12282,8 @@
 
 ## others 
 
+- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
+- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [mikaoelitiana/git-audit](https://github.com/mikaoelitiana/git-audit) - A lazygit-style terminal dashboard for codebase intelligence. Runs the 5 git commands from https://piechowski.io/post/git-commands-before-reading-code and presents them as an interactive TUI.
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Open-source Infrastructure as Code (IaC) orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
@@ -13228,6 +13241,10 @@
 ## pair-programming 
 
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
+
+## pakistan 
+
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 
 ## pam 
 
