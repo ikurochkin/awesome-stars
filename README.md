@@ -1429,6 +1429,7 @@
 - [marketing-automation](#marketing-automation)
 - [marketing-web-ops](#marketing-web-ops)
 - [markmap](#markmap)
+- [martin-fowler](#martin-fowler)
 - [mask](#mask)
 - [masking](#masking)
 - [mattermost](#mattermost)
@@ -2645,6 +2646,7 @@
 
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 
 ## agentic-ai 
 
@@ -3881,7 +3883,7 @@
 ## best-practices 
 
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
@@ -4581,7 +4583,7 @@
 - [bitsmuggler/c4-skill](https://github.com/bitsmuggler/c4-skill) - Claude Code skill to create a C4 model based on an existing code base
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 
 ## claude-code-agents 
@@ -4625,7 +4627,7 @@
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 
 ## claude-subagents 
 
@@ -5668,7 +5670,7 @@
 
 ## crm 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
@@ -5678,7 +5680,7 @@
 
 ## crm-system 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 
 ## cron 
 
@@ -5806,7 +5808,7 @@
 
 ## customer 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 
 ## cv 
@@ -6492,7 +6494,7 @@
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - The open source control plane for platform engineering.
 - [finos/architecture-as-code](https://github.com/finos/architecture-as-code) - "Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seaml
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
@@ -8428,7 +8430,7 @@
 
 ## good-first-issue 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 
 ## goodreads 
@@ -8669,7 +8671,7 @@
 
 ## graphql 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
 ## graphrag 
@@ -8763,7 +8765,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
@@ -9445,7 +9447,7 @@
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 - [electrolux-oss/infrakitchen](https://github.com/electrolux-oss/infrakitchen) - InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.
 - [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [oleg-nenashev/workshop-aws-mocks-as-code](https://github.com/oleg-nenashev/workshop-aws-mocks-as-code) - Demo for the Infrastructure-as-Code in Java, with AWS/Localstack, Testcontainers and WireMock
@@ -9740,7 +9742,7 @@
 
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
@@ -10924,7 +10926,7 @@
 ## marketing 
 
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 
 ## marketing-automation 
@@ -10938,6 +10940,10 @@
 ## markmap 
 
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
+
+## martin-fowler 
+
+- [thiagolunardi/FeatureToggle](https://github.com/thiagolunardi/FeatureToggle) - Feature Toggles (aka Feature Flags) described by Martin Fowler
 
 ## mask 
 
@@ -11313,7 +11319,7 @@
 
 ## modules 
 
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 
 ## molecule 
 
@@ -11417,7 +11423,7 @@
 
 ## monorepo 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [mbtproject/mbt](https://github.com/mbtproject/mbt) - The most flexible build tool for monorepo
 - [travis-ci/travis-cookbooks](https://github.com/travis-ci/travis-cookbooks) - Chef cookbook monolithic repo :book: :bomb:
 
@@ -11558,7 +11564,7 @@
 
 ## nestjs 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 
 ## netbox 
 
@@ -12006,7 +12012,7 @@
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [aimclub/OSA](https://github.com/aimclub/OSA) - Tool that just makes your open source project better using LLM agents
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
@@ -12168,7 +12174,7 @@
 
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 - [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations
 - [OP5dev/TF-via-PR](https://github.com/OP5dev/TF-via-PR) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
@@ -13639,7 +13645,7 @@
 
 - [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
@@ -14293,7 +14299,7 @@
 
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - The open source control plane for platform engineering.
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
@@ -14328,7 +14334,7 @@
 
 ## reactjs 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -14926,7 +14932,7 @@
 
 ## sales 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
 
 ## saltstack 
@@ -15572,7 +15578,6 @@
 
 ## snowflake 
 
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
@@ -16502,7 +16507,7 @@
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 - [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
@@ -16640,7 +16645,7 @@
 ## testing 
 
 - [thoughtbot/test_budget](https://github.com/thoughtbot/test_budget) - Prevent slow tests from creeping into your suite.
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [qase-tms/QA](https://github.com/qase-tms/QA) - All things Quality Assurance
 - [microsoft/HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
@@ -17079,7 +17084,7 @@
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
@@ -17522,7 +17527,7 @@
 
 ## web 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
