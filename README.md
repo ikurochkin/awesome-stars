@@ -603,6 +603,7 @@
 - [database](#database)
 - [database-access](#database-access)
 - [database-document](#database-document)
+- [database-monitoring](#database-monitoring)
 - [database-schema](#database-schema)
 - [database-systems](#database-systems)
 - [database-version-control](#database-version-control)
@@ -6099,6 +6100,10 @@
 ## database-document 
 
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
+
+## database-monitoring 
+
+- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 
 ## database-schema 
 
