@@ -77,6 +77,7 @@
 - [android-emulator](#android-emulator)
 - [android-interview-questions](#android-interview-questions)
 - [angular](#angular)
+- [angular-forms](#angular-forms)
 - [angular-roadmap](#angular-roadmap)
 - [announcements](#announcements)
 - [ansible](#ansible)
@@ -768,6 +769,7 @@
 - [durable-execution](#durable-execution)
 - [dx](#dx)
 - [dynamic](#dynamic)
+- [dynamic-forms](#dynamic-forms)
 - [dynamodb](#dynamodb)
 - [e2e-testing](#e2e-testing)
 - [easy-deploy](#easy-deploy)
@@ -1884,6 +1886,7 @@
 - [rds](#rds)
 - [react](#react)
 - [react-components](#react-components)
+- [react-forms](#react-forms)
 - [react-native](#react-native)
 - [react-roadmap](#react-roadmap)
 - [reactive](#reactive)
@@ -2743,7 +2746,7 @@
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -2979,6 +2982,10 @@
 ## angular 
 
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+
+## angular-forms 
+
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.
 
 ## angular-roadmap 
 
@@ -5028,7 +5035,7 @@
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [mikaelvesavuori/codemetrix](https://github.com/mikaelvesavuori/codemetrix) - Understand the level of coupling and changeability of your code in a second. 🪄
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -5082,7 +5089,7 @@
 ## coding-agents 
 
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 
 ## coding-assistant 
 
@@ -5622,7 +5629,7 @@
 
 ## copy-paste 
 
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 
 ## copyright 
 
@@ -6413,7 +6420,7 @@
 
 ## detector 
 
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 
 ## dev 
 
@@ -6534,7 +6541,6 @@
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 - [electrolux-oss/infrakitchen](https://github.com/electrolux-oss/infrakitchen) - InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.
 - [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - The open source control plane for platform engineering.
 - [finos/architecture-as-code](https://github.com/finos/architecture-as-code) - "Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seaml
@@ -7143,11 +7149,11 @@
 
 ## duplicates 
 
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 
 ## duplications 
 
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 
 ## durable-execution 
 
@@ -7162,6 +7168,10 @@
 ## dynamic 
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+
+## dynamic-forms 
+
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.
 
 ## dynamodb 
 
@@ -7796,11 +7806,11 @@
 
 ## form-builder 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.
 
 ## form-generator 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.
 
 ## formal-specification 
 
@@ -7819,6 +7829,7 @@
 
 ## forms 
 
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 
@@ -9465,7 +9476,6 @@
 
 ## infra 
 
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [QubitProducts/bamboo](https://github.com/QubitProducts/bamboo) - HAProxy auto configuration and auto service discovery for Mesos Marathon
 
 ## infra-as-code 
@@ -9479,7 +9489,6 @@
 ## infrastructure 
 
 - [electrolux-oss/infrakitchen](https://github.com/electrolux-oss/infrakitchen) - InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [electrolux-oss/infrawallet](https://github.com/electrolux-oss/infrawallet) - Backstage plugin that controls your cloud costs just in the way how you control your bank accounts
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
@@ -11037,7 +11046,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -12368,6 +12377,8 @@
 
 ## others 
 
+- [githubnext/repo-assist-impact](https://github.com/githubnext/repo-assist-impact) - Repo-assist impact analysis for F# open source repositories
+- [antongolub/artel](https://github.com/antongolub/artel) - Multi-agent orchestration research
 - [kriskimmerle/agentdrift](https://github.com/kriskimmerle/agentdrift) - AI Agent Instruction File Change Tracker — monitor changes to AGENTS.md, .cursorrules, and other AI coding agent instruction files via git history. 20 security rules, zero dependencies.
 - [yegor256/rubocop-elegant](https://github.com/yegor256/rubocop-elegant) - A collection of RuboCop cops for elegant Ruby coding
 - [johnpcutler/tbm-recommender](https://github.com/johnpcutler/tbm-recommender) - A skill that efficiently recommends posts from The Beautiful Mess
@@ -14255,7 +14266,7 @@
 
 ## quality 
 
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 - [yegor256/sqm](https://github.com/yegor256/sqm) - Lecture Notes for "Software Quality Metrics" course in HSE University, 2023-2024
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 
@@ -14309,6 +14320,7 @@
 
 ## radar 
 
+- [qiwi/tech-radar](https://github.com/qiwi/tech-radar) - Fully automated tech-radar generator
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.
 
 ## radiation 
@@ -14403,6 +14415,10 @@
 ## react-components 
 
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
+
+## react-forms 
+
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.
 
 ## react-native 
 
@@ -15586,12 +15602,12 @@
 ## skill 
 
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 
 ## skills 
 
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 
@@ -16264,7 +16280,7 @@
 
 ## surveyjs 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.
 
 ## surveys 
 
@@ -17558,7 +17574,7 @@
 
 ## vue-form-builder 
 
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.
 
 ## vue-roadmap 
 
