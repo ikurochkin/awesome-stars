@@ -12613,7 +12613,7 @@
 - [holacracyone/Holacracy-Constitution](https://github.com/holacracyone/Holacracy-Constitution) - Platform for evolving and sharing the Holacracy Constitution through Open Source methodologies.
 - [holacracyone/Holacracy-Constitution-5.0-RUSSIAN](https://github.com/holacracyone/Holacracy-Constitution-5.0-RUSSIAN) - 
 - [tochka-public/Holacracy-Constitution-RUSSIAN](https://github.com/tochka-public/Holacracy-Constitution-RUSSIAN) - Русский перевод Конституции Холакратии (текущая версия — 4.1)
-- [Byndyusoft/aact](https://github.com/Byndyusoft/aact) - 
+- [Byndyusoft/aact](https://github.com/Byndyusoft/aact) - CLI и библиотека для валидации, анализа и генерации архитектуры микросервисных систем и модульных монолитов, описанной "as Code" (PlantUML C4, Structurizr).
 - [modernsd/modernsd](https://github.com/modernsd/modernsd) - О нас — кто мы, для чего мы трудимся и почему это важно
 - [inclusivenaming/org](https://github.com/inclusivenaming/org) - Pre-release organization info, meeting notes, collaboration, etc.
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) - 
