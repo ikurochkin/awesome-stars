@@ -6561,7 +6561,7 @@
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [devopsweeklyarchive/devopsweeklyarchive.github.io](https://github.com/devopsweeklyarchive/devopsweeklyarchive.github.io) - Devops weekly newsletter's public archive
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
@@ -6669,7 +6669,7 @@
 
 ## devops-tools 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [devopsweeklyarchive/devopsweeklyarchive.github.io](https://github.com/devopsweeklyarchive/devopsweeklyarchive.github.io) - Devops weekly newsletter's public archive
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Toolkit & Orchestration for Developers
@@ -6789,7 +6789,7 @@
 ## discord 
 
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 
 ## discourse 
@@ -6888,7 +6888,7 @@
 ## dns 
 
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [vagrant-landrush/landrush](https://github.com/vagrant-landrush/landrush) - A Vagrant plugin that provides a simple DNS server for Vagrant guests
 
@@ -6945,7 +6945,7 @@
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
@@ -8099,7 +8099,7 @@
 - [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [benhoskings/babushka](https://github.com/benhoskings/babushka) - Test-driven sysadmin.
 
@@ -8341,7 +8341,7 @@
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozontech/seq-db](https://github.com/ozontech/seq-db) - seq-db is a scalable and high-performance database designed for storing and querying logs efficiently
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
@@ -8402,7 +8402,7 @@
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [AlekSi/zabbix](https://github.com/AlekSi/zabbix) - Archived, see https://github.com/AlekSi/zabbix/issues/24
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
@@ -8423,7 +8423,7 @@
 
 ## gogs 
 
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## golang 
 
@@ -8431,7 +8431,7 @@
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozontech/seq-db](https://github.com/ozontech/seq-db) - seq-db is a scalable and high-performance database designed for storing and querying logs efficiently
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [natrontech/kubelab](https://github.com/natrontech/kubelab) - Experience Kubernetes Mastery Through Practice
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
 - [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Risor is a fast, embeddable scripting language for Go applications.  Add dynamic expressions, filters, and user-defined logic to your Go programs without embedding a heavy runtime like V8 or Python. E
@@ -9258,7 +9258,7 @@
 
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -9290,7 +9290,7 @@
 
 ## https 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
 
 ## hubot 
@@ -11054,7 +11054,7 @@
 
 ## mattermost 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 
 ## mcp 
 
@@ -11610,7 +11610,7 @@
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [backup/backup](https://github.com/backup/backup) - Easy full stack backup operations on UNIX-like systems.
 
@@ -13780,7 +13780,7 @@
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [wal-e/wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [EnterpriseDB/repmgr](https://github.com/EnterpriseDB/repmgr) - A lightweight replication manager for PostgreSQL (Postgres)
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
@@ -14383,7 +14383,7 @@
 
 ## raspberry-pi 
 
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## raster 
 
@@ -15407,7 +15407,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## self-service-portal 
 
@@ -15643,7 +15643,7 @@
 
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
@@ -15654,7 +15654,7 @@
 
 ## slack-bot 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
 
 ## slides 
@@ -15956,7 +15956,7 @@
 
 ## sqlite3 
 
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## sqlserver 
 
@@ -15969,7 +15969,7 @@
 - [electrolux-oss/infrakitchen](https://github.com/electrolux-oss/infrakitchen) - InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️
 - [platform-engineering-labs/formae](https://github.com/platform-engineering-labs/formae) - Infrastructure-as-Code Platform Built for the Future
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [palark/awesome-devops-telegram](https://github.com/palark/awesome-devops-telegram) - Telegram channels & groups about DevOps, SRE, and Platform Engineering.
 - [steve-mt/awesome-slo](https://github.com/steve-mt/awesome-slo) - Curated list of resources on SLOs
@@ -16518,7 +16518,7 @@
 ## tcp 
 
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 
 ## tcp-proxy 
 
@@ -16578,7 +16578,7 @@
 
 ## telegram 
 
-- [ML-ZoneReaper/monitor-monitoring](https://github.com/ML-ZoneReaper/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
+- [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 - [fxlrnrpt/telegram-to-rss](https://github.com/fxlrnrpt/telegram-to-rss) - Generate an RSS feed from Telegram chats. You digital minimalism friend.
 - [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
@@ -17438,7 +17438,7 @@
 
 ## version-control 
 
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## version-controlled-database 
 
