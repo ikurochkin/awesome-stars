@@ -3233,7 +3233,7 @@
 
 ## architectural-patterns 
 
-- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - Porto is a Modern Software Architectural Pattern that scales with your business!
+- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - A software architectural pattern that provides a comprehensive set of guidelines, principles, and patterns to organize code for high scalability, maintainability and reusability.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [thiagolunardi/FeatureToggle](https://github.com/thiagolunardi/FeatureToggle) - Feature Toggles (aka Feature Flags) described by Martin Fowler
 
@@ -3254,7 +3254,7 @@
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [continuous-architecture/toolkit](https://github.com/continuous-architecture/toolkit) - Navigate Exponential Change with the Continuous Architecture toolkit , Built for Speed, ready to deploy.
 - [unlight/solution-architecture](https://github.com/unlight/solution-architecture) - Solution Architecture links, articles, books, video lessons, etc.
-- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - Porto is a Modern Software Architectural Pattern that scales with your business!
+- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - A software architectural pattern that provides a comprehensive set of guidelines, principles, and patterns to organize code for high scalability, maintainability and reusability.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [tekiegirl/Archangels](https://github.com/tekiegirl/Archangels) - Entry to the O'Reilly Autumn 2021 Architectural Kata
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -3792,7 +3792,7 @@
 - [HowProgrammingWorks/SelfAssessment](https://github.com/HowProgrammingWorks/SelfAssessment) - Software engineering self assessment
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - Porto is a Modern Software Architectural Pattern that scales with your business!
+- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - A software architectural pattern that provides a comprehensive set of guidelines, principles, and patterns to organize code for high scalability, maintainability and reusability.
 - [docops-hq/conf](https://github.com/docops-hq/conf) - Конспекты докладов IT-конференций
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
@@ -6887,7 +6887,7 @@
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The discovery and governance layer for event-driven systems. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [dastergon/CardsAgainstReliability](https://github.com/dastergon/CardsAgainstReliability) - A party card game for engineers caring about reliability. Based on Cards Against Humanity.
@@ -8408,7 +8408,7 @@
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -8498,7 +8498,7 @@
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 - [shihanng/tfvar](https://github.com/shihanng/tfvar) - Terraform's variable definitions template generator.
@@ -11305,7 +11305,7 @@
 
 ## micro 
 
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
 
 ## microprocessor 
 
@@ -11334,7 +11334,7 @@
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
 - [unlight/solution-architecture](https://github.com/unlight/solution-architecture) - Solution Architecture links, articles, books, video lessons, etc.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [humank/ddd-practitioners-ref](https://github.com/humank/ddd-practitioners-ref) - EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.
@@ -14951,7 +14951,7 @@
 
 ## rpc 
 
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
 
 ## rpm 
 
@@ -15859,7 +15859,7 @@
 - [denyspoltorak/metapatterns](https://github.com/denyspoltorak/metapatterns) - Architectural Metapatterns book and wiki
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [mikaelvesavuori/codemetrix](https://github.com/mikaelvesavuori/codemetrix) - Understand the level of coupling and changeability of your code in a second. 🪄
-- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - Porto is a Modern Software Architectural Pattern that scales with your business!
+- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - A software architectural pattern that provides a comprehensive set of guidelines, principles, and patterns to organize code for high scalability, maintainability and reusability.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
@@ -17835,7 +17835,7 @@
 
 ## webdevelopment 
 
-- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - Porto is a Modern Software Architectural Pattern that scales with your business!
+- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - A software architectural pattern that provides a comprehensive set of guidelines, principles, and patterns to organize code for high scalability, maintainability and reusability.
 
 ## webex 
 
