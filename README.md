@@ -1093,6 +1093,7 @@
 - [hammerspoon](#hammerspoon)
 - [handbook](#handbook)
 - [haproxy-configuration](#haproxy-configuration)
+- [haproxy-gui](#haproxy-gui)
 - [haproxy-servers](#haproxy-servers)
 - [hardening](#hardening)
 - [hardware](#hardware)
@@ -9077,6 +9078,10 @@
 - [codepo8/developer-advocacy-handbook](https://github.com/codepo8/developer-advocacy-handbook) - This is the repo of the Developer Advocacy Handbook. It is here to file issues and to contribute.
 
 ## haproxy-configuration 
+
+- [roxy-wi/roxy-wi](https://github.com/roxy-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
+
+## haproxy-gui 
 
 - [roxy-wi/roxy-wi](https://github.com/roxy-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
 
