@@ -53,6 +53,7 @@
 - [ai-search](#ai-search)
 - [ai-search-engine](#ai-search-engine)
 - [ai-sre](#ai-sre)
+- [aicoding](#aicoding)
 - [aiops](#aiops)
 - [airgap](#airgap)
 - [airsim](#airsim)
@@ -1993,7 +1994,6 @@
 - [role](#role)
 - [root-cause-analysis](#root-cause-analysis)
 - [route53](#route53)
-- [rpc](#rpc)
 - [rpm](#rpm)
 - [rspec](#rspec)
 - [rss](#rss)
@@ -2785,6 +2785,7 @@
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -2824,6 +2825,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -2873,6 +2875,10 @@
 ## ai-sre 
 
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
+
+## aicoding 
+
+- [intent-driven-dev/openspec-schemas](https://github.com/intent-driven-dev/openspec-schemas) - Collection of OpenSpec Custom Schema for Workflows other than standard spec-driven schema that is included in OpenSpec.
 
 ## aiops 
 
@@ -6926,7 +6932,7 @@
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The discovery and governance layer for event-driven systems. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [dastergon/CardsAgainstReliability](https://github.com/dastergon/CardsAgainstReliability) - A party card game for engineers caring about reliability. Based on Cards Against Humanity.
@@ -8449,7 +8455,7 @@
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -8539,7 +8545,7 @@
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 - [shihanng/tfvar](https://github.com/shihanng/tfvar) - Terraform's variable definitions template generator.
@@ -11195,6 +11201,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -11376,7 +11383,7 @@
 
 ## micro 
 
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 
 ## microprocessor 
 
@@ -11405,7 +11412,7 @@
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [unlight/solution-architecture](https://github.com/unlight/solution-architecture) - Solution Architecture links, articles, books, video lessons, etc.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [humank/ddd-practitioners-ref](https://github.com/humank/ddd-practitioners-ref) - EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.
@@ -12542,6 +12549,7 @@
 
 ## others 
 
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) - Validator resource for checking datasets against the FOCUS specification
 - [bradenaw/backpressure](https://github.com/bradenaw/backpressure) - Prioritized semaphore/rate-limiter/adaptive throttle for load management.
 - [ClickHouse/CostBench](https://github.com/ClickHouse/CostBench) - Open benchmark for comparing cloud data warehouse performance per dollar
@@ -13232,7 +13240,7 @@
 - [citusdata/pgbench-tools](https://github.com/citusdata/pgbench-tools) - PostgreSQL Benchmarking Toolset
 - [etsy/opsweekly](https://github.com/etsy/opsweekly) - On call alert classification and reporting
 - [github/roskomnadzor](https://github.com/github/roskomnadzor) - deprecated archive — moved to https://github.com/github/gov-takedowns/tree/master/Russia
-- [realityforge/chef-glassfish](https://github.com/realityforge/chef-glassfish) - 
+- [realityforge/chef-glassfish](https://github.com/realityforge/chef-glassfish) - A cookbook for managing GlassFish
 - [dav3860/zabbix_dashboard](https://github.com/dav3860/zabbix_dashboard) - A dashboard for Zabbix
 - [devopsdeflope-podcast/deflope](https://github.com/devopsdeflope-podcast/deflope) - Devops deflope podcast site
 - [mtdvio/ru-tech-chats](https://github.com/mtdvio/ru-tech-chats) - This repo contains a list of various russian-speaking tech chats. Русскоязычные IT-чаты. Их есть у нас. Налетай, торопись!
@@ -15024,10 +15032,6 @@
 ## route53 
 
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-
-## rpc 
-
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
 
 ## rpm 
 
