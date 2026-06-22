@@ -12591,6 +12591,10 @@
 
 ## others 
 
+- [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) - 
+- [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+- [danielmeppiel/agentic-sdlc-handbook](https://github.com/danielmeppiel/agentic-sdlc-handbook) - The Agentic SDLC Handbook — dual-audience guide for C-suite and practitioners
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) - Validator resource for checking datasets against the FOCUS specification
 - [bradenaw/backpressure](https://github.com/bradenaw/backpressure) - Prioritized semaphore/rate-limiter/adaptive throttle for load management.
