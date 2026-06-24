@@ -377,6 +377,7 @@
 - [click](#click)
 - [clickhouse](#clickhouse)
 - [client](#client)
+- [cloc](#cloc)
 - [clojure](#clojure)
 - [cloud](#cloud)
 - [cloud-computing](#cloud-computing)
@@ -526,6 +527,7 @@
 - [cost-estimation](#cost-estimation)
 - [cost-management](#cost-management)
 - [cost-optimization](#cost-optimization)
+- [count-lines](#count-lines)
 - [counter](#counter)
 - [course](#course)
 - [courses](#courses)
@@ -4867,6 +4869,11 @@
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [httprb/http](https://github.com/httprb/http) - HTTP (The Gem! a.k.a. http.rb) - a fast Ruby HTTP client with a chainable API, streaming support, and timeouts
 
+## cloc 
+
+- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
 ## clojure 
 
 - [soulspace-org/overarch](https://github.com/soulspace-org/overarch) - Overarch provides a data model for the holistic description of a software system, opening multiple use cases on the model data. Supports C4 and UML diagram generation with PlantUML.
@@ -5769,6 +5776,10 @@
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
+
+## count-lines 
+
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## counter 
 
@@ -12591,6 +12602,7 @@
 
 ## others 
 
+- [fabriqaai/conceptual-model-pass](https://github.com/fabriqaai/conceptual-model-pass) - Ontology-first agent skill: classify a system's terms (category, owner, scope, lifecycle, domain vs. implementation) before deciding. skills.sh-compatible.
 - [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) - 
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [danielmeppiel/agentic-sdlc-handbook](https://github.com/danielmeppiel/agentic-sdlc-handbook) - The Agentic SDLC Handbook — dual-audience guide for C-suite and practitioners
