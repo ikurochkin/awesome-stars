@@ -53,6 +53,7 @@
 - [ai-search](#ai-search)
 - [ai-search-engine](#ai-search-engine)
 - [ai-sre](#ai-sre)
+- [ai-tools](#ai-tools)
 - [aicoding](#aicoding)
 - [aiops](#aiops)
 - [airgap](#airgap)
@@ -2773,6 +2774,7 @@
 
 ## ai 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 - [electrolux-oss/infrakitchen](https://github.com/electrolux-oss/infrakitchen) - InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.
@@ -2799,7 +2801,7 @@
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -2826,6 +2828,7 @@
 
 ## ai-agents 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benc
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -2840,7 +2843,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -2892,12 +2895,17 @@
 
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 
+## ai-tools 
+
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
+
 ## aicoding 
 
 - [intent-driven-dev/openspec-schemas](https://github.com/intent-driven-dev/openspec-schemas) - Collection of OpenSpec Custom Schema for Workflows other than standard spec-driven schema that is included in OpenSpec.
 
 ## aiops 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 
 ## airgap 
@@ -3570,6 +3578,8 @@
 
 ## awesome 
 
+- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [shano/awesome-backstage](https://github.com/shano/awesome-backstage) - 📋 A curated list of awesome Backstage resources!
 - [kuchin/awesome-tpm](https://github.com/kuchin/awesome-tpm) - A curated and opinionated list of resources for Technical Program Managers
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
@@ -3626,6 +3636,8 @@
 
 ## awesome-list 
 
+- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [shano/awesome-backstage](https://github.com/shano/awesome-backstage) - 📋 A curated list of awesome Backstage resources!
 - [kuchin/awesome-tpm](https://github.com/kuchin/awesome-tpm) - A curated and opinionated list of resources for Technical Program Managers
 - [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
@@ -4882,6 +4894,7 @@
 
 ## cloud 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec) - The Unifying Language for Technology Value
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [cloud-native-principles/cloud-native-principles](https://github.com/cloud-native-principles/cloud-native-principles) - 
@@ -4947,6 +4960,8 @@
 
 ## cloud-native 
 
+- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not jus
@@ -5542,6 +5557,7 @@
 
 ## containers 
 
+- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
@@ -6669,6 +6685,8 @@
 
 ## devops 
 
+- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 - [electrolux-oss/infrakitchen](https://github.com/electrolux-oss/infrakitchen) - InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.
@@ -6815,6 +6833,7 @@
 
 ## devsecops 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
@@ -6966,7 +6985,7 @@
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The discovery and governance layer for event-driven systems. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [dastergon/CardsAgainstReliability](https://github.com/dastergon/CardsAgainstReliability) - A party card game for engineers caring about reliability. Based on Cards Against Humanity.
@@ -8447,6 +8466,7 @@
 
 ## gitops 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 - [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.
@@ -8498,7 +8518,7 @@
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [iximiuz/kexp](https://github.com/iximiuz/kexp) - k'exp - Kubernetes Explorer
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -8588,7 +8608,7 @@
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [zalando/zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 - [shihanng/tfvar](https://github.com/shihanng/tfvar) - Terraform's variable definitions template generator.
@@ -9692,6 +9712,7 @@
 
 ## infrastructure-as-code 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 - [electrolux-oss/infrakitchen](https://github.com/electrolux-oss/infrakitchen) - InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.
 - [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
@@ -10297,6 +10318,7 @@
 
 ## kubernetes 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format.
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
@@ -10853,6 +10875,7 @@
 
 ## llm 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -11238,6 +11261,7 @@
 
 ## mcp 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -11249,7 +11273,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -11431,7 +11455,7 @@
 
 ## micro 
 
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 
 ## microprocessor 
 
@@ -11455,12 +11479,13 @@
 
 ## microservices 
 
+- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The discovery and governance layer for event-driven systems. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [unlight/solution-architecture](https://github.com/unlight/solution-architecture) - Solution Architecture links, articles, books, video lessons, etc.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [humank/ddd-practitioners-ref](https://github.com/humank/ddd-practitioners-ref) - EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.
@@ -12123,6 +12148,7 @@
 
 ## observability 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 - [philyuchkoff/slozy-oss](https://github.com/philyuchkoff/slozy-oss) - Automated and simplified SLO creation for product teams and developers. Full alerting support, OpenSLO YAML format.
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
@@ -13816,6 +13842,7 @@
 
 ## platform-engineering 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [electrolux-oss/infrakitchen](https://github.com/electrolux-oss/infrakitchen) - InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - The open source control plane for agentic engineering.
 - [Cloud-Native-Platform-Engineering/cnpe-community](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community) - 📨🚚Cloud Native Platform Engineering Community
@@ -16212,6 +16239,7 @@
 
 ## sre 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 - [electrolux-oss/infrakitchen](https://github.com/electrolux-oss/infrakitchen) - InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️
@@ -16907,6 +16935,7 @@
 
 ## terraform 
 
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 - [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 - [overmindtech/cli](https://github.com/overmindtech/cli) - Identify the blast radius and risks for Terraform changes in real time
