@@ -29,6 +29,7 @@
 - [agent](#agent)
 - [agent-builder](#agent-builder)
 - [agent-memory](#agent-memory)
+- [agent-plugins](#agent-plugins)
 - [agent-skills](#agent-skills)
 - [agentic-ai](#agentic-ai)
 - [agentic-coding](#agentic-coding)
@@ -2716,6 +2717,10 @@
 ## agent-memory 
 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+
+## agent-plugins 
+
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 
 ## agent-skills 
 
