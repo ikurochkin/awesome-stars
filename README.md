@@ -2585,6 +2585,7 @@
 - [xctest](#xctest)
 - [ximalaya](#ximalaya)
 - [xml](#xml)
+- [xp](#xp)
 - [xterm](#xterm)
 - [y-combinator](#y-combinator)
 - [yabai](#yabai)
@@ -18287,6 +18288,10 @@
 ## xml 
 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+
+## xp 
+
+- [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
 
 ## xterm 
 
