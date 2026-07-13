@@ -326,6 +326,7 @@
 - [channels](#channels)
 - [chaos](#chaos)
 - [chaos-engineering](#chaos-engineering)
+- [chaos-experiments](#chaos-experiments)
 - [chaos-monkey](#chaos-monkey)
 - [chaos-testing](#chaos-testing)
 - [chaostoolkit](#chaostoolkit)
@@ -4505,6 +4506,10 @@
 - [chaostoolkit/chaostoolkit-kubernetes](https://github.com/chaostoolkit/chaostoolkit-kubernetes) - Kubernetes driver extension of the Chaos Toolkit probes and actions API
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
+
+## chaos-experiments 
+
+- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 
 ## chaos-monkey 
 
@@ -12705,6 +12710,7 @@
 
 ## others 
 
+- [salesforce/PyRCA](https://github.com/salesforce/PyRCA) - PyRCA: A Python Machine Learning Library for Root Cause Analysis
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 - [fabriqaai/conceptual-model-pass](https://github.com/fabriqaai/conceptual-model-pass) - Ontology-first agent skill: classify a system's terms (category, owner, scope, lifecycle, domain vs. implementation) before deciding. skills.sh-compatible.
 - [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) - 
