@@ -12710,6 +12710,8 @@
 
 ## others 
 
+- [AlexPronsky/vibe-structurizr](https://github.com/AlexPronsky/vibe-structurizr) - 
+- [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
 - [salesforce/PyRCA](https://github.com/salesforce/PyRCA) - PyRCA: A Python Machine Learning Library for Root Cause Analysis
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 - [fabriqaai/conceptual-model-pass](https://github.com/fabriqaai/conceptual-model-pass) - Ontology-first agent skill: classify a system's terms (category, owner, scope, lifecycle, domain vs. implementation) before deciding. skills.sh-compatible.
