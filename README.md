@@ -3287,7 +3287,7 @@
 
 ## appsec 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -6072,7 +6072,7 @@
 
 ## cyclonedx 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 - [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -12714,7 +12714,7 @@
 
 ## oss-compliance 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 - [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 
@@ -14094,7 +14094,7 @@
 
 ## post-quantum-cryptography 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 
 ## postgres 
 
@@ -14163,7 +14163,7 @@
 
 ## pqc 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 
 ## practice 
 
@@ -15458,7 +15458,7 @@
 
 ## sarif 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 
 ## sarif-report 
 
@@ -15475,7 +15475,7 @@
 
 ## sbom 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 - [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
@@ -15490,7 +15490,7 @@
 
 ## sbom-tool 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 
 ## sca 
 
@@ -16216,7 +16216,7 @@
 
 ## software-supply-chain-security 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 
 ## software-testing 
 
@@ -16256,7 +16256,7 @@
 
 ## spdx 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 - [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -17878,7 +17878,7 @@
 
 ## vex 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 
 ## vibe-coding 
 
@@ -18062,7 +18062,7 @@
 
 ## vulnerability-management 
 
-- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading,
+- [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - ASOC, ASPM, DevSecOps, Vulnerability Management Using ArcherySec.
