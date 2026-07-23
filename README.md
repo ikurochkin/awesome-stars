@@ -7,6 +7,7 @@
 
 - [12-factor](#12-factor)
 - [12-factor-agents](#12-factor-agents)
+- [a11y](#a11y)
 - [ab-testing](#ab-testing)
 - [abstract-syntax-tree](#abstract-syntax-tree)
 - [abtest](#abtest)
@@ -16,6 +17,7 @@
 - [accelerate](#accelerate)
 - [acceptance-testing](#acceptance-testing)
 - [access-control](#access-control)
+- [accessibility](#accessibility)
 - [acme](#acme)
 - [acme-client](#acme-client)
 - [acp](#acp)
@@ -769,6 +771,7 @@
 - [doctor](#doctor)
 - [doctrine](#doctrine)
 - [document](#document)
+- [document-parsing](#document-parsing)
 - [documentation](#documentation)
 - [documentation-as-code](#documentation-as-code)
 - [documentation-tool](#documentation-tool)
@@ -1659,6 +1662,7 @@
 - [ocaml](#ocaml)
 - [oci](#oci)
 - [ocr](#ocr)
+- [ocr-recognition](#ocr-recognition)
 - [offline-capable](#offline-capable)
 - [offline-llm](#offline-llm)
 - [oh-my-zsh](#oh-my-zsh)
@@ -1763,6 +1767,9 @@
 - [pcap](#pcap)
 - [pdf](#pdf)
 - [pdf-annotator](#pdf-annotator)
+- [pdf-converter](#pdf-converter)
+- [pdf-extraction](#pdf-extraction)
+- [pdf-parser](#pdf-parser)
 - [pdf-viewer](#pdf-viewer)
 - [pdk](#pdk)
 - [peer-review](#peer-review)
@@ -2310,6 +2317,7 @@
 - [systems](#systems)
 - [systems-thinking](#systems-thinking)
 - [t3-stack](#t3-stack)
+- [tables](#tables)
 - [tabletop](#tabletop)
 - [tabletop-simulator](#tabletop-simulator)
 - [tacos](#tacos)
@@ -2622,6 +2630,10 @@
 
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
+## a11y 
+
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+
 ## ab-testing 
 
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -2661,6 +2673,10 @@
 ## access-control 
 
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
+
+## accessibility 
+
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## acme 
 
@@ -2809,6 +2825,7 @@
 
 ## ai 
 
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [grafana/o11y-bench](https://github.com/grafana/o11y-bench) - Open benchmark on observability tasks built on Harbor
 - [umputun/agterm](https://github.com/umputun/agterm) - Terminal for agentic flow
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
@@ -2874,7 +2891,7 @@
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
@@ -2908,7 +2925,7 @@
 ## ai-governance 
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) - An open standard for declaring AI usage in software projects.
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 
 ## ai-memory 
 
@@ -3373,7 +3390,7 @@
 
 ## architecture-decision-records 
 
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 
 ## archive 
@@ -4795,7 +4812,7 @@
 - [bitsmuggler/c4-skill](https://github.com/bitsmuggler/c4-skill) - Claude Code skill to create a C4 model based on an existing code base
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 
@@ -5220,7 +5237,7 @@
 - [DXHeroes/dx-scanner](https://github.com/DXHeroes/dx-scanner) - CLI tool that allows you to measure quality of a team work and an app based on your source code.
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
@@ -5241,7 +5258,7 @@
 ## codereview 
 
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 
 ## codex 
@@ -5253,7 +5270,7 @@
 ## codex-cli 
 
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 
 ## codex-skills 
 
@@ -5272,7 +5289,7 @@
 
 ## coding-assistant 
 
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
 ## coding-exercises 
 
@@ -5433,7 +5450,7 @@
 ## compliance 
 
 - [essadek/A-Practical-Due-Diligence-Framework-Before-Your-Business-Commits-to-Open-Source](https://github.com/essadek/A-Practical-Due-Diligence-Framework-Before-Your-Business-Commits-to-Open-Source) - A systematic, evidence-based framework to evaluate open-source software risk and sustainability.
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more
 - [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
@@ -6143,7 +6160,7 @@
 - [oss-compass/compass-web](https://github.com/oss-compass/compass-web) - Frontend project for the OSS Compass
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [mntnr/dashboard](https://github.com/mntnr/dashboard) - A status board for repositories within a GitHub organization.
-- [neo4j-labs/neodash](https://github.com/neo4j-labs/neodash) - NeoDash - a Dashboard Builder for Neo4j
+- [neo4j-contrib/neodash](https://github.com/neo4j-contrib/neodash) - NeoDash - a Dashboard Builder for Neo4j
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
@@ -6938,7 +6955,7 @@
 ## devtools 
 
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [0xDones/tfgen](https://github.com/0xDones/tfgen) - Terraform code generator for consistent codebase and DRY
 
 ## dhcp 
@@ -7263,6 +7280,10 @@
 ## document 
 
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+
+## document-parsing 
+
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## documentation 
 
@@ -7642,7 +7663,7 @@
 
 ## enterprise-architecture 
 
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 
 ## enterprise-search 
 
@@ -8243,7 +8264,7 @@
 ## gemini-cli 
 
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 
 ## gemini-cli-extension 
 
@@ -8463,7 +8484,7 @@
 
 ## github-copilot 
 
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 
 ## github-discussions 
 
@@ -8861,7 +8882,7 @@
 
 ## govtech 
 
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 
 ## gpt 
 
@@ -8877,7 +8898,7 @@
 
 ## gpt-4 
 
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
@@ -8953,7 +8974,7 @@
 - [monora/rgl](https://github.com/monora/rgl) - RGL is a framework for graph data structures and algorithms in Ruby.
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
-- [neo4j-labs/neodash](https://github.com/neo4j-labs/neodash) - NeoDash - a Dashboard Builder for Neo4j
+- [neo4j-contrib/neodash](https://github.com/neo4j-contrib/neodash) - NeoDash - a Dashboard Builder for Neo4j
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
 - [anaynayak/aws-security-viz](https://github.com/anaynayak/aws-security-viz) - Visualize your aws security groups.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
@@ -9503,6 +9524,7 @@
 
 ## html 
 
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive reactive web applications!
 
@@ -10201,6 +10223,7 @@
 
 ## json 
 
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files
@@ -11319,6 +11342,7 @@
 
 ## markdown 
 
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
@@ -11382,7 +11406,7 @@
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -11722,7 +11746,7 @@
 
 ## model-context-protocol 
 
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 
 ## modelica 
 
@@ -11991,7 +12015,7 @@
 
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
-- [neo4j-labs/neodash](https://github.com/neo4j-labs/neodash) - NeoDash - a Dashboard Builder for Neo4j
+- [neo4j-contrib/neodash](https://github.com/neo4j-contrib/neodash) - NeoDash - a Dashboard Builder for Neo4j
 
 ## neovim 
 
@@ -12186,7 +12210,7 @@
 
 ## nodes-2022 
 
-- [neo4j-labs/neodash](https://github.com/neo4j-labs/neodash) - NeoDash - a Dashboard Builder for Neo4j
+- [neo4j-contrib/neodash](https://github.com/neo4j-contrib/neodash) - NeoDash - a Dashboard Builder for Neo4j
 
 ## nomad 
 
@@ -12377,7 +12401,12 @@
 
 ## ocr 
 
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
+
+## ocr-recognition 
+
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## offline-capable 
 
@@ -12523,7 +12552,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4.1, gpt-4o model) and automatically installs a git prepare-commit-msg hook.
@@ -12573,7 +12602,7 @@
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 
 ## opencost 
@@ -12759,6 +12788,9 @@
 
 ## others 
 
+- [kulakov/statement](https://github.com/kulakov/statement) - Манифесты и заявления — личные тексты, на которые можно ссылаться
+- [METR/RE-Bench](https://github.com/METR/RE-Bench) - 
+- [METR/Measuring-Late-2025-AI-on-OSS-Devs](https://github.com/METR/Measuring-Late-2025-AI-on-OSS-Devs) - 
 - [ks-tool/horchestra](https://github.com/ks-tool/horchestra) - 
 - [richardwooding/feed-mcp](https://github.com/richardwooding/feed-mcp) - MCP Server for RSS, Atom, and JSON Feeds
 - [AlexPronsky/vibe-structurizr](https://github.com/AlexPronsky/vibe-structurizr) - 
@@ -13817,6 +13849,7 @@
 
 ## pdf 
 
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
@@ -13824,6 +13857,18 @@
 ## pdf-annotator 
 
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
+
+## pdf-converter 
+
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+
+## pdf-extraction 
+
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+
+## pdf-parser 
+
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## pdf-viewer 
 
@@ -14273,7 +14318,7 @@
 
 ## procurement 
 
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 
 ## product-design 
 
@@ -14507,7 +14552,7 @@
 
 ## public-sector 
 
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 
 ## publiccode 
 
@@ -14526,7 +14571,7 @@
 
 ## pull-request 
 
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
 ## pull-request-review 
 
@@ -14541,7 +14586,7 @@
 - [kortirso/pullmetry](https://github.com/kortirso/pullmetry) - PullKeeper - app for getting relevant stats about PRs and reviewers
 - [middlewarehq/unwrapped](https://github.com/middlewarehq/unwrapped) - Spotify Wrapped for developers.
 - [watermelontools/watermelon](https://github.com/watermelontools/watermelon) - 🍉 Open-Source Copilot For Code Review
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [decentralizedlabs/pr-codex](https://github.com/decentralizedlabs/pr-codex) - A ChatGPT-powered bot to summarize PR code diffs
 
 ## pulumi 
@@ -14765,6 +14810,7 @@
 
 ## rag 
 
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -15129,7 +15175,7 @@
 
 ## requirements-engineering 
 
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 
 ## research 
 
@@ -16198,7 +16244,7 @@
 ## software-architecture 
 
 - [bitsmuggler/c4-skill](https://github.com/bitsmuggler/c4-skill) - Claude Code skill to create a C4 model based on an existing code base
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 - [denyspoltorak/metapatterns](https://github.com/denyspoltorak/metapatterns) - Architectural Metapatterns book and wiki
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [mikaelvesavuori/codemetrix](https://github.com/mikaelvesavuori/codemetrix) - Understand the level of coupling and changeability of your code in a second. 🪄
@@ -16903,6 +16949,10 @@
 
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 
+## tables 
+
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+
 ## tabletop 
 
 - [sobolevn/ship-it-boardgame](https://github.com/sobolevn/ship-it-boardgame) - Social and fun boardgame about IT. Best with 🍻
@@ -17512,7 +17562,7 @@
 
 ## traceability 
 
-- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
 
 ## traces 
 
@@ -17989,7 +18039,7 @@
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [apache/kibble](https://github.com/apache/kibble) - Apache Kibble - a tool to collect, aggregate and visualize data about any software project
-- [neo4j-labs/neodash](https://github.com/neo4j-labs/neodash) - NeoDash - a Dashboard Builder for Neo4j
+- [neo4j-contrib/neodash](https://github.com/neo4j-contrib/neodash) - NeoDash - a Dashboard Builder for Neo4j
 - [LegacyCodeHQ/eureka](https://github.com/LegacyCodeHQ/eureka) - Breakthrough tooling to work with Kotlin and Java codebases 🚀
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [kubernetes-retired/kui](https://github.com/kubernetes-retired/kui) - A hybrid command-line/UI development experience for cloud-native development
