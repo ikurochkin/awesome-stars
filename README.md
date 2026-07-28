@@ -2556,6 +2556,7 @@
 - [vulnerability-management](#vulnerability-management)
 - [vulnerability-scanner](#vulnerability-scanner)
 - [vulnerability-scanners](#vulnerability-scanners)
+- [vulnerable-app](#vulnerable-app)
 - [vuls](#vuls)
 - [waf](#waf)
 - [wardley-maps](#wardley-maps)
@@ -12835,6 +12836,7 @@
 
 ## others 
 
+- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud o
 - [unionai-oss/agentic-design-patterns](https://github.com/unionai-oss/agentic-design-patterns) - This repo implements Agentic Design Patterns code from Antonio Giulli's book with Flyte V2
 - [niallrmurphy/standard-doctrine](https://github.com/niallrmurphy/standard-doctrine) - Documenting the underlying intuitions we have about software.
@@ -18231,6 +18233,10 @@
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+
+## vulnerable-app 
+
+- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 
 ## vuls 
 
