@@ -12836,6 +12836,7 @@
 
 ## others 
 
+- [sa4s-serc/archbench](https://github.com/sa4s-serc/archbench) - Leveraging Large Language Models for Software Architecture Specific Tasks
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud o
 - [unionai-oss/agentic-design-patterns](https://github.com/unionai-oss/agentic-design-patterns) - This repo implements Agentic Design Patterns code from Antonio Giulli's book with Flyte V2
