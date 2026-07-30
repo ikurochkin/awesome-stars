@@ -1492,6 +1492,7 @@
 - [mask](#mask)
 - [masking](#masking)
 - [mattermost](#mattermost)
+- [maximum-likelihood-estimation](#maximum-likelihood-estimation)
 - [mcp](#mcp)
 - [mcp-client](#mcp-client)
 - [mcp-gateway](#mcp-gateway)
@@ -2297,6 +2298,7 @@
 - [survey-form](#survey-form)
 - [surveyjs](#surveyjs)
 - [surveys](#surveys)
+- [survival-analysis](#survival-analysis)
 - [svelte](#svelte)
 - [sveltekit](#sveltekit)
 - [svg](#svg)
@@ -2840,6 +2842,7 @@
 
 ## ai 
 
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [grafana/o11y-bench](https://github.com/grafana/o11y-bench) - Open benchmark on observability tasks built on Harbor
 - [umputun/agterm](https://github.com/umputun/agterm) - Terminal for agentic flow
@@ -6327,6 +6330,7 @@
 
 ## data-science 
 
+- [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 
@@ -11042,6 +11046,7 @@
 
 ## llm 
 
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [grafana/o11y-bench](https://github.com/grafana/o11y-bench) - Open benchmark on observability tasks built on Harbor
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
@@ -11442,6 +11447,10 @@
 
 - [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
 
+## maximum-likelihood-estimation 
+
+- [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
+
 ## mcp 
 
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
@@ -11525,6 +11534,7 @@
 
 ## memory 
 
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
 ## mentions 
@@ -11801,6 +11811,7 @@
 
 ## modeling 
 
+- [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
 - [ddd-crew/eventstorming-glossary-cheat-sheet](https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet) - 
 
 ## modeling-dynamic-systems 
@@ -12345,6 +12356,7 @@
 
 ## observability 
 
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
@@ -12708,6 +12720,7 @@
 
 ## opentelemetry 
 
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
 - [open-telemetry/community](https://github.com/open-telemetry/community) - OpenTelemetry community content
@@ -14702,6 +14715,7 @@
 
 ## python 
 
+- [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
 - [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - The open source control plane for agentic engineering.
@@ -14926,6 +14940,7 @@
 
 ## react 
 
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - The open source control plane for agentic engineering.
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
@@ -15150,6 +15165,7 @@
 
 ## reliability-engineering 
 
+- [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
 - [philyuchkoff/slozy-oss](https://github.com/philyuchkoff/slozy-oss) - Automated and simplified SLO creation for product teams and developers. Full alerting support, OpenSLO YAML format.
 - [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Toolkit & Orchestration for Developers
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
@@ -15923,6 +15939,7 @@
 
 ## self-hosted 
 
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
@@ -16111,6 +16128,7 @@
 
 ## simulation 
 
+- [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 
 ## simulator 
@@ -16166,6 +16184,7 @@
 
 ## skills 
 
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -16646,6 +16665,7 @@
 
 ## statistics 
 
+- [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
 - [ejwa/gitinspector](https://github.com/ejwa/gitinspector) - :bar_chart: The statistical analysis tool for git repositories
 - [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [jtprogru/obsidian-vault-full-statistics-plugin](https://github.com/jtprogru/obsidian-vault-full-statistics-plugin) - Status bar item with vault full statistics such as number of notes, links, tags and quality of vault.
@@ -16862,6 +16882,10 @@
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [cncf/surveys](https://github.com/cncf/surveys) - 📝📊 CNCF Survey Data
+
+## survival-analysis 
+
+- [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
 
 ## svelte 
 
@@ -17810,6 +17834,7 @@
 
 ## typescript 
 
+- [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
