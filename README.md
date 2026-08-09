@@ -1109,7 +1109,6 @@
 - [grimoirelab](#grimoirelab)
 - [groovy](#groovy)
 - [grpc](#grpc)
-- [gtd](#gtd)
 - [gui](#gui)
 - [guidebook](#guidebook)
 - [guidelines](#guidelines)
@@ -2978,6 +2977,7 @@
 
 ## ai-memory 
 
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 
 ## ai-project 
@@ -9177,10 +9177,6 @@
 
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [kolide/launcher](https://github.com/kolide/launcher) - Osquery launcher, autoupdater, and packager
-
-## gtd 
-
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 
 ## gui 
 
@@ -18318,7 +18314,6 @@
 
 ## vscode 
 
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - Generate interactive call graphs for various languages
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
