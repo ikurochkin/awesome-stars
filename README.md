@@ -627,7 +627,6 @@
 - [data-pipelines](#data-pipelines)
 - [data-profiling](#data-profiling)
 - [data-quality](#data-quality)
-- [data-quality-checks](#data-quality-checks)
 - [data-science](#data-science)
 - [data-science-club](#data-science-club)
 - [data-security](#data-security)
@@ -1690,6 +1689,7 @@
 - [oh-my-zsh-theme](#oh-my-zsh-theme)
 - [ohmyzsh](#ohmyzsh)
 - [oidc](#oidc)
+- [okf](#okf)
 - [olap](#olap)
 - [ollama](#ollama)
 - [ollama-webui](#ollama-webui)
@@ -1699,6 +1699,7 @@
 - [one-liners](#one-liners)
 - [onewire](#onewire)
 - [onion-architecture](#onion-architecture)
+- [ontologies](#ontologies)
 - [oop](#oop)
 - [opa](#opa)
 - [open-data](#open-data)
@@ -6391,10 +6392,6 @@
 - [bitol-io/open-data-contract-standard](https://github.com/bitol-io/open-data-contract-standard) - Home of the Open Data Contract Standard (ODCS).
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
 
-## data-quality-checks 
-
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
-
 ## data-science 
 
 - [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
@@ -6503,7 +6500,6 @@
 
 ## dataengineering 
 
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 
 ## dataquality 
@@ -12610,6 +12606,10 @@
 
 - [mattrobinsonsre/terrapod](https://github.com/mattrobinsonsre/terrapod) - Open-source Terraform Enterprise replacement
 
+## okf 
+
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
+
 ## olap 
 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -12654,6 +12654,10 @@
 ## onion-architecture 
 
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
+
+## ontologies 
+
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
 
 ## oop 
 
@@ -12968,6 +12972,8 @@
 
 ## others 
 
+- [basecamp/manager-playbook](https://github.com/basecamp/manager-playbook) - Handbook for people leaders at 37signals.
+- [s1onique/k9b](https://github.com/s1onique/k9b) - Canine Bee is your flying shepherd dog for Kubernetes cattle
 - [glebis/humane-agentic-design](https://github.com/glebis/humane-agentic-design) - Humane Agentic Design — a human-centric design method cycle for people and agents
 - [orgarchos/arch-os](https://github.com/orgarchos/arch-os) - Adaptive Rhythms of Capacity and Horizons - A Human Systems Engineering Framework for Modern Technical Organizations
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
