@@ -695,6 +695,7 @@
 - [design-system](#design-system)
 - [design-systems](#design-systems)
 - [design-tools](#design-tools)
+- [desktop-app](#desktop-app)
 - [detection](#detection)
 - [detector](#detector)
 - [dev](#dev)
@@ -1068,6 +1069,7 @@
 - [google-sheets](#google-sheets)
 - [google-summer-of-code](#google-summer-of-code)
 - [google-workspace](#google-workspace)
+- [googlecloud](#googlecloud)
 - [googleforms](#googleforms)
 - [googlers](#googlers)
 - [gopher](#gopher)
@@ -1432,6 +1434,7 @@
 - [llamacpp](#llamacpp)
 - [llm](#llm)
 - [llm-gateway](#llm-gateway)
+- [llm-ops](#llm-ops)
 - [llm-security](#llm-security)
 - [llm-ui](#llm-ui)
 - [llm-webui](#llm-webui)
@@ -3070,6 +3073,7 @@
 
 ## alerting 
 
+- [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
@@ -4455,6 +4459,7 @@
 
 ## calendar 
 
+- [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [linkedin/oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
@@ -6742,6 +6747,10 @@
 
 - [nocomplexity/ArchitecturePlaybook](https://github.com/nocomplexity/ArchitecturePlaybook) - The Open Architecture Playbook. Use it to create better and faster (IT)Architectures. OSS Tools, templates and more for solving IT problems using real open architecture tools that work!
 
+## desktop-app 
+
+- [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
+
 ## detection 
 
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️
@@ -6876,6 +6885,8 @@
 
 ## devops 
 
+- [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
+- [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
@@ -8909,6 +8920,7 @@
 
 ## google 
 
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
@@ -8966,6 +8978,10 @@
 ## google-workspace 
 
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
+## googlecloud 
+
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 
 ## googleforms 
 
@@ -9781,6 +9797,7 @@
 
 ## ide 
 
+- [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 
 ## ideas 
@@ -9871,6 +9888,7 @@
 
 ## incident-response 
 
+- [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [PagerDuty/incident-response-docs](https://github.com/PagerDuty/incident-response-docs) - PagerDuty's Incident Response Documentation.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -10570,6 +10588,7 @@
 
 ## kubernetes 
 
+- [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
 - [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud o
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [philippemerle/Awesome-Kubernetes-Architecture-Diagrams](https://github.com/philippemerle/Awesome-Kubernetes-Architecture-Diagrams) - Awesome Kubernetes Architecture Diagrams
@@ -11166,6 +11185,10 @@
 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 
+## llm-ops 
+
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
+
 ## llm-security 
 
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
@@ -11554,6 +11577,7 @@
 
 ## mcp 
 
+- [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
@@ -11987,6 +12011,7 @@
 
 ## monitoring 
 
+- [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [philyuchkoff/slozy-oss](https://github.com/philyuchkoff/slozy-oss) - Automated and simplified SLO creation for product teams and developers. Full alerting support, OpenSLO YAML format.
 - [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
@@ -12627,6 +12652,7 @@
 
 ## on-call 
 
+- [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
@@ -12638,6 +12664,7 @@
 
 ## oncall 
 
+- [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [PagerDuty/incident-response-docs](https://github.com/PagerDuty/incident-response-docs) - PagerDuty's Incident Response Documentation.
 - [grafana-cold-storage/oncall](https://github.com/grafana-cold-storage/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [linkedin/oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like http://iris.claims.
@@ -12972,6 +12999,8 @@
 
 ## others 
 
+- [Grace-RGe/decision-systems-toolkit](https://github.com/Grace-RGe/decision-systems-toolkit) - Practical decision tools built with analytics, statistics, and AI.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [basecamp/manager-playbook](https://github.com/basecamp/manager-playbook) - Handbook for people leaders at 37signals.
 - [s1onique/k9b](https://github.com/s1onique/k9b) - Canine Bee is your flying shepherd dog for Kubernetes cattle
 - [glebis/humane-agentic-design](https://github.com/glebis/humane-agentic-design) - Humane Agentic Design — a human-centric design method cycle for people and agents
@@ -12993,7 +13022,7 @@
 - [kulakov/statement](https://github.com/kulakov/statement) - Манифесты и заявления — личные тексты, на которые можно ссылаться
 - [METR/RE-Bench](https://github.com/METR/RE-Bench) - 
 - [METR/Measuring-Late-2025-AI-on-OSS-Devs](https://github.com/METR/Measuring-Late-2025-AI-on-OSS-Devs) - 
-- [ks-tool/horchestra](https://github.com/ks-tool/horchestra) - 
+- [ks-tool/horchestra](https://github.com/ks-tool/horchestra) - Drives systemd with kubectl
 - [richardwooding/feed-mcp](https://github.com/richardwooding/feed-mcp) - MCP Server for RSS, Atom, and JSON Feeds
 - [AlexPronsky/vibe-structurizr](https://github.com/AlexPronsky/vibe-structurizr) - 
 - [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
@@ -15694,6 +15723,7 @@
 
 ## rust 
 
+- [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -16085,6 +16115,7 @@
 
 ## self-hosted 
 
+- [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
@@ -16332,6 +16363,7 @@
 
 ## skills 
 
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
@@ -16674,6 +16706,8 @@
 
 ## sre 
 
+- [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
+- [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
@@ -17248,6 +17282,7 @@
 
 ## tauri 
 
+- [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
 ## tcp 
