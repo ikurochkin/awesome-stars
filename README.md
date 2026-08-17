@@ -13022,7 +13022,6 @@
 - [kulakov/statement](https://github.com/kulakov/statement) - Манифесты и заявления — личные тексты, на которые можно ссылаться
 - [METR/RE-Bench](https://github.com/METR/RE-Bench) - 
 - [METR/Measuring-Late-2025-AI-on-OSS-Devs](https://github.com/METR/Measuring-Late-2025-AI-on-OSS-Devs) - 
-- [ks-tool/horchestra](https://github.com/ks-tool/horchestra) - Drives systemd with kubectl
 - [richardwooding/feed-mcp](https://github.com/richardwooding/feed-mcp) - MCP Server for RSS, Atom, and JSON Feeds
 - [AlexPronsky/vibe-structurizr](https://github.com/AlexPronsky/vibe-structurizr) - 
 - [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
