@@ -7213,7 +7213,7 @@
 
 ## diff 
 
-- [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
+- [remorses/critique](https://github.com/remorses/critique) - TUI & website for reviewing git changes
 - [GumTreeDiff/gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
@@ -13061,7 +13061,7 @@
 
 ## opentui 
 
-- [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
+- [remorses/critique](https://github.com/remorses/critique) - TUI & website for reviewing git changes
 
 ## openvpn 
 
@@ -18181,7 +18181,7 @@
 
 - [marcus/sidecar](https://github.com/marcus/sidecar) - Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
-- [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
+- [remorses/critique](https://github.com/remorses/critique) - TUI & website for reviewing git changes
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
