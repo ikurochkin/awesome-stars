@@ -63,6 +63,7 @@
 - [ai-red-teaming](#ai-red-teaming)
 - [ai-research](#ai-research)
 - [ai-safety](#ai-safety)
+- [ai-scientist](#ai-scientist)
 - [ai-search](#ai-search)
 - [ai-search-engine](#ai-search-engine)
 - [ai-security](#ai-security)
@@ -285,6 +286,7 @@
 - [broker](#broker)
 - [browser](#browser)
 - [browser-automation](#browser-automation)
+- [browser-history](#browser-history)
 - [bsd](#bsd)
 - [bug-bounty](#bug-bounty)
 - [bug-tracker](#bug-tracker)
@@ -366,6 +368,7 @@
 - [checker](#checker)
 - [checklist](#checklist)
 - [chef](#chef)
+- [chemoinformatics](#chemoinformatics)
 - [child-process](#child-process)
 - [choreography](#choreography)
 - [chrome-devtools](#chrome-devtools)
@@ -391,6 +394,7 @@
 - [claude-skill](#claude-skill)
 - [claude-skills](#claude-skills)
 - [claude-subagents](#claude-subagents)
+- [claudecode](#claudecode)
 - [clawdbot](#clawdbot)
 - [clean-architecture](#clean-architecture)
 - [cli](#cli)
@@ -399,6 +403,7 @@
 - [click](#click)
 - [clickhouse](#clickhouse)
 - [client](#client)
+- [clinical-research](#clinical-research)
 - [cloc](#cloc)
 - [clojure](#clojure)
 - [clone](#clone)
@@ -807,6 +812,7 @@
 - [drift-detection](#drift-detection)
 - [driver](#driver)
 - [drones](#drones)
+- [drug-discovery](#drug-discovery)
 - [dsl](#dsl)
 - [due-diligence](#due-diligence)
 - [duplicates](#duplicates)
@@ -887,6 +893,7 @@
 - [estimation](#estimation)
 - [etcd](#etcd)
 - [etl](#etl)
+- [evals](#evals)
 - [evaluation-framework](#evaluation-framework)
 - [event-driven](#event-driven)
 - [event-driven-architecture](#event-driven-architecture)
@@ -1005,6 +1012,7 @@
 - [generative-ai](#generative-ai)
 - [generator](#generator)
 - [generators](#generators)
+- [genomics](#genomics)
 - [geopolitics](#geopolitics)
 - [getting-started](#getting-started)
 - [gguf](#gguf)
@@ -1235,6 +1243,7 @@
 - [incidents](#incidents)
 - [incremental](#incremental)
 - [independence](#independence)
+- [index](#index)
 - [indiedev](#indiedev)
 - [influxdb](#influxdb)
 - [information-retrieval](#information-retrieval)
@@ -1518,6 +1527,7 @@
 - [martin-fowler](#martin-fowler)
 - [mask](#mask)
 - [masking](#masking)
+- [materials-science](#materials-science)
 - [mattermost](#mattermost)
 - [maximum-likelihood-estimation](#maximum-likelihood-estimation)
 - [mcp](#mcp)
@@ -1544,6 +1554,7 @@
 - [mesos](#mesos)
 - [meta-relational-learning](#meta-relational-learning)
 - [metabase](#metabase)
+- [metabolomics](#metabolomics)
 - [metadata](#metadata)
 - [metadata-management](#metadata-management)
 - [metadata-standard](#metadata-standard)
@@ -1831,6 +1842,7 @@
 - [performance-testing](#performance-testing)
 - [performance-tools](#performance-tools)
 - [performance-tuning](#performance-tuning)
+- [personal-search](#personal-search)
 - [pharo](#pharo)
 - [php](#php)
 - [pipe](#pipe)
@@ -1932,6 +1944,7 @@
 - [promql](#promql)
 - [proofreading](#proofreading)
 - [properties](#properties)
+- [proteomics](#proteomics)
 - [protocol](#protocol)
 - [provenance](#provenance)
 - [provider](#provider)
@@ -2133,7 +2146,9 @@
 - [schema-migrations](#schema-migrations)
 - [schemas](#schemas)
 - [science](#science)
+- [scientific-computing](#scientific-computing)
 - [scientific-software](#scientific-software)
+- [scientific-visualization](#scientific-visualization)
 - [scm](#scm)
 - [scorecard](#scorecard)
 - [scraper](#scraper)
@@ -2836,6 +2851,7 @@
 
 ## agent-skills 
 
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [mkanat/skills](https://github.com/mkanat/skills) - Code-quality skills by Max Kanat-Alexander.
 - [The-Focus-AI/standards](https://github.com/The-Focus-AI/standards) - The issuing authority for a fleet of agents — numbered, citable standards, guides, notes, decisions and skills, where rendering is the conformance check.
 - [glebis/humane-agentic-design](https://github.com/glebis/humane-agentic-design) - Humane Agentic Design — a human-centric design method cycle for people and agents
@@ -2981,6 +2997,7 @@
 
 ## ai-agents 
 
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [mkanat/skills](https://github.com/mkanat/skills) - Code-quality skills by Max Kanat-Alexander.
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
 - [only-cli/oc](https://github.com/only-cli/oc) - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.
@@ -3067,6 +3084,10 @@
 
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
+
+## ai-scientist 
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 
 ## ai-search 
 
@@ -4280,6 +4301,7 @@
 
 ## bioinformatics 
 
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## bitbucket 
@@ -4407,6 +4429,10 @@
 ## browser-automation 
 
 - [only-cli/oc](https://github.com/only-cli/oc) - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.
+
+## browser-history 
+
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 
 ## bsd 
 
@@ -4858,6 +4884,10 @@
 - [till/easybib-cookbooks](https://github.com/till/easybib-cookbooks) - THIS IS UNMAINTAINED
 - [chef/chef](https://github.com/chef/chef) - Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
 
+## chemoinformatics 
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
+
 ## child-process 
 
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -4943,6 +4973,7 @@
 
 ## claude 
 
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
@@ -5027,6 +5058,7 @@
 
 ## claude-skills 
 
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
@@ -5036,6 +5068,10 @@
 ## claude-subagents 
 
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
+
+## claudecode 
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 
 ## clawdbot 
 
@@ -5049,6 +5085,7 @@
 
 ## cli 
 
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [only-cli/oc](https://github.com/only-cli/oc) - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [umputun/agterm](https://github.com/umputun/agterm) - A genuinely good terminal
@@ -5139,6 +5176,10 @@
 
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [httprb/http](https://github.com/httprb/http) - HTTP (The Gem! a.k.a. http.rb) - a fast Ruby HTTP client with a chainable API, streaming support, and timeouts
+
+## clinical-research 
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 
 ## cloc 
 
@@ -5670,6 +5711,7 @@
 
 ## computational-biology 
 
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## computational-physics 
@@ -6401,6 +6443,7 @@
 
 ## data-analysis 
 
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [StackExchange/Survey](https://github.com/StackExchange/Survey) - The official repo for the Stack Overflow Developer Survey
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [apache/devlake](https://github.com/apache/devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -6940,6 +6983,7 @@
 
 ## developer-tools 
 
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [mkanat/skills](https://github.com/mkanat/skills) - Code-quality skills by Max Kanat-Alexander.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
@@ -7627,6 +7671,10 @@
 
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 
+## drug-discovery 
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
+
 ## dsl 
 
 - [ContextMapper/context-mapper-dsl](https://github.com/ContextMapper/context-mapper-dsl) - ContextMapper DSL: A Domain-specific Language for Context Mapping & Service Decomposition
@@ -7987,6 +8035,10 @@
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 - [apache/devlake](https://github.com/apache/devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
+
+## evals 
+
+- [rails/lemans](https://github.com/rails/lemans) - A Ruby harness for running agent benchmarks
 
 ## evaluation-framework 
 
@@ -8547,6 +8599,10 @@
 
 - [vseinstrumentiru/slojka](https://github.com/vseinstrumentiru/slojka) - Готовый набор для старта работы с SLO / Ready to go SLO bootstrap
 
+## genomics 
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
+
 ## geopolitics 
 
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
@@ -8569,6 +8625,7 @@
 
 ## git 
 
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [datarootsio/databooks](https://github.com/datarootsio/databooks) - A CLI tool to reduce the friction between data scientists by reducing git conflicts removing notebook metadata and gracefully resolving git conflicts.
 - [git-pkgs/git-pkgs](https://github.com/git-pkgs/git-pkgs) - About  A git subcommand for analyzing package/dependency usage in git repositories over time
 - [n0rfas/git-analytics](https://github.com/n0rfas/git-analytics) - Advanced analytics for Git repositories — commits, authors, code churn, lines of code, trends, and visual dashboards.
@@ -8859,6 +8916,7 @@
 
 ## go 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [minamijoyo/hcledit](https://github.com/minamijoyo/hcledit) - A command line editor for HCL
@@ -8953,6 +9011,7 @@
 
 ## golang 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
@@ -9713,6 +9772,7 @@
 
 ## history 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
@@ -10026,6 +10086,10 @@
 ## independence 
 
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone 
+
+## index 
+
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 
 ## indiedev 
 
@@ -11711,6 +11775,10 @@
 
 - [cloudposse-archives/tfmask](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
 
+## materials-science 
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
+
 ## mattermost 
 
 - [distinguished-sre/monitor-monitoring](https://github.com/distinguished-sre/monitor-monitoring) - Lightweight monitoring tool (~6MB binary). Checks HTTP/HTTPS endpoints, DNS records, and TCP ports. Sends alerts via Telegram, Slack, Discord, or Mattermost.
@@ -11721,6 +11789,7 @@
 
 ## mcp 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
@@ -11753,6 +11822,7 @@
 
 ## mcp-server 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
@@ -11844,6 +11914,10 @@
 ## metabase 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+
+## metabolomics 
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 
 ## metadata 
 
@@ -13159,6 +13233,8 @@
 
 ## others 
 
+- [rka-project/rka-core](https://github.com/rka-project/rka-core) - Research Knowledge Agent — MCP server + REST API + React dashboard for AI-assisted research orchestration
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [harbor-framework/terminal-bench-2-1](https://github.com/harbor-framework/terminal-bench-2-1) - Terminal-Bench 2.1
 - [harbor-framework/terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1) - A benchmark for LLMs on complicated tasks in the terminal
 - [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - Measuring and evolving with the frontier of agent work
@@ -14367,6 +14443,10 @@
 
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 
+## personal-search 
+
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
+
 ## pharo 
 
 - [luque/dm-metrics](https://github.com/luque/dm-metrics) - Robert C. Martin's packages dependency management metrics for Pharo.
@@ -14704,6 +14784,7 @@
 
 ## privacy 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [moarpepes/awesome-mesh](https://github.com/moarpepes/awesome-mesh) - This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes c
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -14944,6 +15025,10 @@
 ## properties 
 
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+
+## proteomics 
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 
 ## protocol 
 
@@ -15252,6 +15337,7 @@
 
 ## rails 
 
+- [rails/lemans](https://github.com/rails/lemans) - A Ruby harness for running agent benchmarks
 - [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
@@ -15812,6 +15898,7 @@
 
 ## ruby 
 
+- [rails/lemans](https://github.com/rails/lemans) - A Ruby harness for running agent benchmarks
 - [thoughtbot/test_budget](https://github.com/thoughtbot/test_budget) - Prevent slow tests from creeping into your suite.
 - [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
@@ -15909,6 +15996,7 @@
 
 ## rust 
 
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -15961,6 +16049,7 @@
 
 ## safety 
 
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 
 ## sales 
@@ -16086,9 +16175,17 @@
 
 - [yegor256/awesome-cfp](https://github.com/yegor256/awesome-cfp) - Curated list of open Call-for-Papers in SE/PL scientific conferences: we keep an eye on all of them!
 
+## scientific-computing 
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
+
 ## scientific-software 
 
 - [aimclub/OSA](https://github.com/aimclub/OSA) - Tool that just makes your open source project better using LLM agents
+
+## scientific-visualization 
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog
 
 ## scm 
 
@@ -16143,6 +16240,7 @@
 
 ## search 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
@@ -16153,6 +16251,7 @@
 
 ## search-engine 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Online library for AI
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -16357,6 +16456,7 @@
 
 ## semantic-search 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
@@ -18705,6 +18805,7 @@
 
 ## web 
 
+- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
