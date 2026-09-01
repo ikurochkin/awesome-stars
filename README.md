@@ -13468,7 +13468,6 @@
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [gchq/BoilingFrogs](https://github.com/gchq/BoilingFrogs) - GCHQ's internal Boiling Frogs research paper on software development and organisational change in the face of disruption #boilingfrogs
 - [ConfluxHQ/clueful-index](https://github.com/ConfluxHQ/clueful-index) - Many organizations have limited awareness about modern software and technology, even though software is essential for them. Use the Clueful Index to separate the clueless organizations from the cluefu
-- [sassoftware/fine-flow-tool-kit](https://github.com/sassoftware/fine-flow-tool-kit) - The FINE Flow Tool Kit provides a set of Python utilities that demonstrates an implementation of the FINE team classification process, and the associated FINE flow equations.
 - [SkeltonThatcher/bizmetrics-book](https://github.com/SkeltonThatcher/bizmetrics-book) - Public resources for the book "Team Guide to Metrics for Business Decisions"
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [startupguide/awesome-oss-investors](https://github.com/startupguide/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
