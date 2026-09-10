@@ -1154,6 +1154,7 @@
 - [hacktoberfest2023](#hacktoberfest2023)
 - [hacktoberfest2024](#hacktoberfest2024)
 - [hacktoberfest2025](#hacktoberfest2025)
+- [hacktoberfest2026](#hacktoberfest2026)
 - [hadoop](#hadoop)
 - [hammerspoon](#hammerspoon)
 - [handbook](#handbook)
@@ -9672,6 +9673,9 @@
 
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager
+
+## hacktoberfest2026 
+
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 
 ## hadoop 
