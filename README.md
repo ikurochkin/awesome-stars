@@ -451,6 +451,7 @@
 - [code-quality](#code-quality)
 - [code-quality-analyzer](#code-quality-analyzer)
 - [code-review](#code-review)
+- [code-review-assistant](#code-review-assistant)
 - [code-search](#code-search)
 - [code-search-engine](#code-search-engine)
 - [code-visualization](#code-visualization)
@@ -2440,6 +2441,7 @@
 - [telegram-bot](#telegram-bot)
 - [telegram-group](#telegram-group)
 - [telemetry](#telemetry)
+- [telemetry-data](#telemetry-data)
 - [teleport](#teleport)
 - [teleport-binaries](#teleport-binaries)
 - [temperature-sensor](#temperature-sensor)
@@ -3158,6 +3160,7 @@
 
 ## aiops 
 
+- [phamquiluan/RCAEval](https://github.com/phamquiluan/RCAEval) - [FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.
 - [phamquiluan/awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) - Awesome resources for failure diagnosis research.
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
@@ -4281,6 +4284,7 @@
 
 ## benchmark 
 
+- [phamquiluan/RCAEval](https://github.com/phamquiluan/RCAEval) - [FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.
 - [Ayanami0730/deep_research_bench](https://github.com/Ayanami0730/deep_research_bench) - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [grafana/o11y-bench](https://github.com/grafana/o11y-bench) - Open benchmark on observability tasks built on Harbor
@@ -5538,6 +5542,10 @@
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
+
+## code-review-assistant 
+
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 
 ## code-search 
 
@@ -8220,6 +8228,7 @@
 
 ## failure-diagnosis 
 
+- [phamquiluan/RCAEval](https://github.com/phamquiluan/RCAEval) - [FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.
 - [phamquiluan/awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) - Awesome resources for failure diagnosis research.
 
 ## family 
@@ -12156,6 +12165,7 @@
 
 ## microservices 
 
+- [phamquiluan/RCAEval](https://github.com/phamquiluan/RCAEval) - [FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - Documentation tool built for software architecture. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
@@ -13381,7 +13391,7 @@
 
 - [stn1slv/feedsmith](https://github.com/stn1slv/feedsmith) - Generate Atom feeds for blogs that publish no official RSS/Atom feed
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
-- [rka-project/rka-core](https://github.com/rka-project/rka-core) - Research Knowledge Agent — MCP server + REST API + React dashboard for AI-assisted research orchestration
+- [rka-project/rka-core](https://github.com/rka-project/rka-core) - Local-first research memory, evidence, and provenance for researchers and AI agents.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [harbor-framework/terminal-bench-2-1](https://github.com/harbor-framework/terminal-bench-2-1) - Terminal-Bench 2.1
 - [harbor-framework/terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1) - A benchmark for LLMs on complicated tasks in the terminal
@@ -16016,6 +16026,7 @@
 
 ## root-cause-analysis 
 
+- [phamquiluan/RCAEval](https://github.com/phamquiluan/RCAEval) - [FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.
 - [phamquiluan/awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) - Awesome resources for failure diagnosis research.
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
@@ -16803,6 +16814,7 @@
 
 ## site-reliability-engineering 
 
+- [phamquiluan/RCAEval](https://github.com/phamquiluan/RCAEval) - [FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 - [philyuchkoff/slozy-oss](https://github.com/philyuchkoff/slozy-oss) - Automated and simplified SLO creation for product teams and developers. Full alerting support, OpenSLO YAML format.
@@ -17011,6 +17023,7 @@
 
 ## software-engineering 
 
+- [phamquiluan/RCAEval](https://github.com/phamquiluan/RCAEval) - [FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
@@ -17871,6 +17884,10 @@
 ## telemetry 
 
 - [cncf/tag-observability](https://github.com/cncf/tag-observability) - Technical Advisory Group for Observability 🔭⚙️
+
+## telemetry-data 
+
+- [phamquiluan/RCAEval](https://github.com/phamquiluan/RCAEval) - [FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.
 
 ## teleport 
 
