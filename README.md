@@ -2079,6 +2079,7 @@
 - [reporting-engine](#reporting-engine)
 - [reports](#reports)
 - [repository](#repository)
+- [repository-level-context](#repository-level-context)
 - [repository-manager](#repository-manager)
 - [representation-learning](#representation-learning)
 - [reproducibility](#reproducibility)
@@ -15853,6 +15854,10 @@
 ## repository 
 
 - [openkilt/openrepo](https://github.com/openkilt/openrepo) - Open Source repository management for deb, rpm, and generic packages
+
+## repository-level-context 
+
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 
 ## repository-manager 
 
