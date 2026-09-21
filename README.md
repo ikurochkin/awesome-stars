@@ -13428,6 +13428,7 @@
 
 ## others 
 
+- [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - Turn your coding agents into research agents
 - [stn1slv/feedsmith](https://github.com/stn1slv/feedsmith) - Generate Atom feeds for blogs that publish no official RSS/Atom feed
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
 - [rka-project/rka-core](https://github.com/rka-project/rka-core) - Local-first research memory, evidence, and provenance for researchers and AI agents.
