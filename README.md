@@ -71,6 +71,7 @@
 - [ai-search](#ai-search)
 - [ai-search-engine](#ai-search-engine)
 - [ai-security](#ai-security)
+- [ai-seo](#ai-seo)
 - [ai-sre](#ai-sre)
 - [ai-tools](#ai-tools)
 - [ai-writing](#ai-writing)
@@ -560,6 +561,7 @@
 - [conventional-commits](#conventional-commits)
 - [conventions](#conventions)
 - [conversational-agents](#conversational-agents)
+- [conversion-rate-optimization](#conversion-rate-optimization)
 - [cookbook](#cookbook)
 - [cookbooks](#cookbooks)
 - [cookiecutter](#cookiecutter)
@@ -567,6 +569,7 @@
 - [copilot](#copilot)
 - [copy-paste](#copy-paste)
 - [copyright](#copyright)
+- [copywriting](#copywriting)
 - [coredns](#coredns)
 - [correct](#correct)
 - [cosign](#cosign)
@@ -1032,6 +1035,7 @@
 - [genai](#genai)
 - [generation](#generation)
 - [generative-ai](#generative-ai)
+- [generative-engine-optimization](#generative-engine-optimization)
 - [generator](#generator)
 - [generators](#generators)
 - [genomics](#genomics)
@@ -1154,6 +1158,7 @@
 - [grep-like](#grep-like)
 - [grid](#grid)
 - [grimoirelab](#grimoirelab)
+- [growth-marketing](#growth-marketing)
 - [grpc](#grpc)
 - [gui](#gui)
 - [guidebook](#guidebook)
@@ -2227,6 +2232,7 @@
 - [semantics](#semantics)
 - [semgrep](#semgrep)
 - [semver](#semver)
+- [seo](#seo)
 - [server](#server)
 - [server-monitor](#server-monitor)
 - [serverless](#serverless)
@@ -2259,6 +2265,7 @@
 - [skill-hub](#skill-hub)
 - [skill-management](#skill-management)
 - [skill-manager](#skill-manager)
+- [skill-md](#skill-md)
 - [skill-registry](#skill-registry)
 - [skills](#skills)
 - [skills-sh](#skills-sh)
@@ -2910,6 +2917,7 @@
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
@@ -3077,6 +3085,7 @@
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
 - [FareedKhan-dev/all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benc
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -3184,6 +3193,10 @@
 
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
+
+## ai-seo 
+
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 ## ai-sre 
 
@@ -5118,6 +5131,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
@@ -5148,6 +5162,7 @@
 ## claude-code-plugin 
 
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [pulumi/agent-skills](https://github.com/pulumi/agent-skills) - Official Pulumi Agent Skills for writing, migrating, and operating infrastructure with AI coding agents
 
@@ -5172,6 +5187,7 @@
 
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
@@ -6041,6 +6057,7 @@
 
 ## content-marketing 
 
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [lilin90/awesome-technical-communication](https://github.com/lilin90/awesome-technical-communication) - 😎 A curated list of awesome resources about technical communication
 
 ## content-strategy 
@@ -6199,6 +6216,10 @@
 
 - [grafana/o11y-bench](https://github.com/grafana/o11y-bench) - Open benchmark on observability tasks built on Harbor
 
+## conversion-rate-optimization 
+
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
 ## cookbook 
 
 - [chef-boneyard/audit](https://github.com/chef-boneyard/audit) - Audit Cookbook for Chef Compliance
@@ -6235,6 +6256,10 @@
 ## copyright 
 
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
+
+## copywriting 
+
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 ## coredns 
 
@@ -6469,6 +6494,7 @@
 
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 
@@ -7997,6 +8023,7 @@
 
 ## email-marketing 
 
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
 
@@ -8773,6 +8800,10 @@
 - [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+
+## generative-engine-optimization 
+
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 ## generator 
 
@@ -9583,6 +9614,10 @@
 
 - [philips-labs/tabia](https://github.com/philips-labs/tabia) - Repository characteristics
 - [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab) - GrimoireLab: platform for software development analytics and insights
+
+## growth-marketing 
+
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 ## grpc 
 
@@ -11991,6 +12026,7 @@
 
 ## marketing-automation 
 
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
 
 ## marketing-web-ops 
@@ -16777,6 +16813,10 @@
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 
+## seo 
+
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
 ## server 
 
 - [rootsami/terradrift](https://github.com/rootsami/terradrift) - A tool to detect drifts in terraform IaC
@@ -16962,6 +17002,10 @@
 ## skill-manager 
 
 - [iflytek/skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
+
+## skill-md 
+
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 ## skill-registry 
 
