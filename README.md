@@ -1022,6 +1022,7 @@
 - [gantt](#gantt)
 - [gantt-chart](#gantt-chart)
 - [gantt-diagram](#gantt-diagram)
+- [gateway](#gateway)
 - [gateway-api](#gateway-api)
 - [gauge](#gauge)
 - [gcp](#gcp)
@@ -1588,7 +1589,6 @@
 - [menubar-app](#menubar-app)
 - [mermaid](#mermaid)
 - [mesh-networks](#mesh-networks)
-- [mesos](#mesos)
 - [meta-relational-learning](#meta-relational-learning)
 - [metabase](#metabase)
 - [metabolomics](#metabolomics)
@@ -2755,7 +2755,6 @@
 - [zhihu](#zhihu)
 - [zipkin](#zipkin)
 - [zod](#zod)
-- [zookeeper](#zookeeper)
 - [zsh](#zsh)
 - [zsh-configuration](#zsh-configuration)
 
@@ -5558,7 +5557,7 @@
 
 ## cncf-project 
 
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Supports Prometheus, Tempo, Loki, Pyroscope, and more!
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 
 ## cobbler 
@@ -6602,7 +6601,7 @@
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Supports Prometheus, Tempo, Loki, Pyroscope, and more!
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 - [oss-compass/compass-web](https://github.com/oss-compass/compass-web) - Frontend project for the OSS Compass
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
@@ -8249,7 +8248,6 @@
 ## etcd 
 
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
 ## etl 
 
@@ -8754,6 +8752,10 @@
 ## gantt-diagram 
 
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
+
+## gateway 
+
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
 ## gateway-api 
 
@@ -12218,10 +12220,6 @@
 
 - [moarpepes/awesome-mesh](https://github.com/moarpepes/awesome-mesh) - This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes c
 
-## mesos 
-
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-
 ## meta-relational-learning 
 
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
@@ -12559,7 +12557,7 @@
 - [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [prequel-dev/preq](https://github.com/prequel-dev/preq) - preq is the community-driven problem detector for Common Reliability Enumerations (CREs)⚡️
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Supports Prometheus, Tempo, Loki, Pyroscope, and more!
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
@@ -13038,7 +13036,7 @@
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era.
 - [philyuchkoff/slozy-oss](https://github.com/philyuchkoff/slozy-oss) - Automated and simplified SLO creation for product teams and developers. Full alerting support, OpenSLO YAML format.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Supports Prometheus, Tempo, Loki, Pyroscope, and more!
 - [ozontech/seq-db](https://github.com/ozontech/seq-db) - seq-db is a scalable and high-performance database designed for storing and querying logs efficiently
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
@@ -13437,6 +13435,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [mhausenblas/otel-adoption-survey-2022](https://github.com/mhausenblas/otel-adoption-survey-2022) - OpenTelemetry Adoption Survey 2022
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
 ## opentofu 
 
@@ -13735,7 +13734,7 @@
 - [ignatij/dependency-management-metrics-maven-plugin](https://github.com/ignatij/dependency-management-metrics-maven-plugin) - Maven plugin for calculation of Dependency Management Metrics
 - [timurb/writebook](https://github.com/timurb/writebook) - 
 - [cncf/cartografos](https://github.com/cncf/cartografos) - The Cartografos working group aims to provide tools to help adopters and end-users to navigate the CNCF landscape and the wider cloud native ecosystem.
-- [hplush/slowreader](https://github.com/hplush/slowreader) - Web app to combine feeds from social networks and RSS and to help read more meaningful and deep content
+- [hplush/slowreader](https://github.com/hplush/slowreader) - Web app coach to help you read more thoughtful content from your feeds
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [yandex/securitygym](https://github.com/yandex/securitygym) - 
 - [jedi-framework/manifest](https://github.com/jedi-framework/manifest) - Принципы развития джунов в самостоятельных экспертов
@@ -15273,7 +15272,7 @@
 ## prometheus 
 
 - [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Supports Prometheus, Tempo, Loki, Pyroscope, and more!
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -19600,10 +19599,6 @@
 ## zod 
 
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
-
-## zookeeper 
-
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
 ## zsh 
 
