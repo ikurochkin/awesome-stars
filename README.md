@@ -55,6 +55,7 @@
 - [ai-chat](#ai-chat)
 - [ai-coding](#ai-coding)
 - [ai-coding-agent](#ai-coding-agent)
+- [ai-database](#ai-database)
 - [ai-engineering](#ai-engineering)
 - [ai-gateway](#ai-gateway)
 - [ai-governance](#ai-governance)
@@ -3129,6 +3130,10 @@
 ## ai-coding-agent 
 
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+
+## ai-database 
+
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## ai-engineering 
 
