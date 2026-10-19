@@ -231,6 +231,7 @@
 - [azure-pipelines](#azure-pipelines)
 - [azure-security](#azure-security)
 - [backend](#backend)
+- [backend-architecture](#backend-architecture)
 - [backend-as-a-service](#backend-as-a-service)
 - [backend-roadmap](#backend-roadmap)
 - [background-worker](#background-worker)
@@ -749,6 +750,7 @@
 - [developer-relations](#developer-relations)
 - [developer-roadmap](#developer-roadmap)
 - [developer-tools](#developer-tools)
+- [developer-tools-ai-agent](#developer-tools-ai-agent)
 - [development](#development)
 - [development-environment](#development-environment)
 - [device-farm](#device-farm)
@@ -918,6 +920,7 @@
 - [etl](#etl)
 - [eu-ai-act](#eu-ai-act)
 - [evals](#evals)
+- [evaluation](#evaluation)
 - [evaluation-framework](#evaluation-framework)
 - [event-driven](#event-driven)
 - [event-driven-architecture](#event-driven-architecture)
@@ -1066,6 +1069,7 @@
 - [github-api](#github-api)
 - [github-app](#github-app)
 - [github-automation](#github-automation)
+- [github-bot](#github-bot)
 - [github-bot-framework](#github-bot-framework)
 - [github-cli](#github-cli)
 - [github-codespaces](#github-codespaces)
@@ -1727,6 +1731,7 @@
 - [notes](#notes)
 - [notifications](#notifications)
 - [notifier](#notifier)
+- [notion-alternative](#notion-alternative)
 - [novice](#novice)
 - [npm](#npm)
 - [nsm](#nsm)
@@ -1815,6 +1820,7 @@
 - [oss](#oss)
 - [oss-compliance](#oss-compliance)
 - [ossf](#ossf)
+- [otel](#otel)
 - [others](#others)
 - [otlp](#otlp)
 - [owasp](#owasp)
@@ -2058,10 +2064,12 @@
 - [readme](#readme)
 - [readme-stats](#readme-stats)
 - [readme-template](#readme-template)
+- [real-time-collaboration](#real-time-collaboration)
 - [realtime](#realtime)
 - [reasoning](#reasoning)
 - [reasonml](#reasonml)
 - [recipes](#recipes)
+- [recommendation-system](#recommendation-system)
 - [recommendation-systems](#recommendation-systems)
 - [recommender-system](#recommender-system)
 - [recording](#recording)
@@ -2871,6 +2879,7 @@
 
 ## agent 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [antgroup/agentic-ai-landscape](https://github.com/antgroup/agentic-ai-landscape) - Data driven agentic landscapes and insights. Produced by Ant Open Source and inclusionAI.
 - [Ayanami0730/deep_research_bench](https://github.com/Ayanami0730/deep_research_bench) - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents
 - [InfraBen-ch/InfraBench](https://github.com/InfraBen-ch/InfraBench) - A benchmark for infrastructure agents.
@@ -2974,6 +2983,8 @@
 
 ## agents 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
+- [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
@@ -3013,6 +3024,7 @@
 
 ## ai 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [itbench-hub/ITBench](https://github.com/itbench-hub/ITBench) - An open source benchmarking framework for IT automation
 - [InfraBen-ch/InfraBench](https://github.com/InfraBen-ch/InfraBench) - A benchmark for infrastructure agents.
@@ -3046,7 +3058,6 @@
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
 - [specfy/specfy](https://github.com/specfy/specfy) - Open source Stack Intelligence Platform
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -3077,6 +3088,7 @@
 
 ## ai-agents 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
 - [aenix-io/aeman](https://github.com/aenix-io/aeman) - A short-term planning system for engineering teams — keep engineers focused, run daily sprints, and track unplanned work. Built on GitHub Projects v2 (no database of its own): one Go binary with an em
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
@@ -3112,7 +3124,6 @@
 - [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Agentic SDLC infrastructure. Define guardrails. Collect signals. Enforce continuously. Signed records of what your AI coding agents and CI/CD pipelines did, checked against policies as code, with the 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -3358,6 +3369,7 @@
 
 ## analytics 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [anvarKhakimov/jira-metrics-plugin](https://github.com/anvarKhakimov/jira-metrics-plugin) - The Jira Metrics Plugin enhances Kanban boards in Jira with advanced analytics for better project management.
@@ -3456,6 +3468,7 @@
 
 ## anthropic 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -3505,6 +3518,7 @@
 
 ## api-documentation 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
 
 ## api-gateway 
@@ -4229,6 +4243,10 @@
 - [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - A software architectural pattern that provides a comprehensive set of guidelines, principles, and patterns to organize code for high scalability, maintainability and reusability.
 - [docops-hq/conf](https://github.com/docops-hq/conf) - Конспекты докладов IT-конференций
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+
+## backend-architecture 
+
+- [Mahmoudz/Porto](https://github.com/Mahmoudz/Porto) - A software architectural pattern that provides a comprehensive set of guidelines, principles, and patterns to organize code for high scalability, maintainability and reusability.
 
 ## backend-as-a-service 
 
@@ -5221,6 +5239,7 @@
 
 ## claudecode 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 
 ## clawdbot 
@@ -6603,6 +6622,7 @@
 
 ## dashboard 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
@@ -7197,6 +7217,7 @@
 
 ## developer-tools 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
@@ -7226,6 +7247,10 @@
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
+
+## developer-tools-ai-agent 
+
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 
 ## development 
 
@@ -7563,7 +7588,6 @@
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - Documentation tool built for software architecture. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [dastergon/CardsAgainstReliability](https://github.com/dastergon/CardsAgainstReliability) - A party card game for engineers caring about reliability. Based on Cards Against Humanity.
@@ -7619,6 +7643,7 @@
 
 ## docker 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [fadeinflames/game-of-incidents](https://github.com/fadeinflames/game-of-incidents) - Game of Incidents: incident-training platform with live broken Linux hosts and Kubernetes clusters in the browser. Self-hosted, one-command install.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -8266,8 +8291,13 @@
 
 ## evals 
 
+- [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
 - [rails/lemans](https://github.com/rails/lemans) - A Ruby harness for running agent benchmarks
+
+## evaluation 
+
+- [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
 
 ## evaluation-framework 
 
@@ -8387,6 +8417,7 @@
 
 ## fastapi 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 
 ## fault-detection 
@@ -8826,6 +8857,7 @@
 
 ## genai 
 
+- [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [jedi4ever/learning-llms-and-genai-for-dev-sec-ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops) - A set of lessons aimed at anyone learning LLM and generative AI concepts,  with sections on operations and security, as well as development.
 
@@ -8972,6 +9004,7 @@
 
 ## github 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
@@ -9023,6 +9056,7 @@
 
 ## github-api 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 
 ## github-app 
@@ -9031,7 +9065,12 @@
 
 ## github-automation 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
+
+## github-bot 
+
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 
 ## github-bot-framework 
 
@@ -9707,6 +9746,7 @@
 
 ## hacktoberfest 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly confi
 - [itbench-hub/ITBench](https://github.com/itbench-hub/ITBench) - An open source benchmarking framework for IT automation
 - [uk-x-gov-software-community/xgov-opensource-repo-scraper](https://github.com/uk-x-gov-software-community/xgov-opensource-repo-scraper) - 
@@ -10355,6 +10395,7 @@
 
 ## incident-response 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [fadeinflames/game-of-incidents](https://github.com/fadeinflames/game-of-incidents) - Game of Incidents: incident-training platform with live broken Linux hosts and Kubernetes clusters in the browser. Self-hosted, one-command install.
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
 - [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
@@ -11013,6 +11054,7 @@
 
 ## knowledge-base 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
 ## knowledge-graph 
@@ -11640,6 +11682,8 @@
 
 ## llm 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
+- [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
 - [antgroup/agentic-ai-landscape](https://github.com/antgroup/agentic-ai-landscape) - Data driven agentic landscapes and insights. Produced by Ant Open Source and inclusionAI.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
@@ -11728,6 +11772,7 @@
 
 ## llms 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) - An open standard for declaring AI usage in software projects.
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
@@ -11912,6 +11957,7 @@
 
 ## machine-learning 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [tthtlc/awesome-source-analysis](https://github.com/tthtlc/awesome-source-analysis) - Source code understanding via Machine Learning techniques
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -12129,7 +12175,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -12266,6 +12311,7 @@
 
 ## metrics 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [github-community-projects/issue-metrics](https://github.com/github-community-projects/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [kortirso/pullmetry](https://github.com/kortirso/pullmetry) - PullKeeper - app for getting relevant stats about PRs and reviewers
 - [opensearch-project/opensearch-metrics](https://github.com/opensearch-project/opensearch-metrics) - OpenSearch Metrics
@@ -12347,7 +12393,6 @@
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [unlight/solution-architecture](https://github.com/unlight/solution-architecture) - Solution Architecture links, articles, books, video lessons, etc.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [humank/ddd-practitioners-ref](https://github.com/humank/ddd-practitioners-ref) - EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.
@@ -12989,6 +13034,10 @@
 
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 
+## notion-alternative 
+
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
+
 ## novice 
 
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -13031,6 +13080,7 @@
 
 ## observability 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [phamquiluan/awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) - Awesome resources for failure diagnosis research.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
@@ -13256,6 +13306,7 @@
 
 ## open-source 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
 - [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database, storage and LLMs provisioning and management. It supports multiple technologies and can be hosted on any Kubernetes infrastructure, in th
 - [essadek/A-Practical-Due-Diligence-Framework-Before-Your-Business-Commits-to-Open-Source](https://github.com/essadek/A-Practical-Due-Diligence-Framework-Before-Your-Business-Commits-to-Open-Source) - A systematic, evidence-based framework to evaluate open-source software risk and sustainability.
@@ -13305,6 +13356,7 @@
 
 ## openai 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -13430,6 +13482,7 @@
 
 ## opentelemetry 
 
+- [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
@@ -13554,11 +13607,15 @@
 
 - [ossf/best-practices-badge](https://github.com/ossf/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)
 
+## otel 
+
+- [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
+
 ## others 
 
 - [artycorp/incident-quest](https://github.com/artycorp/incident-quest) - Interactive investigations of real load/performance incidents
 - [cdfoundation/Platform-Engineering](https://github.com/cdfoundation/Platform-Engineering) - This repo is for the Platform Engineering Special Interest Group (SIG)
-- [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
+- [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - Turn your coding agents into research agents
 - [stn1slv/feedsmith](https://github.com/stn1slv/feedsmith) - Generate Atom feeds for blogs that publish no official RSS/Atom feed
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
@@ -15276,6 +15333,7 @@
 
 ## prometheus 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [basecamp/upright](https://github.com/basecamp/upright) - Synthetic monitoring engine with Playwright and Prometheus metrics
 - [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Supports Prometheus, Tempo, Loki, Pyroscope, and more!
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
@@ -15504,6 +15562,7 @@
 
 ## python 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [MatthewReid854/reliability](https://github.com/MatthewReid854/reliability) - Reliability engineering toolkit for Python - https://reliability.readthedocs.io/en/latest/
@@ -15734,6 +15793,7 @@
 
 ## react 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [aenix-io/aeman](https://github.com/aenix-io/aeman) - A short-term planning system for engineering teams — keep engineers focused, run daily sprints, and track unplanned work. Built on GitHub Projects v2 (no database of its own): one Go binary with an em
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
@@ -15824,6 +15884,10 @@
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [zalando/zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source) - Open Source guidance from Zalando, Europe's largest online fashion platform
 
+## real-time-collaboration 
+
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
+
 ## realtime 
 
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
@@ -15841,6 +15905,10 @@
 ## recipes 
 
 - [chef/cookstyle](https://github.com/chef/cookstyle) - A linting tool that helps you to write better Chef Infra cookbooks and InSpec profiles by detecting and automatically correcting style, syntax, and logic mistakes in your code.
+
+## recommendation-system 
+
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 
 ## recommendation-systems 
 
@@ -16337,6 +16405,7 @@
 
 ## runbooks 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 
 ## rundeck 
@@ -16778,6 +16847,7 @@
 
 ## self-hosted 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [fadeinflames/game-of-incidents](https://github.com/fadeinflames/game-of-incidents) - Game of Incidents: incident-training platform with live broken Linux hosts and Kubernetes clusters in the browser. Self-hosted, one-command install.
 - [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [aenix-io/aeman](https://github.com/aenix-io/aeman) - A short-term planning system for engineering teams — keep engineers focused, run daily sprints, and track unplanned work. Built on GitHub Projects v2 (no database of its own): one Go binary with an em
@@ -17176,6 +17246,7 @@
 
 ## social-network 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [unacms/UNA](https://github.com/unacms/UNA) - UNA Community Management System
 
 ## socketio 
@@ -17411,6 +17482,7 @@
 
 ## sqlite 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 
 ## sqlite3 
@@ -18549,6 +18621,7 @@
 
 ## tooling 
 
+- [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 
 ## toolkit 
@@ -18604,6 +18677,7 @@
 
 ## tracing 
 
+- [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
@@ -19401,6 +19475,7 @@
 
 ## wiki 
 
+- [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [devops-ru/awesome-devops_ru](https://github.com/devops-ru/awesome-devops_ru) - Roadmap по материалам о DevOps, помогающим его понять, осмыслить и принять
