@@ -13621,6 +13621,7 @@
 
 ## others 
 
+- [paulip114/sre-practice-skills](https://github.com/paulip114/sre-practice-skills) - SRE Practice Skills for Claude Code
 - [inDriver/handbook](https://github.com/inDriver/handbook) - inDrive Engineering Handbook
 - [artycorp/incident-quest](https://github.com/artycorp/incident-quest) - Interactive investigations of real load/performance incidents
 - [cdfoundation/Platform-Engineering](https://github.com/cdfoundation/Platform-Engineering) - This repo is for the Platform Engineering Special Interest Group (SIG)
@@ -13668,7 +13669,7 @@
 - [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) - 
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [danielmeppiel/agentic-sdlc-handbook](https://github.com/danielmeppiel/agentic-sdlc-handbook) - The Agentic SDLC Handbook — dual-audience guide for C-suite and practitioners
-- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) - Validator resource for checking datasets against the FOCUS specification
 - [bradenaw/backpressure](https://github.com/bradenaw/backpressure) - Prioritized semaphore/rate-limiter/adaptive throttle for load management.
@@ -13710,7 +13711,7 @@
 - [base-14/cicada](https://github.com/base-14/cicada) - claude code analysis terminal app
 - [ClickHouse/sql.clickhouse.com](https://github.com/ClickHouse/sql.clickhouse.com) - Configuration for sql.clickhouse.com
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
-- [kryptophonik/claude-sre](https://github.com/kryptophonik/claude-sre) - SRE skills for Claude
+- [kryptophonik/SRE-Skills](https://github.com/kryptophonik/SRE-Skills) - SRE skills
 - [agentexperience/ax](https://github.com/agentexperience/ax) - 
 - [virtualgenius/contextflow](https://github.com/virtualgenius/contextflow) - Visual DDD context mapper with Flow and Strategic views for analyzing bounded contexts and their relationships
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
@@ -14317,7 +14318,6 @@
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [purplehazech/puppet-zabbix](https://github.com/purplehazech/puppet-zabbix) - zabbix module with focus on using zabbix api to provision zabbix from puppet
 - [secondmarket/chef-style-guide](https://github.com/secondmarket/chef-style-guide) - SecondMarket's Chef Cookbook style guide.
-- [ampledata/cookbook-style-guide](https://github.com/ampledata/cookbook-style-guide) - Style & Coding guidelines for Opscode Chef Cookbooks, Recipes, Resources, etc.
 - [mazenharake/entop](https://github.com/mazenharake/entop) - A top-like tool for monitoring an Erlang node
 - [PagerDuty/blender](https://github.com/PagerDuty/blender) - A modular orchestration engine
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
