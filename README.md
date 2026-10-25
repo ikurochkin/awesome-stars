@@ -1569,6 +1569,7 @@
 - [marketing-web-ops](#marketing-web-ops)
 - [markmap](#markmap)
 - [martin-fowler](#martin-fowler)
+- [mascot](#mascot)
 - [mask](#mask)
 - [masking](#masking)
 - [materials-science](#materials-science)
@@ -3126,7 +3127,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
 ## ai-chat 
@@ -3916,7 +3917,7 @@
 - [noise-rest/tf-via-pr](https://github.com/noise-rest/tf-via-pr) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
 - [DrDroidLab/PlayBooks](https://github.com/DrDroidLab/PlayBooks) - Runbook automation platform with deep observability integrations for SRE & On-Call Teams
 - [crocuda/pipelight](https://github.com/crocuda/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [linear-b/gitstream](https://github.com/linear-b/gitstream) - /:\ gitStream - Workflow automation for your git repo. Use YAML to auto-assign reviewers, auto-merge PRs, automatic PR labeler, and more.
 - [chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - Chaos Engineering Toolkit & Orchestration for Developers
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
@@ -6226,7 +6227,7 @@
 
 ## control-plane 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
 
@@ -6701,7 +6702,7 @@
 
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [bitol-io/open-data-contract-standard](https://github.com/bitol-io/open-data-contract-standard) - Home of the Open Data Contract Standard (ODCS).
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 - [apache/devlake](https://github.com/apache/devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
@@ -6749,11 +6750,11 @@
 
 ## data-orchestration 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 
 ## data-orchestrator 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 
 ## data-pipelines 
 
@@ -7324,7 +7325,7 @@
 - [Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition](https://github.com/Raiffeisen-DGTL/The-Way-of-CICD-Open-Source-Edition) - The Way of CI/CD is a project from which you can assemble your custom pipeline by using different pieces of code or by including entire stages. This project serves as a builder for creating pipelines 
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [dastergon/wheel-of-misfortune](https://github.com/dastergon/wheel-of-misfortune) - A role-playing game for incident management training
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering
@@ -8287,7 +8288,7 @@
 
 ## etl 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) - The best place to learn data engineering. Built and maintained by the data engineering community.
 - [apache/devlake](https://github.com/apache/devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 
@@ -9796,7 +9797,7 @@
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [avito-tech/Emcee](https://github.com/avito-tech/Emcee) - Emcee is a tool that runs Android and iOS tests in parallel using multiple simulators and emulators across many servers
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsor
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [apache/devlake](https://github.com/apache/devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -10076,7 +10077,7 @@
 ## high-availability 
 
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [openark/orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
@@ -10508,7 +10509,7 @@
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [ikurochkin/public-talks](https://github.com/ikurochkin/public-talks) - My collection of public speaking engagements.
 - [ultral/awesome-iac-testing](https://github.com/ultral/awesome-iac-testing) - A list of awesome IaC testing articles, speeches & links. Especially about Ansible.
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
@@ -10775,7 +10776,7 @@
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [artipie/artipie](https://github.com/artipie/artipie) - Binary Artifact Management Tool
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [LegacyCodeHQ/eureka](https://github.com/LegacyCodeHQ/eureka) - Breakthrough tooling to work with Kotlin and Java codebases 🚀
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -11926,7 +11927,7 @@
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 
 ## low-level 
 
@@ -12136,6 +12137,10 @@
 ## martin-fowler 
 
 - [thiagolunardi/FeatureToggle](https://github.com/thiagolunardi/FeatureToggle) - Feature Toggles (aka Feature Flags) described by Martin Fowler
+
+## mascot 
+
+- [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
 
 ## mask 
 
@@ -13568,7 +13573,7 @@
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide.
 - [criteo-cookbooks/choregraphie](https://github.com/criteo-cookbooks/choregraphie) - Choregraphie offers primitive to coordinate convergence of chef resources.
@@ -13711,7 +13716,7 @@
 - [base-14/cicada](https://github.com/base-14/cicada) - claude code analysis terminal app
 - [ClickHouse/sql.clickhouse.com](https://github.com/ClickHouse/sql.clickhouse.com) - Configuration for sql.clickhouse.com
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
-- [kryptophonik/SRE-Skills](https://github.com/kryptophonik/SRE-Skills) - SRE skills
+- [kryptophonik/SRE-Skills](https://github.com/kryptophonik/SRE-Skills) - SRE-Skills is an open-source library of 41 SRE (Site Reliability Engineering) skills, packaged in the open "Agent Skills"   format (SKILL.md folders), for use with Claude Code, Cursor, Codex, Gemini C
 - [agentexperience/ax](https://github.com/agentexperience/ax) - 
 - [virtualgenius/contextflow](https://github.com/virtualgenius/contextflow) - Visual DDD context mapper with Flow and Strategic views for analyzing bounded contexts and their relationships
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
@@ -14868,13 +14873,13 @@
 - [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
 - [crocuda/pipelight](https://github.com/crocuda/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [cburgmer/buildviz](https://github.com/cburgmer/buildviz) - Transparency for your build pipeline's results and runtime
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 
 ## pipeline-as-code 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 
 ## pitch 
 
@@ -16599,7 +16604,7 @@
 
 ## scheduler 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 
@@ -19512,7 +19517,7 @@
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [walmartlabs/concord](https://github.com/walmartlabs/concord) - Concord - workflow orchestration and continuous deployment management
 - [m-reda/pipeline](https://github.com/m-reda/pipeline) - Node-based automation server
 - [Nike-Inc/bartlett](https://github.com/Nike-Inc/bartlett) - A simple Jenkins command line client to serve your needs.
