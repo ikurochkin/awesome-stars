@@ -582,6 +582,7 @@
 - [cost-management](#cost-management)
 - [cost-optimization](#cost-optimization)
 - [cost-reduction](#cost-reduction)
+- [cost-tracking](#cost-tracking)
 - [count-lines](#count-lines)
 - [counter](#counter)
 - [course](#course)
@@ -622,6 +623,7 @@
 - [curl](#curl)
 - [curriculum](#curriculum)
 - [cursor](#cursor)
+- [cursor-ide](#cursor-ide)
 - [cursor-rules](#cursor-rules)
 - [cursor-skills](#cursor-skills)
 - [customer](#customer)
@@ -2494,6 +2496,7 @@
 - [temporal-networks](#temporal-networks)
 - [terminal](#terminal)
 - [terminal-bench](#terminal-bench)
+- [terminal-ui](#terminal-ui)
 - [terraform](#terraform)
 - [terraform-aws](#terraform-aws)
 - [terraform-cloud](#terraform-cloud)
@@ -2553,6 +2556,7 @@
 - [todo](#todo)
 - [toggle-router](#toggle-router)
 - [token-optimization](#token-optimization)
+- [token-usage](#token-usage)
 - [toml](#toml)
 - [tool](#tool)
 - [toolchain](#toolchain)
@@ -3091,6 +3095,7 @@
 
 ## ai-agents 
 
+- [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
 - [aenix-io/aeman](https://github.com/aenix-io/aeman) - A short-term planning system for engineering teams — keep engineers focused, run daily sprints, and track unplanned work. Built on GitHub Projects v2 (no database of its own): one Go binary with an em
@@ -3137,6 +3142,7 @@
 
 ## ai-coding 
 
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source factory for one-shot engineering
@@ -3372,6 +3378,7 @@
 
 ## analytics 
 
+- [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
@@ -5161,6 +5168,7 @@
 
 ## claude-code 
 
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [mkanat/skills](https://github.com/mkanat/skills) - Code-quality skills by Max Kanat-Alexander.
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
 - [only-cli/oc](https://github.com/only-cli/oc) - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.
@@ -5260,6 +5268,7 @@
 
 ## cli 
 
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
 - [only-cli/oc](https://github.com/only-cli/oc) - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.
@@ -5690,6 +5699,7 @@
 
 ## codex 
 
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [mkanat/skills](https://github.com/mkanat/skills) - Code-quality skills by Max Kanat-Alexander.
 - [glebis/humane-agentic-design](https://github.com/glebis/humane-agentic-design) - Humane Agentic Design — a human-centric design method cycle for people and agents
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
@@ -6355,6 +6365,10 @@
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
+## cost-tracking 
+
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
+
 ## count-lines 
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
@@ -6551,6 +6565,10 @@
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [fall-out-bug/sdp](https://github.com/fall-out-bug/sdp) - Structured protocol for AI-assisted development. Discovery → Delivery → Evidence.
+
+## cursor-ide 
+
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 
 ## cursor-rules 
 
@@ -7224,6 +7242,7 @@
 
 ## developer-tools 
 
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
@@ -9326,6 +9345,7 @@
 
 ## golang 
 
+- [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [aenix-io/aeman](https://github.com/aenix-io/aeman) - A short-term planning system for engineering teams — keep engineers focused, run daily sprints, and track unplanned work. Built on GitHub Projects v2 (no database of its own): one Go binary with an em
 - [platform-engineering-labs/orbital](https://github.com/platform-engineering-labs/orbital) - Orbital, a developer-friendly packaging system: just ship software, safely. S3 bucket repositories, secured by PKI and distributed by DNS, single command build and sign.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
@@ -11689,6 +11709,7 @@
 
 ## llm 
 
+- [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - LangChain's software factory
 - [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
 - [antgroup/agentic-ai-landscape](https://github.com/antgroup/agentic-ai-landscape) - Data driven agentic landscapes and insights. Produced by Ant Open Source and inclusionAI.
@@ -12164,6 +12185,7 @@
 
 ## mcp 
 
+- [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
 - [aenix-io/aeman](https://github.com/aenix-io/aeman) - A short-term planning system for engineering teams — keep engineers focused, run daily sprints, and track unplanned work. Built on GitHub Projects v2 (no database of its own): one Go binary with an em
@@ -12268,6 +12290,7 @@
 
 ## menubar 
 
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [fork-my-spoons/gitlab-merge-requests.spoon](https://github.com/fork-my-spoons/gitlab-merge-requests.spoon) - GitLab merge requests integration with MacOS
 
 ## menubar-app 
@@ -12532,6 +12555,7 @@
 
 ## model-context-protocol 
 
+- [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
 - [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
@@ -13093,6 +13117,8 @@
 
 ## observability 
 
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
+- [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [phamquiluan/awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) - Awesome resources for failure diagnosis research.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
@@ -13495,6 +13521,7 @@
 
 ## opentelemetry 
 
+- [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
@@ -15576,6 +15603,7 @@
 
 ## python 
 
+- [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
@@ -18271,6 +18299,10 @@
 
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
 
+## terminal-ui 
+
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
+
 ## terraform 
 
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
@@ -18616,6 +18648,10 @@
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
+## token-usage 
+
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
+
 ## toml 
 
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
@@ -18874,6 +18910,7 @@
 
 ## typescript 
 
+- [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [aenix-io/aeman](https://github.com/aenix-io/aeman) - A short-term planning system for engineering teams — keep engineers focused, run daily sprints, and track unplanned work. Built on GitHub Projects v2 (no database of its own): one Go binary with an em
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
@@ -19375,6 +19412,7 @@
 
 ## web-dashboard 
 
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 
 ## web-development 
