@@ -207,6 +207,7 @@
 - [autonomous-vehicles](#autonomous-vehicles)
 - [autoscaling-groups](#autoscaling-groups)
 - [availability](#availability)
+- [avif](#avif)
 - [avito](#avito)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -600,6 +601,7 @@
 - [crm-system](#crm-system)
 - [cron](#cron)
 - [cron-jobs](#cron-jobs)
+- [crop-image](#crop-image)
 - [cross-modal](#cross-modal)
 - [cross-platform](#cross-platform)
 - [crossplane](#crossplane)
@@ -1053,6 +1055,7 @@
 - [getting-started](#getting-started)
 - [gguf](#gguf)
 - [gh-actions](#gh-actions)
+- [gif](#gif)
 - [gifs](#gifs)
 - [git](#git)
 - [git-addons](#git-addons)
@@ -1363,6 +1366,7 @@
 - [jobs-search](#jobs-search)
 - [jobsearch](#jobsearch)
 - [jobseeker](#jobseeker)
+- [jpeg](#jpeg)
 - [json](#json)
 - [json-parser](#json-parser)
 - [jsonata](#jsonata)
@@ -2121,6 +2125,7 @@
 - [research-tool](#research-tool)
 - [resilience](#resilience)
 - [resiliency](#resiliency)
+- [resize-images](#resize-images)
 - [resources](#resources)
 - [response](#response)
 - [responsive-design](#responsive-design)
@@ -2699,6 +2704,7 @@
 - [wardley-maps](#wardley-maps)
 - [wasm](#wasm)
 - [watchos](#watchos)
+- [watermark](#watermark)
 - [wearables](#wearables)
 - [web](#web)
 - [web-application](#web-application)
@@ -2717,6 +2723,7 @@
 - [webdevelopment](#webdevelopment)
 - [webex](#webex)
 - [webgl](#webgl)
+- [webp](#webp)
 - [webperf](#webperf)
 - [website](#website)
 - [website-monitor](#website-monitor)
@@ -3968,6 +3975,10 @@
 ## availability 
 
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
+
+## avif 
+
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 
 ## avito 
 
@@ -6448,6 +6459,10 @@
 
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 
+## crop-image 
+
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
+
 ## cross-modal 
 
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
@@ -7722,6 +7737,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 ## docker-api 
@@ -8933,6 +8949,10 @@
 ## gh-actions 
 
 - [ccmenu/ccmenu2](https://github.com/ccmenu/ccmenu2) - CCMenu is a Mac app that shows the status of builds on CI/CD servers in the menu bar.
+
+## gif 
+
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 
 ## gifs 
 
@@ -10386,6 +10406,7 @@
 ## image-processing 
 
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 
 ## image-search 
 
@@ -10905,6 +10926,10 @@
 ## jobseeker 
 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
+
+## jpeg 
+
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 
 ## json 
 
@@ -13653,6 +13678,7 @@
 
 ## others 
 
+- [JoeReis/practical_data_data_eng_survey](https://github.com/JoeReis/practical_data_data_eng_survey) - 
 - [Interloperok/AI.InfraCalculator](https://github.com/Interloperok/AI.InfraCalculator) - 
 - [inDriver/handbook](https://github.com/inDriver/handbook) - inDrive Engineering Handbook
 - [artycorp/incident-quest](https://github.com/artycorp/incident-quest) - Interactive investigations of real load/performance incidents
@@ -15025,6 +15051,7 @@
 ## png 
 
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 
 ## pocketbase 
 
@@ -16192,6 +16219,10 @@
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+
+## resize-images 
+
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 
 ## resources 
 
@@ -19386,6 +19417,10 @@
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
+## watermark 
+
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
+
 ## wearables 
 
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
@@ -19469,6 +19504,10 @@
 ## webgl 
 
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
+
+## webp 
+
+- [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 
 ## webperf 
 
