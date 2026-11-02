@@ -102,6 +102,7 @@
 - [analysis](#analysis)
 - [analytics](#analytics)
 - [analytics-dashboard](#analytics-dashboard)
+- [analytics-engineering](#analytics-engineering)
 - [analyzer](#analyzer)
 - [android](#android)
 - [android-emulator](#android-emulator)
@@ -693,6 +694,7 @@
 - [dataviz](#dataviz)
 - [dba-roadmap](#dba-roadmap)
 - [dbms](#dbms)
+- [dbt](#dbt)
 - [dcim](#dcim)
 - [ddd](#ddd)
 - [ddd-architecture](#ddd-architecture)
@@ -845,6 +847,7 @@
 - [drug-discovery](#drug-discovery)
 - [dsh-plugin](#dsh-plugin)
 - [dsl](#dsl)
+- [duckdb](#duckdb)
 - [due-diligence](#due-diligence)
 - [duplicates](#duplicates)
 - [durable-execution](#durable-execution)
@@ -1857,6 +1860,7 @@
 - [pandoc](#pandoc)
 - [paper](#paper)
 - [papers](#papers)
+- [papers-with-code](#papers-with-code)
 - [parallels](#parallels)
 - [parallels-desktop](#parallels-desktop)
 - [parser](#parser)
@@ -2021,6 +2025,7 @@
 - [pwa](#pwa)
 - [pxe](#pxe)
 - [pydantic](#pydantic)
+- [pypi](#pypi)
 - [pytest-plugin](#pytest-plugin)
 - [python](#python)
 - [python-extension](#python-extension)
@@ -3102,6 +3107,7 @@
 
 ## ai-agents 
 
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
@@ -3217,6 +3223,7 @@
 
 ## ai-research 
 
+- [huggingface/paperswithcode](https://github.com/huggingface/paperswithcode) - This repository hosts the code of Papers with Code, which tracks trending AI research with code, datasets and leaderboards.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
 ## ai-safety 
@@ -3385,6 +3392,7 @@
 
 ## analytics 
 
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
@@ -3404,6 +3412,10 @@
 ## analytics-dashboard 
 
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
+
+## analytics-engineering 
+
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 
 ## analyzer 
 
@@ -3786,6 +3798,7 @@
 
 ## arxiv 
 
+- [huggingface/paperswithcode](https://github.com/huggingface/paperswithcode) - This repository hosts the code of Papers with Code, which tracks trending AI research with code, datasets and leaderboards.
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
 
 ## asciicast 
@@ -4684,6 +4697,7 @@
 
 ## business-intelligence 
 
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -4933,6 +4947,7 @@
 
 ## charts 
 
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
@@ -6690,6 +6705,7 @@
 
 ## dashboards 
 
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [K-Phoen/grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 
@@ -6834,6 +6850,7 @@
 
 ## data-visualization 
 
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
 - [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab) - GrimoireLab: platform for software development analytics and insights
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -6930,6 +6947,7 @@
 
 ## dataviz 
 
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [dutchcoders/marija](https://github.com/dutchcoders/marija) - Data exploration and visualisation for Elasticsearch and Splunk.
 - [plouc/mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
 
@@ -6941,6 +6959,10 @@
 
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+
+## dbt 
+
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 
 ## dcim 
 
@@ -7972,6 +7994,10 @@
 ## dsl 
 
 - [ContextMapper/context-mapper-dsl](https://github.com/ContextMapper/context-mapper-dsl) - ContextMapper DSL: A Domain-specific Language for Context Mapping & Service Decomposition
+
+## duckdb 
+
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 
 ## due-diligence 
 
@@ -13678,6 +13704,7 @@
 
 ## others 
 
+- [snyk-labs/snyk-vulnbench](https://github.com/snyk-labs/snyk-vulnbench) - A benchmark harness for measuring how AI coding agents find and fix security vulnerabilities.
 - [JoeReis/practical_data_data_eng_survey](https://github.com/JoeReis/practical_data_data_eng_survey) - 
 - [Interloperok/AI.InfraCalculator](https://github.com/Interloperok/AI.InfraCalculator) - 
 - [inDriver/handbook](https://github.com/inDriver/handbook) - inDrive Engineering Handbook
@@ -14716,8 +14743,13 @@
 
 ## papers 
 
+- [huggingface/paperswithcode](https://github.com/huggingface/paperswithcode) - This repository hosts the code of Papers with Code, which tracks trending AI research with code, datasets and leaderboards.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs
+
+## papers-with-code 
+
+- [huggingface/paperswithcode](https://github.com/huggingface/paperswithcode) - This repository hosts the code of Papers with Code, which tracks trending AI research with code, datasets and leaderboards.
 
 ## parallels 
 
@@ -15624,12 +15656,17 @@
 - [datarootsio/databooks](https://github.com/datarootsio/databooks) - A CLI tool to reduce the friction between data scientists by reducing git conflicts removing notebook metadata and gracefully resolving git conflicts.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
+## pypi 
+
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
+
 ## pytest-plugin 
 
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 
 ## python 
 
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
@@ -17535,6 +17572,7 @@
 
 ## sql 
 
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
@@ -19686,6 +19724,7 @@
 
 ## yaml 
 
+- [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files
 - [stelligent/config-lint](https://github.com/stelligent/config-lint) - Command line tool to validate configuration files
