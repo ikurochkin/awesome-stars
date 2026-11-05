@@ -317,6 +317,7 @@
 - [buildpack](#buildpack)
 - [bullet-journal](#bullet-journal)
 - [bump](#bump)
+- [bun](#bun)
 - [business](#business)
 - [business-intelligence](#business-intelligence)
 - [businessintelligence](#businessintelligence)
@@ -1303,6 +1304,7 @@
 - [infosec](#infosec)
 - [infra](#infra)
 - [infra-as-code](#infra-as-code)
+- [infra-ops](#infra-ops)
 - [infrared](#infrared)
 - [infrastructure](#infrastructure)
 - [infrastructure-as-code](#infrastructure-as-code)
@@ -1763,6 +1765,7 @@
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [obsidian-theme](#obsidian-theme)
+- [obsidian-vault](#obsidian-vault)
 - [ocaml](#ocaml)
 - [oci](#oci)
 - [ocr](#ocr)
@@ -2404,6 +2407,7 @@
 - [stored-procedures](#stored-procedures)
 - [strategy](#strategy)
 - [stream-processing](#stream-processing)
+- [streamable-http](#streamable-http)
 - [streamer](#streamer)
 - [streamer-site](#streamer-site)
 - [streamer-tool](#streamer-tool)
@@ -3123,6 +3127,7 @@
 
 ## ai-agents 
 
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
 - [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
@@ -3275,6 +3280,7 @@
 
 ## ai-tools 
 
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
@@ -4712,6 +4718,10 @@
 ## bump 
 
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
+
+## bun 
+
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 
 ## business 
 
@@ -10565,6 +10575,10 @@
 
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 
+## infra-ops 
+
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
+
 ## infrared 
 
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -11165,6 +11179,7 @@
 
 ## knowledge-base 
 
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
@@ -12277,6 +12292,7 @@
 
 ## mcp 
 
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [trustabl/agent-reliability-analyzer](https://github.com/trustabl/agent-reliability-analyzer) - Agent Reliability Analyzer: deterministic scanner that finds and fixes AI agent reliability failures
 - [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
@@ -12316,6 +12332,7 @@
 
 ## mcp-server 
 
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [aenix-io/aeman](https://github.com/aenix-io/aeman) - A short-term planning system for engineering teams — keep engineers focused, run daily sprints, and track unplanned work. Built on GitHub Projects v2 (no database of its own): one Go binary with an em
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
@@ -12652,6 +12669,7 @@
 
 ## model-context-protocol 
 
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
@@ -13138,6 +13156,7 @@
 
 ## note-taking 
 
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 - [anitsh/til](https://github.com/anitsh/til) - Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.
 
@@ -13254,6 +13273,7 @@
 
 ## obsidian 
 
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
@@ -13273,6 +13293,7 @@
 
 ## obsidian-md 
 
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian.
@@ -13313,6 +13334,10 @@
 ## obsidian-theme 
 
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
+
+## obsidian-vault 
+
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 
 ## ocaml 
 
@@ -15036,6 +15061,7 @@
 
 ## pkm 
 
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 
@@ -17889,6 +17915,10 @@
 
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 
+## streamable-http 
+
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
+
 ## streamer 
 
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
@@ -19039,6 +19069,7 @@
 
 ## typescript 
 
+- [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [aenix-io/aeman](https://github.com/aenix-io/aeman) - A short-term planning system for engineering teams — keep engineers focused, run daily sprints, and track unplanned work. Built on GitHub Projects v2 (no database of its own): one Go binary with an em
