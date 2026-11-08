@@ -849,6 +849,7 @@
 - [drift-detection](#drift-detection)
 - [driver](#driver)
 - [drones](#drones)
+- [drop-in-replacement](#drop-in-replacement)
 - [drug-discovery](#drug-discovery)
 - [dsh-plugin](#dsh-plugin)
 - [dsl](#dsl)
@@ -1230,6 +1231,7 @@
 - [heroku-cli-plugin](#heroku-cli-plugin)
 - [hexagonal-architecture](#hexagonal-architecture)
 - [high-availability](#high-availability)
+- [high-performance](#high-performance)
 - [highload](#highload)
 - [hiring](#hiring)
 - [hiring-without-whiteboards](#hiring-without-whiteboards)
@@ -1338,6 +1340,7 @@
 - [interviews](#interviews)
 - [intrusion-detection](#intrusion-detection)
 - [investment](#investment)
+- [io-uring](#io-uring)
 - [ios](#ios)
 - [iot](#iot)
 - [iot-application](#iot-application)
@@ -1404,6 +1407,7 @@
 - [keepalived](#keepalived)
 - [key-metrics](#key-metrics)
 - [key-value](#key-value)
+- [key-value-store](#key-value-store)
 - [keychain](#keychain)
 - [kibana](#kibana)
 - [kindle](#kindle)
@@ -1696,6 +1700,7 @@
 - [multiple-machines](#multiple-machines)
 - [multiple-simulators](#multiple-simulators)
 - [multiplexer](#multiplexer)
+- [multithreaded](#multithreaded)
 - [musl](#musl)
 - [mysql](#mysql)
 - [nagios](#nagios)
@@ -2657,6 +2662,7 @@
 - [vagrantfile](#vagrantfile)
 - [validation](#validation)
 - [validator](#validator)
+- [valkey](#valkey)
 - [variants](#variants)
 - [vault](#vault)
 - [vc](#vc)
@@ -4778,6 +4784,7 @@
 
 ## cache 
 
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 - [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
 - [apache/trafficserver](https://github.com/apache/trafficserver) - Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.
 - [hoytech/vmtouch](https://github.com/hoytech/vmtouch) - Portable file system cache diagnostics and control
@@ -6905,6 +6912,7 @@
 
 ## database 
 
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 - [ozontech/seq-db](https://github.com/ozontech/seq-db) - seq-db is a scalable and high-performance database designed for storing and querying logs efficiently
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -8030,6 +8038,10 @@
 
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 
+## drop-in-replacement 
+
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
+
 ## drug-discovery 
 
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
@@ -8858,6 +8870,7 @@
 
 ## full-text-search 
 
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 - [ozontech/seq-db](https://github.com/ozontech/seq-db) - seq-db is a scalable and high-performance database designed for storing and querying logs efficiently
 
 ## fullstack 
@@ -10195,6 +10208,10 @@
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 
+## high-performance 
+
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
+
 ## highload 
 
 - [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
@@ -10491,6 +10508,7 @@
 
 ## in-memory 
 
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 
 ## incident 
@@ -10794,6 +10812,10 @@
 ## investment 
 
 - [jonathimer/awesome-oss-investors](https://github.com/jonathimer/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
+
+## io-uring 
+
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 
 ## ios 
 
@@ -11150,6 +11172,10 @@
 ## key-value 
 
 - [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
+
+## key-value-store 
+
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 
 ## keychain 
 
@@ -12904,6 +12930,10 @@
 
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
 
+## multithreaded 
+
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
+
 ## musl 
 
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
@@ -13153,6 +13183,7 @@
 
 ## nosql 
 
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
@@ -13781,6 +13812,9 @@
 
 ## others 
 
+- [lajstrom/lajstrom](https://github.com/lajstrom/lajstrom) - Artifact registry (apt, rpm, maven, pypi, npm, terraform) on top of any OCI registry
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [mikehogan-thoughts/agent-reliability-engineering](https://github.com/mikehogan-thoughts/agent-reliability-engineering) - Manifesto defining Agent Reliability Engineering (ARE) as a discipline. Open for contributions, discussion, and sponsorship. Not affiliated with any vendor.
 - [snyk-labs/snyk-vulnbench](https://github.com/snyk-labs/snyk-vulnbench) - A benchmark harness for measuring how AI coding agents find and fix security vulnerabilities.
 - [JoeReis/practical_data_data_eng_survey](https://github.com/JoeReis/practical_data_data_eng_survey) - 
@@ -16127,6 +16161,7 @@
 
 ## redis 
 
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
 - [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
@@ -16623,6 +16658,7 @@
 
 ## rust 
 
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
 - [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
@@ -19226,6 +19262,10 @@
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator
 
+## valkey 
+
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
+
 ## variants 
 
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
@@ -19254,11 +19294,13 @@
 
 ## vector-database 
 
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 
 ## vector-search 
 
+- [kividbio/kividb](https://github.com/kividbio/kividb) - A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector search built in
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
