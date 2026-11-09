@@ -13812,6 +13812,7 @@
 
 ## others 
 
+- [soml-lang/soml](https://github.com/soml-lang/soml) - A config format for humans
 - [lajstrom/lajstrom](https://github.com/lajstrom/lajstrom) - Artifact registry (apt, rpm, maven, pypi, npm, terraform) on top of any OCI registry
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
