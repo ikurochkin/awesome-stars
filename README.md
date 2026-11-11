@@ -14155,7 +14155,7 @@
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [dodopizza/RTFM](https://github.com/dodopizza/RTFM) - Dodo Engineering team manual
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
-- [Benedict/stateof-stateof](https://github.com/Benedict/stateof-stateof) - An awesome list of state of reports
+- [benedict/stateof-stateof](https://github.com/benedict/stateof-stateof) - An awesome list of state of reports
 - [fabioz/mu-repo](https://github.com/fabioz/mu-repo) - Tool to help in dealing with multiple git repositories
 - [Tinkoff/career](https://github.com/Tinkoff/career) - Информация о внутренней кухне Тинькофф, включая подготовку к собеседованию
 - [HiredThought/wardley-mapping-canvas](https://github.com/HiredThought/wardley-mapping-canvas) - A repository for the Wardley Mapping Canvas
@@ -15436,6 +15436,7 @@
 
 ## production 
 
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 
 ## production-readiness 
