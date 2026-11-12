@@ -41,6 +41,7 @@
 - [agent-skills](#agent-skills)
 - [agentic-ai](#agentic-ai)
 - [agentic-coding](#agentic-coding)
+- [agentic-development-environment](#agentic-development-environment)
 - [agentic-engineering](#agentic-engineering)
 - [agentic-framework](#agentic-framework)
 - [agentic-workflow](#agentic-workflow)
@@ -77,6 +78,7 @@
 - [ai-seo](#ai-seo)
 - [ai-sre](#ai-sre)
 - [ai-tools](#ai-tools)
+- [ai-workflows](#ai-workflows)
 - [ai-writing](#ai-writing)
 - [aicoding](#aicoding)
 - [aiops](#aiops)
@@ -195,6 +197,7 @@
 - [atom](#atom)
 - [atom-feed](#atom-feed)
 - [attestation](#attestation)
+- [audio-transcription](#audio-transcription)
 - [audit](#audit)
 - [audit-log](#audit-log)
 - [augmentation](#augmentation)
@@ -308,6 +311,7 @@
 - [bug-bounty](#bug-bounty)
 - [bug-tracker](#bug-tracker)
 - [bugreport](#bugreport)
+- [bugs](#bugs)
 - [build](#build)
 - [build-automation](#build-automation)
 - [build-pipelines](#build-pipelines)
@@ -824,6 +828,7 @@
 - [docker-ui](#docker-ui)
 - [dockerfile](#dockerfile)
 - [dockerfiles](#dockerfiles)
+- [docling](#docling)
 - [docs](#docs)
 - [doctor](#doctor)
 - [doctrine](#doctrine)
@@ -1043,6 +1048,7 @@
 - [gateway](#gateway)
 - [gateway-api](#gateway-api)
 - [gauge](#gauge)
+- [gcc](#gcc)
 - [gcp](#gcp)
 - [gcp-security](#gcp-security)
 - [gelf](#gelf)
@@ -1227,6 +1233,7 @@
 - [help](#help)
 - [help-wanted](#help-wanted)
 - [hermes](#hermes)
+- [hermes-agent](#hermes-agent)
 - [heroku](#heroku)
 - [heroku-cli-plugin](#heroku-cli-plugin)
 - [hexagonal-architecture](#hexagonal-architecture)
@@ -2204,6 +2211,7 @@
 - [saltstack](#saltstack)
 - [sampler](#sampler)
 - [sandbox](#sandbox)
+- [sandbox-environment](#sandbox-environment)
 - [sarif](#sarif)
 - [sarif-report](#sarif-report)
 - [sass](#sass)
@@ -2790,6 +2798,7 @@
 - [yelp](#yelp)
 - [yml](#yml)
 - [youtube](#youtube)
+- [youtube-transcript](#youtube-transcript)
 - [zabbix](#zabbix)
 - [zabbix-api](#zabbix-api)
 - [zabbix-server](#zabbix-server)
@@ -2919,6 +2928,7 @@
 
 ## agent 
 
+- [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [antgroup/agentic-ai-landscape](https://github.com/antgroup/agentic-ai-landscape) - Data driven agentic landscapes and insights. Produced by Ant Open Source and inclusionAI.
 - [Ayanami0730/deep_research_bench](https://github.com/Ayanami0730/deep_research_bench) - DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents
@@ -2999,6 +3009,10 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 
+## agentic-development-environment 
+
+- [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
+
 ## agentic-engineering 
 
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
@@ -3023,12 +3037,12 @@
 
 ## agents 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [trustabl/agent-reliability-analyzer](https://github.com/trustabl/agent-reliability-analyzer) - Agent Reliability Analyzer: deterministic scanner that finds and fixes AI agent reliability failures
 - [ucbepic/DataAgentBench](https://github.com/ucbepic/DataAgentBench) - Benchmark for data agents
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) - agentevals is a framework-agnostic evaluations solution based on OpenTelemetry traces
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [CodeBoarding/CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
@@ -3041,7 +3055,7 @@
 
 ## agentskills 
 
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 
 ## agi 
 
@@ -3067,7 +3081,7 @@
 
 ## ai 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [trustabl/agent-reliability-analyzer](https://github.com/trustabl/agent-reliability-analyzer) - Agent Reliability Analyzer: deterministic scanner that finds and fixes AI agent reliability failures
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
@@ -3124,6 +3138,7 @@
 
 ## ai-agent 
 
+- [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
 - [iflytek/skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
@@ -3132,8 +3147,10 @@
 
 ## ai-agents 
 
+- [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 - [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
@@ -3288,6 +3305,10 @@
 - [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) - A curated list of 474 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering — updated July 2026
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
+## ai-workflows 
+
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 
 ## ai-writing 
 
@@ -3927,6 +3948,10 @@
 
 - [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Agentic SDLC infrastructure. Define guardrails. Collect signals. Enforce continuously. Signed records of what your AI coding agents and CI/CD pipelines did, checked against policies as code, with the 
 
+## audio-transcription 
+
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
+
 ## audit 
 
 - [bakhirev/assayo](https://github.com/bakhirev/assayo) - Creates an HTML-report with analysis of commit statistics
@@ -4399,7 +4424,7 @@
 
 ## bases 
 
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 
 ## bash 
@@ -4685,6 +4710,10 @@
 ## bugreport 
 
 - [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructi
+
+## bugs 
+
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic code review for the Linux kernel and other critical open-source systems software
 
 ## build 
 
@@ -5214,12 +5243,13 @@
 
 ## claude 
 
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 - [trustabl/agent-reliability-analyzer](https://github.com/trustabl/agent-reliability-analyzer) - Agent Reliability Analyzer: deterministic scanner that finds and fixes AI agent reliability failures
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
@@ -5240,6 +5270,8 @@
 
 ## claude-code 
 
+- [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [mkanat/skills](https://github.com/mkanat/skills) - Code-quality skills by Max Kanat-Alexander.
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
@@ -5330,7 +5362,7 @@
 
 ## clawdbot 
 
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 
 ## clean-architecture 
 
@@ -5340,6 +5372,7 @@
 
 ## cli 
 
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
@@ -5348,7 +5381,7 @@
 - [umputun/agterm](https://github.com/umputun/agterm) - A genuinely good terminal
 - [aholbreich/tl](https://github.com/aholbreich/tl) - Git-native task ledger that lets humans and AI coding agents coordinate work in one repo - claims, leases, handoff notes, JSON output. No daemon, no database.
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [minamijoyo/hcledit](https://github.com/minamijoyo/hcledit) - A command line editor for HCL
 - [datarootsio/databooks](https://github.com/datarootsio/databooks) - A CLI tool to reduce the friction between data scientists by reducing git conflicts removing notebook metadata and gracefully resolving git conflicts.
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - The open-source agent for CI/CD reliability.
@@ -5767,17 +5800,19 @@
 
 ## codereview 
 
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic code review for the Linux kernel and other critical open-source systems software
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 
 ## codex 
 
+- [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [mkanat/skills](https://github.com/mkanat/skills) - Code-quality skills by Max Kanat-Alexander.
 - [glebis/humane-agentic-design](https://github.com/glebis/humane-agentic-design) - Humane Agentic Design — a human-centric design method cycle for people and agents
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
@@ -5803,6 +5838,7 @@
 
 ## coding-agents 
 
+- [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
 - [mkanat/skills](https://github.com/mkanat/skills) - Code-quality skills by Max Kanat-Alexander.
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
@@ -7332,7 +7368,7 @@
 
 ## developer-tools 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
@@ -7884,6 +7920,10 @@
 
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
+
+## docling 
+
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 
 ## docs 
 
@@ -8928,6 +8968,10 @@
 ## gauge 
 
 - [zserge/metric](https://github.com/zserge/metric) - Minimal metrics for Go (counter/gauge/histogram). No dependencies. Compatible with expvar. Web UI included.
+
+## gcc 
+
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic code review for the Linux kernel and other critical open-source systems software
 
 ## gcp 
 
@@ -10184,8 +10228,12 @@
 
 ## hermes 
 
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+
+## hermes-agent 
+
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 
 ## heroku 
 
@@ -11055,7 +11103,7 @@
 
 ## jsoncanvas 
 
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 
 ## jsonfeed 
@@ -11742,6 +11790,7 @@
 
 ## linux 
 
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic code review for the Linux kernel and other critical open-source systems software
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -11785,6 +11834,7 @@
 
 ## linux-kernel 
 
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic code review for the Linux kernel and other critical open-source systems software
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 
 ## liquibase 
@@ -12249,10 +12299,11 @@
 
 ## markdown 
 
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 - [only-cli/oc](https://github.com/only-cli/oc) - Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 - [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
@@ -12373,7 +12424,7 @@
 ## md 
 
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 
 ## mdx 
@@ -13311,7 +13362,7 @@
 
 - [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [alexlyzhov/telegram-to-markdown](https://github.com/alexlyzhov/telegram-to-markdown) - Convert exported Telegram messages to Markdown journals
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [jtprogru/obsidian-vault-full-statistics-plugin](https://github.com/jtprogru/obsidian-vault-full-statistics-plugin) - Status bar item with vault full statistics such as number of notes, links, tags and quality of vault.
@@ -13604,7 +13655,7 @@
 ## openclaw 
 
 - [iflytek/skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engi
 
@@ -13623,7 +13674,7 @@
 
 ## opencode 
 
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) - The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants
@@ -13812,6 +13863,7 @@
 
 ## others 
 
+- [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs.
 - [soml-lang/soml](https://github.com/soml-lang/soml) - A config format for humans
 - [lajstrom/lajstrom](https://github.com/lajstrom/lajstrom) - Artifact registry (apt, rpm, maven, pypi, npm, terraform) on top of any OCI registry
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
@@ -13896,7 +13948,6 @@
 - [chrisns/govreposcrape](https://github.com/chrisns/govreposcrape) - Semantic code search over ~24k UK government repositories using Google Cloud Run and Vertex AI Search
 - [ScaledAgileDevOps/SADMF](https://github.com/ScaledAgileDevOps/SADMF) - 
 - [marciopuga/cog](https://github.com/marciopuga/cog) - A plain-text memory system for AI agents. Clone it, point your agent at it, start remembering.
-- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
 - [agent-format/agent-format-schema](https://github.com/agent-format/agent-format-schema) - 
 - [mame/ai-coding-lang-bench](https://github.com/mame/ai-coding-lang-bench) - Which programming language is best for AI coding agents? Benchmarking 13 languages with Claude Code.
 - [masoncl/review-prompts](https://github.com/masoncl/review-prompts) - AI review prompts
@@ -14930,6 +14981,7 @@
 
 ## pdf-converter 
 
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## pdf-extraction 
@@ -15781,7 +15833,8 @@
 
 ## python 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
@@ -16738,6 +16791,10 @@
 
 - [fadeinflames/game-of-incidents](https://github.com/fadeinflames/game-of-incidents) - Game of Incidents: incident-training platform with live broken Linux hosts and Kubernetes clusters in the browser. Self-hosted, one-command install.
 
+## sandbox-environment 
+
+- [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
+
 ## sarif 
 
 - [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) - Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (C
@@ -16876,6 +16933,7 @@
 
 ## scraping 
 
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [bjesus/pipet](https://github.com/bjesus/pipet) - Swiss-army tool for scraping and extracting data from online assets, made for hackers
 
@@ -16970,6 +17028,7 @@
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic code review for the Linux kernel and other critical open-source systems software
 - [Jet-Security-Team/DevSecOps-Assessment-Framework](https://github.com/Jet-Security-Team/DevSecOps-Assessment-Framework) - DevSecOps Assessment Framework
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [philips-labs/slsa-provenance-action](https://github.com/philips-labs/slsa-provenance-action) - Github Action implementation of SLSA Provenance Generation
@@ -17085,6 +17144,7 @@
 
 ## self-hosted 
 
+- [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
 - [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [fadeinflames/game-of-incidents](https://github.com/fadeinflames/game-of-incidents) - Game of Incidents: incident-training platform with live broken Linux hosts and Kubernetes clusters in the browser. Self-hosted, one-command install.
 - [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
@@ -17370,7 +17430,7 @@
 - [iflytek/skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -17568,6 +17628,7 @@
 
 ## software-factory 
 
+- [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source factory for one-shot engineering
 - [chainloop-dev/chainloop](https://github.com/chainloop-dev/chainloop) - Agentic SDLC infrastructure. Define guardrails. Collect signals. Enforce continuously. Signed records of what your AI coding agents and CI/CD pipelines did, checked against policies as code, with the 
 
@@ -19898,6 +19959,10 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 - [jtprogru/youtube-channels](https://github.com/jtprogru/youtube-channels) - A selection of IT-related YouTube channels I watch
+
+## youtube-transcript 
+
+- [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 
 ## zabbix 
 
