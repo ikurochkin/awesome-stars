@@ -300,6 +300,7 @@
 - [botnet](#botnet)
 - [boto3](#boto3)
 - [bots](#bots)
+- [bounding-box](#bounding-box)
 - [brainstorming](#brainstorming)
 - [brave](#brave)
 - [broken-links](#broken-links)
@@ -3147,6 +3148,7 @@
 
 ## ai-agents 
 
+- [pulyavin/agentic-sdlc](https://github.com/pulyavin/agentic-sdlc) - Бесплатная книга в картинках: как построить Agentic SDLC в своём репозитории — AGENTS.md, скиллы, MCP, тесты, CI, ревью и безопасность для ИИ-агентов
 - [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
 - [Enablement-Engineering/gobbler](https://github.com/Enablement-Engineering/gobbler) - The missing link between your content and AI. Convert YouTube, documents, web pages, and audio to structured markdown that LLMs can immediately reason about.
 - [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
@@ -4665,6 +4667,10 @@
 ## bots 
 
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
+
+## bounding-box 
+
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ## brainstorming 
 
@@ -13865,7 +13871,7 @@
 
 - [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs.
 - [soml-lang/soml](https://github.com/soml-lang/soml) - A config format for humans
-- [lajstrom/lajstrom](https://github.com/lajstrom/lajstrom) - Artifact registry (apt, rpm, maven, pypi, npm, terraform) on top of any OCI registry
+- [lajstrom/lajstrom](https://github.com/lajstrom/lajstrom) - Artifact registry (apt, rpm, maven, pypi, npm, raw files, OCI) on top of any OCI registry
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [mikehogan-thoughts/agent-reliability-engineering](https://github.com/mikehogan-thoughts/agent-reliability-engineering) - Manifesto defining Agent Reliability Engineering (ARE) as a discipline. Open for contributions, discussion, and sponsorship. Not affiliated with any vendor.
@@ -14501,7 +14507,6 @@
 - [postgrespro/pg_grab_statement](https://github.com/postgrespro/pg_grab_statement) - PostgreSQL extension for recoding workload of specific database
 - [clemtibs/pkictl](https://github.com/clemtibs/pkictl) - Openssl wrapper script for simplifying Public Key Infrastructure tasks.
 - [sparkleformation/sfn](https://github.com/sparkleformation/sfn) - SparkleFormation CLI
-- [customink/strainer](https://github.com/customink/strainer) - Run isolated cookbook tests against your chef repository with Strainer.
 - [jveski/puppet-spec](https://github.com/jveski/puppet-spec) - Test Puppet code with Puppet code
 - [kickstarter/cfn-flow](https://github.com/kickstarter/cfn-flow) - A practical workflow for AWS CloudFormation
 - [rapidloop/rtop-bot](https://github.com/rapidloop/rtop-bot) - A Bot for Remote Server Monitoring over SSH
