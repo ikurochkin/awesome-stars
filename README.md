@@ -2087,7 +2087,6 @@
 - [rag](#rag)
 - [rails](#rails)
 - [rails-application](#rails-application)
-- [raspberry-pi](#raspberry-pi)
 - [raster](#raster)
 - [ratatui](#ratatui)
 - [rate-limiting](#rate-limiting)
@@ -2288,6 +2287,7 @@
 - [self-service-portal](#self-service-portal)
 - [self-study](#self-study)
 - [selfhosted](#selfhosted)
+- [semantic-layer](#semantic-layer)
 - [semantic-release](#semantic-release)
 - [semantic-search](#semantic-search)
 - [semantic-versioning](#semantic-versioning)
@@ -2983,6 +2983,7 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source factory for one-shot engineering
 - [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## agent-plugins 
 
@@ -3023,6 +3024,7 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) - CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## agentic-coding 
 
@@ -3048,6 +3050,7 @@
 - [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) - A CLAUDE.md Generator and Maintenance tool for for Claude Code to create high-quality CLAUDE.md instruction files — aligned with Anthropic’s best practices for Claude Code.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## agentic-workflows 
 
@@ -11492,6 +11495,7 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [zendesk/samson](https://github.com/zendesk/samson) - Web interface for deployments, with plugin architecture and kubernetes support
 
 ## kubernetes-access 
@@ -13933,6 +13937,8 @@
 
 ## others 
 
+- [ianmiell/sw-job-title-family-tree](https://github.com/ianmiell/sw-job-title-family-tree) - 
+- [AI-Rosetta-Stone/ai-triad-research](https://github.com/AI-Rosetta-Stone/ai-triad-research) - 
 - [margaretstorey/cognitive-tours](https://github.com/margaretstorey/cognitive-tours) - new verison of shrimp
 - [Rootly-AI-Labs/logs-dataset](https://github.com/Rootly-AI-Labs/logs-dataset) - A collection of logs used for training AI-powered Incident Management & SRE Automation
 - [Rootly-AI-Labs/incidentdiagram](https://github.com/Rootly-AI-Labs/incidentdiagram) - A tool for creating diagrams from Incident Reviews/PostMortems using LLMs
@@ -16116,10 +16122,6 @@
 
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 
-## raspberry-pi 
-
-- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
-
 ## raster 
 
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
@@ -16255,7 +16257,6 @@
 
 ## reasoning 
 
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
 
 ## reasonml 
@@ -17275,6 +17276,10 @@
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
+
+## semantic-layer 
+
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Semantic Layer for Trustworthy Enterprise AI
 
 ## semantic-release 
 
