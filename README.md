@@ -1285,6 +1285,7 @@
 - [huggingface](#huggingface)
 - [hugo](#hugo)
 - [human-resources](#human-resources)
+- [humanize-ai-text](#humanize-ai-text)
 - [humanizer](#humanizer)
 - [husky](#husky)
 - [hybrid-cloud](#hybrid-cloud)
@@ -3009,7 +3010,7 @@
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engi
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [pulumi/agent-skills](https://github.com/pulumi/agent-skills) - Official Pulumi Agent Skills for writing, migrating, and operating infrastructure with AI coding agents
@@ -3179,7 +3180,7 @@
 - [iflytek/skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 
 ## ai-agents 
@@ -3379,7 +3380,7 @@
 
 ## aisql 
 
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 
 ## aks 
 
@@ -3399,6 +3400,7 @@
 
 ## alerting 
 
+- [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - The open-source agent for CI/CD reliability.
@@ -3479,7 +3481,7 @@
 - [dbt-labs/dbt-charts](https://github.com/dbt-labs/dbt-charts) - Declarative YAML around SQL for dbt-native dashboards: easy for agents to write, easy for humans to audit.
 - [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [anvarKhakimov/jira-metrics-plugin](https://github.com/anvarKhakimov/jira-metrics-plugin) - The Jira Metrics Plugin enhances Kanban boards in Jira with advanced analytics for better project management.
 - [OkayHQ/ee-handbook](https://github.com/OkayHQ/ee-handbook) - Engineering Effectiveness Handbook
@@ -4043,7 +4045,7 @@
 
 - [itbench-hub/ITBench](https://github.com/itbench-hub/ITBench) - An open source benchmarking framework for IT automation
 - [stategraph/stategraph](https://github.com/stategraph/stategraph) - Open source Terraform and OpenTofu pull request automation
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 - [finos/architecture-as-code](https://github.com/finos/architecture-as-code) - "Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seaml
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [noise-rest/tf-via-pr](https://github.com/noise-rest/tf-via-pr) - Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.
@@ -5089,7 +5091,7 @@
 
 ## chat2query 
 
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 
 ## chatbot 
 
@@ -5138,6 +5140,7 @@
 
 ## chatops 
 
+- [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
@@ -5433,7 +5436,7 @@
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - The open-source agent for CI/CD reliability.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 - [agent-next/agent-ready](https://github.com/agent-next/agent-ready) - Codebase readiness scoring for autonomous agents — measurable operability standards beyond instructions.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -6584,7 +6587,7 @@
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 
 ## crm-platform 
 
@@ -7210,7 +7213,7 @@
 
 ## demo 
 
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos
 - [StackStorm/showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
 
@@ -7474,6 +7477,7 @@
 ## devops 
 
 - [fadeinflames/game-of-incidents](https://github.com/fadeinflames/game-of-incidents) - Game of Incidents: incident-training platform with live broken Linux hosts and Kubernetes clusters in the browser. Self-hosted, one-command install.
+- [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
@@ -8611,7 +8615,7 @@
 
 ## family 
 
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 
 ## faq 
 
@@ -8941,7 +8945,7 @@
 
 ## friends 
 
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 
 ## frontend 
 
@@ -9072,7 +9076,7 @@
 
 ## gemini-cli-extension 
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 - [pulumi/agent-skills](https://github.com/pulumi/agent-skills) - Official Pulumi Agent Skills for writing, migrating, and operating infrastructure with AI coding agents
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 
@@ -9244,7 +9248,7 @@
 - [Lewickiy/github-social-agent](https://github.com/Lewickiy/github-social-agent) - Discover and connect with GitHub developers who actually match your stack — powered by social graph traversal, repository analysis, similarity scoring, ML followback prediction, and a modern analytics
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
@@ -9658,11 +9662,11 @@
 
 ## google-admin 
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 
 ## google-api 
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 
 ## google-bard 
 
@@ -9670,11 +9674,11 @@
 
 ## google-calendar 
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 
 ## google-chat 
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 
 ## google-cloud 
 
@@ -9692,15 +9696,15 @@
 
 ## google-docs 
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 
 ## google-drive 
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 
 ## google-sheets 
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 
 ## google-summer-of-code 
 
@@ -9708,7 +9712,7 @@
 
 ## google-workspace 
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 
 ## googlecloud 
 
@@ -10069,7 +10073,7 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [quasilyte/repolint](https://github.com/quasilyte/repolint) - Tool to check github user/organization repositories for some simple and common issues.
 - [voxpupuli/ra10ke](https://github.com/voxpupuli/ra10ke) - Rake tasks related to R10K and Puppetfile
 - [voxpupuli/beaker-rspec](https://github.com/voxpupuli/beaker-rspec) - beaker-rspec is a bridge between the puppet acceptance test harness
@@ -10417,7 +10421,7 @@
 
 ## htap 
 
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 
 ## html 
 
@@ -10510,6 +10514,10 @@
 ## human-resources 
 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+
+## humanize-ai-text 
+
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 
 ## humanizer 
 
@@ -10642,6 +10650,7 @@
 ## incident-management 
 
 - [phamquiluan/awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) - Awesome resources for failure diagnosis research.
+- [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) - The open-source agent for CI/CD reliability.
 - [monzo/response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
@@ -10823,7 +10832,7 @@
 
 ## insight 
 
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [AJamesPhillips/DataCurator](https://github.com/AJamesPhillips/DataCurator) - DataCurator enables you to map and understand complex systems before helping you plan, communicate and navigate successful interventions in them.
 
 ## insights 
@@ -11696,7 +11705,7 @@
 
 ## laravel 
 
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 
 ## latency 
@@ -12752,7 +12761,7 @@
 
 ## minimal 
 
-- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
+- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - Unmaintained: see kantan, its successor
 - [zserge/metric](https://github.com/zserge/metric) - Minimal metrics for Go (counter/gauge/histogram). No dependencies. Compatible with expvar. Web UI included.
 
 ## mining-software-repositories 
@@ -13221,6 +13230,7 @@
 
 ## nextjs 
 
+- [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [bbc/simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
@@ -13258,12 +13268,12 @@
 ## nix 
 
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
-- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
+- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - Unmaintained: see kantan, its successor
 - [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 
 ## nix-darwin 
 
-- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
+- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - Unmaintained: see kantan, its successor
 
 ## nlg 
 
@@ -13386,7 +13396,7 @@
 
 ## oauth2 
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 
 ## object-oriented 
 
@@ -13583,6 +13593,7 @@
 ## on-call 
 
 - [Rootly-AI-Labs/on-call-health](https://github.com/Rootly-AI-Labs/on-call-health) - On-call Health: identify signs that incident responders are overworked.
+- [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
@@ -13692,7 +13703,7 @@
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) - ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot) - QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -13930,7 +13941,7 @@
 
 ## oss 
 
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [lintnet/lintnet](https://github.com/lintnet/lintnet) - General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily
 
 ## oss-compliance 
@@ -15201,7 +15212,7 @@
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [unacms/UNA](https://github.com/unacms/UNA) - UNA Community Management System
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [forkcms/forkcms](https://github.com/forkcms/forkcms) - Fork is an easy to use open source CMS using Symfony Components.
 - [sergejey/majordomo](https://github.com/sergejey/majordomo) - Home automation platform
@@ -15440,6 +15451,7 @@
 
 ## postgresql 
 
+- [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -16265,7 +16277,7 @@
 ## realtime 
 
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 
 ## reasoning 
 
@@ -16818,7 +16830,7 @@
 - [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
@@ -17251,6 +17263,7 @@
 - [cortexapps/engrams](https://github.com/cortexapps/engrams) - AI software factory for the enterprise
 - [oxynote/oxynote](https://github.com/oxynote/oxynote) - An open‑source technical wiki connected to the systems it describes
 - [fadeinflames/game-of-incidents](https://github.com/fadeinflames/game-of-incidents) - Game of Incidents: incident-training platform with live broken Linux hosts and Kubernetes clusters in the browser. Self-hosted, one-command install.
+- [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [aenix-io/aeman](https://github.com/aenix-io/aeman) - A short-term planning system for engineering teams — keep engineers focused, run daily sprints, and track unplanned work. Built on GitHub Projects v2 (no database of its own): one Go binary with an em
 - [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
@@ -17644,7 +17657,7 @@
 ## social 
 
 - [unacms/UNA](https://github.com/unacms/UNA) - UNA Community Management System
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 
 ## social-media 
 
@@ -17779,7 +17792,7 @@
 
 ## spacebar 
 
-- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
+- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - Unmaintained: see kantan, its successor
 
 ## spanner 
 
@@ -17908,6 +17921,7 @@
 - [Rootly-AI-Labs/on-call-health](https://github.com/Rootly-AI-Labs/on-call-health) - On-call Health: identify signs that incident responders are overworked.
 - [fadeinflames/game-of-incidents](https://github.com/fadeinflames/game-of-incidents) - Game of Incidents: incident-training platform with live broken Linux hosts and Kubernetes clusters in the browser. Self-hosted, one-command install.
 - [phamquiluan/awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) - Awesome resources for failure diagnosis research.
+- [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) - Evidence-driven production readiness checklist for shipping web applications with confidence
 - [srelens/srelens](https://github.com/srelens/srelens) - The Kubernetes control room—built in Rust, ready for engineers and AI agents.
 - [roxy-wi/IncidentRelay](https://github.com/roxy-wi/IncidentRelay) - Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.
@@ -18076,10 +18090,11 @@
 
 ## status-bar 
 
-- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
+- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - Unmaintained: see kantan, its successor
 
 ## status-page 
 
+- [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
@@ -18893,7 +18908,7 @@
 
 ## text2sql 
 
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 
 ## tflint 
 
@@ -18961,7 +18976,7 @@
 
 ## tiling-window-manager 
 
-- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
+- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - Unmaintained: see kantan, its successor
 
 ## time-series 
 
@@ -19291,6 +19306,7 @@
 
 - [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Read, write, search, and surgically edit Obsidian vault notes, tags, and frontmatter via MCP. STDIO or Streamable HTTP.
 - [zentered-studios/mcpsignals](https://github.com/zentered-studios/mcpsignals) - Analytics for MCP servers: tool-call usage, latency, errors and token cost, written to your own database
+- [opsknight-labs/OpsKnight](https://github.com/opsknight-labs/OpsKnight) - The complete open-source platform for on-call management, incident response, and status pages. Self-hosted, extensible, and built for DevOps & SRE teams.
 - [aenix-io/aeman](https://github.com/aenix-io/aeman) - A short-term planning system for engineering teams — keep engineers focused, run daily sprints, and track unplanned work. Built on GitHub Projects v2 (no database of its own): one Go binary with an em
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
@@ -20049,7 +20065,7 @@
 
 ## yabai 
 
-- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
+- [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - Unmaintained: see kantan, its successor
 
 ## yaml 
 
