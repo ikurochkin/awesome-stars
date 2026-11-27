@@ -22,6 +22,7 @@
 - [acme](#acme)
 - [acme-client](#acme-client)
 - [acp](#acp)
+- [acpx](#acpx)
 - [action](#action)
 - [actions](#actions)
 - [activity](#activity)
@@ -2905,6 +2906,10 @@
 ## acp 
 
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+
+## acpx 
+
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
 ## action 
 
@@ -14046,7 +14051,7 @@
 - [Contrast-Security-OSS/adr-runbooks](https://github.com/Contrast-Security-OSS/adr-runbooks) - 
 - [Intelligent-IDP/rootops](https://github.com/Intelligent-IDP/rootops) - AI-powered DevOps intelligence platform with continuous learning and zero-config deployment
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 - [mikaoelitiana/git-audit](https://github.com/mikaoelitiana/git-audit) - A lazygit-style terminal dashboard for codebase intelligence. Runs the 5 git commands from https://piechowski.io/post/git-commands-before-reading-code and presents them as an interactive TUI.
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Open-source Infrastructure as Code (IaC) orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and 
 - [hazemataya94/hape-framework](https://github.com/hazemataya94/hape-framework) - A Python platform engineering toolkit for automation, observability, and operational analysis that helps simplify complex operations across AWS, GitHub, Jira, Confluence, Kubernetes, Prometheus, ArgoC
